@@ -5,7 +5,15 @@
 import json, sys
 from pathlib import Path
 
-SCRIPT = Path(__file__).parent / "script" / "SCENARIO"
+import script
+
+ROOT = Path(__file__).parent
+SCRIPT = ROOT / "script" / "SCENARIO"
+
+
+def _json_path(num: str) -> Path:
+    """'012' -> script/SCENARIO/012.json; 'SYSTEM/tables' -> script/SYSTEM/tables.json"""
+    return (ROOT / "script" / f"{num}.json") if "/" in num else (SCRIPT / f"{num}.json")
 
 
 def lines(entries: list[dict]) -> list[str]:
@@ -14,8 +22,8 @@ def lines(entries: list[dict]) -> list[str]:
         if e["en"]:
             continue
         jp = " / ".join(e["jp"]) if isinstance(e["jp"], list) else e["jp"]
-        speaker = e.get("speaker")
-        out.append(f'{e["id"]}\t{"-" if speaker is None else speaker}\t{jp}')
+        col = f'w{e["width"]}' if "width" in e else e.get("speaker")   # wN = byte limit of a fixed field, else portrait slot
+        out.append(f'{e["id"]}\t{"-" if col is None else col}\t{jp}')
     return out
 
 
@@ -41,6 +49,7 @@ def apply(js: Path, answers: Path) -> list[str]:
 def check(src_lines: list[str], answer_lines: list[str], limit: int = 85) -> list[str]:
     """Problems in a translator's answer file against the source listing it was made from."""
     wanted = [l.split("\t")[0] for l in src_lines if l.strip()]
+    limits = {p[0]: int(p[1]) for p in (l.split("\t") for l in src_lines) if len(p) > 1 and p[1].isdigit()}
     seen, problems = {}, []
     for raw in answer_lines:
         if not raw.strip():
@@ -57,7 +66,11 @@ def check(src_lines: list[str], answer_lines: list[str], limit: int = 85) -> lis
             problems.append(f"non-ascii: {id_}: {en!r}")
         if "\t" in en:
             problems.append(f"tab in text: {id_}")
-        if len(en.replace("\\n", " ")) > limit or any(len(w) > 30 for w in en.split()):
+        if id_ in limits:
+            n = len(script.encode(en.replace("\\n", " "))) if en.isascii() else len(en) * 2
+            if n > limits[id_]:
+                problems.append(f"over width: {id_} ({n} > {limits[id_]})")
+        elif len(en.replace("\\n", " ")) > limit or any(len(w) > 30 for w in en.split()):
             problems.append(f"long: {id_} ({len(en)} chars)")
     problems += [f"missing id: {i}" for i in wanted if i not in seen]
     return problems
@@ -65,7 +78,7 @@ def check(src_lines: list[str], answer_lines: list[str], limit: int = 85) -> lis
 
 if __name__ == "__main__":
     cmd, num = sys.argv[1], sys.argv[2]
-    js = SCRIPT / f"{num}.json"
+    js = _json_path(num)
     if cmd == "show":
         sys.stdout.reconfigure(encoding="utf-8")
         print("\n".join(lines(json.loads(js.read_text(encoding="utf-8")))))
@@ -73,7 +86,7 @@ if __name__ == "__main__":
         for id_ in apply(js, Path(sys.argv[3])):
             print("unknown id:", id_)
     elif cmd == "check":
-        src = Path(f"work/tl/{num}.src.txt").read_text(encoding="utf-8").splitlines()
+        src = (ROOT / "work" / "tl" / f"{num.replace('/', '_')}.src.txt").read_text(encoding="utf-8").splitlines()
         ans = Path(sys.argv[3]).read_text(encoding="utf-8").splitlines()
         sys.stdout.reconfigure(encoding="utf-8")
         print("\n".join(check(src, ans)) or "ok")

@@ -30,6 +30,16 @@ def test_apply_skips_tabless_lines_instead_of_blanking():
     assert any("empty" in p for p in tl.check(["S/1\t0\tx"], ["S/1"]))
 
 
+def test_lines_show_width_and_check_enforces_it():
+    entries = [{"id": "S/1", "jp": "ナイフ", "en": "", "width": 18}]
+    assert tl.lines(entries) == ["S/1\tw18\tナイフ"]
+    src = ["S/1\tw18\tjp"]
+    assert tl.check(src, ["S/1\tKnife"]) == []
+    assert any("over width" in p for p in tl.check(src, ["S/1\tA very long weapon name"]))
+    assert any("over width" in p for p in tl.check(["S/2\tw4\tjp"], ["S/2\tabcde"]))   # 5 > 4
+    assert tl.check(["S/3\tw4\tjp"], ["S/3\tabc"]) == []                                 # "abc" pads to 4, fits
+
+
 def test_show_lists_only_untranslated_windows_and_strings():
     entries = [{"id": "x/1", "speaker": 3, "jp": ["one", "two"], "en": ""},
                {"id": "x/2", "jp": "menu", "en": ""},
