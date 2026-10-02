@@ -4202,4231 +4202,4231 @@
  {
   "id": "SYSTEM/2/1268a",
   "jp": "ＡＴＫ＋２　　ＭＡＧ＋２",
-  "en": "",
+  "en": "ATK+2  MAG+2",
   "width": 34
  },
  {
   "id": "SYSTEM/2/126ac",
   "jp": "木製のシンプルな杖",
-  "en": "",
+  "en": "A simple wooden staff",
   "width": 34
  },
  {
   "id": "SYSTEM/2/126f0",
   "jp": "鉄の杖",
-  "en": "",
+  "en": "Iron Staff",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1270a",
   "jp": "ＡＴＫ＋５　　ＭＡＧ＋３",
-  "en": "",
+  "en": "ATK+5  MAG+3",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1272c",
   "jp": "鉄製の杖",
-  "en": "",
+  "en": "An iron staff",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12770",
   "jp": "赤羽の杖",
-  "en": "",
+  "en": "Red Feather Staff",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1278a",
   "jp": "ＡＴＫ＋１０　ＭＡＧ＋６",
-  "en": "",
+  "en": "ATK+10  MAG+6",
   "width": 34
  },
  {
   "id": "SYSTEM/2/127ac",
   "jp": "赤い羽根飾りの付いた儀式用の杖",
-  "en": "",
+  "en": "Ceremonial staff with red plumes",
   "width": 34
  },
  {
   "id": "SYSTEM/2/127f0",
   "jp": "神父の杖",
-  "en": "",
+  "en": "Priest's Staff",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1280a",
   "jp": "ＡＴＫ＋１５　ＭＡＧ＋１５",
-  "en": "",
+  "en": "ATK+15  MAG+15",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1282c",
   "jp": "聖職者に与えられる杖",
-  "en": "",
+  "en": "A staff given to the clergy",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12870",
   "jp": "水晶の杖",
-  "en": "",
+  "en": "Crystal Staff",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1288a",
   "jp": "ＡＴＫ＋１２　ＭＡＧ＋８",
-  "en": "",
+  "en": "ATK+12  MAG+8",
   "width": 34
  },
  {
   "id": "SYSTEM/2/128ac",
   "jp": "魔力を帯びた青い水晶を抱く杖",
-  "en": "",
+  "en": "Staff with a magic blue crystal",
   "width": 34
  },
  {
   "id": "SYSTEM/2/128f0",
   "jp": "邪眼の杖",
-  "en": "",
+  "en": "Evil Eye Staff",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1290a",
   "jp": "ＡＴＫ＋１９　ＭＡＧ＋１８",
-  "en": "",
+  "en": "ATK+19  MAG+18",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1292c",
   "jp": "石化した魔獣の赤い瞳を抱く杖",
-  "en": "",
+  "en": "Holds a petrified beast's red eye",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12970",
   "jp": "月の杖",
-  "en": "",
+  "en": "Moon Staff",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1298a",
   "jp": "ＡＴＫ＋２１　ＭＡＧ＋２２",
-  "en": "",
+  "en": "ATK+21  MAG+22",
   "width": 34
  },
  {
   "id": "SYSTEM/2/129ac",
   "jp": "月光の元にさらすと",
-  "en": "",
+  "en": "When exposed to moonlight,",
   "width": 34
  },
  {
   "id": "SYSTEM/2/129ce",
   "jp": "淡い輝きを放つ杖",
-  "en": "",
+  "en": "this staff gives a faint glow",
   "width": 34
  },
  {
   "id": "SYSTEM/2/129f0",
   "jp": "銀の杖",
-  "en": "",
+  "en": "Silver Staff",
   "width": 20
  },
  {
   "id": "SYSTEM/2/12a0a",
   "jp": "ＡＴＫ＋２４　ＭＡＧ＋２７",
-  "en": "",
+  "en": "ATK+24  MAG+27",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12a2c",
   "jp": "闇に潜む邪悪な者達を浄化する",
-  "en": "",
+  "en": "Purges evils lurking in the dark",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12a4e",
   "jp": "銀製の杖",
-  "en": "",
+  "en": "A silver staff",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12a70",
   "jp": "護法の杖",
-  "en": "",
+  "en": "Staff of Law",
   "width": 20
  },
  {
   "id": "SYSTEM/2/12a8a",
   "jp": "ＡＴＫ＋２６　ＭＡＧ＋３２",
-  "en": "",
+  "en": "ATK+26  MAG+32",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12aac",
   "jp": "法と秩序の守護者に与えられる杖",
-  "en": "",
+  "en": "Given to keepers of law and order",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12af0",
   "jp": "秘儀の杖",
-  "en": "",
+  "en": "Arcane Staff",
   "width": 20
  },
  {
   "id": "SYSTEM/2/12b0a",
   "jp": "ＡＴＫ＋３１　ＭＡＧ＋５０",
-  "en": "",
+  "en": "ATK+31  MAG+50",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12b2c",
   "jp": "古に失われたはずの",
-  "en": "",
+  "en": "Engraved with a forbidden spell",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12b4e",
   "jp": "禁呪が刻まれた杖",
-  "en": "",
+  "en": "long thought lost to the ages",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12b70",
   "jp": "ステッキ",
-  "en": "",
+  "en": "Cane",
   "width": 20
  },
  {
   "id": "SYSTEM/2/12b8a",
   "jp": "ＡＴＫ＋４　　ＭＡＧ＋２",
-  "en": "",
+  "en": "ATK+4  MAG+2",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12bac",
   "jp": "木製のステッキ",
-  "en": "",
+  "en": "A wooden cane",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12bf0",
   "jp": "ポーンステッキ",
-  "en": "",
+  "en": "Pawn Cane",
   "width": 20
  },
  {
   "id": "SYSTEM/2/12c0a",
   "jp": "ＡＴＫ＋７　　ＭＡＧ＋４",
-  "en": "",
+  "en": "ATK+7  MAG+4",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12c2c",
   "jp": "ドクロがついたステッキ",
-  "en": "",
+  "en": "Cane topped with a skull",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12c70",
   "jp": "ナイトステッキ",
-  "en": "",
+  "en": "Knight Cane",
   "width": 20
  },
  {
   "id": "SYSTEM/2/12c8a",
   "jp": "ＡＴＫ＋１１　ＭＡＧ＋８",
-  "en": "",
+  "en": "ATK+11  MAG+8",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12cac",
   "jp": "紳士が愛用するステッキ",
-  "en": "",
+  "en": "A cane favored by gentlemen",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12cf0",
   "jp": "マスターステッキ",
-  "en": "",
+  "en": "Master Cane",
   "width": 20
  },
  {
   "id": "SYSTEM/2/12d0a",
   "jp": "ＡＴＫ＋１５　ＭＡＧ＋１１",
-  "en": "",
+  "en": "ATK+15  MAG+11",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12d2c",
   "jp": "黒い光沢が美しいステッキ",
-  "en": "",
+  "en": "Cane with a beautiful black sheen",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12d70",
   "jp": "メイヤーステッキ",
-  "en": "",
+  "en": "Mayor Cane",
   "width": 20
  },
  {
   "id": "SYSTEM/2/12d8a",
   "jp": "ＡＴＫ＋１９　ＭＡＧ＋１３",
-  "en": "",
+  "en": "ATK+19  MAG+13",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12dac",
   "jp": "美しい宝石が装飾されたステッキ",
-  "en": "",
+  "en": "Cane adorned with lovely jewels",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12df0",
   "jp": "博士のステッキ",
-  "en": "",
+  "en": "Doctor's Cane",
   "width": 20
  },
  {
   "id": "SYSTEM/2/12e0a",
   "jp": "ＡＴＫ＋１４　ＭＡＧ＋２０",
-  "en": "",
+  "en": "ATK+14  MAG+20",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12e2c",
   "jp": "無駄な装飾を外し",
-  "en": "",
+  "en": "Stripped of needless ornament,",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12e4e",
   "jp": "魔力を高めたステッキ",
-  "en": "",
+  "en": "this cane has heightened magic",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12e70",
   "jp": "バロンステッキ",
-  "en": "",
+  "en": "Baron Cane",
   "width": 20
  },
  {
   "id": "SYSTEM/2/12e8a",
   "jp": "ＡＴＫ＋２６　ＭＡＧ＋１５",
-  "en": "",
+  "en": "ATK+26  MAG+15",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12eac",
   "jp": "美しい彫刻が施されたステッキ",
-  "en": "",
+  "en": "Cane with beautiful carvings",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12ef0",
   "jp": "哲士のステッキ",
-  "en": "",
+  "en": "Philosopher's Cane",
   "width": 20
  },
  {
   "id": "SYSTEM/2/12f0a",
   "jp": "ＡＴＫ＋３２　ＭＡＧ＋５",
-  "en": "",
+  "en": "ATK+32  MAG+5",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12f2c",
   "jp": "無駄な装飾を外し",
-  "en": "",
+  "en": "Stripped of needless ornament,",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12f4e",
   "jp": "攻撃力を高めたステッキ",
-  "en": "",
+  "en": "this cane has heightened attack",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12f70",
   "jp": "カウントステッキ",
-  "en": "",
+  "en": "Count Cane",
   "width": 20
  },
  {
   "id": "SYSTEM/2/12f8a",
   "jp": "ＡＴＫ＋３０　ＭＡＧ＋１７",
-  "en": "",
+  "en": "ATK+30  MAG+17",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12fac",
   "jp": "銀の細工が美しいステッキ",
-  "en": "",
+  "en": "Cane with fine silver filigree",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12ff0",
   "jp": "デュークステッキ",
-  "en": "",
+  "en": "Duke Cane",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1300a",
   "jp": "ＡＴＫ＋３４　ＭＡＧ＋２０",
-  "en": "",
+  "en": "ATK+34  MAG+20",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1302c",
   "jp": "金の細工が美しい",
-  "en": "",
+  "en": "Cane with fine gold filigree,",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1304e",
   "jp": "魔力を帯びた宝珠を抱くステッキ",
-  "en": "",
+  "en": "holding an orb charged with magic",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13070",
   "jp": "賢人のステッキ",
-  "en": "",
+  "en": "Sage's Cane",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1308a",
   "jp": "ＡＴＫ＋３８　ＭＡＧ＋２２",
-  "en": "",
+  "en": "ATK+38  MAG+22",
   "width": 34
  },
  {
   "id": "SYSTEM/2/130ac",
   "jp": "古木で作られたステッキ",
-  "en": "",
+  "en": "Cane made from an ancient tree",
   "width": 34
  },
  {
   "id": "SYSTEM/2/130ce",
   "jp": "魔力を高める呪文が刻まれている",
-  "en": "",
+  "en": "Carved with magic-boosting spells",
   "width": 34
  },
  {
   "id": "SYSTEM/2/130f0",
   "jp": "偉才のステッキ",
-  "en": "",
+  "en": "Prodigy's Cane",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1310a",
   "jp": "ＡＴＫ＋４５　ＭＡＧ＋３５",
-  "en": "",
+  "en": "ATK+45  MAG+35",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1312c",
   "jp": "古に失われたはずの",
-  "en": "",
+  "en": "Cane engraved with holy spells",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1314e",
   "jp": "聖なる呪文が刻まれたステッキ",
-  "en": "",
+  "en": "long thought lost to the ages",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13170",
   "jp": "隠者のステッキ",
-  "en": "",
+  "en": "Hermit's Cane",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1318a",
   "jp": "ＡＴＫ＋２５　ＭＡＧ＋３０",
-  "en": "",
+  "en": "ATK+25  MAG+30",
   "width": 34
  },
  {
   "id": "SYSTEM/2/131ac",
   "jp": "折れた世界樹の枝から作られた",
-  "en": "",
+  "en": "Made from a broken branch of the",
   "width": 34
  },
  {
   "id": "SYSTEM/2/131ce",
   "jp": "ステッキ",
-  "en": "",
+  "en": "World Tree",
   "width": 34
  },
  {
   "id": "SYSTEM/2/131f0",
   "jp": "デイジーバトン",
-  "en": "",
+  "en": "Daisy Baton",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1320a",
   "jp": "ＡＴＫ＋１２　ＭＡＧ＋８",
-  "en": "",
+  "en": "ATK+12  MAG+8",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1322c",
   "jp": "威力は低いが使いやすいバトン",
-  "en": "",
+  "en": "Weak, but an easy baton to handle",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13270",
   "jp": "カクタスバトン",
-  "en": "",
+  "en": "Cactus Baton",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1328a",
   "jp": "ＡＴＫ＋１６　ＭＡＧ＋３",
-  "en": "",
+  "en": "ATK+16  MAG+3",
   "width": 34
  },
  {
   "id": "SYSTEM/2/132ac",
   "jp": "とげとげがついたバトン",
-  "en": "",
+  "en": "A baton covered in prickles",
   "width": 34
  },
  {
   "id": "SYSTEM/2/132ce",
   "jp": "リリスが使ってもつよいの！",
-  "en": "",
+  "en": "Even Lilis is strong with it!",
   "width": 34
  },
  {
   "id": "SYSTEM/2/132f0",
   "jp": "リリーバトン",
-  "en": "",
+  "en": "Lily Baton",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1330a",
   "jp": "ＡＴＫ＋１４　ＭＡＧ＋１１",
-  "en": "",
+  "en": "ATK+14  MAG+11",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1332c",
   "jp": "花柄の彫刻が施されたバトン",
-  "en": "",
+  "en": "Baton carved with floral patterns",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13370",
   "jp": "ピアニーバトン",
-  "en": "",
+  "en": "Peony Baton",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1338a",
   "jp": "ＡＴＫ＋１７　ＭＡＧ＋１４",
-  "en": "",
+  "en": "ATK+17  MAG+14",
   "width": 34
  },
  {
   "id": "SYSTEM/2/133ac",
   "jp": "少女趣味なデザインが",
-  "en": "",
+  "en": "Its girlish design makes it",
   "width": 34
  },
  {
   "id": "SYSTEM/2/133ce",
   "jp": "使用者を選ぶバトン",
-  "en": "",
+  "en": "a baton not for everyone",
   "width": 34
  },
  {
   "id": "SYSTEM/2/133f0",
   "jp": "カトレアバトン",
-  "en": "",
+  "en": "Cattleya Baton",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1340a",
   "jp": "ＡＴＫ＋２０　ＭＡＧ＋１７",
-  "en": "",
+  "en": "ATK+20  MAG+17",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1342c",
   "jp": "大柄な赤い花の模様が",
-  "en": "",
+  "en": "A bold pattern of big red flowers",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1344e",
   "jp": "斬新なバトン",
-  "en": "",
+  "en": "makes this a striking baton",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13470",
   "jp": "ラベンダーバトン",
-  "en": "",
+  "en": "Lavender Baton",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1348a",
   "jp": "ＡＴＫ＋２３　ＭＡＧ＋２０",
-  "en": "",
+  "en": "ATK+23  MAG+20",
   "width": 34
  },
  {
   "id": "SYSTEM/2/134ac",
   "jp": "薄い紫色のバトン",
-  "en": "",
+  "en": "A pale purple baton",
   "width": 34
  },
  {
   "id": "SYSTEM/2/134ce",
   "jp": "クルクル回すといいニオイがする",
-  "en": "",
+  "en": "Smells nice when you twirl it",
   "width": 34
  },
  {
   "id": "SYSTEM/2/134f0",
   "jp": "ライラックバトン",
-  "en": "",
+  "en": "Lilac Baton",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1350a",
   "jp": "ＡＴＫ＋２６　ＭＡＧ＋２４",
-  "en": "",
+  "en": "ATK+26  MAG+24",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1352c",
   "jp": "かりそめの恋を応援するバトン",
-  "en": "",
+  "en": "Cheers on a fleeting romance",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1354e",
   "jp": "邪魔者はポカポカ殴ってしまおう",
-  "en": "",
+  "en": "Bop anyone who gets in your way",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13570",
   "jp": "ベルベーヌバトン",
-  "en": "",
+  "en": "Verbena Baton",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1358a",
   "jp": "ＡＴＫ＋３０　ＭＡＧ＋２７",
-  "en": "",
+  "en": "ATK+30  MAG+27",
   "width": 34
  },
  {
   "id": "SYSTEM/2/135ac",
   "jp": "草花をあしらった",
-  "en": "",
+  "en": "Decorated with flowers and herbs,",
   "width": 34
  },
  {
   "id": "SYSTEM/2/135ce",
   "jp": "銀の細工が美しいバトン",
-  "en": "",
+  "en": "a baton of fine silver filigree",
   "width": 34
  },
  {
   "id": "SYSTEM/2/135f0",
   "jp": "クリスタルバトン",
-  "en": "",
+  "en": "Crystal Baton",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1360a",
   "jp": "ＡＴＫ＋３３　ＭＡＧ＋３０",
-  "en": "",
+  "en": "ATK+33  MAG+30",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1362c",
   "jp": "両端に水晶がはめこまれたバトン",
-  "en": "",
+  "en": "Baton with crystals at both ends",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1364e",
   "jp": "何度殴っても血に染まることはない",
-  "en": "",
+  "en": "Never bloodied, hit as you may",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13670",
   "jp": "アムールバトン",
-  "en": "",
+  "en": "Amour Baton",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1368a",
   "jp": "ＡＴＫ＋２８　ＭＡＧ＋３０",
-  "en": "",
+  "en": "ATK+28  MAG+30",
   "width": 34
  },
  {
   "id": "SYSTEM/2/136ac",
   "jp": "誓いの言葉が刻まれているバトン",
-  "en": "",
+  "en": "Baton with a vow engraved on it",
   "width": 34
  },
  {
   "id": "SYSTEM/2/136f0",
   "jp": "プリズムバトン",
-  "en": "",
+  "en": "Prism Baton",
   "width": 20
  },
  {
   "id": "SYSTEM/2/1370a",
   "jp": "ＡＴＫ＋３８　ＭＡＧ＋３８",
-  "en": "",
+  "en": "ATK+38  MAG+38",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1372c",
   "jp": "リリスがお日様にあてると",
-  "en": "",
+  "en": "When Lilis holds it up to the sun",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1374e",
   "jp": "虹色に光るの！",
-  "en": "",
+  "en": "it shines like a rainbow!",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13770",
   "jp": "ルビー",
-  "en": "",
+  "en": "Ruby",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1378c",
   "jp": "０時に力を得る宝石",
-  "en": "",
+  "en": "Gains power at 0 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/137ae",
   "jp": "紅玉（こうぎょく）",
-  "en": "",
+  "en": "Ruby (red jewel)",
   "width": 34
  },
  {
   "id": "SYSTEM/2/137d0",
   "jp": "アゲート",
-  "en": "",
+  "en": "Agate",
   "width": 22
  },
  {
   "id": "SYSTEM/2/137ec",
   "jp": "１時に力を得る宝石",
-  "en": "",
+  "en": "Gains power at 1 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1380e",
   "jp": "瑪瑙（めのう）",
-  "en": "",
+  "en": "Agate (banded stone)",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13830",
   "jp": "アメジスト",
-  "en": "",
+  "en": "Amethyst",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1384c",
   "jp": "２時に力を得る宝石",
-  "en": "",
+  "en": "Gains power at 2 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1386e",
   "jp": "紫水晶（むらさきすいしょう）",
-  "en": "",
+  "en": "Amethyst (purple quartz)",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13890",
   "jp": "ジャスパー",
-  "en": "",
+  "en": "Jasper",
   "width": 22
  },
  {
   "id": "SYSTEM/2/138ac",
   "jp": "３時に力を得る宝石",
-  "en": "",
+  "en": "Gains power at 3 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/138ce",
   "jp": "碧玉（へきぎょく）",
-  "en": "",
+  "en": "Jasper (blue-green jewel)",
   "width": 34
  },
  {
   "id": "SYSTEM/2/138f0",
   "jp": "サファイア",
-  "en": "",
+  "en": "Sapphire",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1390c",
   "jp": "４時に力を得る宝石",
-  "en": "",
+  "en": "Gains power at 4 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1392e",
   "jp": "青玉（せいぎょく）",
-  "en": "",
+  "en": "Sapphire (blue jewel)",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13950",
   "jp": "ジェード",
-  "en": "",
+  "en": "Jade",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1396c",
   "jp": "５時に力を得る宝石",
-  "en": "",
+  "en": "Gains power at 5 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1398e",
   "jp": "翡翠（ひすい）",
-  "en": "",
+  "en": "Jade (kingfisher stone)",
   "width": 34
  },
  {
   "id": "SYSTEM/2/139b0",
   "jp": "エメラルド",
-  "en": "",
+  "en": "Emerald",
   "width": 22
  },
  {
   "id": "SYSTEM/2/139cc",
   "jp": "６時に力を得る宝石",
-  "en": "",
+  "en": "Gains power at 6 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/139ee",
   "jp": "緑玉（りょくぎょく）",
-  "en": "",
+  "en": "Emerald (green jewel)",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13a10",
   "jp": "オニキス",
-  "en": "",
+  "en": "Onyx",
   "width": 22
  },
  {
   "id": "SYSTEM/2/13a2c",
   "jp": "７時に力を得る宝石",
-  "en": "",
+  "en": "Gains power at 7 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13a4e",
   "jp": "縞瑪瑙（しまめのう）",
-  "en": "",
+  "en": "Onyx (striped agate)",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13a70",
   "jp": "カーネリアン",
-  "en": "",
+  "en": "Carnelian",
   "width": 22
  },
  {
   "id": "SYSTEM/2/13a8c",
   "jp": "８時に力を得る宝石",
-  "en": "",
+  "en": "Gains power at 8 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13aae",
   "jp": "紅玉随（こうぎょくずい）",
-  "en": "",
+  "en": "Carnelian (red chalcedony)",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13ad0",
   "jp": "ラピスラズリ",
-  "en": "",
+  "en": "Lapis Lazuli",
   "width": 22
  },
  {
   "id": "SYSTEM/2/13aec",
   "jp": "９時に力を得る宝石",
-  "en": "",
+  "en": "Gains power at 9 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13b0e",
   "jp": "青金石（せいきんせき）",
-  "en": "",
+  "en": "Lapis Lazuli (blue-gold stone)",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13b30",
   "jp": "オパール",
-  "en": "",
+  "en": "Opal",
   "width": 22
  },
  {
   "id": "SYSTEM/2/13b4c",
   "jp": "１０時に力を得る宝石",
-  "en": "",
+  "en": "Gains power at 10 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13b6e",
   "jp": "蛋白石（たんぱくせき）",
-  "en": "",
+  "en": "Opal (egg-white stone)",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13b90",
   "jp": "トパーズ",
-  "en": "",
+  "en": "Topaz",
   "width": 22
  },
  {
   "id": "SYSTEM/2/13bac",
   "jp": "１１時に力を得る宝石",
-  "en": "",
+  "en": "Gains power at 11 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13bce",
   "jp": "黄玉（おうぎょく）",
-  "en": "",
+  "en": "Topaz (yellow jewel)",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13bf0",
   "jp": "目覚めの護符",
-  "en": "",
+  "en": "Awakening Charm",
   "width": 22
  },
  {
   "id": "SYSTEM/2/13c0c",
   "jp": "０時に力を得る護符",
-  "en": "",
+  "en": "Gains power at 0 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13c50",
   "jp": "抗毒の護符",
-  "en": "",
+  "en": "Antivenom Charm",
   "width": 22
  },
  {
   "id": "SYSTEM/2/13c6c",
   "jp": "１１時に力を得る護符",
-  "en": "",
+  "en": "Gains power at 11 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13cb0",
   "jp": "気付けの護符",
-  "en": "",
+  "en": "Reviving Charm",
   "width": 22
  },
  {
   "id": "SYSTEM/2/13ccc",
   "jp": "４時に力を得る護符",
-  "en": "",
+  "en": "Gains power at 4 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13d10",
   "jp": "安寧の護符",
-  "en": "",
+  "en": "Serenity Charm",
   "width": 22
  },
  {
   "id": "SYSTEM/2/13d2c",
   "jp": "１０時に力を得る護符",
-  "en": "",
+  "en": "Gains power at 10 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13d70",
   "jp": "光明の護符",
-  "en": "",
+  "en": "Radiance Charm",
   "width": 22
  },
  {
   "id": "SYSTEM/2/13d8c",
   "jp": "６時に力を得る護符",
-  "en": "",
+  "en": "Gains power at 6 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13dd0",
   "jp": "反応の護符",
-  "en": "",
+  "en": "Reflex Charm",
   "width": 22
  },
  {
   "id": "SYSTEM/2/13dec",
   "jp": "５時に力を得る護符",
-  "en": "",
+  "en": "Gains power at 5 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13e30",
   "jp": "破魔の護符",
-  "en": "",
+  "en": "Exorcism Charm",
   "width": 22
  },
  {
   "id": "SYSTEM/2/13e4c",
   "jp": "７時に力を得る護符",
-  "en": "",
+  "en": "Gains power at 7 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13e90",
   "jp": "精神の護符",
-  "en": "",
+  "en": "Spirit Charm",
   "width": 22
  },
  {
   "id": "SYSTEM/2/13eac",
   "jp": "８時に力を得る護符",
-  "en": "",
+  "en": "Gains power at 8 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13ef0",
   "jp": "金針の護符",
-  "en": "",
+  "en": "Gold Needle Charm",
   "width": 22
  },
  {
   "id": "SYSTEM/2/13f0c",
   "jp": "２時に力を得る護符",
-  "en": "",
+  "en": "Gains power at 2 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13f50",
   "jp": "気合いの護符",
-  "en": "",
+  "en": "Fighting Spirit Charm",
   "width": 22
  },
  {
   "id": "SYSTEM/2/13f6c",
   "jp": "３時に力を得る護符",
-  "en": "",
+  "en": "Gains power at 3 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/13fb0",
   "jp": "マスク",
-  "en": "",
+  "en": "Mask",
   "width": 22
  },
  {
   "id": "SYSTEM/2/13fcc",
   "jp": "風邪の予防に最適なマスク",
-  "en": "",
+  "en": "Ideal for warding off colds",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14010",
   "jp": "緑のアンク",
-  "en": "",
+  "en": "Green Ankh",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1402c",
   "jp": "０時に力を得るアンク",
-  "en": "",
+  "en": "Gains power at 0 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14070",
   "jp": "防寒マント",
-  "en": "",
+  "en": "Winter Cloak",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1408c",
   "jp": "旅人が好んで身につけるマント",
-  "en": "",
+  "en": "A cloak favored by travelers",
   "width": 34
  },
  {
   "id": "SYSTEM/2/140d0",
   "jp": "革のコート",
-  "en": "",
+  "en": "Leather Coat",
   "width": 22
  },
  {
   "id": "SYSTEM/2/140ec",
   "jp": "少し厚手で動きにくいコート",
-  "en": "",
+  "en": "A bit thick and hard to move in",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14130",
   "jp": "ミントマスク",
-  "en": "",
+  "en": "Mint Mask",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1414c",
   "jp": "爽やかな香りのするマスク",
-  "en": "",
+  "en": "A mask with a refreshing scent",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14190",
   "jp": "レッドスカーフ",
-  "en": "",
+  "en": "Red Scarf",
   "width": 22
  },
  {
   "id": "SYSTEM/2/141ac",
   "jp": "首に巻き付けると気合いが入る",
-  "en": "",
+  "en": "A scarf that fires you up when",
   "width": 34
  },
  {
   "id": "SYSTEM/2/141ce",
   "jp": "スカーフ",
-  "en": "",
+  "en": "wrapped around your neck",
   "width": 34
  },
  {
   "id": "SYSTEM/2/141f0",
   "jp": "水晶のペンダント",
-  "en": "",
+  "en": "Crystal Pendant",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1420c",
   "jp": "１１時に力を得るペンダント",
-  "en": "",
+  "en": "Gains power at 11 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14250",
   "jp": "ガスマスク",
-  "en": "",
+  "en": "Gas Mask",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1426c",
   "jp": "有毒なガスを全て浄化するマスク",
-  "en": "",
+  "en": "Filters out every toxic gas",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1428e",
   "jp": "ちょっと息苦しい",
-  "en": "",
+  "en": "A bit stuffy to breathe in",
   "width": 34
  },
  {
   "id": "SYSTEM/2/142b0",
   "jp": "蒼のアンク",
-  "en": "",
+  "en": "Blue Ankh",
   "width": 22
  },
  {
   "id": "SYSTEM/2/142cc",
   "jp": "１０時に力を得るアンク",
-  "en": "",
+  "en": "Gains power at 10 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14310",
   "jp": "スネークベルト",
-  "en": "",
+  "en": "Snake Belt",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1432c",
   "jp": "蛇の革で作られたベルト",
-  "en": "",
+  "en": "A belt made of snakeskin",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1434e",
   "jp": "独特の光沢が美しい渋い逸品",
-  "en": "",
+  "en": "Classy piece with a unique luster",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14370",
   "jp": "精霊のバンダナ",
-  "en": "",
+  "en": "Spirit Bandana",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1438c",
   "jp": "６時に力を得るバンダナ",
-  "en": "",
+  "en": "Gains power at 6 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/143d0",
   "jp": "錬金術師のマント",
-  "en": "",
+  "en": "Alchemist's Cloak",
   "width": 22
  },
  {
   "id": "SYSTEM/2/143ec",
   "jp": "錬金術師が好んで身につけるマント",
-  "en": "",
+  "en": "A cloak favored by alchemists",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14430",
   "jp": "紅のアンク",
-  "en": "",
+  "en": "Crimson Ankh",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1444c",
   "jp": "５時に力を得るアンク",
-  "en": "",
+  "en": "Gains power at 5 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14490",
   "jp": "金糸のマント",
-  "en": "",
+  "en": "Gold Thread Cloak",
   "width": 22
  },
  {
   "id": "SYSTEM/2/144ac",
   "jp": "２時に力を得るマント",
-  "en": "",
+  "en": "Gains power at 2 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/144ce",
   "jp": "金糸の刺繍が美しい",
-  "en": "",
+  "en": "Beautiful gold-thread embroidery",
   "width": 34
  },
  {
   "id": "SYSTEM/2/144f0",
   "jp": "紋章の手袋",
-  "en": "",
+  "en": "Crest Gloves",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1450c",
   "jp": "魔力を持つ紋章を縫いつけた手袋",
-  "en": "",
+  "en": "Gloves sewn with a magic crest",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14550",
   "jp": "信念のアンク",
-  "en": "",
+  "en": "Conviction Ankh",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1456c",
   "jp": "身に付けることで強い信念を得る",
-  "en": "",
+  "en": "Wearing it grants the bearer a",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1458e",
   "jp": "ことができる",
-  "en": "",
+  "en": "strong sense of conviction",
   "width": 34
  },
  {
   "id": "SYSTEM/2/145b0",
   "jp": "ハートのブローチ",
-  "en": "",
+  "en": "Heart Brooch",
   "width": 22
  },
  {
   "id": "SYSTEM/2/145cc",
   "jp": "１時に力を得るブローチ",
-  "en": "",
+  "en": "Gains power at 1 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14610",
   "jp": "銀のアンク",
-  "en": "",
+  "en": "Silver Ankh",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1462c",
   "jp": "銀製のアンク",
-  "en": "",
+  "en": "An ankh made of silver",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14670",
   "jp": "金のアンク",
-  "en": "",
+  "en": "Gold Ankh",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1468c",
   "jp": "金製のアンク",
-  "en": "",
+  "en": "An ankh made of gold",
   "width": 34
  },
  {
   "id": "SYSTEM/2/146d0",
   "jp": "炎のサークレット",
-  "en": "",
+  "en": "Flame Circlet",
   "width": 22
  },
  {
   "id": "SYSTEM/2/146ec",
   "jp": "炎を模したレリーフが施された",
-  "en": "",
+  "en": "A circlet bearing a relief in",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1470e",
   "jp": "サークレット",
-  "en": "",
+  "en": "the shape of flames",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14730",
   "jp": "秘儀のベルト",
-  "en": "",
+  "en": "Arcane Belt",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1474c",
   "jp": "古代文字が刻まれた不思議なベルト",
-  "en": "",
+  "en": "Strange belt with ancient script",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14790",
   "jp": "賢者のマント",
-  "en": "",
+  "en": "Sage's Cloak",
   "width": 22
  },
  {
   "id": "SYSTEM/2/147ac",
   "jp": "見た目はボロボロだが、不思議な力",
-  "en": "",
+  "en": "Looks tattered, but it holds a",
   "width": 34
  },
  {
   "id": "SYSTEM/2/147ce",
   "jp": "を持ったマント",
-  "en": "",
+  "en": "mysterious power",
   "width": 34
  },
  {
   "id": "SYSTEM/2/147f0",
   "jp": "神秘のアンク",
-  "en": "",
+  "en": "Mystic Ankh",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1480c",
   "jp": "神々しい輝きを放つアンク",
-  "en": "",
+  "en": "An ankh with a divine radiance",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14850",
   "jp": "風霊のピアス",
-  "en": "",
+  "en": "Wind Spirit Earring",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1486c",
   "jp": "０・６時に力を得るピアス",
-  "en": "",
+  "en": "Gains power at 0 and 6 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1488e",
   "jp": "風霊の力が宿るものと言われている",
-  "en": "",
+  "en": "Said to house a wind spirit",
   "width": 34
  },
  {
   "id": "SYSTEM/2/148b0",
   "jp": "水霊のピアス",
-  "en": "",
+  "en": "Water Spirit Earring",
   "width": 22
  },
  {
   "id": "SYSTEM/2/148cc",
   "jp": "１・７時に力を得るピアス",
-  "en": "",
+  "en": "Gains power at 1 and 7 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/148ee",
   "jp": "水霊の力が宿るものと言われている",
-  "en": "",
+  "en": "Said to house a water spirit",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14910",
   "jp": "火霊のピアス",
-  "en": "",
+  "en": "Fire Spirit Earring",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1492c",
   "jp": "２・８時に力を得るピアス",
-  "en": "",
+  "en": "Gains power at 2 and 8 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1494e",
   "jp": "火霊の力が宿るものと言われている",
-  "en": "",
+  "en": "Said to house a fire spirit",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14970",
   "jp": "土霊のピアス",
-  "en": "",
+  "en": "Earth Spirit Earring",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1498c",
   "jp": "３・９時に力を得るピアス",
-  "en": "",
+  "en": "Gains power at 3 and 9 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/149ae",
   "jp": "土霊の力が宿るものと言われている",
-  "en": "",
+  "en": "Said to house an earth spirit",
   "width": 34
  },
  {
   "id": "SYSTEM/2/149d0",
   "jp": "雷霊のピアス",
-  "en": "",
+  "en": "Storm Spirit Earring",
   "width": 22
  },
  {
   "id": "SYSTEM/2/149ec",
   "jp": "４・１０時に力を得るピアス",
-  "en": "",
+  "en": "Gains power at 4 and 10 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14a0e",
   "jp": "雷霊の力が宿るものと言われている",
-  "en": "",
+  "en": "Said to house a thunder spirit",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14a30",
   "jp": "光霊のピアス",
-  "en": "",
+  "en": "Light Spirit Earring",
   "width": 22
  },
  {
   "id": "SYSTEM/2/14a4c",
   "jp": "５・１１時に力を得るピアス",
-  "en": "",
+  "en": "Gains power at 5 and 11 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14a6e",
   "jp": "光霊の力が宿るものと言われている",
-  "en": "",
+  "en": "Said to house a light spirit",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14a90",
   "jp": "骨のピアス",
-  "en": "",
+  "en": "Bone Earring",
   "width": 22
  },
  {
   "id": "SYSTEM/2/14aac",
   "jp": "ＨＰ＋１０　　ＰＰ＋５",
-  "en": "",
+  "en": "HP+10  PP+5",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14ace",
   "jp": "１０時に力を得る",
-  "en": "",
+  "en": "Gains power at 10 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14af0",
   "jp": "竜骨のピアス",
-  "en": "",
+  "en": "Dragonbone Earring",
   "width": 22
  },
  {
   "id": "SYSTEM/2/14b0c",
   "jp": "ＨＰ＋２０　　ＰＰ＋１０",
-  "en": "",
+  "en": "HP+20  PP+10",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14b2e",
   "jp": "１・１０時に力を得る",
-  "en": "",
+  "en": "Gains power at 1 and 10 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14b50",
   "jp": "魔性のピアス",
-  "en": "",
+  "en": "Fiendish Earring",
   "width": 22
  },
  {
   "id": "SYSTEM/2/14b6c",
   "jp": "ＰＰ＋７　　　ＭＡＧ＋１２",
-  "en": "",
+  "en": "PP+7  MAG+12",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14b8e",
   "jp": "４時に力を得る",
-  "en": "",
+  "en": "Gains power at 4 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14bb0",
   "jp": "陽光の腕章",
-  "en": "",
+  "en": "Sunlight Armband",
   "width": 22
  },
  {
   "id": "SYSTEM/2/14bcc",
   "jp": "ＰＰ＋５　　　ＡＴＫ＋５",
-  "en": "",
+  "en": "PP+5  ATK+5",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14bee",
   "jp": "２時に力を得る",
-  "en": "",
+  "en": "Gains power at 2 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14c10",
   "jp": "閃光の腕章",
-  "en": "",
+  "en": "Flash Armband",
   "width": 22
  },
  {
   "id": "SYSTEM/2/14c2c",
   "jp": "ＰＰ＋１５　　ＡＴＫ＋１５",
-  "en": "",
+  "en": "PP+15  ATK+15",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14c4e",
   "jp": "２・５時に力を得る",
-  "en": "",
+  "en": "Gains power at 2 and 5 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14c70",
   "jp": "虚ろのベルト",
-  "en": "",
+  "en": "Hollow Belt",
   "width": 22
  },
  {
   "id": "SYSTEM/2/14c8c",
   "jp": "ＨＰ＋７　　　ＰＰ＋１０",
-  "en": "",
+  "en": "HP+7  PP+10",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14cae",
   "jp": "１時に力を得る",
-  "en": "",
+  "en": "Gains power at 1 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14cd0",
   "jp": "憂いのベルト",
-  "en": "",
+  "en": "Sorrow Belt",
   "width": 22
  },
  {
   "id": "SYSTEM/2/14cec",
   "jp": "ＨＰ＋１５　　ＰＰ＋２０",
-  "en": "",
+  "en": "HP+15  PP+20",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14d0e",
   "jp": "１・６時に力を得る",
-  "en": "",
+  "en": "Gains power at 1 and 6 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14d30",
   "jp": "天聖のマント",
-  "en": "",
+  "en": "Celestial Cloak",
   "width": 22
  },
  {
   "id": "SYSTEM/2/14d4c",
   "jp": "ＨＰ＋１５　　ＭＡＧ＋９",
-  "en": "",
+  "en": "HP+15  MAG+9",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14d6e",
   "jp": "２・５時に力を得る",
-  "en": "",
+  "en": "Gains power at 2 and 5 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14d90",
   "jp": "プリティードール",
-  "en": "",
+  "en": "Pretty Doll",
   "width": 22
  },
  {
   "id": "SYSTEM/2/14dac",
   "jp": "ＰＰ＋１０　　ＭＡＧ＋１０",
-  "en": "",
+  "en": "PP+10  MAG+10",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14dce",
   "jp": "６時に力を得る",
-  "en": "",
+  "en": "Gains power at 6 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14df0",
   "jp": "クールドール",
-  "en": "",
+  "en": "Cool Doll",
   "width": 22
  },
  {
   "id": "SYSTEM/2/14e0c",
   "jp": "ＰＰ＋２０　　ＭＡＧ＋２０",
-  "en": "",
+  "en": "PP+20  MAG+20",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14e2e",
   "jp": "３・６時に力を得る",
-  "en": "",
+  "en": "Gains power at 3 and 6 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14e50",
   "jp": "深紅のベルト",
-  "en": "",
+  "en": "Scarlet Belt",
   "width": 22
  },
  {
   "id": "SYSTEM/2/14e6c",
   "jp": "ＨＰ＋１０　　ＡＴＫ＋８",
-  "en": "",
+  "en": "HP+10  ATK+8",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14e8e",
   "jp": "９時に力を得る",
-  "en": "",
+  "en": "Gains power at 9 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14eb0",
   "jp": "真紅のベルト",
-  "en": "",
+  "en": "Crimson Belt",
   "width": 22
  },
  {
   "id": "SYSTEM/2/14ecc",
   "jp": "ＨＰ＋２０　　ＡＴＫ＋１５",
-  "en": "",
+  "en": "HP+20  ATK+15",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14eee",
   "jp": "５・９時に力を得る",
-  "en": "",
+  "en": "Gains power at 5 and 9 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14f10",
   "jp": "青いリボン",
-  "en": "",
+  "en": "Blue Ribbon",
   "width": 22
  },
  {
   "id": "SYSTEM/2/14f2c",
   "jp": "ＰＰ＋２０　　ＡＧＬ＋１０",
-  "en": "",
+  "en": "PP+20  AGL+10",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14f4e",
   "jp": "２・７時に力を得る",
-  "en": "",
+  "en": "Gains power at 2 and 7 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14f70",
   "jp": "秘儀の腕輪",
-  "en": "",
+  "en": "Arcane Bracelet",
   "width": 22
  },
  {
   "id": "SYSTEM/2/14f8c",
   "jp": "ＡＴＫ＋１５　ＭＡＧ＋２５",
-  "en": "",
+  "en": "ATK+15  MAG+25",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14fae",
   "jp": "４・１１時に力を得る",
-  "en": "",
+  "en": "Gains power at 4 and 11 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/14fd0",
   "jp": "審判の腕輪",
-  "en": "",
+  "en": "Judgment Bracelet",
   "width": 22
  },
  {
   "id": "SYSTEM/2/14fec",
   "jp": "ＨＰ＋２０　　ＰＰ＋２０",
-  "en": "",
+  "en": "HP+20  PP+20",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1500e",
   "jp": "０・７時に力を得る",
-  "en": "",
+  "en": "Gains power at 0 and 7 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/15030",
   "jp": "探求の腕輪",
-  "en": "",
+  "en": "Seeker's Bracelet",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1504c",
   "jp": "ＰＰ＋２５　　ＭＡＧ＋２０",
-  "en": "",
+  "en": "PP+25  MAG+20",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1506e",
   "jp": "３・８時に力を得る",
-  "en": "",
+  "en": "Gains power at 3 and 8 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/15090",
   "jp": "邪香の札",
-  "en": "",
+  "en": "Foul Incense Talisman",
   "width": 22
  },
  {
   "id": "SYSTEM/2/150ac",
   "jp": "１・１０時に力を得る",
-  "en": "",
+  "en": "Gains power at 1 and 10 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/150f0",
   "jp": "ＡＣ６９",
-  "en": "",
+  "en": "AC69",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1510c",
   "jp": "ＨＰ＋２５　　ＰＰ＋２５",
-  "en": "",
+  "en": "HP+25  PP+25",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1512e",
   "jp": "３・６・７時に力を得る",
-  "en": "",
+  "en": "Gains power at 3, 6 and 7 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/15150",
   "jp": "エーユー証明書",
-  "en": "",
+  "en": "AU Certificate",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1516c",
   "jp": "ＡＴＫ＋５　ＡＧＬ＋１１",
-  "en": "",
+  "en": "ATK+5  AGL+11",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1518e",
   "jp": "１０時に力を得る",
-  "en": "",
+  "en": "Gains power at 10 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/151b0",
   "jp": "エーユー証明書",
-  "en": "",
+  "en": "AU Certificate+",
   "width": 22
  },
  {
   "id": "SYSTEM/2/151cc",
   "jp": "ＡＴＫ＋１５　ＡＧＬ＋２２",
-  "en": "",
+  "en": "ATK+15  AGL+22",
   "width": 34
  },
  {
   "id": "SYSTEM/2/151ee",
   "jp": "３・１０時に力を得る",
-  "en": "",
+  "en": "Gains power at 3 and 10 o'clock",
   "width": 34
  },
  {
   "id": "SYSTEM/2/15210",
   "jp": "新しき神の福音書",
-  "en": "",
+  "en": "Gospel of the New God",
   "width": 22
  },
  {
   "id": "SYSTEM/2/15270",
   "jp": "セングラー",
-  "en": "",
+  "en": "Sengler",
   "width": 22
  },
  {
   "id": "SYSTEM/2/1528c",
   "jp": "説明書がないので",
-  "en": "",
+  "en": "No manual came with it, so",
   "width": 34
  },
  {
   "id": "SYSTEM/2/152ae",
   "jp": "使い方がわからない",
-  "en": "",
+  "en": "nobody knows how to use it",
   "width": 34
  },
  {
   "id": "SYSTEM/2/152d0",
   "jp": "傷薬",
-  "en": "",
+  "en": "Salve",
   "width": 18
  },
  {
   "id": "SYSTEM/2/152e4",
   "jp": "対象のＨＰを１５回復する",
-  "en": "",
+  "en": "Restores 15 HP to a target",
   "width": 100
  },
  {
   "id": "SYSTEM/2/1534a",
   "jp": "特効薬",
-  "en": "",
+  "en": "Remedy",
   "width": 18
  },
  {
   "id": "SYSTEM/2/1535e",
   "jp": "対象のＨＰを３０回復する",
-  "en": "",
+  "en": "Restores 30 HP to a target",
   "width": 100
  },
  {
   "id": "SYSTEM/2/153c4",
   "jp": "霊水の妙薬",
-  "en": "",
+  "en": "Holy Water Elixir",
   "width": 18
  },
  {
   "id": "SYSTEM/2/153d8",
   "jp": "対象のＨＰを５０回復する",
-  "en": "",
+  "en": "Restores 50 HP to a target",
   "width": 100
  },
  {
   "id": "SYSTEM/2/1543e",
   "jp": "錬金術の生薬",
-  "en": "",
+  "en": "Alchemic Herb",
   "width": 18
  },
  {
   "id": "SYSTEM/2/15452",
   "jp": "対象のＨＰを全回復する",
-  "en": "",
+  "en": "Fully restores a target's HP",
   "width": 100
  },
  {
   "id": "SYSTEM/2/154b8",
   "jp": "ボトルペイン",
-  "en": "",
+  "en": "Pain Bottle",
   "width": 18
  },
  {
   "id": "SYSTEM/2/154cc",
   "jp": "対象のＰＰを１０回復する",
-  "en": "",
+  "en": "Restores 10 PP to a target",
   "width": 100
  },
  {
   "id": "SYSTEM/2/15532",
   "jp": "ポットペイン",
-  "en": "",
+  "en": "Pain Pot",
   "width": 18
  },
  {
   "id": "SYSTEM/2/15546",
   "jp": "対象のＰＰを３０回復する",
-  "en": "",
+  "en": "Restores 30 PP to a target",
   "width": 100
  },
  {
   "id": "SYSTEM/2/155ac",
   "jp": "フラガンペイン",
-  "en": "",
+  "en": "Pain Flagon",
   "width": 18
  },
  {
   "id": "SYSTEM/2/155c0",
   "jp": "対象のＰＰを５０回復する",
-  "en": "",
+  "en": "Restores 50 PP to a target",
   "width": 100
  },
  {
   "id": "SYSTEM/2/15626",
   "jp": "デカンタペイン",
-  "en": "",
+  "en": "Pain Decanter",
   "width": 18
  },
  {
   "id": "SYSTEM/2/1563a",
   "jp": "対象のＰＰを全回復する",
-  "en": "",
+  "en": "Fully restores a target's PP",
   "width": 100
  },
  {
   "id": "SYSTEM/2/156a0",
   "jp": "気付け薬",
-  "en": "",
+  "en": "Smelling Salts",
   "width": 18
  },
  {
   "id": "SYSTEM/2/156b4",
   "jp": "対象の睡眠を治療する",
-  "en": "",
+  "en": "Cures a target of sleep",
   "width": 100
  },
  {
   "id": "SYSTEM/2/1571a",
   "jp": "目薬",
-  "en": "",
+  "en": "Eye Drops",
   "width": 18
  },
  {
   "id": "SYSTEM/2/1572e",
   "jp": "対象の暗闇を治療する",
-  "en": "",
+  "en": "Cures a target of darkness",
   "width": 100
  },
  {
   "id": "SYSTEM/2/15794",
   "jp": "毒消し",
-  "en": "",
+  "en": "Antidote",
   "width": 18
  },
  {
   "id": "SYSTEM/2/157a8",
   "jp": "対象の毒を治療する",
-  "en": "",
+  "en": "Cures a target of poison",
   "width": 100
  },
  {
   "id": "SYSTEM/2/1580e",
   "jp": "抗生剤",
-  "en": "",
+  "en": "Antibiotic",
   "width": 18
  },
  {
   "id": "SYSTEM/2/15822",
   "jp": "対象の麻痺を治療する",
-  "en": "",
+  "en": "Cures a target of paralysis",
   "width": 100
  },
  {
   "id": "SYSTEM/2/15888",
   "jp": "クロックリペア",
-  "en": "",
+  "en": "Clock Repair",
   "width": 18
  },
  {
   "id": "SYSTEM/2/1589c",
   "jp": "対象の破壊されたリズムを治療する",
-  "en": "",
+  "en": "Restores a target's broken rhythm",
   "width": 100
  },
  {
   "id": "SYSTEM/2/15902",
   "jp": "温シップ",
-  "en": "",
+  "en": "Hot Compress",
   "width": 18
  },
  {
   "id": "SYSTEM/2/15916",
   "jp": "対象の低下した攻撃力を治療する",
-  "en": "",
+  "en": "Restores a target's lowered attack",
   "width": 100
  },
  {
   "id": "SYSTEM/2/1597c",
   "jp": "頭痛薬",
-  "en": "",
+  "en": "Headache Pill",
   "width": 18
  },
  {
   "id": "SYSTEM/2/15990",
   "jp": "対象の低下した魔力を治療する",
-  "en": "",
+  "en": "Restores a target's lowered magic",
   "width": 100
  },
  {
   "id": "SYSTEM/2/159f6",
   "jp": "柔軟剤",
-  "en": "",
+  "en": "Softener",
   "width": 18
  },
  {
   "id": "SYSTEM/2/15a0a",
   "jp": "対象の石化を治療する",
-  "en": "",
+  "en": "Cures a target of petrification",
   "width": 100
  },
  {
   "id": "SYSTEM/2/15a70",
   "jp": "生命の秘薬",
-  "en": "",
+  "en": "Elixir of Life",
   "width": 18
  },
  {
   "id": "SYSTEM/2/15a84",
   "jp": "対象のＨＰ・ＰＰを全回復し",
-  "en": "",
+  "en": "Fully restores a target's HP and PP",
   "width": 100
  },
  {
   "id": "SYSTEM/2/15aea",
   "jp": "睡眠薬",
-  "en": "",
+  "en": "Sleeping Pill",
   "width": 18
  },
  {
   "id": "SYSTEM/2/15afe",
   "jp": "対象を眠らせる",
-  "en": "",
+  "en": "Puts a target to sleep",
   "width": 100
  },
  {
   "id": "SYSTEM/2/15b64",
   "jp": "黒インク",
-  "en": "",
+  "en": "Black Ink",
   "width": 18
  },
  {
   "id": "SYSTEM/2/15b78",
   "jp": "対象に暗闇を与える",
-  "en": "",
+  "en": "Inflicts darkness on a target",
   "width": 100
  },
  {
   "id": "SYSTEM/2/15bde",
   "jp": "毒薬",
-  "en": "",
+  "en": "Toxin",
   "width": 18
  },
  {
   "id": "SYSTEM/2/15bf2",
   "jp": "対象に毒を与える",
-  "en": "",
+  "en": "Poisons a target",
   "width": 100
  },
  {
   "id": "SYSTEM/2/15c58",
   "jp": "しびれ薬",
-  "en": "",
+  "en": "Numbing Drug",
   "width": 18
  },
  {
   "id": "SYSTEM/2/15c6c",
   "jp": "対象を麻痺させる",
-  "en": "",
+  "en": "Paralyzes a target",
   "width": 100
  },
  {
   "id": "SYSTEM/2/15cd2",
   "jp": "疲労ウィルス",
-  "en": "",
+  "en": "Fatigue Virus",
   "width": 18
  },
  {
   "id": "SYSTEM/2/15ce6",
   "jp": "対象の攻撃力を低下させる",
-  "en": "",
+  "en": "Lowers a target's attack",
   "width": 100
  },
  {
   "id": "SYSTEM/2/15d4c",
   "jp": "放心ウィルス",
-  "en": "",
+  "en": "Stupor Virus",
   "width": 18
  },
  {
   "id": "SYSTEM/2/15d60",
   "jp": "対象の魔力を低下させる",
-  "en": "",
+  "en": "Lowers a target's magic",
   "width": 100
  },
  {
   "id": "SYSTEM/2/15dc6",
   "jp": "木片",
-  "en": "",
+  "en": "Wood Chip",
   "width": 18
  },
  {
   "id": "SYSTEM/2/15dda",
   "jp": "対象に１０のダメージを与える",
-  "en": "",
+  "en": "Deals 10 damage to a target",
   "width": 100
  },
  {
   "id": "SYSTEM/2/15e40",
   "jp": "石つぶて",
-  "en": "",
+  "en": "Pebble",
   "width": 18
  },
  {
   "id": "SYSTEM/2/15e54",
   "jp": "対象に１５のダメージを与える",
-  "en": "",
+  "en": "Deals 15 damage to a target",
   "width": 100
  },
  {
   "id": "SYSTEM/2/15eba",
   "jp": "レンガ",
-  "en": "",
+  "en": "Brick",
   "width": 18
  },
  {
   "id": "SYSTEM/2/15ece",
   "jp": "対象に２０のダメージを与える",
-  "en": "",
+  "en": "Deals 20 damage to a target",
   "width": 100
  },
  {
   "id": "SYSTEM/2/15f34",
   "jp": "火薬玉",
-  "en": "",
+  "en": "Powder Ball",
   "width": 18
  },
  {
   "id": "SYSTEM/2/15f48",
   "jp": "対象に３０のダメージを与える",
-  "en": "",
+  "en": "Deals 30 damage to a target",
   "width": 100
  },
  {
   "id": "SYSTEM/2/15fae",
   "jp": "小型爆弾",
-  "en": "",
+  "en": "Small Bomb",
   "width": 18
  },
  {
   "id": "SYSTEM/2/15fc2",
   "jp": "対象に４０のダメージを与える",
-  "en": "",
+  "en": "Deals 40 damage to a target",
   "width": 100
  },
  {
   "id": "SYSTEM/2/16028",
   "jp": "大型爆弾",
-  "en": "",
+  "en": "Large Bomb",
   "width": 18
  },
  {
   "id": "SYSTEM/2/1603c",
   "jp": "対象に６０のダメージを与える",
-  "en": "",
+  "en": "Deals 60 damage to a target",
   "width": 100
  },
  {
   "id": "SYSTEM/2/160a4",
   "jp": "滅びの冥歌",
-  "en": "",
+  "en": "Dirge of Ruin",
   "width": 24
  },
  {
   "id": "SYSTEM/2/160c2",
   "jp": "横を使いし者にのみ許されたリング",
-  "en": "",
+  "en": "Only for those who use Sideways",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16106",
   "jp": "裁きの鉄槌",
-  "en": "",
+  "en": "Hammer of Judgment",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16124",
   "jp": "縦を使いし者にのみ許されたリング",
-  "en": "",
+  "en": "Only for those who use Downward",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16168",
   "jp": "盟約の協定",
-  "en": "",
+  "en": "Pact of Alliance",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16186",
   "jp": "突を使いし者にのみ許されたリング",
-  "en": "",
+  "en": "Only for those who use Thrust",
   "width": 32
  },
  {
   "id": "SYSTEM/2/161ca",
   "jp": "破滅の降罪",
-  "en": "",
+  "en": "Sentence of Doom",
   "width": 24
  },
  {
   "id": "SYSTEM/2/161e8",
   "jp": "射を使いし者にのみ許されたリング",
-  "en": "",
+  "en": "Only for those who use Shot",
   "width": 32
  },
  {
   "id": "SYSTEM/2/1622c",
   "jp": "神威の剱",
-  "en": "",
+  "en": "Sword of Divine Might",
   "width": 24
  },
  {
   "id": "SYSTEM/2/1624a",
   "jp": "翼を持つヒトにのみ許されたリング",
-  "en": "",
+  "en": "Only for the winged one of Man",
   "width": 32
  },
  {
   "id": "SYSTEM/2/1628e",
   "jp": "拷責の神音",
-  "en": "",
+  "en": "Divine Tone of Torment",
   "width": 24
  },
  {
   "id": "SYSTEM/2/162ac",
   "jp": "異形の翼を継ぐ者のみが使うリング",
-  "en": "",
+  "en": "Only for heirs of twisted wings",
   "width": 32
  },
  {
   "id": "SYSTEM/2/162f0",
   "jp": "覇道を叫ぶ雷光",
-  "en": "",
+  "en": "Conqueror's Lightning",
   "width": 24
  },
  {
   "id": "SYSTEM/2/1630e",
   "jp": "野望に溺れし者が独占するリング",
-  "en": "",
+  "en": "Held by one drowned in ambition",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16352",
   "jp": "冥府より来る者",
-  "en": "",
+  "en": "One Come from Hades",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16370",
   "jp": "大罪を背負った者が独占するリング",
-  "en": "",
+  "en": "Held by a bearer of great sin",
   "width": 32
  },
  {
   "id": "SYSTEM/2/163b4",
   "jp": "神をも滅する剱",
-  "en": "",
+  "en": "God-Slaying Sword",
   "width": 24
  },
  {
   "id": "SYSTEM/2/163d2",
   "jp": "翼を持つヒトの真実を語るリング",
-  "en": "",
+  "en": "Tells the truth of winged Man",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16416",
   "jp": "再起する胎動",
-  "en": "",
+  "en": "Resurgent Quickening",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16434",
   "jp": "死を操る魔眼の力を宿すリング",
-  "en": "",
+  "en": "Holds the death-ruling Evil Eye",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16478",
   "jp": "再起する英雄",
-  "en": "",
+  "en": "Resurgent Hero",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16496",
   "jp": "再興を誓う悪夢の王のリング",
-  "en": "",
+  "en": "Nightmare king's vow of revival",
   "width": 32
  },
  {
   "id": "SYSTEM/2/164da",
   "jp": "凍える錬金術師",
-  "en": "",
+  "en": "Freezing Alchemist",
   "width": 24
  },
  {
   "id": "SYSTEM/2/164f8",
   "jp": "知識に溺れた愚者が残したリング",
-  "en": "",
+  "en": "Left by a fool drowning in lore",
   "width": 32
  },
  {
   "id": "SYSTEM/2/1653c",
   "jp": "閉ざした世界",
-  "en": "",
+  "en": "Closed World",
   "width": 24
  },
  {
   "id": "SYSTEM/2/1655a",
   "jp": "絶望に負けた者が残したリング",
-  "en": "",
+  "en": "Left by one who lost to despair",
   "width": 32
  },
  {
   "id": "SYSTEM/2/1659e",
   "jp": "守護の誓い",
-  "en": "",
+  "en": "Oath of Protection",
   "width": 24
  },
  {
   "id": "SYSTEM/2/165bc",
   "jp": "主に絶対の忠誠を誓う騎士のリング",
-  "en": "",
+  "en": "Knight sworn wholly to his lord",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16600",
   "jp": "中立たる識者",
-  "en": "",
+  "en": "Neutral Scholar",
   "width": 24
  },
  {
   "id": "SYSTEM/2/1661e",
   "jp": "翼なき弱者のリング",
-  "en": "",
+  "en": "Ring of the wingless weak",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16662",
   "jp": "独善たる使者",
-  "en": "",
+  "en": "Self-Righteous Envoy",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16680",
   "jp": "高慢な偽善者のリング",
-  "en": "",
+  "en": "Ring of an arrogant hypocrite",
   "width": 32
  },
  {
   "id": "SYSTEM/2/166c4",
   "jp": "奔放たる選者",
-  "en": "",
+  "en": "Unbridled Arbiter",
   "width": 24
  },
  {
   "id": "SYSTEM/2/166e2",
   "jp": "強欲なる破壊者のリング",
-  "en": "",
+  "en": "Ring of a greedy destroyer",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16726",
   "jp": "望んだ世界",
-  "en": "",
+  "en": "Desired World",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16744",
   "jp": "創り出す力のみ封じたリング",
-  "en": "",
+  "en": "Seals only the power to create",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16788",
   "jp": "裁きの契約",
-  "en": "",
+  "en": "Covenant of Judgment",
   "width": 24
  },
  {
   "id": "SYSTEM/2/167a6",
   "jp": "最も神聖な契約のリング",
-  "en": "",
+  "en": "Ring of the holiest covenant",
   "width": 32
  },
  {
   "id": "SYSTEM/2/167ea",
   "jp": "終わりの始まり",
-  "en": "",
+  "en": "Beginning of the End",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16808",
   "jp": "禁断の滅びと再生を表すリング",
-  "en": "",
+  "en": "Of forbidden ruin and rebirth",
   "width": 32
  },
  {
   "id": "SYSTEM/2/1684c",
   "jp": "募る想いの告白",
-  "en": "",
+  "en": "Confession of Longing",
   "width": 24
  },
  {
   "id": "SYSTEM/2/1686a",
   "jp": "「我に影の名を告げよ…」",
-  "en": "",
+  "en": "\"Tell me my shadow's name...\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/168ae",
   "jp": "ささやく精霊",
-  "en": "",
+  "en": "Whispering Spirit",
   "width": 24
  },
  {
   "id": "SYSTEM/2/168cc",
   "jp": "「女神の詩に憩う子羊の群れ」",
-  "en": "",
+  "en": "\"Lambs lulled by Goddess' song\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16910",
   "jp": "詠唱する精霊",
-  "en": "",
+  "en": "Chanting Spirit",
   "width": 24
  },
  {
   "id": "SYSTEM/2/1692e",
   "jp": "「傷つきし王を守る子羊」",
-  "en": "",
+  "en": "\"Lamb shielding a wounded King\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16972",
   "jp": "巡礼する精霊",
-  "en": "",
+  "en": "Pilgrim Spirit",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16990",
   "jp": "「病に伏せる子羊を抱く女神」",
-  "en": "",
+  "en": "\"Goddess cradling a sick Lamb\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/169d4",
   "jp": "鋭き眼光",
-  "en": "",
+  "en": "Piercing Glare",
   "width": 24
  },
  {
   "id": "SYSTEM/2/169f2",
   "jp": "「竜の呪縛に囚われた紳士」",
-  "en": "",
+  "en": "\"Gent under the Dragon's curse\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16a36",
   "jp": "絶えない夜",
-  "en": "",
+  "en": "Endless Night",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16a54",
   "jp": "「混沌に囚われた竜の暴君」",
-  "en": "",
+  "en": "\"Dragon Tyrant held by Chaos\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16a98",
   "jp": "踊る道化師",
-  "en": "",
+  "en": "Dancing Clown",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16ab6",
   "jp": "「混沌の詩に囚われた道化」",
-  "en": "",
+  "en": "\"Clown captive to Chaos's song\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16afa",
   "jp": "過酷な抱擁",
-  "en": "",
+  "en": "Cruel Embrace",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16b18",
   "jp": "「女神の愛に囚われた子羊」",
-  "en": "",
+  "en": "\"Lamb bound by Goddess's love\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16b5c",
   "jp": "微笑む暗殺者",
-  "en": "",
+  "en": "Smiling Assassin",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16b7a",
   "jp": "「偽りの女神に囚われた子羊」",
-  "en": "",
+  "en": "\"Lamb held by a false Goddess\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16bbe",
   "jp": "誘う眠り姫",
-  "en": "",
+  "en": "Luring Sleeping Beauty",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16bdc",
   "jp": "「誘惑の女神に囚われた詩人」",
-  "en": "",
+  "en": "\"Poet held by a Goddess's lure\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16c20",
   "jp": "乱舞する踊り子",
-  "en": "",
+  "en": "Whirling Dancer",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16c3e",
   "jp": "「踊る女神に囚われた詩人」",
-  "en": "",
+  "en": "\"Poet held by dancing Goddess\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16c82",
   "jp": "傷負いの剣士",
-  "en": "",
+  "en": "Wounded Swordsman",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16ca0",
   "jp": "「王に忠誠を捧げる紳士」",
-  "en": "",
+  "en": "\"Gent sworn to the King\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16ce4",
   "jp": "酔った魔術師",
-  "en": "",
+  "en": "Drunken Magician",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16d02",
   "jp": "「混沌の美酒に魂を捧げた紳士」",
-  "en": "",
+  "en": "\"Gent's soul for Chaos' wine\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16d46",
   "jp": "怠慢な衛兵",
-  "en": "",
+  "en": "Negligent Guard",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16d64",
   "jp": "「王に口先の忠誠を捧げる紳士」",
-  "en": "",
+  "en": "\"Gent's empty vows to the King\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16da8",
   "jp": "それぞれの立場",
-  "en": "",
+  "en": "Where Each Stands",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16dc6",
   "jp": "「王の元に集う羊達の群れ」",
-  "en": "",
+  "en": "\"Sheep flocking to the King\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16e0a",
   "jp": "病める旅人",
-  "en": "",
+  "en": "Ailing Traveler",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16e28",
   "jp": "「放浪の王に捧げる詩」",
-  "en": "",
+  "en": "\"A poem for the wandering King\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16e6c",
   "jp": "没落した騎士",
-  "en": "",
+  "en": "Fallen Knight",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16e8a",
   "jp": "「混沌に忠誠を捧げた紳士」",
-  "en": "",
+  "en": "\"Gent sworn to Chaos\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16ece",
   "jp": "引退した技術者",
-  "en": "",
+  "en": "Retired Engineer",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16eec",
   "jp": "「混沌に全てを捧げた男の詩」",
-  "en": "",
+  "en": "\"Poem of a man given to Chaos\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16f30",
   "jp": "猛る戦士",
-  "en": "",
+  "en": "Raging Warrior",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16f4e",
   "jp": "「暴君に捧げられた竜の血」",
-  "en": "",
+  "en": "\"Dragon's blood for the Tyrant\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16f92",
   "jp": "秩序の烙印",
-  "en": "",
+  "en": "Brand of Order",
   "width": 24
  },
  {
   "id": "SYSTEM/2/16fb0",
   "jp": "「暴君が掲げる竜の烙印」",
-  "en": "",
+  "en": "\"Dragon brand the Tyrant bears\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/16ff4",
   "jp": "混沌の証明",
-  "en": "",
+  "en": "Proof of Chaos",
   "width": 24
  },
  {
   "id": "SYSTEM/2/17012",
   "jp": "「混沌の美酒に魂を捧げる女神」",
-  "en": "",
+  "en": "\"Goddess' soul for Chaos' wine\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/17056",
   "jp": "火精の溜め息",
-  "en": "",
+  "en": "Fire Sprite's Sigh",
   "width": 24
  },
  {
   "id": "SYSTEM/2/17074",
   "jp": "「暴君を焦がす竜の息吹」",
-  "en": "",
+  "en": "\"Dragonbreath sears the Tyrant\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/170b8",
   "jp": "火竜の逆鱗",
-  "en": "",
+  "en": "Fire Dragon's Wrath",
   "width": 24
  },
  {
   "id": "SYSTEM/2/170d6",
   "jp": "「怒れる竜の業火」",
-  "en": "",
+  "en": "\"Hellfire of a wrathful Dragon\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/1711a",
   "jp": "戯れる氷精",
-  "en": "",
+  "en": "Playful Ice Sprite",
   "width": 24
  },
  {
   "id": "SYSTEM/2/17138",
   "jp": "「冷血の紳士が招く混沌の叫び」",
-  "en": "",
+  "en": "\"Cold Gent beckons Chaos's cry\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/1717c",
   "jp": "凍てつく災禍",
-  "en": "",
+  "en": "Freezing Calamity",
   "width": 24
  },
  {
   "id": "SYSTEM/2/1719a",
   "jp": "「凍れる刻を砕く混沌の叫び」",
-  "en": "",
+  "en": "\"Chaos's cry rends frozen time\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/171de",
   "jp": "雪原の雷雨",
-  "en": "",
+  "en": "Snowfield Thunderstorm",
   "width": 24
  },
  {
   "id": "SYSTEM/2/171fc",
   "jp": "「紳士たる王を守護する女神の剣」",
-  "en": "",
+  "en": "\"Goddess' sword over Gent King\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/17240",
   "jp": "咆哮する雷鳴",
-  "en": "",
+  "en": "Roaring Thunder",
   "width": 24
  },
  {
   "id": "SYSTEM/2/1725e",
   "jp": "「聖なる王を守護する女神の剣」",
-  "en": "",
+  "en": "\"Goddess' sword over holy King\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/172a2",
   "jp": "収束する暗黒",
-  "en": "",
+  "en": "Converging Darkness",
   "width": 24
  },
  {
   "id": "SYSTEM/2/172c0",
   "jp": "「混沌を望む暴君の化身たる竜」",
-  "en": "",
+  "en": "\"Dragon, Chaos-craving Tyrant\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/17304",
   "jp": "深淵の極点",
-  "en": "",
+  "en": "Zenith of the Abyss",
   "width": 24
  },
  {
   "id": "SYSTEM/2/17322",
   "jp": "「邪悪なる意志の化身たる竜」",
-  "en": "",
+  "en": "\"Dragon, evil will incarnate\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/17366",
   "jp": "拡散する閃光",
-  "en": "",
+  "en": "Spreading Flash",
   "width": 24
  },
  {
   "id": "SYSTEM/2/17384",
   "jp": "「詩に詠われし古の女神の奇跡」",
-  "en": "",
+  "en": "\"Old Goddess' miracle, as sung\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/173c8",
   "jp": "絶望の光彩",
-  "en": "",
+  "en": "Luster of Despair",
   "width": 24
  },
  {
   "id": "SYSTEM/2/173e6",
   "jp": "「闇を穿つ最後の王の一撃」",
-  "en": "",
+  "en": "\"Last King's blow pierces dark\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/1742a",
   "jp": "究極の愛",
-  "en": "",
+  "en": "Ultimate Love",
   "width": 24
  },
  {
   "id": "SYSTEM/2/17448",
   "jp": "「女神に癒された暴君の詩」",
-  "en": "",
+  "en": "\"Poem of Goddess-healed Tyrant\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/1748c",
   "jp": "望む永遠",
-  "en": "",
+  "en": "Desired Eternity",
   "width": 24
  },
  {
   "id": "SYSTEM/2/174aa",
   "jp": "「愛されるべき者達へ…」",
-  "en": "",
+  "en": "\"To those who deserve love...\"",
   "width": 32
  },
  {
   "id": "SYSTEM/2/174f0",
   "jp": "自動反撃",
-  "en": "",
+  "en": "Auto Counter",
   "width": 26
  },
  {
   "id": "SYSTEM/2/1750a",
   "jp": "待機型に依存せず反撃を行う",
-  "en": "",
+  "en": "Counters regardless of stance",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1754e",
   "jp": "自動回復",
-  "en": "",
+  "en": "Auto Heal",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17568",
   "jp": "自軍フェイズの好調時に",
-  "en": "",
+  "en": "When in good form on your phase,",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1758a",
   "jp": "ＨＰが１／２０回復する",
-  "en": "",
+  "en": "recovers 1/20 of HP",
   "width": 34
  },
  {
   "id": "SYSTEM/2/175ac",
   "jp": "飛行移動",
-  "en": "",
+  "en": "Flight",
   "width": 26
  },
  {
   "id": "SYSTEM/2/175c6",
   "jp": "移動が飛行移動になる",
-  "en": "",
+  "en": "Movement becomes flight",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1760a",
   "jp": "瞬間移動",
-  "en": "",
+  "en": "Teleport",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17624",
   "jp": "移動が瞬間移動になる",
-  "en": "",
+  "en": "Movement becomes teleport",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17668",
   "jp": "地中移動",
-  "en": "",
+  "en": "Burrowing",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17682",
   "jp": "移動が地中移動になる",
-  "en": "",
+  "en": "Movement becomes burrowing",
   "width": 34
  },
  {
   "id": "SYSTEM/2/176c6",
   "jp": "空間移動",
-  "en": "",
+  "en": "Spatial Shift",
   "width": 26
  },
  {
   "id": "SYSTEM/2/176e0",
   "jp": "移動が空間移動になる",
-  "en": "",
+  "en": "Movement becomes spatial shift",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17724",
   "jp": "背後攻撃",
-  "en": "",
+  "en": "Rear Attack",
   "width": 26
  },
  {
   "id": "SYSTEM/2/1773e",
   "jp": "好調時に背面からの攻撃力が",
-  "en": "",
+  "en": "When in good form, attacks from",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17760",
   "jp": "増大する",
-  "en": "",
+  "en": "behind grow stronger",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17782",
   "jp": "強奪攻撃",
-  "en": "",
+  "en": "Plunder Attack",
   "width": 26
  },
  {
   "id": "SYSTEM/2/1779c",
   "jp": "対象を武器による攻撃で倒した際に",
-  "en": "",
+  "en": "Steals a target's money when it",
   "width": 34
  },
  {
   "id": "SYSTEM/2/177be",
   "jp": "所持金を奪う",
-  "en": "",
+  "en": "falls to a weapon attack",
   "width": 34
  },
  {
   "id": "SYSTEM/2/177e0",
   "jp": "鉄壁",
-  "en": "",
+  "en": "Iron Wall",
   "width": 26
  },
  {
   "id": "SYSTEM/2/177fa",
   "jp": "方向によるダメージ補正を",
-  "en": "",
+  "en": "Nullifies the damage modifier",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1781c",
   "jp": "無効化する",
-  "en": "",
+  "en": "from facing direction",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1783e",
   "jp": "注目の的",
-  "en": "",
+  "en": "Center of Attention",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17858",
   "jp": "対象に影響を与えた際に",
-  "en": "",
+  "en": "Draws a target's attention to",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1787a",
   "jp": "自分に注目させる",
-  "en": "",
+  "en": "you whenever you affect it",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1789c",
   "jp": "移動＋",
-  "en": "",
+  "en": "Move+",
   "width": 26
  },
  {
   "id": "SYSTEM/2/178b6",
   "jp": "移動力が１つ増加する",
-  "en": "",
+  "en": "Movement increases by 1",
   "width": 34
  },
  {
   "id": "SYSTEM/2/178fa",
   "jp": "行動＋",
-  "en": "",
+  "en": "Action+",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17914",
   "jp": "行動力が１つ増加する",
-  "en": "",
+  "en": "Actions increase by 1",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17958",
   "jp": "経験＋",
-  "en": "",
+  "en": "EXP+",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17972",
   "jp": "対象を倒した際に入手する経験値",
-  "en": "",
+  "en": "Doubles the experience gained",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17994",
   "jp": "が２倍になる",
-  "en": "",
+  "en": "from defeating a target",
   "width": 34
  },
  {
   "id": "SYSTEM/2/179b6",
   "jp": "報酬＋",
-  "en": "",
+  "en": "Reward+",
   "width": 26
  },
  {
   "id": "SYSTEM/2/179d0",
   "jp": "対象を倒した際に入手するお金",
-  "en": "",
+  "en": "Doubles the money gained from",
   "width": 34
  },
  {
   "id": "SYSTEM/2/179f2",
   "jp": "が２倍になる",
-  "en": "",
+  "en": "defeating a target",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17a14",
   "jp": "移動ＳＰ",
-  "en": "",
+  "en": "Move SP",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17a2e",
   "jp": "移動のフェイズ使用制限が",
-  "en": "",
+  "en": "Lifts the per-phase limit on",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17a50",
   "jp": "解除される",
-  "en": "",
+  "en": "movement",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17a72",
   "jp": "攻撃ＳＰ",
-  "en": "",
+  "en": "Attack SP",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17a8c",
   "jp": "攻撃のフェイズ使用制限が",
-  "en": "",
+  "en": "Lifts the per-phase limit on",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17aae",
   "jp": "解除される",
-  "en": "",
+  "en": "attacks",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17ad0",
   "jp": "道具ＳＰ",
-  "en": "",
+  "en": "Item SP",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17aea",
   "jp": "道具のフェイズ使用制限が",
-  "en": "",
+  "en": "Lifts the per-phase limit on",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17b0c",
   "jp": "解除される",
-  "en": "",
+  "en": "items",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17b2e",
   "jp": "ツールマスター",
-  "en": "",
+  "en": "Tool Master",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17b48",
   "jp": "道具の射程が拡大する",
-  "en": "",
+  "en": "Extends item range",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17b8c",
   "jp": "スキルマスター",
-  "en": "",
+  "en": "Skill Master",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17ba6",
   "jp": "旧時系スキルの能力を最大限",
-  "en": "",
+  "en": "Draws out the full power of",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17bc8",
   "jp": "引き出すことができる",
-  "en": "",
+  "en": "legacy skills",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17bea",
   "jp": "ギャザペイン",
-  "en": "",
+  "en": "Gather Pain",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17c04",
   "jp": "ＰＰの消費量が１／２になる",
-  "en": "",
+  "en": "PP cost becomes 1/2",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17c48",
   "jp": "サクリファイス",
-  "en": "",
+  "en": "Sacrifice",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17c62",
   "jp": "無限の命を得る",
-  "en": "",
+  "en": "Grants infinite life",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17ca6",
   "jp": "サバイブペイン",
-  "en": "",
+  "en": "Survive Pain",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17cc0",
   "jp": "ペインリングに無限の力を注ぐ",
-  "en": "",
+  "en": "Infinite power to the Pain Ring",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17d04",
   "jp": "ブラッドメモリ",
-  "en": "",
+  "en": "Blood Memory",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17d1e",
   "jp": "マスターした全自動系スキルが",
-  "en": "",
+  "en": "All mastered auto-type skills",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17d40",
   "jp": "有効になる",
-  "en": "",
+  "en": "take effect",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17d62",
   "jp": "コマンドバンク",
-  "en": "",
+  "en": "Command Bank",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17d7c",
   "jp": "マスターした全発動系スキルが",
-  "en": "",
+  "en": "All mastered command-type skills",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17d9e",
   "jp": "有効になる",
-  "en": "",
+  "en": "take effect",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17dc0",
   "jp": "エクストレンジ",
-  "en": "",
+  "en": "Extra Range",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17dda",
   "jp": "攻撃射程を拡大する",
-  "en": "",
+  "en": "Extends attack range",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17e1e",
   "jp": "リアクイレイス",
-  "en": "",
+  "en": "React Erase",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17e38",
   "jp": "対象の待機型を無力化する",
-  "en": "",
+  "en": "Neutralizes a target's stance",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17e7c",
   "jp": "ガードイレイス",
-  "en": "",
+  "en": "Guard Erase",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17e96",
   "jp": "対象のガード補正を無力化する",
-  "en": "",
+  "en": "Nullifies a target's guard bonus",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17eda",
   "jp": "ノックバック",
-  "en": "",
+  "en": "Knockback",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17ef4",
   "jp": "対象を後退させる",
-  "en": "",
+  "en": "Pushes a target back",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17f38",
   "jp": "ヒール",
-  "en": "",
+  "en": "Heal",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17f52",
   "jp": "対象のＨＰを回復する",
-  "en": "",
+  "en": "Restores a target's HP",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17f96",
   "jp": "ミストヒール",
-  "en": "",
+  "en": "Mist Heal",
   "width": 26
  },
  {
   "id": "SYSTEM/2/17fb0",
   "jp": "複数対象のＨＰを回復する",
-  "en": "",
+  "en": "Restores HP to multiple targets",
   "width": 34
  },
  {
   "id": "SYSTEM/2/17ff4",
   "jp": "プログヒール",
-  "en": "",
+  "en": "Prog Heal",
   "width": 26
  },
  {
   "id": "SYSTEM/2/1800e",
   "jp": "複数対象のＨＰを大幅に回復する",
-  "en": "",
+  "en": "Greatly heals multiple targets",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18052",
   "jp": "キュアトリート",
-  "en": "",
+  "en": "Cure Treat",
   "width": 26
  },
  {
   "id": "SYSTEM/2/1806c",
   "jp": "異常ステータスを回復する",
-  "en": "",
+  "en": "Cures status ailments",
   "width": 34
  },
  {
   "id": "SYSTEM/2/180b0",
   "jp": "オーライクスト",
-  "en": "",
+  "en": "Aura Extend",
   "width": 26
  },
  {
   "id": "SYSTEM/2/180ca",
   "jp": "対象のＺＯＣを拡大する",
-  "en": "",
+  "en": "Extends a target's ZOC",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1810e",
   "jp": "フィズバリア",
-  "en": "",
+  "en": "Phys Barrier",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18128",
   "jp": "物理的なものを無力化する",
-  "en": "",
+  "en": "Creates a field that nullifies",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1814a",
   "jp": "フィールドが発生する",
-  "en": "",
+  "en": "physical attacks",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1816c",
   "jp": "スピリバリア",
-  "en": "",
+  "en": "Spirit Barrier",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18186",
   "jp": "魔力を無効化するフィールド",
-  "en": "",
+  "en": "Creates a field that nullifies",
   "width": 34
  },
  {
   "id": "SYSTEM/2/181a8",
   "jp": "が発生する",
-  "en": "",
+  "en": "magic",
   "width": 34
  },
  {
   "id": "SYSTEM/2/181ca",
   "jp": "パフェクバリア",
-  "en": "",
+  "en": "Perfect Barrier",
   "width": 26
  },
  {
   "id": "SYSTEM/2/181e4",
   "jp": "全てを無力化するフィールド",
-  "en": "",
+  "en": "Creates a field that nullifies",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18206",
   "jp": "が発生する",
-  "en": "",
+  "en": "everything",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18228",
   "jp": "リザレクション",
-  "en": "",
+  "en": "Resurrection",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18242",
   "jp": "１度だけ死を超越する",
-  "en": "",
+  "en": "Transcends death just once",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18286",
   "jp": "ポジチェンジ",
-  "en": "",
+  "en": "Position Change",
   "width": 26
  },
  {
   "id": "SYSTEM/2/182a0",
   "jp": "対象と自分の位置を入れ替える",
-  "en": "",
+  "en": "Swaps places with a target",
   "width": 34
  },
  {
   "id": "SYSTEM/2/182e4",
   "jp": "ＬＶダメージ",
-  "en": "",
+  "en": "LV Damage",
   "width": 26
  },
  {
   "id": "SYSTEM/2/182fe",
   "jp": "自分のＬＶ分をダメージ",
-  "en": "",
+  "en": "Deals damage equal to",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18320",
   "jp": "として与える",
-  "en": "",
+  "en": "your own LV",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18342",
   "jp": "ＨＰダメージ",
-  "en": "",
+  "en": "HP Damage",
   "width": 26
  },
  {
   "id": "SYSTEM/2/1835c",
   "jp": "自分のＨＰ差分をダメージ",
-  "en": "",
+  "en": "Deals damage equal to your",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1837e",
   "jp": "として与える",
-  "en": "",
+  "en": "missing HP",
   "width": 34
  },
  {
   "id": "SYSTEM/2/183a0",
   "jp": "ＨＰスティル",
-  "en": "",
+  "en": "HP Steal",
   "width": 26
  },
  {
   "id": "SYSTEM/2/183ba",
   "jp": "与えたダメージの１／２を",
-  "en": "",
+  "en": "Returns 1/2 of damage dealt",
   "width": 34
  },
  {
   "id": "SYSTEM/2/183dc",
   "jp": "ＨＰに還元する",
-  "en": "",
+  "en": "to your HP",
   "width": 34
  },
  {
   "id": "SYSTEM/2/183fe",
   "jp": "ＰＰスティル",
-  "en": "",
+  "en": "PP Steal",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18418",
   "jp": "与えたダメージの１／２を",
-  "en": "",
+  "en": "Returns 1/2 of damage dealt",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1843a",
   "jp": "ＰＰに還元する",
-  "en": "",
+  "en": "to your PP",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1845c",
   "jp": "ペトリファイ",
-  "en": "",
+  "en": "Petrify",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18476",
   "jp": "対象を石化にする",
-  "en": "",
+  "en": "Petrifies a target",
   "width": 34
  },
  {
   "id": "SYSTEM/2/184ba",
   "jp": "ダーク",
-  "en": "",
+  "en": "Dark",
   "width": 26
  },
  {
   "id": "SYSTEM/2/184d4",
   "jp": "対象に暗闇を与える",
-  "en": "",
+  "en": "Inflicts darkness on a target",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18518",
   "jp": "パニック",
-  "en": "",
+  "en": "Panic",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18532",
   "jp": "対象を混乱させる",
-  "en": "",
+  "en": "Confuses a target",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18576",
   "jp": "パラライズ",
-  "en": "",
+  "en": "Paralyze",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18590",
   "jp": "対象を麻痺させる",
-  "en": "",
+  "en": "Paralyzes a target",
   "width": 34
  },
  {
   "id": "SYSTEM/2/185d4",
   "jp": "ポイズン",
-  "en": "",
+  "en": "Poison",
   "width": 26
  },
  {
   "id": "SYSTEM/2/185ee",
   "jp": "対象に毒を与える",
-  "en": "",
+  "en": "Poisons a target",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18632",
   "jp": "スリープ",
-  "en": "",
+  "en": "Sleep",
   "width": 26
  },
  {
   "id": "SYSTEM/2/1864c",
   "jp": "対象を眠らせる",
-  "en": "",
+  "en": "Puts a target to sleep",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18690",
   "jp": "リズムブレイク",
-  "en": "",
+  "en": "Rhythm Break",
   "width": 26
  },
  {
   "id": "SYSTEM/2/186aa",
   "jp": "対象のリズムを破壊する",
-  "en": "",
+  "en": "Breaks a target's rhythm",
   "width": 34
  },
  {
   "id": "SYSTEM/2/186ee",
   "jp": "ニューロダウン",
-  "en": "",
+  "en": "Neuro Down",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18708",
   "jp": "対象の攻撃力を低下させる",
-  "en": "",
+  "en": "Lowers a target's attack",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1874c",
   "jp": "マギダウン",
-  "en": "",
+  "en": "Magi Down",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18766",
   "jp": "対象の魔力を低下させる",
-  "en": "",
+  "en": "Lowers a target's magic",
   "width": 34
  },
  {
   "id": "SYSTEM/2/187aa",
   "jp": "オーライレイス",
-  "en": "",
+  "en": "Aura Erase",
   "width": 26
  },
  {
   "id": "SYSTEM/2/187c4",
   "jp": "対象のＺＯＣを消去する",
-  "en": "",
+  "en": "Erases a target's ZOC",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18808",
   "jp": "ムーブシール",
-  "en": "",
+  "en": "Move Seal",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18822",
   "jp": "対象の移動行動を１フェイズだけ",
-  "en": "",
+  "en": "Seals a target's movement for",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18844",
   "jp": "封じる",
-  "en": "",
+  "en": "one phase only",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18866",
   "jp": "アタックシール",
-  "en": "",
+  "en": "Attack Seal",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18880",
   "jp": "対象の攻撃行動を１フェイズだけ",
-  "en": "",
+  "en": "Seals a target's attacks for",
   "width": 34
  },
  {
   "id": "SYSTEM/2/188a2",
   "jp": "封じる",
-  "en": "",
+  "en": "one phase only",
   "width": 34
  },
  {
   "id": "SYSTEM/2/188c4",
   "jp": "アイテムシール",
-  "en": "",
+  "en": "Item Seal",
   "width": 26
  },
  {
   "id": "SYSTEM/2/188de",
   "jp": "対象の道具使用を１フェイズだけ",
-  "en": "",
+  "en": "Seals a target's item use for",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18900",
   "jp": "封じる",
-  "en": "",
+  "en": "one phase only",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18922",
   "jp": "エモフレア",
-  "en": "",
+  "en": "Emo Flare",
   "width": 26
  },
  {
   "id": "SYSTEM/2/1893c",
   "jp": "炎の助力を得る",
-  "en": "",
+  "en": "Gains the aid of flame",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18980",
   "jp": "コアフレア",
-  "en": "",
+  "en": "Core Flare",
   "width": 26
  },
  {
   "id": "SYSTEM/2/1899a",
   "jp": "炎を導く",
-  "en": "",
+  "en": "Guides the flame",
   "width": 34
  },
  {
   "id": "SYSTEM/2/189de",
   "jp": "ソリッドブリザ",
-  "en": "",
+  "en": "Solid Blizzard",
   "width": 26
  },
  {
   "id": "SYSTEM/2/189f8",
   "jp": "氷の助力を得る",
-  "en": "",
+  "en": "Gains the aid of ice",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18a3c",
   "jp": "ピラーブリザ",
-  "en": "",
+  "en": "Pillar Blizzard",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18a56",
   "jp": "氷を導く",
-  "en": "",
+  "en": "Guides the ice",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18a9a",
   "jp": "テクサンダ",
-  "en": "",
+  "en": "Tech Thunder",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18ab4",
   "jp": "雷の助力を得る",
-  "en": "",
+  "en": "Gains the aid of thunder",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18af8",
   "jp": "オルタサンダ",
-  "en": "",
+  "en": "Alter Thunder",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18b12",
   "jp": "雷を導く",
-  "en": "",
+  "en": "Guides the thunder",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18b56",
   "jp": "カースダーク",
-  "en": "",
+  "en": "Curse Dark",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18b70",
   "jp": "暗黒の力を引き出す",
-  "en": "",
+  "en": "Draws out the power of darkness",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18bb4",
   "jp": "ゴシックダーク",
-  "en": "",
+  "en": "Gothic Dark",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18bce",
   "jp": "邪悪なる者に睨まれる",
-  "en": "",
+  "en": "Draws the glare of the wicked",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18c12",
   "jp": "セルライト",
-  "en": "",
+  "en": "Cell Light",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18c2c",
   "jp": "光の力を引き出す",
-  "en": "",
+  "en": "Draws out the power of light",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18c70",
   "jp": "スラッジライト",
-  "en": "",
+  "en": "Sludge Light",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18c8a",
   "jp": "浄化の眼差し",
-  "en": "",
+  "en": "A purifying gaze",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18cce",
   "jp": "ロウクレスト",
-  "en": "",
+  "en": "Law Crest",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18ce8",
   "jp": "パスカにのみダメージを与える",
-  "en": "",
+  "en": "Damages only Pasca",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18d2c",
   "jp": "カオスクレスト",
-  "en": "",
+  "en": "Chaos Crest",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18d46",
   "jp": "エンブリオンにのみダメージを",
-  "en": "",
+  "en": "Deals damage only to",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18d68",
   "jp": "与える",
-  "en": "",
+  "en": "Embryon",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18d8a",
   "jp": "トランスニュー",
-  "en": "",
+  "en": "Trans Neutral",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18da4",
   "jp": "ヒト以外の存在を認めない",
-  "en": "",
+  "en": "Acknowledges none but Man",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18dc6",
   "jp": "天使・悪魔のみダメージを与える",
-  "en": "",
+  "en": "Damages only angels and demons",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18de8",
   "jp": "トランスロウ",
-  "en": "",
+  "en": "Trans Law",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18e02",
   "jp": "天使以外の存在を認めない",
-  "en": "",
+  "en": "Acknowledges none but angels",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18e24",
   "jp": "ヒト・悪魔のみダメージを与える",
-  "en": "",
+  "en": "Damages only Man and demons",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18e46",
   "jp": "トランスカオス",
-  "en": "",
+  "en": "Trans Chaos",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18e60",
   "jp": "悪魔以外の存在を認めない",
-  "en": "",
+  "en": "Acknowledges none but demons",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18e82",
   "jp": "ヒト・天使のみダメージを与える",
-  "en": "",
+  "en": "Damages only Man and angels",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18ea4",
   "jp": "ＰＰフリーズ",
-  "en": "",
+  "en": "PP Freeze",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18ebe",
   "jp": "対象のＰＰを凍結させる",
-  "en": "",
+  "en": "Freezes a target's PP",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18f02",
   "jp": "リングシール",
-  "en": "",
+  "en": "Ring Seal",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18f1c",
   "jp": "対象のペインリングを封印する",
-  "en": "",
+  "en": "Seals a target's Pain Ring",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18f60",
   "jp": "アドファシネ",
-  "en": "",
+  "en": "Ad Fascine",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18f7a",
   "jp": "対象を魅了する",
-  "en": "",
+  "en": "Charms a target",
   "width": 34
  },
  {
   "id": "SYSTEM/2/18fbe",
   "jp": "デスフレア",
-  "en": "",
+  "en": "Death Flare",
   "width": 26
  },
  {
   "id": "SYSTEM/2/18fd8",
   "jp": "炎の力を解放する",
-  "en": "",
+  "en": "Unleashes the power of flame",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1901c",
   "jp": "バウブリザ",
-  "en": "",
+  "en": "Bow Blizzard",
   "width": 26
  },
  {
   "id": "SYSTEM/2/19036",
   "jp": "氷の力を解放する",
-  "en": "",
+  "en": "Unleashes the power of ice",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1907a",
   "jp": "トランスサンダ",
-  "en": "",
+  "en": "Trans Thunder",
   "width": 26
  },
  {
   "id": "SYSTEM/2/19094",
   "jp": "雷の力を解放する",
-  "en": "",
+  "en": "Unleashes the power of thunder",
   "width": 34
  },
  {
   "id": "SYSTEM/2/190d8",
   "jp": "ドゥームダーク",
-  "en": "",
+  "en": "Doom Dark",
   "width": 26
  },
  {
   "id": "SYSTEM/2/190f2",
   "jp": "邪悪なる世界の息吹",
-  "en": "",
+  "en": "Breath of a wicked world",
   "width": 34
  },
  {
   "id": "SYSTEM/2/19136",
   "jp": "クラストライト",
-  "en": "",
+  "en": "Crust Light",
   "width": 26
  },
  {
   "id": "SYSTEM/2/19150",
   "jp": "裁きの光",
-  "en": "",
+  "en": "Light of judgment",
   "width": 34
  },
  {
   "id": "SYSTEM/2/19194",
   "jp": "インフェルノ",
-  "en": "",
+  "en": "Inferno",
   "width": 26
  },
  {
   "id": "SYSTEM/2/191ae",
   "jp": "古より伝わる創世の一節",
-  "en": "",
+  "en": "An ancient verse of creation",
   "width": 34
  },
  {
   "id": "SYSTEM/2/191f2",
   "jp": "ブルータルレイ",
-  "en": "",
+  "en": "Brutal Ray",
   "width": 26
  },
  {
   "id": "SYSTEM/2/1920c",
   "jp": "古より伝わる聖なる一節",
-  "en": "",
+  "en": "An ancient verse of sanctity",
   "width": 34
  },
  {
   "id": "SYSTEM/2/19250",
   "jp": "ラストワード",
-  "en": "",
+  "en": "Last Word",
   "width": 26
  },
  {
   "id": "SYSTEM/2/1926a",
   "jp": "古より伝わる禁断の一節",
-  "en": "",
+  "en": "An ancient forbidden verse",
   "width": 34
  },
  {
   "id": "SYSTEM/2/192ae",
   "jp": "ニューメテオ",
-  "en": "",
+  "en": "Neutral Meteor",
   "width": 26
  },
  {
   "id": "SYSTEM/2/192c8",
   "jp": "古より伝わる来訪の一節",
-  "en": "",
+  "en": "An ancient verse of visitation",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1930c",
   "jp": "エレクメテオ",
-  "en": "",
+  "en": "Elec Meteor",
   "width": 26
  },
  {
   "id": "SYSTEM/2/19326",
   "jp": "古より伝わる太陽の一節",
-  "en": "",
+  "en": "An ancient verse of the sun",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1936a",
   "jp": "アルマメテオ",
-  "en": "",
+  "en": "Arma Meteor",
   "width": 26
  },
  {
   "id": "SYSTEM/2/19384",
   "jp": "古より伝わる崩壊の一節",
-  "en": "",
+  "en": "An ancient verse of collapse",
   "width": 34
  },
  {
   "id": "SYSTEM/2/193c8",
   "jp": "収束する定理",
-  "en": "",
+  "en": "Converging Theorem",
   "width": 26
  },
  {
   "id": "SYSTEM/2/193e2",
   "jp": "雷撃による一撃",
-  "en": "",
+  "en": "A single lightning strike",
   "width": 34
  },
  {
   "id": "SYSTEM/2/19426",
   "jp": "誠実な証明",
-  "en": "",
+  "en": "Honest Proof",
   "width": 26
  },
  {
   "id": "SYSTEM/2/19440",
   "jp": "創造物による落下攻撃",
-  "en": "",
+  "en": "Falling attack by a creation",
   "width": 34
  },
  {
   "id": "SYSTEM/2/19484",
   "jp": "絶対的な存在",
-  "en": "",
+  "en": "Absolute Being",
   "width": 26
  },
  {
   "id": "SYSTEM/2/1949e",
   "jp": "創造物による隆起攻撃",
-  "en": "",
+  "en": "Rising attack by a creation",
   "width": 34
  },
  {
   "id": "SYSTEM/2/194e2",
   "jp": "超越する摂理",
-  "en": "",
+  "en": "Transcendent Providence",
   "width": 26
  },
  {
   "id": "SYSTEM/2/194fc",
   "jp": "極致の消滅破",
-  "en": "",
+  "en": "The ultimate annihilation blast",
   "width": 34
  },
  {
   "id": "SYSTEM/2/19540",
   "jp": "再生する論理",
-  "en": "",
+  "en": "Regenerating Logic",
   "width": 26
  },
  {
   "id": "SYSTEM/2/1955a",
   "jp": "ＨＰ・異常ステータスを回復する",
-  "en": "",
+  "en": "Restores HP and cures ailments",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1959e",
   "jp": "ライフブレス",
-  "en": "",
+  "en": "Life Breath",
   "width": 26
  },
  {
   "id": "SYSTEM/2/195b8",
   "jp": "全てに共鳴する生命の息吹",
-  "en": "",
+  "en": "Breath of life resonating in all",
   "width": 34
  },
  {
   "id": "SYSTEM/2/195fc",
   "jp": "ゴッドスペイル",
-  "en": "",
+  "en": "God Spale",
   "width": 26
  },
  {
   "id": "SYSTEM/2/19616",
   "jp": "全てに共鳴する苦痛の波動",
-  "en": "",
+  "en": "Wave of pain resonating in all",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1965a",
   "jp": "ラプソドス",
-  "en": "",
+  "en": "Rhapsodos",
   "width": 26
  },
  {
   "id": "SYSTEM/2/19674",
   "jp": "死をうたう影ならぬ吟遊詩人",
-  "en": "",
+  "en": "No shade: the bard singing death",
   "width": 34
  },
  {
   "id": "SYSTEM/2/19696",
   "jp": "横斬りを使う者の呼びかけに応じる",
-  "en": "",
+  "en": "Heeds the call of Sideways users",
   "width": 34
  },
  {
   "id": "SYSTEM/2/196b8",
   "jp": "テュラント",
-  "en": "",
+  "en": "Tyrant",
   "width": 26
  },
  {
   "id": "SYSTEM/2/196d2",
   "jp": "大ナタを断ちふるう影ならぬ暴君",
-  "en": "",
+  "en": "No shade: Tyrant, cleaver in hand",
   "width": 34
  },
  {
   "id": "SYSTEM/2/196f4",
   "jp": "縦斬りを使う者の呼びかけに応じる",
-  "en": "",
+  "en": "Heeds the call of Downward users",
   "width": 34
  },
  {
   "id": "SYSTEM/2/19716",
   "jp": "ジェント",
-  "en": "",
+  "en": "Gent",
   "width": 26
  },
  {
   "id": "SYSTEM/2/19730",
   "jp": "罪をも貫く影ならぬ紳士",
-  "en": "",
+  "en": "No shade: Gent piercing even sin",
   "width": 34
  },
  {
   "id": "SYSTEM/2/19752",
   "jp": "突きを使う者の呼びかけに応じる",
-  "en": "",
+  "en": "Heeds the call of Thrust users",
   "width": 34
  },
  {
   "id": "SYSTEM/2/19774",
   "jp": "ラムノス",
-  "en": "",
+  "en": "Lamnos",
   "width": 26
  },
  {
   "id": "SYSTEM/2/1978e",
   "jp": "不可量的な影ならぬ子羊",
-  "en": "",
+  "en": "No shade: the immeasurable Lamb",
   "width": 34
  },
  {
   "id": "SYSTEM/2/197b0",
   "jp": "射を使う者の呼びかけに応じる",
-  "en": "",
+  "en": "Heeds the call of Shot users",
   "width": 34
  },
  {
   "id": "SYSTEM/2/197d2",
   "jp": "ティアー",
-  "en": "",
+  "en": "Tear",
   "width": 26
  },
  {
   "id": "SYSTEM/2/197ec",
   "jp": "白き翼の少年を守る影ならぬ女神",
-  "en": "",
+  "en": "No shade: Goddess of a winged boy",
   "width": 34
  },
  {
   "id": "SYSTEM/2/19830",
   "jp": "バクトウス",
-  "en": "",
+  "en": "Bactous",
   "width": 26
  },
  {
   "id": "SYSTEM/2/1984a",
   "jp": "異形の翼を継ぐ影ならぬ王",
-  "en": "",
+  "en": "No shade: King with twisted wings",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1988e",
   "jp": "カオシーカー",
-  "en": "",
+  "en": "Chaoseeker",
   "width": 26
  },
  {
   "id": "SYSTEM/2/198a8",
   "jp": "悪意を統べる影ならぬ混沌",
-  "en": "",
+  "en": "No shade: Chaos that rules malice",
   "width": 34
  },
  {
   "id": "SYSTEM/2/198ec",
   "jp": "ドラッグル",
-  "en": "",
+  "en": "Draggle",
   "width": 26
  },
  {
   "id": "SYSTEM/2/19906",
   "jp": "闇より深き地より生じる影ならぬ竜",
-  "en": "",
+  "en": "No shade: Dragon born below dark",
   "width": 34
  },
  {
   "id": "SYSTEM/2/1994a",
   "jp": "ベルカティア",
-  "en": "",
+  "en": "Belcatia",
   "width": 26
  },
  {
   "id": "SYSTEM/2/19964",
   "jp": "自らの影を取り戻した真なる力",
-  "en": "",
+  "en": "True power, its shadow regained",
   "width": 34
  },
  {
   "id": "SYSTEM/2/199a8",
   "jp": "コンフェション",
-  "en": "",
+  "en": "Confession",
   "width": 26
  },
  {
   "id": "SYSTEM/2/199c2",
   "jp": "潜在する意識を解放する",
-  "en": "",
+  "en": "Frees the latent consciousness",
   "width": 34
  }
 ]

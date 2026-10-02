@@ -226,3 +226,19 @@ Correction: Luca uses アタシ (script 250) and 捜したわよ (056): Luca is 
 | 真紅のトゲ | the Crimson Thorn | |
 | 魔槍 | demon spear | Rubiel's weapon |
 | ギギッ / ギァッ / ギヤァ | Gigik / Gyah / Gyaa | Embryon cries |
+
+## Item and skill vocabulary (SYSTEM tables)
+
+| Japanese | English | notes |
+|---|---|---|
+| 横 / 縦 / 突 / 射 | Sideways / Downward / Thrust / Shot | attack types |
+| 待機型 / 好調 | stance / in good form | |
+| マギ〜 / クレスト〜 / ハイ〜 | Magi / Crest / High | weapon prefixes |
+| 〜双剣 | ... Blades | twin swords |
+| ステッキ / バトン | Cane / Baton | |
+| 護符 / 札 / アンク / ピアス / 腕章 / 腕輪 | Charm / Talisman / Ankh / Earring / Armband / Bracelet | |
+| 影ならぬ | No shade: ... | summon descriptions |
+| 紳士 / 子羊 / 暴君 / 女神 / 道化 / 詩人 | Gent / Lamb / Tyrant / Goddess / Clown / Poet | ring epithets |
+| ボトル/ポット/フラガン/デカンタペイン | Pain Bottle / Pot / Flagon / Decanter | PP items |
+| 見習い神官兵 / 僧兵 / 中位僧兵 / 高位僧兵 | Novice Priest / Monk Soldier / Monk Sergeant / Monk Captain | unit names |
+| 護法兵 / 準護法兵 / 護法天使兵 / 護法天使長 | Law Guard / Jr. Law Guard / Law Angel / Law Archangel | |
