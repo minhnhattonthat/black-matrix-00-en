@@ -6,7 +6,7 @@
    "なぁ雑記帳にあった",
    "あの書き込み、どう思う？"
   ],
-  "en": ""
+  "en": "Hey, that entry in the Notebook. What do you make of it?"
  },
  {
   "id": "SCENARIO/141/0017e",
@@ -15,7 +15,7 @@
    "『少女の命が危ない』っていう",
    "やつのことだよね"
   ],
-  "en": ""
+  "en": "You mean the one that says \"a girl's life is in danger\"?"
  },
  {
   "id": "SCENARIO/141/001e8",
@@ -24,7 +24,7 @@
    "少女とはやはり、インセストの",
    "ことなのでしょうか？"
   ],
-  "en": ""
+  "en": "Could the girl be an Incest, after all?"
  },
  {
   "id": "SCENARIO/141/0025a",
@@ -33,7 +33,7 @@
    "命が危ないのなら",
    "早く助けに行かないと！"
   ],
-  "en": ""
+  "en": "If her life's in danger, we have to go help her, fast!"
  },
  {
   "id": "SCENARIO/141/002c0",
@@ -43,7 +43,7 @@
    "耐えきれず、ここに書き込みを",
    "残したのかもしれん"
   ],
-  "en": ""
+  "en": "Perhaps someone in the Church, unable to bear their guilt, left that entry here."
  },
  {
   "id": "SCENARIO/141/00340",
@@ -53,7 +53,7 @@
    "誰かがこの記事に気付いて",
    "少女を助けに来て欲しいと"
   ],
-  "en": ""
+  "en": "Unable to act themselves, they hope someone will notice it and come save the girl."
  },
  {
   "id": "SCENARIO/141/003d0",
@@ -63,7 +63,7 @@
    "助けたいなら自分で助けに",
    "行けばいいだろ？"
   ],
-  "en": ""
+  "en": "That's pretty convenient of them. If they want her saved, why not do it themselves?"
  },
  {
   "id": "SCENARIO/141/00458",
@@ -72,7 +72,7 @@
    "何か深い事情があったのかも",
    "しれません"
   ],
-  "en": ""
+  "en": "Perhaps there were deeper reasons."
  },
  {
   "id": "SCENARIO/141/00494",
@@ -82,7 +82,7 @@
    "あの書き込みをインセストの",
    "ことと思いもしますが、"
   ],
-  "en": ""
+  "en": "Besides, we only take that entry for an Incest because of who we are..."
  },
  {
   "id": "SCENARIO/141/00500",
@@ -92,7 +92,7 @@
    "興味を持つこともない、",
    "ということか"
   ],
-  "en": ""
+  "en": "Meaning that unless one were looking for such things, it would draw no interest."
  },
  {
   "id": "SCENARIO/141/00584",
@@ -102,7 +102,7 @@
    "どうか、確かなことは",
    "わからないけれど"
   ],
-  "en": ""
+  "en": "I don't know for sure whether it's about an Incest or not,"
  },
  {
   "id": "SCENARIO/141/005ee",
@@ -111,7 +111,7 @@
    "見てしまった以上、",
    "じっとなんかしていられないよ"
   ],
-  "en": ""
+  "en": "but now that I've seen it, I can't just sit still."
  },
  {
   "id": "SCENARIO/141/0063c",
@@ -119,7 +119,7 @@
   "jp": [
    "難しいな・・罠かもしれない"
   ],
-  "en": ""
+  "en": "It's a hard call.. It could be a trap."
  },
  {
   "id": "SCENARIO/141/00668",
@@ -127,7 +127,7 @@
   "jp": [
    "カイン、お前はどうしたい？"
   ],
-  "en": ""
+  "en": "Cain, what do you want to do?"
  },
  {
   "id": "SCENARIO/141/00694",
@@ -135,18 +135,18 @@
   "jp": [
    "ボクは・・・"
   ],
-  "en": "",
+  "en": "I...",
   "spill": false
  },
  {
   "id": "SCENARIO/141/006a8",
   "jp": "　確かめに行きたい",
-  "en": ""
+  "en": "I want to go see"
  },
  {
   "id": "SCENARIO/141/006c4",
   "jp": "　わからないよ",
-  "en": ""
+  "en": "I don't know"
  },
  {
   "id": "SCENARIO/141/006f0",
@@ -155,7 +155,7 @@
    "だまされているのかもしれない",
    "けど、ボクは確かめに行きたい"
   ],
-  "en": ""
+  "en": "We might be getting tricked, but I want to go and find out."
  },
  {
   "id": "SCENARIO/141/00740",
@@ -164,7 +164,7 @@
    "そうじゃなきゃ、ずっと",
    "気になって眠れそうにないもん"
   ],
-  "en": ""
+  "en": "Otherwise it'll bug me so much I won't be able to sleep."
  },
  {
   "id": "SCENARIO/141/007a8",
@@ -172,7 +172,7 @@
   "jp": [
    "・・・わからないよ"
   ],
-  "en": ""
+  "en": "...I don't know."
  },
  {
   "id": "SCENARIO/141/007da",
@@ -181,7 +181,7 @@
    "でも、なんだかすごく",
    "気になるんだ"
   ],
-  "en": ""
+  "en": "But somehow, it really bothers me."
  },
  {
   "id": "SCENARIO/141/00852",
@@ -190,7 +190,7 @@
    "気になるなら行ってみようぜ",
    "他にアテになる情報もないんだ"
   ],
-  "en": ""
+  "en": "If it bothers you, let's go check it out. It's not like we have any other leads."
  },
  {
   "id": "SCENARIO/141/008c8",
@@ -200,7 +200,7 @@
    "こんな罠ともしれない情報を",
    "どうやったら信じられるんだ"
   ],
-  "en": ""
+  "en": "Are you serious? How can you trust information that could well be a trap?"
  },
  {
   "id": "SCENARIO/141/00942",
@@ -209,7 +209,7 @@
    "罠だったらもっと巧妙な手を",
    "使うはずだろ？"
   ],
-  "en": ""
+  "en": "If it were a trap, they'd use something craftier, wouldn't they?"
  },
  {
   "id": "SCENARIO/141/0098e",
@@ -218,7 +218,7 @@
    "それに、俺はヨハネさんの考えに",
    "賛同したいんだ"
   ],
-  "en": ""
+  "en": "Besides, I'd like to go along with Johannes-san's take on it."
  },
  {
   "id": "SCENARIO/141/009f8",
@@ -228,7 +228,7 @@
    "誰かがこの記事に気付いて",
    "くれればいいってやつ？"
   ],
-  "en": ""
+  "en": "The bit about hoping someone notices because they can't do it themselves?"
  },
  {
   "id": "SCENARIO/141/00a60",
@@ -238,7 +238,7 @@
    "せめて助かるかもしれない",
    "可能性の一つを用意したとか"
   ],
-  "en": ""
+  "en": "Leaving it to fate, or at least setting up one chance she might be saved."
  },
  {
   "id": "SCENARIO/141/00ad2",
@@ -246,7 +246,7 @@
   "jp": [
    "そんなんじゃないのかな？"
   ],
-  "en": ""
+  "en": "Something like that, don't you think?"
  },
  {
   "id": "SCENARIO/141/00b24",
@@ -255,7 +255,7 @@
    "書き込んだ人間の気持ちなど",
    "どうでもいい"
   ],
-  "en": ""
+  "en": "I don't care how whoever wrote it feels."
  },
  {
   "id": "SCENARIO/141/00b6e",
@@ -264,7 +264,7 @@
    "他にアテがないなら",
    "そこに行くまでだ"
   ],
-  "en": ""
+  "en": "If there are no other leads, then that's where we go."
  },
  {
   "id": "SCENARIO/141/00bbe",
@@ -273,7 +273,7 @@
    "ま、そういうこと",
    "行くなら早く行こうぜ！！"
   ],
-  "en": ""
+  "en": "Well, there you have it. If we're going, let's go already!!"
  },
  {
   "id": "SCENARIO/141/00c0a",
@@ -283,7 +283,7 @@
    "もし本当にそれがインセストなら",
    "手遅れになっちまう！！"
   ],
-  "en": ""
+  "en": "Her life's in danger, they say. If it really is an Incest, we'll be too late!!"
  },
  {
   "id": "SCENARIO/141/00c98",
@@ -291,12 +291,12 @@
   "jp": [
    "うん"
   ],
-  "en": ""
+  "en": "Yeah."
  },
  {
   "id": "SCENARIO/141/047f8",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/141/04806",
@@ -304,12 +304,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/141/0481e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/141/0482e",
@@ -317,6 +317,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
