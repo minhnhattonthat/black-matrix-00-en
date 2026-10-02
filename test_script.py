@@ -102,6 +102,29 @@ def test_script_past_pc_range_raises():
     assert False, "expected ValueError"
 
 
+def _insert_raises(entries):
+    try:
+        script.insert(SCRIPTS[0][1], entries)
+    except ValueError:
+        return True
+    return False
+
+
+def test_id_matching_no_string_raises():
+    assert _insert_raises([{"id": "SCENARIO/000/00002", "jp": "", "en": "ＡＢ"}])
+
+
+def test_malformed_escape_raises():
+    first = script.extract(SCRIPTS[0][1], "S")[0]
+    for bad in ("{0a}", "{5}", "a{b", "a}b"):
+        assert _insert_raises([{**first, "en": bad}]), bad
+
+
+def test_zero_word_inside_string_raises():
+    first = script.extract(SCRIPTS[0][1], "S")[0]
+    assert _insert_raises([{**first, "en": "ＡＢ{00}{00}ＣＤ"}])
+
+
 if __name__ == "__main__":
     for name, fn in list(globals().items()):
         if name.startswith("test_"):

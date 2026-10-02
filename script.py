@@ -145,6 +145,8 @@ def encode(text: str) -> bytes:
     for k, part in enumerate(_ESCAPE.split(text)):
         if k % 2:
             out.append(int(part, 16))
+        elif "{" in part or "}" in part:
+            raise ValueError(f"malformed escape in {part!r}; write a byte as {{XX}}, uppercase hex")
         else:
             try:
                 out += part.encode("cp932")
@@ -166,12 +168,15 @@ def insert(b: bytes, entries: list[dict]) -> bytes:
         moved[t.off] = len(out)
         for kind, data in t.parts:
             if kind == "s":
-                e = english.get(t.off)
+                e = english.pop(t.off, None)
                 if e:
                     try:
                         data = encode(e["en"])
                     except ValueError as err:
                         raise ValueError(f'{e["id"]}: {err}') from None
+                    padded = data + b"\0" * (len(data) % 2)
+                    if any(padded[i:i + 2] == b"\0\0" for i in range(0, len(padded), 2)):
+                        raise ValueError(f'{e["id"]}: a zero word inside the text would end the string early')
                 # the game ends a string at a zero u16, so complete an odd last word first
                 out += data + b"\0" * (len(data) % 2) + b"\0\0"
             elif kind in "uj":
@@ -182,11 +187,14 @@ def insert(b: bytes, entries: list[dict]) -> bytes:
                 out += data
             else:
                 out += data
+    if english:
+        ids = ", ".join(e["id"] for e in english.values())
+        raise ValueError(f"no string at: {ids}")
     moved[used_length(b)] = len(out)
     for pos, target, off in fixups:
         if target not in moved:
             raise ValueError(f"jump at {off:#x} targets {target:#x}, not a token start")
         struct.pack_into("<I", out, pos, moved[target])
-    if len(out) > 0x20000:
+    if len(out) >= 0x20000:
         raise ValueError(f"script is {len(out):#x} bytes; the program counter covers 0x20000")
     return bytes(out).ljust(max(len(b), -(-len(out) // 2048) * 2048), b"\0")
