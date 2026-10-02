@@ -7,7 +7,7 @@
    "カーイーン",
    "カーイーン"
   ],
-  "en": ""
+  "en": "Caaain... Caaain... Caaain..."
  },
  {
   "id": "SCENARIO/405/000c4",
@@ -17,7 +17,7 @@
    "カーイーン！",
    "カーイーン！"
   ],
-  "en": ""
+  "en": "Caaain! Caaain! Caaain!"
  },
  {
   "id": "SCENARIO/405/00104",
@@ -27,7 +27,7 @@
    "カーイーン！！！",
    "カーイーン！！！"
   ],
-  "en": ""
+  "en": "Caaain!! Caaain!! Caaain!!"
  },
  {
   "id": "SCENARIO/405/00150",
@@ -37,7 +37,7 @@
    "ァァァァァァァァァァァァァァ",
    "ァァァァァァァァァァァァァァ"
   ],
-  "en": ""
+  "en": "WAAAAAAAAAAAAAAAAAAAAAAAAAAH! WAAAAAAAAAAAAAAAAAAAAAAAAAAH!"
  },
  {
   "id": "SCENARIO/405/00264",
@@ -45,7 +45,7 @@
   "jp": [
    "お客さんいっぱいだね～"
   ],
-  "en": ""
+  "en": "Full house tonight~"
  },
  {
   "id": "SCENARIO/405/00306",
@@ -53,7 +53,7 @@
   "jp": [
    "準備はいい、カイン？"
   ],
-  "en": ""
+  "en": "Ready, Cain?"
  },
  {
   "id": "SCENARIO/405/0039c",
@@ -61,7 +61,7 @@
   "jp": [
    "うん、もちろんさ！"
   ],
-  "en": ""
+  "en": "Yeah, of course!"
  },
  {
   "id": "SCENARIO/405/003c0",
@@ -71,7 +71,7 @@
    "このネキンター・カネル団で",
    "新しい道をみつけた"
   ],
-  "en": ""
+  "en": "I've found a new path here with the Nekintar Kanel Troupe."
  },
  {
   "id": "SCENARIO/405/0041a",
@@ -80,7 +80,7 @@
    "でも、何か大切なことを",
    "忘れているような・・・"
   ],
-  "en": ""
+  "en": "But I feel like I'm forgetting something important..."
  },
  {
   "id": "SCENARIO/405/0046a",
@@ -88,7 +88,7 @@
   "jp": [
    "う～ん・・・"
   ],
-  "en": ""
+  "en": "Hmm..."
  },
  {
   "id": "SCENARIO/405/00496",
@@ -97,7 +97,7 @@
    "思い出せないなら、",
    "ま、いいか"
   ],
-  "en": ""
+  "en": "Well, if I can't remember it, I guess it doesn't matter."
  },
  {
   "id": "SCENARIO/405/0058c",
@@ -106,7 +106,7 @@
    "ボクは・・・ここに居て、",
    "いいんだ！"
   ],
-  "en": ""
+  "en": "It's okay... for me to be here!"
  },
  {
   "id": "SCENARIO/405/005d2",
@@ -115,7 +115,7 @@
    "マティア",
    "ボクはここで頑張ってみるよ"
   ],
-  "en": ""
+  "en": "Matia... I'm going to give it my all here."
  },
  {
   "id": "SCENARIO/405/0061a",
@@ -123,7 +123,7 @@
   "jp": [
    "助けにいけなくてゴメンね"
   ],
-  "en": ""
+  "en": "Sorry I couldn't come and save you."
  },
  {
   "id": "SCENARIO/405/0073c",
@@ -131,7 +131,7 @@
   "jp": [
    "こうしてカインは"
   ],
-  "en": ""
+  "en": "And so Cain,"
  },
  {
   "id": "SCENARIO/405/0077a",
@@ -140,7 +140,7 @@
    "ネキンター・カネル団の",
    "花形スターとして"
   ],
-  "en": ""
+  "en": "as the star attraction of the Nekintar Kanel Troupe,"
  },
  {
   "id": "SCENARIO/405/007d2",
@@ -148,7 +148,7 @@
   "jp": [
    "幸せに暮らしましたとさ"
   ],
-  "en": ""
+  "en": "lived happily ever after."
  },
  {
   "id": "SCENARIO/405/00828",
@@ -156,7 +156,7 @@
   "jp": [
    "おしまい"
   ],
-  "en": ""
+  "en": "The End"
  },
  {
   "id": "SCENARIO/405/009d2",
@@ -166,7 +166,7 @@
    "カーイーン！！！",
    "カーイーン！！！"
   ],
-  "en": ""
+  "en": "CAAAIN!!! CAAAIN!!! CAAAIN!!!"
  },
  {
   "id": "SCENARIO/405/00b1c",
@@ -174,7 +174,7 @@
   "jp": [
    "カ～イ～ン～・・・"
   ],
-  "en": ""
+  "en": "Ca~aa~iin~..."
  },
  {
   "id": "SCENARIO/405/00d0c",
@@ -182,13 +182,13 @@
   "jp": [
    "ほんとにおしまい"
   ],
-  "en": "",
+  "en": "The End. For real this time.",
   "spill": false
  },
  {
   "id": "SCENARIO/405/0488c",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/405/0489a",
@@ -196,12 +196,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/405/048b2",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/405/048c2",
@@ -209,6 +209,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

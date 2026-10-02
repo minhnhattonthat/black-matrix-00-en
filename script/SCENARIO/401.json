@@ -2,7 +2,7 @@
  {
   "id": "SCENARIO/401/03d84",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/401/03d92",
@@ -10,12 +10,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/401/03daa",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/401/03dba",
@@ -23,7 +23,7 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  },
  {
   "id": "SCENARIO/401/03f28",
@@ -31,7 +31,7 @@
   "jp": [
    "うぅ・・・"
   ],
-  "en": ""
+  "en": "Ugh..."
  },
  {
   "id": "SCENARIO/401/03fe4",
@@ -40,7 +40,7 @@
    "すまない・・",
    "離脱する"
   ],
-  "en": ""
+  "en": "Forgive me... I must withdraw."
  },
  {
   "id": "SCENARIO/401/040b0",
@@ -48,7 +48,7 @@
   "jp": [
    "やられたぁぁぁ"
   ],
-  "en": ""
+  "en": "They got meee..."
  },
  {
   "id": "SCENARIO/401/04170",
@@ -57,7 +57,7 @@
    "あぁ　もう・・",
    "やってられないわ"
   ],
-  "en": ""
+  "en": "Oh, honestly... I can't take this."
  },
  {
   "id": "SCENARIO/401/04244",
@@ -65,7 +65,7 @@
   "jp": [
    "ちっ・・・"
   ],
-  "en": ""
+  "en": "Tch..."
  },
  {
   "id": "SCENARIO/401/04300",
@@ -74,7 +74,7 @@
    "あぁ・・・",
    "こんなはずでは・・"
   ],
-  "en": ""
+  "en": "Ah... It wasn't supposed to go like this..."
  },
  {
   "id": "SCENARIO/401/043d4",
@@ -82,7 +82,7 @@
   "jp": [
    "きゃー　もぉ　きゃー"
   ],
-  "en": ""
+  "en": "Eek! Oh, no! Eek!"
  },
  {
   "id": "SCENARIO/401/0449c",
@@ -90,7 +90,7 @@
   "jp": [
    "いたいよぉ・・"
   ],
-  "en": ""
+  "en": "It hurts..."
  },
  {
   "id": "SCENARIO/401/0455c",
@@ -98,7 +98,7 @@
   "jp": [
    "す　すいません"
   ],
-  "en": ""
+  "en": "S-sorry..."
  },
  {
   "id": "SCENARIO/401/0461c",
@@ -107,7 +107,7 @@
    "すまない・・",
    "離脱する"
   ],
-  "en": ""
+  "en": "Forgive me... I must withdraw."
  },
  {
   "id": "SCENARIO/401/046e8",
@@ -115,7 +115,7 @@
   "jp": [
    "ぐっ　この私が・・・"
   ],
-  "en": ""
+  "en": "Ugh... Not me..."
  },
  {
   "id": "SCENARIO/401/047b0",
@@ -123,7 +123,7 @@
   "jp": [
    "うー　いたいよぉ"
   ],
-  "en": ""
+  "en": "Ow... it hurts..."
  },
  {
   "id": "SCENARIO/401/04874",
@@ -131,7 +131,7 @@
   "jp": [
    "・・限界だな・・"
   ],
-  "en": ""
+  "en": "...That's my limit..."
  },
  {
   "id": "SCENARIO/401/04938",
@@ -139,7 +139,7 @@
   "jp": [
    "申し訳ありません"
   ],
-  "en": ""
+  "en": "My apologies."
  },
  {
   "id": "SCENARIO/401/049fc",
@@ -149,7 +149,7 @@
    "あああああああああああああああ",
    "あああああああああああああああ"
   ],
-  "en": ""
+  "en": "They got meeeeeeeeeeeeeeeee!"
  },
  {
   "id": "SCENARIO/401/04b10",
@@ -159,6 +159,6 @@
    "あああああああああああああああ",
    "あああああああああああああああ"
   ],
-  "en": ""
+  "en": "They got meeeeeeeeeeeeeeeee!"
  }
 ]
