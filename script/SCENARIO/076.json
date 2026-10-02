@@ -2,7 +2,7 @@
  {
   "id": "SCENARIO/076/00284",
   "jp": "構成員・男",
-  "en": ""
+  "en": "Male member"
  },
  {
   "id": "SCENARIO/076/00298",
@@ -10,7 +10,7 @@
   "jp": [
    "なんだお前は！"
   ],
-  "en": ""
+  "en": "What do you want!"
  },
  {
   "id": "SCENARIO/076/002b0",
@@ -19,12 +19,12 @@
    "ここは子供の遊び場ではない！",
    "すぐに帰りなさい！"
   ],
-  "en": ""
+  "en": "This is no playground for children! Go home at once!"
  },
  {
   "id": "SCENARIO/076/00320",
   "jp": "構成員・男",
-  "en": ""
+  "en": "Male member"
  },
  {
   "id": "SCENARIO/076/00334",
@@ -32,12 +32,12 @@
   "jp": [
    "ん・・・！？"
   ],
-  "en": ""
+  "en": "Hm...!?"
  },
  {
   "id": "SCENARIO/076/0036c",
   "jp": "構成員・男",
-  "en": ""
+  "en": "Male member"
  },
  {
   "id": "SCENARIO/076/00380",
@@ -45,7 +45,7 @@
   "jp": [
    "なんだお前は！"
   ],
-  "en": ""
+  "en": "What do you want!"
  },
  {
   "id": "SCENARIO/076/00398",
@@ -54,12 +54,12 @@
    "ここは子供の遊び場ではない！",
    "すぐに帰りなさい！"
   ],
-  "en": ""
+  "en": "This is no playground for children! Go home at once!"
  },
  {
   "id": "SCENARIO/076/00424",
   "jp": "酒場の女主人",
-  "en": ""
+  "en": "Tavern owner"
  },
  {
   "id": "SCENARIO/076/0043a",
@@ -69,12 +69,12 @@
    "おやおや今日はずいぶんと小さな",
    "お客様がくるんだねぇ"
   ],
-  "en": ""
+  "en": "Welcome. My, my, quite the little customer we've got in today, eh?"
  },
  {
   "id": "SCENARIO/076/0048c",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/076/0049c",
@@ -82,12 +82,12 @@
   "jp": [
    "・・・あの"
   ],
-  "en": ""
+  "en": "...Um"
  },
  {
   "id": "SCENARIO/076/004b0",
   "jp": "酒場の女主人",
-  "en": ""
+  "en": "Tavern owner"
  },
  {
   "id": "SCENARIO/076/004c6",
@@ -96,7 +96,7 @@
    "情報が欲しいなら酒場の主人が",
    "一番とはよく言うけど"
   ],
-  "en": ""
+  "en": "They do say the tavern keeper's the best source of information, but"
  },
  {
   "id": "SCENARIO/076/00504",
@@ -105,12 +105,12 @@
    "ここは子供の遊び場じゃないよ",
    "坊やはお家にお帰り"
   ],
-  "en": ""
+  "en": "this is no playground for kids. Go on home, kiddo."
  },
  {
   "id": "SCENARIO/076/00554",
   "jp": "酒場の女主人",
-  "en": ""
+  "en": "Tavern owner"
  },
  {
   "id": "SCENARIO/076/0056a",
@@ -119,12 +119,12 @@
    "ここは子供の遊び場じゃないよ",
    "坊やはお家にお帰り"
   ],
-  "en": ""
+  "en": "This is no playground for kids. Go on home, kiddo."
  },
  {
   "id": "SCENARIO/076/005e0",
   "jp": "ウェイター",
-  "en": ""
+  "en": "Waiter"
  },
  {
   "id": "SCENARIO/076/005f4",
@@ -132,7 +132,7 @@
   "jp": [
    "いらっしゃいませ～"
   ],
-  "en": ""
+  "en": "Welcome, welcome~"
  },
  {
   "id": "SCENARIO/076/00610",
@@ -142,12 +142,12 @@
    "そういうことならカウンターに",
    "行って下さい"
   ],
-  "en": ""
+  "en": "Cypherpunk? If that's what you're after, please go to the counter."
  },
  {
   "id": "SCENARIO/076/00680",
   "jp": "ウェイター",
-  "en": ""
+  "en": "Waiter"
  },
  {
   "id": "SCENARIO/076/00694",
@@ -155,7 +155,7 @@
   "jp": [
    "いらっしゃいませ～"
   ],
-  "en": ""
+  "en": "Welcome, welcome~"
  },
  {
   "id": "SCENARIO/076/006b0",
@@ -164,7 +164,7 @@
    "主人に怒られました",
    "これ以上はお話出来ません"
   ],
-  "en": ""
+  "en": "The owner scolded me. I can't tell you any more than that."
  },
  {
   "id": "SCENARIO/076/006e8",
@@ -174,12 +174,12 @@
    "この店にある雑記帳の閲覧なら",
    "ご自由になさって構いませんよ"
   ],
-  "en": ""
+  "en": "Not that it makes up for it, but you're free to look through the Notebook we keep."
  },
  {
   "id": "SCENARIO/076/0074c",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/076/0075c",
@@ -187,12 +187,12 @@
   "jp": [
    "雑記帳・・？"
   ],
-  "en": ""
+  "en": "Notebook..?"
  },
  {
   "id": "SCENARIO/076/00774",
   "jp": "ウェイター",
-  "en": ""
+  "en": "Waiter"
  },
  {
   "id": "SCENARIO/076/00788",
@@ -202,7 +202,7 @@
    "お客様やサイファー・・・もとい",
    "この店の従業員などが"
   ],
-  "en": ""
+  "en": "The notebook is where customers, and Cypher... I mean, the staff of this shop,"
  },
  {
   "id": "SCENARIO/076/007d8",
@@ -212,7 +212,7 @@
    "書き込み、お互いに閲覧出来る",
    "掲示板のようなものです"
   ],
-  "en": ""
+  "en": "write down information gathered all over. A sort of message board anyone can read."
  },
  {
   "id": "SCENARIO/076/00838",
@@ -222,12 +222,12 @@
    "何か新しいてがかりが",
    "得られるかもしれませんよ"
   ],
-  "en": ""
+  "en": "Have a look when you have time. You may find some new lead in it."
  },
  {
   "id": "SCENARIO/076/008b0",
   "jp": "ウェイター",
-  "en": ""
+  "en": "Waiter"
  },
  {
   "id": "SCENARIO/076/008c4",
@@ -235,12 +235,12 @@
   "jp": [
    "雑記帳はご覧になられましたか？"
   ],
-  "en": ""
+  "en": "Have you had a look at the Notebook?"
  },
  {
   "id": "SCENARIO/076/00928",
   "jp": "剣士",
-  "en": ""
+  "en": "Swordsman"
  },
  {
   "id": "SCENARIO/076/00936",
@@ -248,7 +248,7 @@
   "jp": [
    "サイファーパンク？"
   ],
-  "en": ""
+  "en": "Cypherpunk?"
  },
  {
   "id": "SCENARIO/076/00954",
@@ -258,7 +258,7 @@
    "俺が入りたいのは",
    "プロデヴォン教団なんだ！！"
   ],
-  "en": ""
+  "en": "No, no! What I want to join is the Prodevon Church!!"
  },
  {
   "id": "SCENARIO/076/009a0",
@@ -268,12 +268,12 @@
    "格好悪くて嫌なんだけど",
    "上級幹部なら格好いいよな"
   ],
-  "en": ""
+  "en": "Being a novice monk soldier is uncool, I'd hate that, but the top brass look sharp."
  },
  {
   "id": "SCENARIO/076/00a28",
   "jp": "中年",
-  "en": ""
+  "en": "Middle-aged man"
  },
  {
   "id": "SCENARIO/076/00a36",
@@ -282,7 +282,7 @@
    "ウィ～ック",
    "サイファーパンクだって？"
   ],
-  "en": ""
+  "en": "Hic~ Cypherpunk, you say?"
  },
  {
   "id": "SCENARIO/076/00a68",
@@ -290,12 +290,12 @@
   "jp": [
    "新しい酒の名前かなんかか？"
   ],
-  "en": ""
+  "en": "Some new kind of booze or something?"
  },
  {
   "id": "SCENARIO/076/00ad4",
   "jp": "片翼の天使",
-  "en": ""
+  "en": "One-winged angel"
  },
  {
   "id": "SCENARIO/076/00ae8",
@@ -305,7 +305,7 @@
    "規則に縛られるよりも",
    "風と草と共に歌うのが好き♪"
   ],
-  "en": ""
+  "en": "I'm a free-roaming angel. I'd sooner sing with wind and grass than be bound by rules~"
  },
  {
   "id": "SCENARIO/076/00b44",
@@ -315,12 +315,12 @@
    "さぁ、この酒場の主人にでも",
    "聞いてみたら何かわかるかもね"
   ],
-  "en": ""
+  "en": "Cypherpunk? Well, try asking the owner of this tavern. You might learn something."
  },
  {
   "id": "SCENARIO/076/00bbc",
   "jp": "片翼の天使",
-  "en": ""
+  "en": "One-winged angel"
  },
  {
   "id": "SCENARIO/076/00bd0",
@@ -330,7 +330,7 @@
    "規則に縛られるよりも",
    "風と草と共に歌うのが好き♪"
   ],
-  "en": ""
+  "en": "I'm a free-roaming angel. I'd sooner sing with wind and grass than be bound by rules~"
  },
  {
   "id": "SCENARIO/076/00c2c",
@@ -340,12 +340,12 @@
    "秘密の部屋があるんだってさ",
    "いったい何があるんだろう？"
   ],
-  "en": ""
+  "en": "They say there's a secret room under this tavern. I wonder what's down there?"
  },
  {
   "id": "SCENARIO/076/00cb8",
   "jp": "片翼の天使",
-  "en": ""
+  "en": "One-winged angel"
  },
  {
   "id": "SCENARIO/076/00ccc",
@@ -355,12 +355,12 @@
    "規則に縛られるよりも",
    "風と草と共に歌うのが好き♪"
   ],
-  "en": ""
+  "en": "I'm a free-roaming angel. I'd sooner sing with wind and grass than be bound by rules~"
  },
  {
   "id": "SCENARIO/076/00d64",
   "jp": "老人",
-  "en": ""
+  "en": "Old man"
  },
  {
   "id": "SCENARIO/076/00d72",
@@ -368,12 +368,12 @@
   "jp": [
    "今日はいい天気だのう・・・"
   ],
-  "en": ""
+  "en": "Fine weather today..."
  },
  {
   "id": "SCENARIO/076/00de0",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/076/00dee",
@@ -382,7 +382,7 @@
    "買い物するなら俺の兄貴の店が",
    "お買い得だぜ？"
   ],
-  "en": ""
+  "en": "If you're shopping, my big brother's store is the best deal around, you know?"
  },
  {
   "id": "SCENARIO/076/00e28",
@@ -390,12 +390,12 @@
   "jp": [
    "だまされたと思ってのぞいてみな"
   ],
-  "en": ""
+  "en": "Take a look, even if you think I'm pulling your leg."
  },
  {
   "id": "SCENARIO/076/00e70",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/076/00e7e",
@@ -405,7 +405,7 @@
    "こき使われるのは疲れたから",
    "自分の店が欲しいな"
   ],
-  "en": ""
+  "en": "Ahh, I'm sick of being worked to the bone at my brother's store. I want my own store."
  },
  {
   "id": "SCENARIO/076/00edc",
@@ -415,12 +415,12 @@
    "俺はちゃんと兄貴の店に客が",
    "入るように街頭宣伝してるんだぜ"
   ],
-  "en": ""
+  "en": "Don't tell my brother I was slacking. I'm out here drumming up customers for him."
  },
  {
   "id": "SCENARIO/076/00f9c",
   "jp": "老婆",
-  "en": ""
+  "en": "Old woman"
  },
  {
   "id": "SCENARIO/076/00faa",
@@ -430,7 +430,7 @@
    "サイファーパンクかい？",
    "変なことを聞く子供だねぇ"
   ],
-  "en": ""
+  "en": "Kehkehkehkeh. Cypherpunk? What a strange thing for a child to ask."
  },
  {
   "id": "SCENARIO/076/00ff8",
@@ -440,12 +440,12 @@
    "酒場にでも行ってきな",
    "相手にされないだろうけどねぇ"
   ],
-  "en": ""
+  "en": "If you want grown-up talk, go to the tavern. Not that they'll pay you any mind."
  },
  {
   "id": "SCENARIO/076/01094",
   "jp": "老婆",
-  "en": ""
+  "en": "Old woman"
  },
  {
   "id": "SCENARIO/076/010a2",
@@ -455,12 +455,12 @@
    "なかなかめんこいの～",
    "これ持って行きな"
   ],
-  "en": ""
+  "en": "Kiddo, now I get a good look at you, you're a cute one~ Here, take this."
  },
  {
   "id": "SCENARIO/076/0110c",
   "jp": "老婆",
-  "en": ""
+  "en": "Old woman"
  },
  {
   "id": "SCENARIO/076/0111a",
@@ -468,12 +468,12 @@
   "jp": [
    "探しものは見つかったのかい？"
   ],
-  "en": ""
+  "en": "Did you find what you were looking for?"
  },
  {
   "id": "SCENARIO/076/0118c",
   "jp": "カップル・男",
-  "en": ""
+  "en": "Couple (man)"
  },
  {
   "id": "SCENARIO/076/011a2",
@@ -482,7 +482,7 @@
    "サイファーパンク？",
    "知らないな"
   ],
-  "en": ""
+  "en": "Cypherpunk? Never heard of it."
  },
  {
   "id": "SCENARIO/076/011cc",
@@ -492,12 +492,12 @@
    "ネキンター・カネル団だよ",
    "この街にサーカスが来たんだ"
   ],
-  "en": ""
+  "en": "The hot topic right now is the Nekintar Kanel Troupe. A circus has come to town."
  },
  {
   "id": "SCENARIO/076/01250",
   "jp": "カップル・男",
-  "en": ""
+  "en": "Couple (man)"
  },
  {
   "id": "SCENARIO/076/01266",
@@ -506,12 +506,12 @@
    "サーカスの開演はまだかな？",
    "早く彼女を連れていきたいんだ"
   ],
-  "en": ""
+  "en": "When does the circus start? I want to take my girl soon."
  },
  {
   "id": "SCENARIO/076/012e8",
   "jp": "カップル・女",
-  "en": ""
+  "en": "Couple (woman)"
  },
  {
   "id": "SCENARIO/076/012fe",
@@ -520,7 +520,7 @@
    "サイファーパンク？",
    "そんなの知らないわよ"
   ],
-  "en": ""
+  "en": "Cypherpunk? Never heard of it."
  },
  {
   "id": "SCENARIO/076/01334",
@@ -529,12 +529,12 @@
    "これから二人でデートなの",
    "邪魔しないでよ"
   ],
-  "en": ""
+  "en": "We're about to go on a date. Don't get in the way."
  },
  {
   "id": "SCENARIO/076/013b0",
   "jp": "神父",
-  "en": ""
+  "en": "Priest"
  },
  {
   "id": "SCENARIO/076/013be",
@@ -544,7 +544,7 @@
    "確か教団に刃向かう組織のはず",
    "ですが・・・"
   ],
-  "en": ""
+  "en": "Cypherpunk? I believe that is the organisation that defies the Church, but..."
  },
  {
   "id": "SCENARIO/076/0140c",
@@ -554,7 +554,7 @@
    "教団に刃向かうことのおろかさが",
    "理解できるはずです"
   ],
-  "en": ""
+  "en": "If you studied the Prodevon Church's teachings, you'd see the folly of defying it."
  },
  {
   "id": "SCENARIO/076/0146c",
@@ -564,12 +564,12 @@
    "世に出て恥ずかしくない大人に",
    "ならなくてはなりませんよ"
   ],
-  "en": ""
+  "en": "You too must read the Book, learn discipline, and grow into a respectable adult."
  },
  {
   "id": "SCENARIO/076/014d0",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/076/014e0",
@@ -578,12 +578,12 @@
    "あの・・・＜書＞って",
    "なんですか？"
   ],
-  "en": ""
+  "en": "Um... what's the Book?"
  },
  {
   "id": "SCENARIO/076/01510",
   "jp": "神父",
-  "en": ""
+  "en": "Priest"
  },
  {
   "id": "SCENARIO/076/0151e",
@@ -593,7 +593,7 @@
    "この世界の教義について書かれた",
    "＜グーテンベルグ＞のことです"
   ],
-  "en": ""
+  "en": "The Book is, of course, the Gutenberg, which sets out the doctrine of this world."
  },
  {
   "id": "SCENARIO/076/01580",
@@ -602,12 +602,12 @@
    "貴方、まさか",
    "持っていないのですか？"
   ],
-  "en": ""
+  "en": "Don't tell me you don't have one?"
  },
  {
   "id": "SCENARIO/076/015b0",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/076/015c0",
@@ -615,12 +615,12 @@
   "jp": [
    "さ、さようなら！"
   ],
-  "en": ""
+  "en": "G-goodbye!"
  },
  {
   "id": "SCENARIO/076/015f0",
   "jp": "神父",
-  "en": ""
+  "en": "Priest"
  },
  {
   "id": "SCENARIO/076/015fe",
@@ -630,12 +630,12 @@
    "貴方もちゃんと受け取りに行く",
    "のですよ"
   ],
-  "en": ""
+  "en": "The Book will be handed out soon. Be sure you go and receive yours."
  },
  {
   "id": "SCENARIO/076/016a0",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/076/016b0",
@@ -643,12 +643,12 @@
   "jp": [
    "あの～・・・"
   ],
-  "en": ""
+  "en": "Umm..."
  },
  {
   "id": "SCENARIO/076/016e8",
   "jp": "花売りの少女",
-  "en": ""
+  "en": "Flower girl"
  },
  {
   "id": "SCENARIO/076/016fe",
@@ -656,12 +656,12 @@
   "jp": [
    "お花はいかがですか？"
   ],
-  "en": ""
+  "en": "Would you like some flowers?"
  },
  {
   "id": "SCENARIO/076/01740",
   "jp": "少年",
-  "en": ""
+  "en": "Boy"
  },
  {
   "id": "SCENARIO/076/0174e",
@@ -670,7 +670,7 @@
    "気をつけろよ・・・",
    "この街には悪魔が出る"
   ],
-  "en": ""
+  "en": "Watch yourself... There are demons in this town."
  },
  {
   "id": "SCENARIO/076/01784",
@@ -678,7 +678,7 @@
   "jp": [
    "悪魔は人をあざむく・・・"
   ],
-  "en": ""
+  "en": "Demons deceive people..."
  },
  {
   "id": "SCENARIO/076/017a8",
@@ -688,12 +688,12 @@
    "簡単に他人を信じたりしない方が",
    "いいぜ？"
   ],
-  "en": ""
+  "en": "If you don't want to die, you'd best not trust strangers too easily, got it?"
  },
  {
   "id": "SCENARIO/076/01810",
   "jp": "男の子",
-  "en": ""
+  "en": "Little boy"
  },
  {
   "id": "SCENARIO/076/01820",
@@ -701,7 +701,7 @@
   "jp": [
    "サーカスなんてつまんねーよ"
   ],
-  "en": ""
+  "en": "Circuses are boring."
  },
  {
   "id": "SCENARIO/076/01844",
@@ -710,12 +710,12 @@
    "どうせろくな出し物なんて",
    "用意してないんだろ？"
   ],
-  "en": ""
+  "en": "Bet they haven't got any decent acts anyway, right?"
  },
  {
   "id": "SCENARIO/076/018b4",
   "jp": "女の子",
-  "en": ""
+  "en": "Little girl"
  },
  {
   "id": "SCENARIO/076/018c4",
@@ -725,7 +725,7 @@
    "サーカスを楽しみにして",
    "昨日は眠れなかったみたいなの"
   ],
-  "en": ""
+  "en": "All he does is complain, but he was too excited about the circus to sleep last night."
  },
  {
   "id": "SCENARIO/076/01920",
@@ -734,12 +734,12 @@
    "眠れなくなるほど楽しみなら",
    "素直にそう言えばいいのに"
   ],
-  "en": ""
+  "en": "If you're so excited you can't sleep, just say so honestly."
  },
  {
   "id": "SCENARIO/076/01994",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/076/019a4",
@@ -747,12 +747,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/076/019c0",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/076/019d0",
@@ -760,12 +760,12 @@
   "jp": [
    "・・・あの"
   ],
-  "en": ""
+  "en": "...Um"
  },
  {
   "id": "SCENARIO/076/019e4",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/076/019f4",
@@ -775,12 +775,12 @@
    "演目中のピエロは",
    "しゃべっちゃいけないんだよ"
   ],
-  "en": ""
+  "en": "Don't talk to me. A clown mustn't speak during a performance."
  },
  {
   "id": "SCENARIO/076/01a78",
   "jp": "兵士",
-  "en": ""
+  "en": "Soldier"
  },
  {
   "id": "SCENARIO/076/01a86",
@@ -788,12 +788,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/076/01aec",
   "jp": "少女",
-  "en": ""
+  "en": "Girl"
  },
  {
   "id": "SCENARIO/076/01afa",
@@ -801,12 +801,12 @@
   "jp": [
    "いらっしゃいませ～"
   ],
-  "en": ""
+  "en": "Welcome, welcome~"
  },
  {
   "id": "SCENARIO/076/01b38",
   "jp": "少女",
-  "en": ""
+  "en": "Girl"
  },
  {
   "id": "SCENARIO/076/01b46",
@@ -815,7 +815,7 @@
    "ごめんなさーい",
    "ただいま準備中です"
   ],
-  "en": ""
+  "en": "Sorry~! We're still getting ready."
  },
  {
   "id": "SCENARIO/076/01b98",
@@ -825,12 +825,12 @@
    "気がする・・・",
    "もう少し情報を集めよう"
   ],
-  "en": ""
+  "en": "I feel like there's still more out there... Let's gather a little more information."
  },
  {
   "id": "SCENARIO/076/05714",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/076/05722",
@@ -838,12 +838,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/076/0573a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/076/0574a",
@@ -851,6 +851,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

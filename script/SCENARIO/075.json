@@ -6,7 +6,7 @@
    "うわぁ・・・",
    "人がたくさんいる！！"
   ],
-  "en": ""
+  "en": "Whoa... There are so many people!!"
  },
  {
   "id": "SCENARIO/075/00170",
@@ -14,7 +14,7 @@
   "jp": [
    "ここはヴェローナの街だ"
   ],
-  "en": ""
+  "en": "This is the city of Verona."
  },
  {
   "id": "SCENARIO/075/001ae",
@@ -23,7 +23,7 @@
    "大きな街だね",
    "なんだか、目が回りそうだよ"
   ],
-  "en": ""
+  "en": "It's a big city. I feel kind of dizzy."
  },
  {
   "id": "SCENARIO/075/001f4",
@@ -32,7 +32,7 @@
    "長旅の疲れもあるだろう",
    "少し休憩をとろう"
   ],
-  "en": ""
+  "en": "You must be tired from the long journey as well. Let us rest a while."
  },
  {
   "id": "SCENARIO/075/00246",
@@ -40,7 +40,7 @@
   "jp": [
    "ボクなら大丈夫だよ"
   ],
-  "en": ""
+  "en": "I'm fine, really."
  },
  {
   "id": "SCENARIO/075/00274",
@@ -50,7 +50,7 @@
    "空を飛ぶことは想像以上に",
    "体力を消耗する"
   ],
-  "en": ""
+  "en": "There is no need to push yourself. Flying takes more out of you than you would think."
  },
  {
   "id": "SCENARIO/075/002d6",
@@ -58,7 +58,7 @@
   "jp": [
    "今日はもう休みなさい"
   ],
-  "en": ""
+  "en": "Rest for today."
  },
  {
   "id": "SCENARIO/075/00312",
@@ -66,7 +66,7 @@
   "jp": [
    "うん・・・でも"
   ],
-  "en": ""
+  "en": "Yeah... but"
  },
  {
   "id": "SCENARIO/075/0033c",
@@ -76,7 +76,7 @@
    "あの距離を飛ぶのは",
    "大変だったろう？"
   ],
-  "en": ""
+  "en": "You only just learned to fly. Covering that distance must have been hard, was it not?"
  },
  {
   "id": "SCENARIO/075/003a6",
@@ -86,7 +86,7 @@
    "最初はちょっと辛かったけれど",
    "今はもうへっちゃらだよ"
   ],
-  "en": ""
+  "en": "Yeah. It was a little rough at first, but now it's a piece of cake."
  },
  {
   "id": "SCENARIO/075/00400",
@@ -94,7 +94,7 @@
   "jp": [
    "そうか"
   ],
-  "en": ""
+  "en": "I see."
  },
  {
   "id": "SCENARIO/075/0042e",
@@ -104,7 +104,7 @@
    "途中から、だんだん変な感覚に",
    "のみ込まれそうになって怖かった"
   ],
-  "en": ""
+  "en": "But partway through, a strange feeling almost swallowed me up. It was scary."
  },
  {
   "id": "SCENARIO/075/004a2",
@@ -112,7 +112,7 @@
   "jp": [
    "変な感覚？"
   ],
-  "en": ""
+  "en": "A strange feeling?"
  },
  {
   "id": "SCENARIO/075/004c8",
@@ -122,7 +122,7 @@
    "もっと高くって誰かがささやいて",
    "いるような感じだよ"
   ],
-  "en": ""
+  "en": "Like someone was whispering to me. Faster, higher..."
  },
  {
   "id": "SCENARIO/075/0052e",
@@ -132,7 +132,7 @@
    "この翼はいったい誰のものなん",
    "だろう・・・？"
   ],
-  "en": ""
+  "en": "Hey, Johannes. Whose wings are these, anyway...?"
  },
  {
   "id": "SCENARIO/075/00588",
@@ -141,7 +141,7 @@
    "すまないが、",
    "私はその質問には答えられない"
   ],
-  "en": ""
+  "en": "Forgive me, but I cannot answer that question."
  },
  {
   "id": "SCENARIO/075/005de",
@@ -149,7 +149,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/075/0060c",
@@ -158,7 +158,7 @@
    "それはそうと",
    "この街に来た理由なのだが"
   ],
-  "en": ""
+  "en": "Setting that aside, as to why we came to this city."
  },
  {
   "id": "SCENARIO/075/00648",
@@ -168,7 +168,7 @@
    "プロデヴォン教団に反目する",
    "地下組織が存在するらしい"
   ],
-  "en": ""
+  "en": "An underground group that opposes the Prodevon Church is said to exist in this city."
  },
  {
   "id": "SCENARIO/075/006b6",
@@ -176,7 +176,7 @@
   "jp": [
    "地下組織？"
   ],
-  "en": ""
+  "en": "An underground group?"
  },
  {
   "id": "SCENARIO/075/006dc",
@@ -185,7 +185,7 @@
    "その組織の名は",
    "＜サイファーパンク＞"
   ],
-  "en": ""
+  "en": "Its name is Cypherpunk."
  },
  {
   "id": "SCENARIO/075/00714",
@@ -195,7 +195,7 @@
    "接触出来れば、教団の情報を",
    "得られるかもしれない"
   ],
-  "en": ""
+  "en": "If we can make contact with Cypherpunk, we may be able to learn about the Church."
  },
  {
   "id": "SCENARIO/075/00778",
@@ -204,7 +204,7 @@
    "マティアの手がかりが",
    "少しでも得られるといいのだが"
   ],
-  "en": ""
+  "en": "I hope we can find even a small clue to Matia's whereabouts."
  },
  {
   "id": "SCENARIO/075/007c0",
@@ -214,7 +214,7 @@
    "接触する方法を見つけなくては",
    "ならないな"
   ],
-  "en": ""
+  "en": "First, we must find a way to make contact with Cypherpunk."
  },
  {
   "id": "SCENARIO/075/00832",
@@ -222,7 +222,7 @@
   "jp": [
    "ボクも一緒に行くよ！！"
   ],
-  "en": ""
+  "en": "I'm going with you!!"
  },
  {
   "id": "SCENARIO/075/00872",
@@ -230,7 +230,7 @@
   "jp": [
    "しかし・・・"
   ],
-  "en": ""
+  "en": "But..."
  },
  {
   "id": "SCENARIO/075/008a6",
@@ -239,7 +239,7 @@
    "じっとなんか",
    "していられないんだ"
   ],
-  "en": ""
+  "en": "I can't just sit still."
  },
  {
   "id": "SCENARIO/075/008f2",
@@ -247,7 +247,7 @@
   "jp": [
    "そうか"
   ],
-  "en": ""
+  "en": "I see."
  },
  {
   "id": "SCENARIO/075/0091a",
@@ -257,7 +257,7 @@
    "出来るだけ多くの人に話しかけて",
    "みてくれ"
   ],
-  "en": ""
+  "en": "Cain, go to the center of the city and try talking to as many people as you can."
  },
  {
   "id": "SCENARIO/075/00970",
@@ -265,7 +265,7 @@
   "jp": [
    "私は他を当たってみる"
   ],
-  "en": ""
+  "en": "I will try elsewhere."
  },
  {
   "id": "SCENARIO/075/00998",
@@ -273,7 +273,7 @@
   "jp": [
    "あまり無茶をしないように"
   ],
-  "en": ""
+  "en": "Do not do anything reckless."
  },
  {
   "id": "SCENARIO/075/009c4",
@@ -283,7 +283,7 @@
    "お前の元に駆けつけられるとは",
    "限らないからな"
   ],
-  "en": ""
+  "en": "I will not always be able to rush to your side at a moment's notice."
  },
  {
   "id": "SCENARIO/075/00a2e",
@@ -291,12 +291,12 @@
   "jp": [
    "うん、気をつけるよ"
   ],
-  "en": ""
+  "en": "Yeah, I'll be careful."
  },
  {
   "id": "SCENARIO/075/045a8",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/075/045b6",
@@ -304,12 +304,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/075/045ce",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/075/045de",
@@ -317,6 +317,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

@@ -5,7 +5,7 @@
   "jp": [
    "神父様・・・"
   ],
-  "en": ""
+  "en": "Father..."
  },
  {
   "id": "SCENARIO/071/000e4",
@@ -14,7 +14,7 @@
    "異端者に襲われるなどとは",
    "なんという・・・"
   ],
-  "en": ""
+  "en": "To be attacked by a heretic... How could such a thing..."
  },
  {
   "id": "SCENARIO/071/0012c",
@@ -23,7 +23,7 @@
    "まだ異端者は捕まってないそうよ",
    "恐ろしいわ"
   ],
-  "en": ""
+  "en": "They say the heretic still hasn't been caught. How frightening."
  },
  {
   "id": "SCENARIO/071/00174",
@@ -32,7 +32,7 @@
    "ねぇ、ママ",
    "神父様はどこに居るの？"
   ],
-  "en": ""
+  "en": "Hey, Mama, where is the Father?"
  },
  {
   "id": "SCENARIO/071/001b4",
@@ -41,7 +41,7 @@
    "神父様はね、",
    "長い長い眠りについたの"
   ],
-  "en": ""
+  "en": "The Father... has gone into a long, long sleep."
  },
  {
   "id": "SCENARIO/071/00214",
@@ -49,7 +49,7 @@
   "jp": [
    "神父様・・・"
   ],
-  "en": ""
+  "en": "Father..."
  },
  {
   "id": "SCENARIO/071/00234",
@@ -58,7 +58,7 @@
    "やっぱり僕が正しかったんだよ",
    "神父様・・・"
   ],
-  "en": ""
+  "en": "I was right after all, Father..."
  },
  {
   "id": "SCENARIO/071/00274",
@@ -66,7 +66,7 @@
   "jp": [
    "あいつは、バケモノだったんだ"
   ],
-  "en": ""
+  "en": "He was a monster."
  },
  {
   "id": "SCENARIO/071/002b2",
@@ -75,12 +75,12 @@
    "だまされていたんだ",
    "神父様も、マティアも・・・"
   ],
-  "en": ""
+  "en": "They were fooled. The Father, and Matia too..."
  },
  {
   "id": "SCENARIO/071/03e5c",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/071/03e6a",
@@ -88,12 +88,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/071/03e82",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/071/03e92",
@@ -101,6 +101,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

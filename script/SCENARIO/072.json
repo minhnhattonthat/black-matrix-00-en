@@ -5,7 +5,7 @@
   "jp": [
    "神父様・・・"
   ],
-  "en": ""
+  "en": "Father..."
  },
  {
   "id": "SCENARIO/072/001a8",
@@ -14,7 +14,7 @@
    "カイン",
    "これからどうする？"
   ],
-  "en": ""
+  "en": "Cain. What will you do now?"
  },
  {
   "id": "SCENARIO/072/001d8",
@@ -24,7 +24,7 @@
    "プロデヴォン教団の一行が",
    "この島に現れるだろう"
   ],
-  "en": ""
+  "en": "The Prodevon Church is sure to come to this island over this treason against angels."
  },
  {
   "id": "SCENARIO/072/00234",
@@ -33,7 +33,7 @@
    "おそらく、我々は真っ先に",
    "その疑いをかけられるだろうな"
   ],
-  "en": ""
+  "en": "And most likely, we will be the first to fall under suspicion."
  },
  {
   "id": "SCENARIO/072/00296",
@@ -42,7 +42,7 @@
    "ボクは",
    "マティアを助けに行きたい"
   ],
-  "en": ""
+  "en": "I want to go save Matia."
  },
  {
   "id": "SCENARIO/072/002d4",
@@ -52,7 +52,7 @@
    "カイン一人を外の世界に",
    "行かせるのは、心許ない"
   ],
-  "en": ""
+  "en": "...I see. Sending you into the outside world alone would leave me uneasy."
  },
  {
   "id": "SCENARIO/072/00336",
@@ -60,7 +60,7 @@
   "jp": [
    "私も同行しよう"
   ],
-  "en": ""
+  "en": "I shall accompany you."
  },
  {
   "id": "SCENARIO/072/0036e",
@@ -68,7 +68,7 @@
   "jp": [
    "・・・え？"
   ],
-  "en": ""
+  "en": "...Huh?"
  },
  {
   "id": "SCENARIO/072/003a2",
@@ -77,7 +77,7 @@
    "でも、ヨハネには",
    "メフィストさんが・・・"
   ],
-  "en": ""
+  "en": "But, Johannes, you have Mephisto-san to..."
  },
  {
   "id": "SCENARIO/072/003f6",
@@ -85,7 +85,7 @@
   "jp": [
    "メフィストはもういない"
   ],
-  "en": ""
+  "en": "Mephisto is gone."
  },
  {
   "id": "SCENARIO/072/00436",
@@ -93,7 +93,7 @@
   "jp": [
    "いない？"
   ],
-  "en": ""
+  "en": "Gone?"
  },
  {
   "id": "SCENARIO/072/00458",
@@ -103,7 +103,7 @@
    "メフィストから何か",
    "渡されたものはないか？"
   ],
-  "en": ""
+  "en": "Cain... Did Mephisto give you anything?"
  },
  {
   "id": "SCENARIO/072/004be",
@@ -111,7 +111,7 @@
   "jp": [
    "え？"
   ],
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "SCENARIO/072/004dc",
@@ -120,7 +120,7 @@
    "いや、心当たりがないならいい",
    "私の勘違いだったようだ"
   ],
-  "en": ""
+  "en": "No, if nothing comes to mind, never mind. It seems I was mistaken."
  },
  {
   "id": "SCENARIO/072/0052c",
@@ -128,7 +128,7 @@
   "jp": [
    "・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/072/00558",
@@ -137,7 +137,7 @@
    "カインが持っていないとなると",
    "いったい誰が・・・"
   ],
-  "en": ""
+  "en": "If Cain does not have it, then who on earth..."
  },
  {
   "id": "SCENARIO/072/005a4",
@@ -146,7 +146,7 @@
    "行くのなら",
    "早い方が良さそうだな"
   ],
-  "en": ""
+  "en": "If we are going, the sooner the better, I should think."
  },
  {
   "id": "SCENARIO/072/005ee",
@@ -154,7 +154,7 @@
   "jp": [
    "うん、そうだね"
   ],
-  "en": ""
+  "en": "Yeah, you're right."
  },
  {
   "id": "SCENARIO/072/0065e",
@@ -163,7 +163,7 @@
    "ワガ・・・",
    "イトしきカタワレ"
   ],
-  "en": ""
+  "en": "My... beloved other half..."
  },
  {
   "id": "SCENARIO/072/006de",
@@ -171,7 +171,7 @@
   "jp": [
    "え？"
   ],
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "SCENARIO/072/0070c",
@@ -179,7 +179,7 @@
   "jp": [
    "どうした、カイン？"
   ],
-  "en": ""
+  "en": "What is it, Cain?"
  },
  {
   "id": "SCENARIO/072/00746",
@@ -187,7 +187,7 @@
   "jp": [
    "ううん、なんでもないよ"
   ],
-  "en": ""
+  "en": "No, it's nothing."
  },
  {
   "id": "SCENARIO/072/00770",
@@ -195,7 +195,7 @@
   "jp": [
    "なんでもない・・・"
   ],
-  "en": ""
+  "en": "It's nothing..."
  },
  {
   "id": "SCENARIO/072/007aa",
@@ -203,12 +203,12 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/072/04358",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/072/04366",
@@ -216,12 +216,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/072/0437e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/072/0438e",
@@ -229,6 +229,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

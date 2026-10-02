@@ -6,7 +6,7 @@
    "聞いたよ",
    "久々に故郷に帰るんだってね"
   ],
-  "en": ""
+  "en": "I heard. You're going back home for the first time in ages, eh?"
  },
  {
   "id": "SCENARIO/049/0016c",
@@ -14,7 +14,7 @@
   "jp": [
    "うん"
   ],
-  "en": ""
+  "en": "Yeah."
  },
  {
   "id": "SCENARIO/049/0019a",
@@ -24,7 +24,7 @@
    "言うくらいなんだから",
    "海を渡るんだろう？"
   ],
-  "en": ""
+  "en": "But it's called Kibotos Island, so you'll have to cross the sea, won't you?"
  },
  {
   "id": "SCENARIO/049/001f0",
@@ -32,7 +32,7 @@
   "jp": [
    "大丈夫なのかい？"
   ],
-  "en": ""
+  "en": "Will you be all right?"
  },
  {
   "id": "SCENARIO/049/0022a",
@@ -41,7 +41,7 @@
    "大丈夫だよ",
    "翼があれば・・・・"
   ],
-  "en": ""
+  "en": "I'll be fine. As long as I have wings...."
  },
  {
   "id": "SCENARIO/049/00264",
@@ -50,7 +50,7 @@
    "坊やはいいけれど",
    "翼のない子達はどうするんだい？"
   ],
-  "en": ""
+  "en": "Fine for you, kiddo, but what about the kids with no wings?"
  },
  {
   "id": "SCENARIO/049/002be",
@@ -58,7 +58,7 @@
   "jp": [
    "！？"
   ],
-  "en": ""
+  "en": "!?"
  },
  {
   "id": "SCENARIO/049/002dc",
@@ -66,7 +66,7 @@
   "jp": [
    "定期船とかは出てるのかい？"
   ],
-  "en": ""
+  "en": "Is there a regular ferry or something?"
  },
  {
   "id": "SCENARIO/049/0031e",
@@ -75,7 +75,7 @@
    "ええと、小さな島だから",
    "そんなのは・・・・"
   ],
-  "en": ""
+  "en": "Um, it's a small island, so there's nothing like that...."
  },
  {
   "id": "SCENARIO/049/00372",
@@ -84,7 +84,7 @@
    "ふぅ、やれやれ・・",
    "どうするつもりなんだい？"
   ],
-  "en": ""
+  "en": "Phew, good grief... So what do you plan to do?"
  },
  {
   "id": "SCENARIO/049/003bc",
@@ -92,7 +92,7 @@
   "jp": [
    "・・・お、泳ぐとか？"
   ],
-  "en": ""
+  "en": "...S-swim, maybe?"
  },
  {
   "id": "SCENARIO/049/003fa",
@@ -100,7 +100,7 @@
   "jp": [
    "もっとマシな考えはないのかい？"
   ],
-  "en": ""
+  "en": "Can't you come up with anything better than that?"
  },
  {
   "id": "SCENARIO/049/00442",
@@ -109,7 +109,7 @@
    "うぅぅぅぅ・・",
    "やっぱり船がないと海は・・・"
   ],
-  "en": ""
+  "en": "Uuugh... Without a boat, the sea's just..."
  },
  {
   "id": "SCENARIO/049/0049a",
@@ -119,7 +119,7 @@
    "たとえば、飛べない子達は誰かに",
    "抱えて飛んでもらうとか・・・"
   ],
-  "en": ""
+  "en": "It needn't be a boat. Say, the ones who can't fly get carried by someone who can..."
  },
  {
   "id": "SCENARIO/049/00516",
@@ -128,7 +128,7 @@
    "はっ！",
    "それだっ！！！"
   ],
-  "en": ""
+  "en": "Oh! That's it!!"
  },
  {
   "id": "SCENARIO/049/00556",
@@ -137,7 +137,7 @@
    "ありがとう、ダリアさん！！",
    "きっとそれでなんとかなるよ！"
   ],
-  "en": ""
+  "en": "Thank you, Dahlia-san!! I'm sure that'll work out somehow!"
  },
  {
   "id": "SCENARIO/049/005ba",
@@ -147,7 +147,7 @@
    "抱えている人を海に落となさい",
    "ように気をつけるんだよ"
   ],
-  "en": ""
+  "en": "..Fine, but be very careful you don't drop whoever you're carrying into the sea."
  },
  {
   "id": "SCENARIO/049/00636",
@@ -155,7 +155,7 @@
   "jp": [
    "うん、気をつけるようにするよ！"
   ],
-  "en": ""
+  "en": "Yeah, I'll be careful!"
  },
  {
   "id": "SCENARIO/049/0067e",
@@ -163,7 +163,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/049/006b2",
@@ -173,7 +173,7 @@
    "あんたは張り切らないで",
    "他の人に任せておきなさい"
   ],
-  "en": ""
+  "en": "...Cain. Don't get too eager. Leave this one to the others."
  },
  {
   "id": "SCENARIO/049/0071e",
@@ -182,7 +182,7 @@
    "え？",
    "どうして・・・"
   ],
-  "en": ""
+  "en": "Huh? Why..."
  },
  {
   "id": "SCENARIO/049/0075e",
@@ -191,7 +191,7 @@
    "そりゃ、あんたが一番",
    "抱えてる人を落としそうだからね"
   ],
-  "en": ""
+  "en": "Because you're the one most likely to drop whoever you're carrying, that's why."
  },
  {
   "id": "SCENARIO/049/007d2",
@@ -199,7 +199,7 @@
   "jp": [
    "・・・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/049/00820",
@@ -208,7 +208,7 @@
    "おばちゃん",
    "あんまりカインいじめるなよ"
   ],
-  "en": ""
+  "en": "Auntie, don't pick on Cain too much."
  },
  {
   "id": "SCENARIO/049/00872",
@@ -216,7 +216,7 @@
   "jp": [
    "なんだい、いたのかいエクサル"
   ],
-  "en": ""
+  "en": "Oh, you were there, Exal?"
  },
  {
   "id": "SCENARIO/049/008ae",
@@ -225,7 +225,7 @@
    "だーれも",
    "坊やをいじめてなんかいないよ"
   ],
-  "en": ""
+  "en": "Nobody's picking on the kiddo."
  },
  {
   "id": "SCENARIO/049/008fe",
@@ -233,7 +233,7 @@
   "jp": [
    "どうだか"
   ],
-  "en": ""
+  "en": "Sure you're not."
  },
  {
   "id": "SCENARIO/049/00942",
@@ -242,7 +242,7 @@
    "しっかし、海を渡るっていうのは",
    "盲点だったな～"
   ],
-  "en": ""
+  "en": "Still, crossing the sea... That one was a blind spot, huh~"
  },
  {
   "id": "SCENARIO/049/009ac",
@@ -251,7 +251,7 @@
    "うん",
    "ボクもすっかり忘れてたよ"
   ],
-  "en": ""
+  "en": "Yeah. I'd completely forgotten about it, too."
  },
  {
   "id": "SCENARIO/049/009f6",
@@ -260,7 +260,7 @@
    "ま、とりあえずカインは",
    "抱えて飛ぶ人から除外な"
   ],
-  "en": ""
+  "en": "Well, for starters, Cain's off the list of people who carry anyone."
  },
  {
   "id": "SCENARIO/049/00a4e",
@@ -268,7 +268,7 @@
   "jp": [
    "えええっ！？"
   ],
-  "en": ""
+  "en": "Whaaat!?"
  },
  {
   "id": "SCENARIO/049/00a74",
@@ -277,7 +277,7 @@
    "だってお前が一番",
    "危なさそうじゃん"
   ],
-  "en": ""
+  "en": "I mean, you look like the biggest risk."
  },
  {
   "id": "SCENARIO/049/00ac2",
@@ -285,7 +285,7 @@
   "jp": [
    "エクサルまで、ひどい！"
   ],
-  "en": ""
+  "en": "Not you too, Exal! That's mean!"
  },
  {
   "id": "SCENARIO/049/00aec",
@@ -294,7 +294,7 @@
    "ボクにだって、人を抱えて",
    "飛ぶことぐらい出来るよ！！！"
   ],
-  "en": ""
+  "en": "Even I can manage to carry someone and fly!!"
  },
  {
   "id": "SCENARIO/049/00b62",
@@ -304,7 +304,7 @@
    "軽そうなところで",
    "キロタかリリスが打倒だな・・"
   ],
-  "en": ""
+  "en": "If you insist, then someone light... Kilota or Lilis would be the sensible choice.."
  },
  {
   "id": "SCENARIO/049/00be0",
@@ -312,7 +312,7 @@
   "jp": [
    "ダメダメ！"
   ],
-  "en": ""
+  "en": "No way, no way!"
  },
  {
   "id": "SCENARIO/049/00c04",
@@ -321,7 +321,7 @@
    "リリス、一緒に空を飛ぶなら",
    "シリアお姉ちゃんがいいの！"
   ],
-  "en": ""
+  "en": "If Lilis is going to fly with somebody, Lilis wants Syria-neesan!"
  },
  {
   "id": "SCENARIO/049/00c66",
@@ -330,7 +330,7 @@
    "じゃ、リリスはシリアに任せて",
    "カインにはキロタを・・・"
   ],
-  "en": ""
+  "en": "Then Lilis goes with Syria, and Cain takes Kilota..."
  },
  {
   "id": "SCENARIO/049/00cd8",
@@ -338,7 +338,7 @@
   "jp": [
    "ちょっと待って下さい！！"
   ],
-  "en": ""
+  "en": "Wait just a moment, please!!"
  },
  {
   "id": "SCENARIO/049/00d0c",
@@ -348,7 +348,7 @@
    "信頼できる人を選ぶ権利がある",
    "はずです！"
   ],
-  "en": ""
+  "en": "If I'm putting my life in someone's hands, I have the right to pick someone I trust!"
  },
  {
   "id": "SCENARIO/049/00d96",
@@ -356,7 +356,7 @@
   "jp": [
    "・・いや、気持ちはわかるけど"
   ],
-  "en": ""
+  "en": "..Well, I get how you feel, but"
  },
  {
   "id": "SCENARIO/049/00dda",
@@ -365,7 +365,7 @@
    "僕は一番安全そうな",
    "ベイルさんと一緒がいいです"
   ],
-  "en": ""
+  "en": "I'd like to go with Bale-san. He seems the safest."
  },
  {
   "id": "SCENARIO/049/00e44",
@@ -373,7 +373,7 @@
   "jp": [
    "私か・・？"
   ],
-  "en": ""
+  "en": "Me..?"
  },
  {
   "id": "SCENARIO/049/00e76",
@@ -382,7 +382,7 @@
    "ええ、お願いしても",
    "よろしいですか？"
   ],
-  "en": ""
+  "en": "Yes. May I ask it of you?"
  },
  {
   "id": "SCENARIO/049/00ec6",
@@ -390,7 +390,7 @@
   "jp": [
    "ああ、かまわん"
   ],
-  "en": ""
+  "en": "Yes. I do not mind."
  },
  {
   "id": "SCENARIO/049/00f18",
@@ -399,7 +399,7 @@
    "・・・ボクって",
    "そんなに信用ないのかな？"
   ],
-  "en": ""
+  "en": "...Do people really trust me that little?"
  },
  {
   "id": "SCENARIO/049/00f8e",
@@ -409,7 +409,7 @@
    "飛ぶことに限っての話なんだから",
    "そんなに気を落とすなよ"
   ],
-  "en": ""
+  "en": "..Well, it's only about flying, so don't take it so hard."
  },
  {
   "id": "SCENARIO/049/00fe8",
@@ -417,7 +417,7 @@
   "jp": [
    "残りは俺とステイエンだけど・・"
   ],
-  "en": ""
+  "en": "That leaves me and Stayen.."
  },
  {
   "id": "SCENARIO/049/0102e",
@@ -427,7 +427,7 @@
    "エクサルはボクが抱えて飛ぶから",
    "任せておいて！"
   ],
-  "en": ""
+  "en": "Got it! I'll carry you, Exal. Leave it to me!"
  },
  {
   "id": "SCENARIO/049/01096",
@@ -435,7 +435,7 @@
   "jp": [
    "えぇぇ？！"
   ],
-  "en": ""
+  "en": "Whaaa!?"
  },
  {
   "id": "SCENARIO/049/010ca",
@@ -444,7 +444,7 @@
    "エクサルもやっぱり・・",
    "ボクに命を預けるのは嫌なの？"
   ],
-  "en": ""
+  "en": "So you too, Exal.. You don't want to trust me with your life either?"
  },
  {
   "id": "SCENARIO/049/0112a",
@@ -453,7 +453,7 @@
    "あはははははは・・・",
    "いや、その・・・"
   ],
-  "en": ""
+  "en": "Ahahahahaha... No, it's just..."
  },
  {
   "id": "SCENARIO/049/01164",
@@ -463,7 +463,7 @@
    "俺とステイエンって同じくらいの",
    "身長だろ？！"
   ],
-  "en": ""
+  "en": "Look! Stayen and I are about the same height, right!?"
  },
  {
   "id": "SCENARIO/049/011b0",
@@ -473,7 +473,7 @@
    "カインに任せるのは順番的に",
    "ステイエンだって！"
   ],
-  "en": ""
+  "en": "A woman's got to be lighter than a man, so by rights it's Stayen who goes with Cain!"
  },
  {
   "id": "SCENARIO/049/0124e",
@@ -481,7 +481,7 @@
   "jp": [
    "そ、そんなの絶対にダメよ！！"
   ],
-  "en": ""
+  "en": "Th-that's absolutely out of the question!!"
  },
  {
   "id": "SCENARIO/049/01292",
@@ -490,7 +490,7 @@
    "おいおい、ステイエン",
    "そんな大声で嫌がるなよ・・"
   ],
-  "en": ""
+  "en": "Hey, hey, Stayen. No need to object so loudly.."
  },
  {
   "id": "SCENARIO/049/012d8",
@@ -499,7 +499,7 @@
    "カインのヤツ、今にも",
    "泣きそうな顔してるんだぞ？"
   ],
-  "en": ""
+  "en": "Cain looks like he's about to cry, you know?"
  },
  {
   "id": "SCENARIO/049/01332",
@@ -509,7 +509,7 @@
    "でも、あたしじゃ絶対に",
    "ダメなのよ！！"
   ],
-  "en": ""
+  "en": "I know that! But it absolutely can't be me!!"
  },
  {
   "id": "SCENARIO/049/01396",
@@ -517,7 +517,7 @@
   "jp": [
    "なんで？"
   ],
-  "en": ""
+  "en": "Why not?"
  },
  {
   "id": "SCENARIO/049/013c6",
@@ -526,7 +526,7 @@
    "だ、だって、",
    "あたしの方があんたより・・・"
   ],
-  "en": ""
+  "en": "B-because, compared to you, I'm..."
  },
  {
   "id": "SCENARIO/049/0140c",
@@ -534,7 +534,7 @@
   "jp": [
    "俺より？"
   ],
-  "en": ""
+  "en": "Compared to me?"
  },
  {
   "id": "SCENARIO/049/0143e",
@@ -544,7 +544,7 @@
    "身長は同じでも、あんたより",
    "あたしの方が重いのよっ！！！"
   ],
-  "en": ""
+  "en": "Fine, excuse me! Same height or not, I'm heavier than you are!!!"
  },
  {
   "id": "SCENARIO/049/014de",
@@ -552,7 +552,7 @@
   "jp": [
    "あんた、体力には自信あるのか？"
   ],
-  "en": ""
+  "en": "You. Confident in your stamina?"
  },
  {
   "id": "SCENARIO/049/01538",
@@ -560,7 +560,7 @@
   "jp": [
    "人並みにはあるつもりだが・・"
   ],
-  "en": ""
+  "en": "About average, I should think.."
  },
  {
   "id": "SCENARIO/049/0157e",
@@ -569,7 +569,7 @@
    "重い方は俺が運ぶ",
    "お前はエクサルを運んでやれ"
   ],
-  "en": ""
+  "en": "I'll carry the heavy one. You carry Exal."
  },
  {
   "id": "SCENARIO/049/015e8",
@@ -578,7 +578,7 @@
    "ちょっと！",
    "重たい方ってレディに失礼よ！"
   ],
-  "en": ""
+  "en": "Hey! \"The heavy one\" is rude to a lady!"
  },
  {
   "id": "SCENARIO/049/0163a",
@@ -586,7 +586,7 @@
   "jp": [
    "お前を名指しした覚えはない"
   ],
-  "en": ""
+  "en": "I don't recall naming you."
  },
  {
   "id": "SCENARIO/049/01670",
@@ -595,7 +595,7 @@
    "消去法でいったら残るのは",
    "あたししかいないでしょ！"
   ],
-  "en": ""
+  "en": "By process of elimination, I'm the only one left, aren't I!"
  },
  {
   "id": "SCENARIO/049/016ce",
@@ -604,7 +604,7 @@
    "自分でわかっているなら",
    "少し黙っていろ"
   ],
-  "en": ""
+  "en": "If you know that yourself, then shut up for a bit."
  },
  {
   "id": "SCENARIO/049/01708",
@@ -612,7 +612,7 @@
   "jp": [
    "また墓穴を掘るだけだぞ"
   ],
-  "en": ""
+  "en": "You're only digging your own grave again."
  },
  {
   "id": "SCENARIO/049/0175a",
@@ -620,7 +620,7 @@
   "jp": [
    "・・・うぅぅぅ"
   ],
-  "en": ""
+  "en": "...Uuugh"
  },
  {
   "id": "SCENARIO/049/0178a",
@@ -629,7 +629,7 @@
    "言っておくけど・・・",
    "変なところ触ったら、殺すわよ"
   ],
-  "en": ""
+  "en": "Just so you know... Touch anywhere funny, and I'll kill you."
  },
  {
   "id": "SCENARIO/049/017e6",
@@ -637,7 +637,7 @@
   "jp": [
    "誰がお前なんか・・・"
   ],
-  "en": ""
+  "en": "As if anyone would, with you..."
  },
  {
   "id": "SCENARIO/049/01822",
@@ -646,7 +646,7 @@
    "なんですってぇーー！！！",
    "それ、どういう意味よ！！"
   ],
-  "en": ""
+  "en": "What did you say!! What's that supposed to mean!!"
  },
  {
   "id": "SCENARIO/049/01890",
@@ -655,7 +655,7 @@
    "ステイエン",
    "落ち着いて・・・"
   ],
-  "en": ""
+  "en": "Stayen, calm down..."
  },
  {
   "id": "SCENARIO/049/018d6",
@@ -663,7 +663,7 @@
   "jp": [
    "十分落ち着いてます！"
   ],
-  "en": ""
+  "en": "I'm perfectly calm!"
  },
  {
   "id": "SCENARIO/049/01912",
@@ -671,7 +671,7 @@
   "jp": [
    "・・そうですわね"
   ],
-  "en": ""
+  "en": "..So I see."
  },
  {
   "id": "SCENARIO/049/01950",
@@ -681,7 +681,7 @@
    "私と一緒にキボートスまで",
    "移動しますか？"
   ],
-  "en": ""
+  "en": "Stayen, if you like, shall we travel to Kibotos together?"
  },
  {
   "id": "SCENARIO/049/019be",
@@ -689,7 +689,7 @@
   "jp": [
    "いいんですか！？"
   ],
-  "en": ""
+  "en": "May I!?"
  },
  {
   "id": "SCENARIO/049/019f6",
@@ -699,7 +699,7 @@
    "移動の際にかかる負荷で",
    "気分を悪くされないかと・・・"
   ],
-  "en": ""
+  "en": "Only, those not used to it may feel ill from the strain of the journey..."
  },
  {
   "id": "SCENARIO/049/01a6e",
@@ -707,7 +707,7 @@
   "jp": [
    "そんなの平気です！"
   ],
-  "en": ""
+  "en": "That's no problem at all!"
  },
  {
   "id": "SCENARIO/049/01a94",
@@ -717,7 +717,7 @@
    "空を飛ぶ方がずーっと気分が",
    "悪くなりますから！"
   ],
-  "en": ""
+  "en": "Being carried through the sky by that demon would make me feel waaay sicker!"
  },
  {
   "id": "SCENARIO/049/01b38",
@@ -727,7 +727,7 @@
    "俺もお前を抱えて飛ぶくらいなら",
    "ガキ二人抱えて飛ぶ方がマシだ"
   ],
-  "en": ""
+  "en": "Yeah, right... I'd sooner fly with two brats in my arms than with you."
  },
  {
   "id": "SCENARIO/049/01ba0",
@@ -735,7 +735,7 @@
   "jp": [
    "丁度良いから運んでもらってこい"
   ],
-  "en": ""
+  "en": "Good timing. Go get yourself carried."
  },
  {
   "id": "SCENARIO/049/01be6",
@@ -743,7 +743,7 @@
   "jp": [
    "な、なんですってー！？"
   ],
-  "en": ""
+  "en": "Wh-what did you say!?"
  },
  {
   "id": "SCENARIO/049/01c38",
@@ -752,7 +752,7 @@
    "見た目こそ変わらぬが・・・",
    "そんなに変わっていたのか？"
   ],
-  "en": ""
+  "en": "You look no different... but have you changed so very much?"
  },
  {
   "id": "SCENARIO/049/01c9a",
@@ -762,7 +762,7 @@
    "こんな悪魔の言葉を",
    "真に受けないで下さい！！"
   ],
-  "en": ""
+  "en": "K-Kreis-sama! Please don't take that demon's words seriously!!"
  },
  {
   "id": "SCENARIO/049/01cf0",
@@ -771,7 +771,7 @@
    "あたし、そんなに",
    "太ってなんかいないです！！"
   ],
-  "en": ""
+  "en": "I'm not that fat!!"
  },
  {
   "id": "SCENARIO/049/01d30",
@@ -779,7 +779,7 @@
   "jp": [
    "太ったのはちょっとだけです！！"
   ],
-  "en": ""
+  "en": "I've only put on a tiny bit!!"
  },
  {
   "id": "SCENARIO/049/01d88",
@@ -787,7 +787,7 @@
   "jp": [
    "・・・墓穴を掘ってるぞ、お前"
   ],
-  "en": ""
+  "en": "...You're digging your own grave, you know."
  },
  {
   "id": "SCENARIO/049/01dce",
@@ -795,7 +795,7 @@
   "jp": [
    "はっ！！"
   ],
-  "en": ""
+  "en": "Ah!!"
  },
  {
   "id": "SCENARIO/049/01df6",
@@ -805,7 +805,7 @@
    "またも余計な自己申告",
    "しちゃったじゃない！！"
   ],
-  "en": ""
+  "en": "What do I do now!! I went and confessed something I didn't need to again!!"
  },
  {
   "id": "SCENARIO/049/01e66",
@@ -813,7 +813,7 @@
   "jp": [
    "・・知るか"
   ],
-  "en": ""
+  "en": "..How should I know."
  },
  {
   "id": "SCENARIO/049/01e9a",
@@ -821,12 +821,12 @@
   "jp": [
    "うぅぅぅぅ・・・"
   ],
-  "en": ""
+  "en": "Uuuugh..."
  },
  {
   "id": "SCENARIO/049/059fc",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/049/05a0a",
@@ -834,12 +834,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/049/05a22",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/049/05a32",
@@ -847,6 +847,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

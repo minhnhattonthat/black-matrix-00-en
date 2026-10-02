@@ -6,7 +6,7 @@
    "・・かはっ・・",
    "・・くっ・・"
   ],
-  "en": ""
+  "en": "..Gah.. ..Kh.."
  },
  {
   "id": "SCENARIO/064/00430",
@@ -15,7 +15,7 @@
    "ア　アタシがぁ！",
    "こんな所で・・"
   ],
-  "en": ""
+  "en": "N-not me! Not in a place like this.."
  },
  {
   "id": "SCENARIO/064/00524",
@@ -24,7 +24,7 @@
    "おのれっ・・・",
    "アソビは此処までです！！"
   ],
-  "en": ""
+  "en": "Curse you... Playtime is over!!"
  },
  {
   "id": "SCENARIO/064/005ac",
@@ -33,7 +33,7 @@
    "なにしてるんだ！",
    "逃げなって言ってるだろ！"
   ],
-  "en": ""
+  "en": "What are you doing! I told you to run!"
  },
  {
   "id": "SCENARIO/064/00604",
@@ -42,7 +42,7 @@
    "やはり　悪魔というのは",
    "程度が低いですね・・・"
   ],
-  "en": ""
+  "en": "Demons really are a low-grade sort..."
  },
  {
   "id": "SCENARIO/064/00640",
@@ -51,7 +51,7 @@
    "私は「逃がさない」と",
    "言っているでしょう"
   ],
-  "en": ""
+  "en": "I told you, I am not letting you escape."
  },
  {
   "id": "SCENARIO/064/00694",
@@ -59,7 +59,7 @@
   "jp": [
    "くっ・・このクソ天使！"
   ],
-  "en": ""
+  "en": "Kh.. You damned angel!"
  },
  {
   "id": "SCENARIO/064/006d4",
@@ -68,7 +68,7 @@
    "ム　ムリだよ・・",
    "その傷じゃ・・・"
   ],
-  "en": "",
+  "en": "I-it's no good.. Not with that wound...",
   "spill": false
  },
  {
@@ -77,7 +77,7 @@
   "jp": [
    "ほら、傷薬"
   ],
-  "en": ""
+  "en": "Here, salve."
  },
  {
   "id": "SCENARIO/064/0074c",
@@ -86,7 +86,7 @@
    "こんなの、いらないって",
    "いってるだろ"
   ],
-  "en": ""
+  "en": "I told you, I don't need it."
  },
  {
   "id": "SCENARIO/064/007cc",
@@ -96,7 +96,7 @@
    "さすがに　たぶらかすのは",
    "お得意そうですね？"
   ],
-  "en": ""
+  "en": "Hmph.. Leading people astray really is your specialty, isn't it?"
  },
  {
   "id": "SCENARIO/064/00810",
@@ -104,7 +104,7 @@
   "jp": [
    "・・・・汚らわしい・・・・"
   ],
-  "en": ""
+  "en": "....Filthy...."
  },
  {
   "id": "SCENARIO/064/00834",
@@ -113,7 +113,7 @@
    "まずは　そこの黒羽根",
    "アナタから始末してあげます！！"
   ],
-  "en": ""
+  "en": "First, the black-wing there. I'll dispose of you first!!"
  },
  {
   "id": "SCENARIO/064/00874",
@@ -121,7 +121,7 @@
   "jp": [
    "ククク・・・"
   ],
-  "en": ""
+  "en": "Heh heh heh..."
  },
  {
   "id": "SCENARIO/064/008f8",
@@ -129,7 +129,7 @@
   "jp": [
    "さて・・・・"
   ],
-  "en": ""
+  "en": "Now then...."
  },
  {
   "id": "SCENARIO/064/00910",
@@ -137,7 +137,7 @@
   "jp": [
    "次はアナタの番ですね・・"
   ],
-  "en": ""
+  "en": "Next is your turn.."
  },
  {
   "id": "SCENARIO/064/00a00",
@@ -145,7 +145,7 @@
   "jp": [
    "・・お　お前・・"
   ],
-  "en": ""
+  "en": "..Y-you.."
  },
  {
   "id": "SCENARIO/064/00a64",
@@ -153,7 +153,7 @@
   "jp": [
    "愚かな・・"
   ],
-  "en": ""
+  "en": "Foolish.."
  },
  {
   "id": "SCENARIO/064/00a78",
@@ -161,7 +161,7 @@
   "jp": [
    "・・いいでしょう・・"
   ],
-  "en": ""
+  "en": "..Very well.."
  },
  {
   "id": "SCENARIO/064/00a98",
@@ -170,7 +170,7 @@
    "それ程　死にたいのであれば",
    "アナタから先に滅ぼしてあげます"
   ],
-  "en": ""
+  "en": "If you are so eager to die, I shall destroy you first."
  },
  {
   "id": "SCENARIO/064/00b30",
@@ -179,7 +179,7 @@
    "フフフ・・",
    "順番が変わってしまいました・・"
   ],
-  "en": ""
+  "en": "Heh heh heh.. The order has changed.."
  },
  {
   "id": "SCENARIO/064/00b68",
@@ -187,7 +187,7 @@
   "jp": [
    "次はアナタの番ですね・・"
   ],
-  "en": ""
+  "en": "Next is your turn.."
  },
  {
   "id": "SCENARIO/064/00bcc",
@@ -195,12 +195,12 @@
   "jp": [
    "・・くっ・・"
   ],
-  "en": ""
+  "en": "..Kh.."
  },
  {
   "id": "SCENARIO/064/04704",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/064/04712",
@@ -208,12 +208,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/064/0472a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/064/0473a",
@@ -221,7 +221,7 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  },
  {
   "id": "SCENARIO/064/048a8",
@@ -229,7 +229,7 @@
   "jp": [
    "うぅ・・・"
   ],
-  "en": ""
+  "en": "Ugh..."
  },
  {
   "id": "SCENARIO/064/04964",
@@ -238,7 +238,7 @@
    "すまない・・",
    "離脱する"
   ],
-  "en": ""
+  "en": "Forgive me... I must withdraw."
  },
  {
   "id": "SCENARIO/064/04a30",
@@ -246,7 +246,7 @@
   "jp": [
    "やられたぁぁぁ"
   ],
-  "en": ""
+  "en": "They got meee..."
  },
  {
   "id": "SCENARIO/064/04af0",
@@ -255,7 +255,7 @@
    "あぁ　もう・・",
    "やってられないわ"
   ],
-  "en": ""
+  "en": "Oh, honestly... I can't take this."
  },
  {
   "id": "SCENARIO/064/04bc4",
@@ -263,7 +263,7 @@
   "jp": [
    "ちっ・・・"
   ],
-  "en": ""
+  "en": "Tch..."
  },
  {
   "id": "SCENARIO/064/04c80",
@@ -272,7 +272,7 @@
    "あぁ・・・",
    "こんなはずでは・・"
   ],
-  "en": ""
+  "en": "Ah... It wasn't supposed to go like this..."
  },
  {
   "id": "SCENARIO/064/04d54",
@@ -280,7 +280,7 @@
   "jp": [
    "きゃー　もぉ　きゃー"
   ],
-  "en": ""
+  "en": "Eek! Oh, no! Eek!"
  },
  {
   "id": "SCENARIO/064/04e1c",
@@ -288,7 +288,7 @@
   "jp": [
    "いたいよぉ・・"
   ],
-  "en": ""
+  "en": "It hurts..."
  },
  {
   "id": "SCENARIO/064/04edc",
@@ -296,7 +296,7 @@
   "jp": [
    "す　すいません"
   ],
-  "en": ""
+  "en": "S-sorry..."
  },
  {
   "id": "SCENARIO/064/04f9c",
@@ -305,7 +305,7 @@
    "すまない・・",
    "離脱する"
   ],
-  "en": ""
+  "en": "Forgive me... I must withdraw."
  },
  {
   "id": "SCENARIO/064/05068",
@@ -313,7 +313,7 @@
   "jp": [
    "ぐっ　この私が・・・"
   ],
-  "en": ""
+  "en": "Ugh... Not me..."
  },
  {
   "id": "SCENARIO/064/05130",
@@ -321,7 +321,7 @@
   "jp": [
    "うー　いたいよぉ"
   ],
-  "en": ""
+  "en": "Ow... it hurts..."
  },
  {
   "id": "SCENARIO/064/051f4",
@@ -329,7 +329,7 @@
   "jp": [
    "・・限界だな・・"
   ],
-  "en": ""
+  "en": "...That's my limit..."
  },
  {
   "id": "SCENARIO/064/052b8",
@@ -337,7 +337,7 @@
   "jp": [
    "申し訳ありません"
   ],
-  "en": ""
+  "en": "My apologies."
  },
  {
   "id": "SCENARIO/064/0537c",
@@ -347,7 +347,7 @@
    "あああああああああああああああ",
    "あああああああああああああああ"
   ],
-  "en": ""
+  "en": "They got meeeeeeeeeeeeeeeeeeeeeeee!"
  },
  {
   "id": "SCENARIO/064/05490",
@@ -357,6 +357,6 @@
    "あああああああああああああああ",
    "あああああああああああああああ"
   ],
-  "en": ""
+  "en": "They got meeeeeeeeeeeeeeeeeeeeeeee!"
  }
 ]

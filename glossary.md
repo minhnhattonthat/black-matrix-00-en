@@ -37,7 +37,7 @@
 | クレイス | Kreis ? | Church |
 | ルビエル | Rubiel | |
 | リプサリス | Rhipsalis | |
-| グリシナ | Grisina ? | |
+| グリシナ | Grisina | |
 | ニコ | Nico | island child |
 | フリエ神父 | Father Frie ? | island priest |
 | クッタ | Kutta | |
@@ -124,3 +124,9 @@ Corrections: Kilota uses 僕 and is called 坊主 in script 111 — a boy, not a
 | 酒場の女主人 | Tavern Mistress | portrait label |
 | パンク兵 | Punk Soldier | Cypherpunk rank-and-file |
 | うちの子 | Our Boy | bonus scenario title |
+| ファントム・ペイン | Phantom Pain | |
+| 白き悪魔 | the White Demon | Cain, to the Church |
+| 先祖返り | throwbacks | |
+| 天使様 (address) | Lord Angel | |
+| 実験施設 | the experimental facility | |
+| 補佐官 | aide | |
