@@ -7,7 +7,7 @@
    "わたし達に構わず、",
    "先に行って下さい！！"
   ],
-  "en": ""
+  "en": "Cain-san, don't worry about us, go on ahead!!"
  },
  {
   "id": "SCENARIO/238/001a8",
@@ -17,7 +17,7 @@
    "アンタだけなんだから、",
    "早く迎えに行ってあげなさい！！"
   ],
-  "en": ""
+  "en": "You're the only one who can hear Matia's voice, so hurry up and go get her!!"
  },
  {
   "id": "SCENARIO/238/00238",
@@ -27,7 +27,7 @@
    "いったん外に出て、",
    "直接地下へ向かえ、カイン！"
   ],
-  "en": ""
+  "en": "We can't get through this way. Go back outside and head straight underground, Cain!"
  },
  {
   "id": "SCENARIO/238/002ae",
@@ -36,7 +36,7 @@
    "みんな・・・・・ごめん、",
    "ボク、行ってくる！！"
   ],
-  "en": ""
+  "en": "Everyone..... I'm sorry. I'm going!!"
  },
  {
   "id": "SCENARIO/238/00318",
@@ -45,12 +45,12 @@
    "カイン、急いで・・・",
    "もう時間は残ってないわよ"
   ],
-  "en": ""
+  "en": "Cain, hurry... There's no time left."
  },
  {
   "id": "SCENARIO/238/03ec0",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/238/03ece",
@@ -58,12 +58,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/238/03ee6",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/238/03ef6",
@@ -71,6 +71,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

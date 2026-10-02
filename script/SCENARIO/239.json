@@ -2,7 +2,7 @@
  {
   "id": "SCENARIO/239/002c4",
   "jp": "構成員・男",
-  "en": ""
+  "en": "Member (Man)"
  },
  {
   "id": "SCENARIO/239/002d8",
@@ -11,12 +11,12 @@
    "早く行ってこい・・・",
    "急ぐ時ほど、冷静さを忘れるなよ"
   ],
-  "en": ""
+  "en": "Get going... The more you hurry, the more you need to keep a cool head."
  },
  {
   "id": "SCENARIO/239/0034c",
   "jp": "構成員・女",
-  "en": ""
+  "en": "Member (Woman)"
  },
  {
   "id": "SCENARIO/239/00360",
@@ -25,12 +25,12 @@
    "・・・ええ、頑張って",
    "ちゃんと生きて帰ってくるのよ"
   ],
-  "en": ""
+  "en": "...Yes, good luck. You come back alive, you hear?"
  },
  {
   "id": "SCENARIO/239/003d4",
   "jp": "構成員・若者",
-  "en": ""
+  "en": "Member (Youth)"
  },
  {
   "id": "SCENARIO/239/003ea",
@@ -39,7 +39,7 @@
    "多忙な身だな・・",
    "ヴァルトス様といい勝負だ"
   ],
-  "en": ""
+  "en": "You're a busy one... You could give Valtoss-sama a run for his money."
  },
  {
   "id": "SCENARIO/239/00420",
@@ -48,7 +48,7 @@
    "ヴァルトス様もまた、",
    "どこかへ向かうらしい"
   ],
-  "en": ""
+  "en": "Valtoss-sama is off somewhere again, it seems."
  },
  {
   "id": "SCENARIO/239/00458",
@@ -58,7 +58,7 @@
    "いつもどこへ向かわれるのか、",
    "誰にもその行き先を告げない・・"
   ],
-  "en": ""
+  "en": "Wherever Valtoss-sama goes, he never tells anyone his destination..."
  },
  {
   "id": "SCENARIO/239/004b4",
@@ -67,12 +67,12 @@
    "だが、そんなことはどうでもいい",
    "俺達はヴァルトス様を信じてる"
   ],
-  "en": ""
+  "en": "But that doesn't matter. We believe in Valtoss-sama."
  },
  {
   "id": "SCENARIO/239/00544",
   "jp": "ヴァルトス",
-  "en": ""
+  "en": "Valtoss"
  },
  {
   "id": "SCENARIO/239/00558",
@@ -80,12 +80,12 @@
   "jp": [
    "私に何か用か？"
   ],
-  "en": ""
+  "en": "Do you need something from me?"
  },
  {
   "id": "SCENARIO/239/00570",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/239/00580",
@@ -94,12 +94,12 @@
    "ヴァルトスさん・・・",
    "その腕の傷、どうしたんですか？"
   ],
-  "en": ""
+  "en": "Valtoss-san... That wound on your arm, what happened?"
  },
  {
   "id": "SCENARIO/239/005c0",
   "jp": "ヴァルトス",
-  "en": ""
+  "en": "Valtoss"
  },
  {
   "id": "SCENARIO/239/005d4",
@@ -107,12 +107,12 @@
   "jp": [
    "！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/239/005e4",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/239/005f4",
@@ -120,12 +120,12 @@
   "jp": [
    "・・・ヴァルトスさん？"
   ],
-  "en": ""
+  "en": "...Valtoss-san?"
  },
  {
   "id": "SCENARIO/239/00614",
   "jp": "ヴァルトス",
-  "en": ""
+  "en": "Valtoss"
  },
  {
   "id": "SCENARIO/239/00628",
@@ -135,12 +135,12 @@
    "これは・・・なんでもない",
    "気にしないでくれ"
   ],
-  "en": ""
+  "en": "A-ah... This is... nothing. Pay it no mind."
  },
  {
   "id": "SCENARIO/239/00684",
   "jp": "ヴァルトス",
-  "en": ""
+  "en": "Valtoss"
  },
  {
   "id": "SCENARIO/239/00698",
@@ -149,7 +149,7 @@
    "すまないが、",
    "私も多忙な身だ・・・"
   ],
-  "en": ""
+  "en": "Forgive me, but I am a busy man as well..."
  },
  {
   "id": "SCENARIO/239/006c8",
@@ -158,12 +158,12 @@
    "何かあった時は、",
    "ダリアに助言をこうといい・・"
   ],
-  "en": ""
+  "en": "If anything comes up, ask Dahlia for advice..."
  },
  {
   "id": "SCENARIO/239/00728",
   "jp": "ダリア",
-  "en": ""
+  "en": "Dahlia"
  },
  {
   "id": "SCENARIO/239/00738",
@@ -172,12 +172,12 @@
    "急ぐんだろ？",
    "早く行っておやり"
   ],
-  "en": ""
+  "en": "You're in a hurry, right? Go on, get going."
  },
  {
   "id": "SCENARIO/239/00780",
   "jp": "ウェイター",
-  "en": ""
+  "en": "Waiter"
  },
  {
   "id": "SCENARIO/239/00794",
@@ -187,12 +187,12 @@
    "応援してますよ！",
    "頑張って下さいねッ！！"
   ],
-  "en": ""
+  "en": "Now, hurry! We're rooting for you! Give it your all!!"
  },
  {
   "id": "SCENARIO/239/00810",
   "jp": "中年",
-  "en": ""
+  "en": "Middle-aged Man"
  },
  {
   "id": "SCENARIO/239/0081e",
@@ -202,12 +202,12 @@
    "飲んだところで、",
    "少しも酔えやしねぇんだ"
   ],
-  "en": ""
+  "en": "I'm quitting the drink... However much I down, I can't get the least bit drunk."
  },
  {
   "id": "SCENARIO/239/008a4",
   "jp": "老人",
-  "en": ""
+  "en": "Old Man"
  },
  {
   "id": "SCENARIO/239/008b2",
@@ -216,7 +216,7 @@
    "いつもあそこで立っている",
    "ばあさんはな・・・"
   ],
-  "en": ""
+  "en": "That old woman who's always standing over there..."
  },
  {
   "id": "SCENARIO/239/008ec",
@@ -225,12 +225,12 @@
    "あの場所で、ケンカ別れした",
    "息子の帰りを待っているんじゃよ"
   ],
-  "en": ""
+  "en": "She's waiting in that spot for the son she fell out with to come home."
  },
  {
   "id": "SCENARIO/239/00968",
   "jp": "青年",
-  "en": ""
+  "en": "Young Man"
  },
  {
   "id": "SCENARIO/239/00976",
@@ -240,7 +240,7 @@
    "こき使われるのは疲れたから",
    "自分の店が欲しいな"
   ],
-  "en": ""
+  "en": "Yeah, I'm tired of slaving away at my brother's shop. I want a shop of my own."
  },
  {
   "id": "SCENARIO/239/009d4",
@@ -249,7 +249,7 @@
    "ま、適当にさぼったら",
    "仕事に戻ろうっと"
   ],
-  "en": ""
+  "en": "Well, once I've slacked off enough, I'll get back to work."
  },
  {
   "id": "SCENARIO/239/00a34",
@@ -257,7 +257,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/239/00a50",
@@ -266,7 +266,7 @@
    "ちょっと良い出物が",
    "あるんだが・・・"
   ],
-  "en": ""
+  "en": "I've got a nice little find here..."
  },
  {
   "id": "SCENARIO/239/00a80",
@@ -275,7 +275,7 @@
    "これは、ちょっと",
    "店に置けないんだ"
   ],
-  "en": ""
+  "en": "This one, I can't really put out in the shop."
  },
  {
   "id": "SCENARIO/239/00ab0",
@@ -283,7 +283,7 @@
   "jp": [
    "キミに特別にあげるよ"
   ],
-  "en": ""
+  "en": "I'll give it to you, special."
  },
  {
   "id": "SCENARIO/239/00ad0",
@@ -291,7 +291,7 @@
   "jp": [
    "代金？"
   ],
-  "en": ""
+  "en": "Payment?"
  },
  {
   "id": "SCENARIO/239/00ae0",
@@ -299,7 +299,7 @@
   "jp": [
    "いーよ、いーよ"
   ],
-  "en": ""
+  "en": "Nah, nah, don't worry about it."
  },
  {
   "id": "SCENARIO/239/00af8",
@@ -308,12 +308,12 @@
    "いつか俺が店を持てたら",
    "そん時は、ひいきにしてくれ"
   ],
-  "en": ""
+  "en": "When I get my own shop someday, be a regular, all right?"
  },
  {
   "id": "SCENARIO/239/00b9c",
   "jp": "老婆",
-  "en": ""
+  "en": "Old Woman"
  },
  {
   "id": "SCENARIO/239/00baa",
@@ -323,7 +323,7 @@
    "さすがに、お迎えが近いと",
    "心細くなるもんじゃのう・・・"
   ],
-  "en": ""
+  "en": "Keh keh keh keh. When your time's drawing near, you can't help feeling lonely..."
  },
  {
   "id": "SCENARIO/239/00bfc",
@@ -332,12 +332,12 @@
    "最近、ケンカ別れした息子の",
    "夢ばかり見ておるよ"
   ],
-  "en": ""
+  "en": "Lately I keep dreaming of my son, the one I fell out with."
  },
  {
   "id": "SCENARIO/239/00c6c",
   "jp": "男の子",
-  "en": ""
+  "en": "Boy"
  },
  {
   "id": "SCENARIO/239/00c7c",
@@ -345,7 +345,7 @@
   "jp": [
    "大人達ってずるいよなー"
   ],
-  "en": ""
+  "en": "Grown-ups are so unfair!"
  },
  {
   "id": "SCENARIO/239/00c9c",
@@ -355,12 +355,12 @@
    "自分たちは悪魔の公開処刑を",
    "見に行くつもりなんだぜ？"
   ],
-  "en": ""
+  "en": "They said no to us kids, but they're going to watch the demon's public execution!"
  },
  {
   "id": "SCENARIO/239/00d44",
   "jp": "女の子",
-  "en": ""
+  "en": "Girl"
  },
  {
   "id": "SCENARIO/239/00d54",
@@ -370,7 +370,7 @@
    "本当は見にいかずにすんで",
    "ほっとしてるのよ"
   ],
-  "en": ""
+  "en": "They grumble a lot, but really they're relieved they don't have to go see it."
  },
  {
   "id": "SCENARIO/239/00da8",
@@ -379,12 +379,12 @@
    "わたしは見たかったな～",
    "悪魔の公開処刑"
   ],
-  "en": ""
+  "en": "I wanted to see it, though~ The demon's public execution."
  },
  {
   "id": "SCENARIO/239/00df0",
   "jp": "女の子",
-  "en": ""
+  "en": "Girl"
  },
  {
   "id": "SCENARIO/239/00e00",
@@ -394,7 +394,7 @@
    "悪魔は死ににくいんだって！",
    "どれぐらい死ににくいのかな？"
   ],
-  "en": ""
+  "en": "Mama said demons are really hard to kill! I wonder just how hard they are to kill?"
  },
  {
   "id": "SCENARIO/239/00e5c",
@@ -404,12 +404,12 @@
    "踏みつぶしてぺちゃんこにする",
    "くらいしなきゃダメだよね！"
   ],
-  "en": ""
+  "en": "You'd probably have to squash them flat like a tomato for it to work, huh!"
  },
  {
   "id": "SCENARIO/239/00efc",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/239/00f0c",
@@ -417,12 +417,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/239/00f5c",
   "jp": "兵士",
-  "en": ""
+  "en": "Soldier"
  },
  {
   "id": "SCENARIO/239/00f6a",
@@ -431,7 +431,7 @@
    "まずいな・・・",
    "これは、かなり重傷だ・・・"
   ],
-  "en": ""
+  "en": "Not good... This wound is pretty serious..."
  },
  {
   "id": "SCENARIO/239/00fa0",
@@ -440,12 +440,12 @@
    "あんな少女に心を乱されるなんて",
    "俺は、どうかしているッ"
   ],
-  "en": ""
+  "en": "Letting a girl like that get under my skin... What's wrong with me!"
  },
  {
   "id": "SCENARIO/239/01018",
   "jp": "プラン",
-  "en": ""
+  "en": "Plan"
  },
  {
   "id": "SCENARIO/239/01028",
@@ -454,12 +454,12 @@
    "今日も元気に",
    "いらっしゃいませ～"
   ],
-  "en": ""
+  "en": "Welcome, welcome~ Full of pep today too!"
  },
  {
   "id": "SCENARIO/239/01070",
   "jp": "フライ",
-  "en": ""
+  "en": "Fly"
  },
  {
   "id": "SCENARIO/239/01080",
@@ -468,12 +468,12 @@
    "いらっしゃいませ～",
    "今日も頑張るの？"
   ],
-  "en": ""
+  "en": "Welcome~ Hard at it again today?"
  },
  {
   "id": "SCENARIO/239/04bd8",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/239/04be6",
@@ -481,12 +481,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/239/04bfe",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/239/04c0e",
@@ -494,6 +494,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

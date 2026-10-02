@@ -176,3 +176,12 @@ Grisina presents female but self-identifies as a man (195): pronoun-free.
 | 我らが母なる神 | Mother God | Bale's prayer |
 | ラムシュタイン要塞 | Fortress Ramstein | soldiers' nickname |
 | リプサリス・サファイア | Rhipsalis Sapphire | |
+| 白き翼の悪魔 | the White-Winged Demon | |
+| 対なるリング | the Paired Ring | |
+| ペインキラー空間 | Painkiller field | |
+| 制御棒 / 制御装置 / 起爆装置 | control rod / control device / detonator | |
+| ＜ヒト＞族 | the race of Man | |
+| ＜あの者＞ | the One | prophesied Incest |
+| 十審将裁判 | the Tribunal Generals' trial | |
+
+Correction: Luca uses アタシ (script 250) and 捜したわよ (056): Luca is a woman. The gender list at the top is wrong on this point; check earlier scripts for "he/him" referring to Luca.

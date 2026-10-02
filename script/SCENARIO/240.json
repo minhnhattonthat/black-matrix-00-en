@@ -5,7 +5,7 @@
   "jp": [
    "うわあっっ！！"
   ],
-  "en": ""
+  "en": "Whoaaa!!"
  },
  {
   "id": "SCENARIO/240/001a6",
@@ -15,7 +15,7 @@
    "地下に潜り込むことが・・",
    "出来たぞ・・"
   ],
-  "en": ""
+  "en": "Haah... haah... Somehow I... made it into the underground..."
  },
  {
   "id": "SCENARIO/240/00200",
@@ -23,7 +23,7 @@
   "jp": [
    "マティア・・・待ってて、"
   ],
-  "en": ""
+  "en": "Matia... wait for me,"
  },
  {
   "id": "SCENARIO/240/0022c",
@@ -32,12 +32,12 @@
    "すぐに・・・",
    "キミのところへ行くから！"
   ],
-  "en": ""
+  "en": "I'll be... at your side soon!"
  },
  {
   "id": "SCENARIO/240/03dbc",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/240/03dca",
@@ -45,12 +45,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/240/03de2",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/240/03df2",
@@ -58,6 +58,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
