@@ -49,7 +49,8 @@ def apply(js: Path, answers: Path) -> list[str]:
 def check(src_lines: list[str], answer_lines: list[str], limit: int = 85) -> list[str]:
     """Problems in a translator's answer file against the source listing it was made from."""
     wanted = [l.split("\t")[0] for l in src_lines if l.strip()]
-    limits = {p[0]: int(p[1]) for p in (l.split("\t") for l in src_lines) if len(p) > 1 and p[1].isdigit()}
+    limits = {p[0]: int(p[1][1:]) for p in (l.split("\t") for l in src_lines)
+              if len(p) > 1 and p[1][:1] == "w" and p[1][1:].isdigit()}
     seen, problems = {}, []
     for raw in answer_lines:
         if not raw.strip():
