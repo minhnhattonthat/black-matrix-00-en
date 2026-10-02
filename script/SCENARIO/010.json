@@ -2,1807 +2,1807 @@
  {
   "id": "SCENARIO/010/00020",
   "jp": "０１章",
-  "en": ""
+  "en": "Chapter 01"
  },
  {
   "id": "SCENARIO/010/00030",
   "jp": "０２章",
-  "en": ""
+  "en": "Chapter 02"
  },
  {
   "id": "SCENARIO/010/00040",
   "jp": "０３章",
-  "en": ""
+  "en": "Chapter 03"
  },
  {
   "id": "SCENARIO/010/00050",
   "jp": "０４章",
-  "en": ""
+  "en": "Chapter 04"
  },
  {
   "id": "SCENARIO/010/00060",
   "jp": "０５章",
-  "en": ""
+  "en": "Chapter 05"
  },
  {
   "id": "SCENARIO/010/00070",
   "jp": "０６章",
-  "en": ""
+  "en": "Chapter 06"
  },
  {
   "id": "SCENARIO/010/00080",
   "jp": "０７章",
-  "en": ""
+  "en": "Chapter 07"
  },
  {
   "id": "SCENARIO/010/00090",
   "jp": "０８章",
-  "en": ""
+  "en": "Chapter 08"
  },
  {
   "id": "SCENARIO/010/000a0",
   "jp": "０９章",
-  "en": ""
+  "en": "Chapter 09"
  },
  {
   "id": "SCENARIO/010/000b0",
   "jp": "１０章",
-  "en": ""
+  "en": "Chapter 10"
  },
  {
   "id": "SCENARIO/010/000c0",
   "jp": "ＢＳ",
-  "en": ""
+  "en": "BS"
  },
  {
   "id": "SCENARIO/010/000f8",
   "jp": "シーン０１０１",
-  "en": ""
+  "en": "Scene 0101"
  },
  {
   "id": "SCENARIO/010/00110",
   "jp": "シーン０１０２",
-  "en": ""
+  "en": "Scene 0102"
  },
  {
   "id": "SCENARIO/010/00128",
   "jp": "シーン０１０３",
-  "en": ""
+  "en": "Scene 0103"
  },
  {
   "id": "SCENARIO/010/00140",
   "jp": "シーン０１０４",
-  "en": ""
+  "en": "Scene 0104"
  },
  {
   "id": "SCENARIO/010/00158",
   "jp": "シーン０１０５",
-  "en": ""
+  "en": "Scene 0105"
  },
  {
   "id": "SCENARIO/010/00170",
   "jp": "シーン０１０６（戦闘１）",
-  "en": ""
+  "en": "Scene 0106 (Battle 1)"
  },
  {
   "id": "SCENARIO/010/00190",
   "jp": "シーン０１０７",
-  "en": ""
+  "en": "Scene 0107"
  },
  {
   "id": "SCENARIO/010/001a8",
   "jp": "シーン０１０８",
-  "en": ""
+  "en": "Scene 0108"
  },
  {
   "id": "SCENARIO/010/001c0",
   "jp": "シーン０１０９",
-  "en": ""
+  "en": "Scene 0109"
  },
  {
   "id": "SCENARIO/010/001d8",
   "jp": "シーン０１１０",
-  "en": ""
+  "en": "Scene 0110"
  },
  {
   "id": "SCENARIO/010/001f0",
   "jp": "シーン０１１１",
-  "en": ""
+  "en": "Scene 0111"
  },
  {
   "id": "SCENARIO/010/00208",
   "jp": "シーン０１１２",
-  "en": ""
+  "en": "Scene 0112"
  },
  {
   "id": "SCENARIO/010/00220",
   "jp": "シーン０１１３",
-  "en": ""
+  "en": "Scene 0113"
  },
  {
   "id": "SCENARIO/010/00238",
   "jp": "シーン０１１４",
-  "en": ""
+  "en": "Scene 0114"
  },
  {
   "id": "SCENARIO/010/00250",
   "jp": "シーン０１１５（戦闘２）",
-  "en": ""
+  "en": "Scene 0115 (Battle 2)"
  },
  {
   "id": "SCENARIO/010/00270",
   "jp": "シーン０１１６",
-  "en": ""
+  "en": "Scene 0116"
  },
  {
   "id": "SCENARIO/010/00288",
   "jp": "シーン０１１７",
-  "en": ""
+  "en": "Scene 0117"
  },
  {
   "id": "SCENARIO/010/002a0",
   "jp": "シーン０１１８",
-  "en": ""
+  "en": "Scene 0118"
  },
  {
   "id": "SCENARIO/010/002b8",
   "jp": "シーン０１１９",
-  "en": ""
+  "en": "Scene 0119"
  },
  {
   "id": "SCENARIO/010/002d0",
   "jp": "シーン０１２０（戦闘３）",
-  "en": ""
+  "en": "Scene 0120 (Battle 3)"
  },
  {
   "id": "SCENARIO/010/002f0",
   "jp": "シーン０１２１",
-  "en": ""
+  "en": "Scene 0121"
  },
  {
   "id": "SCENARIO/010/00308",
   "jp": "シーン０１２２",
-  "en": ""
+  "en": "Scene 0122"
  },
  {
   "id": "SCENARIO/010/00320",
   "jp": "シーン０１２３",
-  "en": ""
+  "en": "Scene 0123"
  },
  {
   "id": "SCENARIO/010/00408",
   "jp": "シーン０２０１",
-  "en": ""
+  "en": "Scene 0201"
  },
  {
   "id": "SCENARIO/010/00420",
   "jp": "シーン０２０２",
-  "en": ""
+  "en": "Scene 0202"
  },
  {
   "id": "SCENARIO/010/00438",
   "jp": "シーン０２０３",
-  "en": ""
+  "en": "Scene 0203"
  },
  {
   "id": "SCENARIO/010/00450",
   "jp": "シーン０２０４（自由行動１）",
-  "en": ""
+  "en": "Scene 0204 (Free Roam 1)"
  },
  {
   "id": "SCENARIO/010/00474",
   "jp": "シーン０２０５",
-  "en": ""
+  "en": "Scene 0205"
  },
  {
   "id": "SCENARIO/010/0048c",
   "jp": "シーン０２０６（戦闘１）",
-  "en": ""
+  "en": "Scene 0206 (Battle 1)"
  },
  {
   "id": "SCENARIO/010/004ac",
   "jp": "シーン０２０７",
-  "en": ""
+  "en": "Scene 0207"
  },
  {
   "id": "SCENARIO/010/004c4",
   "jp": "シーン０２０８",
-  "en": ""
+  "en": "Scene 0208"
  },
  {
   "id": "SCENARIO/010/004dc",
   "jp": "シーン０２０９（自由行動２）",
-  "en": ""
+  "en": "Scene 0209 (Free Roam 2)"
  },
  {
   "id": "SCENARIO/010/00500",
   "jp": "シーン０２１０",
-  "en": ""
+  "en": "Scene 0210"
  },
  {
   "id": "SCENARIO/010/00518",
   "jp": "シーン０２１１",
-  "en": ""
+  "en": "Scene 0211"
  },
  {
   "id": "SCENARIO/010/00530",
   "jp": "シーン０２１２",
-  "en": ""
+  "en": "Scene 0212"
  },
  {
   "id": "SCENARIO/010/00548",
   "jp": "シーン０２１３（戦闘２）",
-  "en": ""
+  "en": "Scene 0213 (Battle 2)"
  },
  {
   "id": "SCENARIO/010/00568",
   "jp": "シーン０２１４",
-  "en": ""
+  "en": "Scene 0214"
  },
  {
   "id": "SCENARIO/010/00580",
   "jp": "シーン０２１５（戦闘３）",
-  "en": ""
+  "en": "Scene 0215 (Battle 3)"
  },
  {
   "id": "SCENARIO/010/005a0",
   "jp": "シーン０２１６",
-  "en": ""
+  "en": "Scene 0216"
  },
  {
   "id": "SCENARIO/010/005b8",
   "jp": "シーン０２１７",
-  "en": ""
+  "en": "Scene 0217"
  },
  {
   "id": "SCENARIO/010/005d0",
   "jp": "シーン０２１８（自由行動３）",
-  "en": ""
+  "en": "Scene 0218 (Free Roam 3)"
  },
  {
   "id": "SCENARIO/010/005f4",
   "jp": "シーン０２１９",
-  "en": ""
+  "en": "Scene 0219"
  },
  {
   "id": "SCENARIO/010/0060c",
   "jp": "シーン０２２０",
-  "en": ""
+  "en": "Scene 0220"
  },
  {
   "id": "SCENARIO/010/00624",
   "jp": "シーン０２２１（戦闘４）",
-  "en": ""
+  "en": "Scene 0221 (Battle 4)"
  },
  {
   "id": "SCENARIO/010/00644",
   "jp": "シーン０２２２",
-  "en": ""
+  "en": "Scene 0222"
  },
  {
   "id": "SCENARIO/010/0065c",
   "jp": "シーン０２２３（戦闘５）",
-  "en": ""
+  "en": "Scene 0223 (Battle 5)"
  },
  {
   "id": "SCENARIO/010/0067c",
   "jp": "シーン０２２４",
-  "en": ""
+  "en": "Scene 0224"
  },
  {
   "id": "SCENARIO/010/00694",
   "jp": "シーン０２２５",
-  "en": ""
+  "en": "Scene 0225"
  },
  {
   "id": "SCENARIO/010/006ac",
   "jp": "シーン０２２６",
-  "en": ""
+  "en": "Scene 0226"
  },
  {
   "id": "SCENARIO/010/007ac",
   "jp": "シーン０３０１",
-  "en": ""
+  "en": "Scene 0301"
  },
  {
   "id": "SCENARIO/010/007c4",
   "jp": "シーン０３０２",
-  "en": ""
+  "en": "Scene 0302"
  },
  {
   "id": "SCENARIO/010/007dc",
   "jp": "シーン０３０３（自由行動１）",
-  "en": ""
+  "en": "Scene 0303 (Free Roam 1)"
  },
  {
   "id": "SCENARIO/010/00800",
   "jp": "シーン０３０４",
-  "en": ""
+  "en": "Scene 0304"
  },
  {
   "id": "SCENARIO/010/00818",
   "jp": "シーン０３０５",
-  "en": ""
+  "en": "Scene 0305"
  },
  {
   "id": "SCENARIO/010/00830",
   "jp": "シーン０３０６",
-  "en": ""
+  "en": "Scene 0306"
  },
  {
   "id": "SCENARIO/010/00848",
   "jp": "シーン０３０７",
-  "en": ""
+  "en": "Scene 0307"
  },
  {
   "id": "SCENARIO/010/00860",
   "jp": "シーン０３０８（戦闘１）",
-  "en": ""
+  "en": "Scene 0308 (Battle 1)"
  },
  {
   "id": "SCENARIO/010/00880",
   "jp": "シーン０３０９",
-  "en": ""
+  "en": "Scene 0309"
  },
  {
   "id": "SCENARIO/010/00898",
   "jp": "シーン０３１０",
-  "en": ""
+  "en": "Scene 0310"
  },
  {
   "id": "SCENARIO/010/008b0",
   "jp": "シーン０３１１（自由行動２）",
-  "en": ""
+  "en": "Scene 0311 (Free Roam 2)"
  },
  {
   "id": "SCENARIO/010/008d4",
   "jp": "シーン０３１２",
-  "en": ""
+  "en": "Scene 0312"
  },
  {
   "id": "SCENARIO/010/008ec",
   "jp": "シーン０３１３",
-  "en": ""
+  "en": "Scene 0313"
  },
  {
   "id": "SCENARIO/010/00904",
   "jp": "シーン０３１４",
-  "en": ""
+  "en": "Scene 0314"
  },
  {
   "id": "SCENARIO/010/0091c",
   "jp": "シーン０３１５",
-  "en": ""
+  "en": "Scene 0315"
  },
  {
   "id": "SCENARIO/010/00934",
   "jp": "シーン０３１６",
-  "en": ""
+  "en": "Scene 0316"
  },
  {
   "id": "SCENARIO/010/0094c",
   "jp": "シーン０３１７（戦闘２）",
-  "en": ""
+  "en": "Scene 0317 (Battle 2)"
  },
  {
   "id": "SCENARIO/010/0096c",
   "jp": "シーン０３２０",
-  "en": ""
+  "en": "Scene 0320"
  },
  {
   "id": "SCENARIO/010/00984",
   "jp": "シーン０３２１",
-  "en": ""
+  "en": "Scene 0321"
  },
  {
   "id": "SCENARIO/010/0099c",
   "jp": "シーン０３２２",
-  "en": ""
+  "en": "Scene 0322"
  },
  {
   "id": "SCENARIO/010/009b4",
   "jp": "シーン０３２３",
-  "en": ""
+  "en": "Scene 0323"
  },
  {
   "id": "SCENARIO/010/009cc",
   "jp": "シーン０３２４",
-  "en": ""
+  "en": "Scene 0324"
  },
  {
   "id": "SCENARIO/010/009e4",
   "jp": "シーン０３２５（自由行動３）",
-  "en": ""
+  "en": "Scene 0325 (Free Roam 3)"
  },
  {
   "id": "SCENARIO/010/00a08",
   "jp": "シーン０３２６",
-  "en": ""
+  "en": "Scene 0326"
  },
  {
   "id": "SCENARIO/010/00a20",
   "jp": "シーン０３２７（自由行動４）",
-  "en": ""
+  "en": "Scene 0327 (Free Roam 4)"
  },
  {
   "id": "SCENARIO/010/00a44",
   "jp": "シーン０３２８",
-  "en": ""
+  "en": "Scene 0328"
  },
  {
   "id": "SCENARIO/010/00a5c",
   "jp": "シーン０３２９",
-  "en": ""
+  "en": "Scene 0329"
  },
  {
   "id": "SCENARIO/010/00a74",
   "jp": "シーン０３３０",
-  "en": ""
+  "en": "Scene 0330"
  },
  {
   "id": "SCENARIO/010/00a8c",
   "jp": "シーン０３３１",
-  "en": ""
+  "en": "Scene 0331"
  },
  {
   "id": "SCENARIO/010/00aa4",
   "jp": "シーン０３３２（戦闘３）",
-  "en": ""
+  "en": "Scene 0332 (Battle 3)"
  },
  {
   "id": "SCENARIO/010/00ac4",
   "jp": "シーン０３３３",
-  "en": ""
+  "en": "Scene 0333"
  },
  {
   "id": "SCENARIO/010/00adc",
   "jp": "シーン０３３４",
-  "en": ""
+  "en": "Scene 0334"
  },
  {
   "id": "SCENARIO/010/00af4",
   "jp": "シーン０３３５",
-  "en": ""
+  "en": "Scene 0335"
  },
  {
   "id": "SCENARIO/010/00b0c",
   "jp": "シーン０３３６",
-  "en": ""
+  "en": "Scene 0336"
  },
  {
   "id": "SCENARIO/010/00c4c",
   "jp": "シーン０４０１",
-  "en": ""
+  "en": "Scene 0401"
  },
  {
   "id": "SCENARIO/010/00c64",
   "jp": "シーン０４０２",
-  "en": ""
+  "en": "Scene 0402"
  },
  {
   "id": "SCENARIO/010/00c7c",
   "jp": "シーン０４０３（自由行動１）",
-  "en": ""
+  "en": "Scene 0403 (Free Roam 1)"
  },
  {
   "id": "SCENARIO/010/00ca0",
   "jp": "シーン０４０４",
-  "en": ""
+  "en": "Scene 0404"
  },
  {
   "id": "SCENARIO/010/00cb8",
   "jp": "シーン０４０５",
-  "en": ""
+  "en": "Scene 0405"
  },
  {
   "id": "SCENARIO/010/00cd0",
   "jp": "シーン０４０６（自由行動２）",
-  "en": ""
+  "en": "Scene 0406 (Free Roam 2)"
  },
  {
   "id": "SCENARIO/010/00cf4",
   "jp": "シーン０４０７",
-  "en": ""
+  "en": "Scene 0407"
  },
  {
   "id": "SCENARIO/010/00d0c",
   "jp": "シーン０４０８",
-  "en": ""
+  "en": "Scene 0408"
  },
  {
   "id": "SCENARIO/010/00d24",
   "jp": "シーン０４０９",
-  "en": ""
+  "en": "Scene 0409"
  },
  {
   "id": "SCENARIO/010/00d3c",
   "jp": "シーン０４１０",
-  "en": ""
+  "en": "Scene 0410"
  },
  {
   "id": "SCENARIO/010/00d54",
   "jp": "シーン０４１１",
-  "en": ""
+  "en": "Scene 0411"
  },
  {
   "id": "SCENARIO/010/00d6c",
   "jp": "シーン０４１２（戦闘１）",
-  "en": ""
+  "en": "Scene 0412 (Battle 1)"
  },
  {
   "id": "SCENARIO/010/00d8c",
   "jp": "シーン０４１３",
-  "en": ""
+  "en": "Scene 0413"
  },
  {
   "id": "SCENARIO/010/00da4",
   "jp": "シーン０４１４",
-  "en": ""
+  "en": "Scene 0414"
  },
  {
   "id": "SCENARIO/010/00dbc",
   "jp": "シーン０４１５（自由行動３）",
-  "en": ""
+  "en": "Scene 0415 (Free Roam 3)"
  },
  {
   "id": "SCENARIO/010/00de0",
   "jp": "シーン０４１６",
-  "en": ""
+  "en": "Scene 0416"
  },
  {
   "id": "SCENARIO/010/00df8",
   "jp": "シーン０４１７",
-  "en": ""
+  "en": "Scene 0417"
  },
  {
   "id": "SCENARIO/010/00e10",
   "jp": "シーン０４１８",
-  "en": ""
+  "en": "Scene 0418"
  },
  {
   "id": "SCENARIO/010/00e28",
   "jp": "シーン０４１９",
-  "en": ""
+  "en": "Scene 0419"
  },
  {
   "id": "SCENARIO/010/00e40",
   "jp": "シーン０４２０",
-  "en": ""
+  "en": "Scene 0420"
  },
  {
   "id": "SCENARIO/010/00e58",
   "jp": "シーン０４２１",
-  "en": ""
+  "en": "Scene 0421"
  },
  {
   "id": "SCENARIO/010/00e70",
   "jp": "シーン０４２２",
-  "en": ""
+  "en": "Scene 0422"
  },
  {
   "id": "SCENARIO/010/00e88",
   "jp": "シーン０４２３（戦闘２）",
-  "en": ""
+  "en": "Scene 0423 (Battle 2)"
  },
  {
   "id": "SCENARIO/010/00ea8",
   "jp": "シーン０４２４",
-  "en": ""
+  "en": "Scene 0424"
  },
  {
   "id": "SCENARIO/010/00ec0",
   "jp": "シーン０４２５",
-  "en": ""
+  "en": "Scene 0425"
  },
  {
   "id": "SCENARIO/010/00ed8",
   "jp": "シーン０４２６",
-  "en": ""
+  "en": "Scene 0426"
  },
  {
   "id": "SCENARIO/010/00ef0",
   "jp": "シーン０４２７（自由行動４）",
-  "en": ""
+  "en": "Scene 0427 (Free Roam 4)"
  },
  {
   "id": "SCENARIO/010/00f14",
   "jp": "シーン０４２８",
-  "en": ""
+  "en": "Scene 0428"
  },
  {
   "id": "SCENARIO/010/00f2c",
   "jp": "シーン０４２９",
-  "en": ""
+  "en": "Scene 0429"
  },
  {
   "id": "SCENARIO/010/00f44",
   "jp": "シーン０４３０",
-  "en": ""
+  "en": "Scene 0430"
  },
  {
   "id": "SCENARIO/010/00f5c",
   "jp": "シーン０４３１（自由行動５）",
-  "en": ""
+  "en": "Scene 0431 (Free Roam 5)"
  },
  {
   "id": "SCENARIO/010/00f80",
   "jp": "シーン０４３２",
-  "en": ""
+  "en": "Scene 0432"
  },
  {
   "id": "SCENARIO/010/00f98",
   "jp": "シーン０４３３",
-  "en": ""
+  "en": "Scene 0433"
  },
  {
   "id": "SCENARIO/010/00fb0",
   "jp": "シーン０４３４",
-  "en": ""
+  "en": "Scene 0434"
  },
  {
   "id": "SCENARIO/010/00fc8",
   "jp": "シーン０４３５",
-  "en": ""
+  "en": "Scene 0435"
  },
  {
   "id": "SCENARIO/010/00fe0",
   "jp": "シーン０４３６（戦闘３）",
-  "en": ""
+  "en": "Scene 0436 (Battle 3)"
  },
  {
   "id": "SCENARIO/010/01000",
   "jp": "シーン０４３７",
-  "en": ""
+  "en": "Scene 0437"
  },
  {
   "id": "SCENARIO/010/01018",
   "jp": "シーン０４３８",
-  "en": ""
+  "en": "Scene 0438"
  },
  {
   "id": "SCENARIO/010/01030",
   "jp": "シーン０４３９",
-  "en": ""
+  "en": "Scene 0439"
  },
  {
   "id": "SCENARIO/010/01048",
   "jp": "シーン０４４０",
-  "en": ""
+  "en": "Scene 0440"
  },
  {
   "id": "SCENARIO/010/01060",
   "jp": "シーン０４４１",
-  "en": ""
+  "en": "Scene 0441"
  },
  {
   "id": "SCENARIO/010/01078",
   "jp": "シーン０４４２（戦闘４）",
-  "en": ""
+  "en": "Scene 0442 (Battle 4)"
  },
  {
   "id": "SCENARIO/010/01098",
   "jp": "シーン０４４３",
-  "en": ""
+  "en": "Scene 0443"
  },
  {
   "id": "SCENARIO/010/010b0",
   "jp": "シーン０４４４",
-  "en": ""
+  "en": "Scene 0444"
  },
  {
   "id": "SCENARIO/010/010c8",
   "jp": "シーン０４４５",
-  "en": ""
+  "en": "Scene 0445"
  },
  {
   "id": "SCENARIO/010/010e0",
   "jp": "シーン０４４６",
-  "en": ""
+  "en": "Scene 0446"
  },
  {
   "id": "SCENARIO/010/010f8",
   "jp": "シーン０４４７",
-  "en": ""
+  "en": "Scene 0447"
  },
  {
   "id": "SCENARIO/010/012a0",
   "jp": "シーン０５０１",
-  "en": ""
+  "en": "Scene 0501"
  },
  {
   "id": "SCENARIO/010/012b8",
   "jp": "シーン０５０２",
-  "en": ""
+  "en": "Scene 0502"
  },
  {
   "id": "SCENARIO/010/012d0",
   "jp": "シーン０５０３（自由行動１）",
-  "en": ""
+  "en": "Scene 0503 (Free Roam 1)"
  },
  {
   "id": "SCENARIO/010/012f4",
   "jp": "シーン０５０４",
-  "en": ""
+  "en": "Scene 0504"
  },
  {
   "id": "SCENARIO/010/0130c",
   "jp": "シーン０５０５",
-  "en": ""
+  "en": "Scene 0505"
  },
  {
   "id": "SCENARIO/010/01324",
   "jp": "シーン０５０６（自由行動２）",
-  "en": ""
+  "en": "Scene 0506 (Free Roam 2)"
  },
  {
   "id": "SCENARIO/010/01348",
   "jp": "シーン０５０７",
-  "en": ""
+  "en": "Scene 0507"
  },
  {
   "id": "SCENARIO/010/01360",
   "jp": "シーン０５０８",
-  "en": ""
+  "en": "Scene 0508"
  },
  {
   "id": "SCENARIO/010/01378",
   "jp": "シーン０５０９",
-  "en": ""
+  "en": "Scene 0509"
  },
  {
   "id": "SCENARIO/010/01390",
   "jp": "シーン０５１０",
-  "en": ""
+  "en": "Scene 0510"
  },
  {
   "id": "SCENARIO/010/013a8",
   "jp": "シーン０５１１",
-  "en": ""
+  "en": "Scene 0511"
  },
  {
   "id": "SCENARIO/010/013c0",
   "jp": "シーン０５１２",
-  "en": ""
+  "en": "Scene 0512"
  },
  {
   "id": "SCENARIO/010/013d8",
   "jp": "シーン０５１３（戦闘１）",
-  "en": ""
+  "en": "Scene 0513 (Battle 1)"
  },
  {
   "id": "SCENARIO/010/013f8",
   "jp": "シーン０５１４",
-  "en": ""
+  "en": "Scene 0514"
  },
  {
   "id": "SCENARIO/010/01410",
   "jp": "シーン０５１５（戦闘２）",
-  "en": ""
+  "en": "Scene 0515 (Battle 2)"
  },
  {
   "id": "SCENARIO/010/01430",
   "jp": "シーン０５１６",
-  "en": ""
+  "en": "Scene 0516"
  },
  {
   "id": "SCENARIO/010/01448",
   "jp": "シーン０５１７",
-  "en": ""
+  "en": "Scene 0517"
  },
  {
   "id": "SCENARIO/010/01460",
   "jp": "シーン０５１８",
-  "en": ""
+  "en": "Scene 0518"
  },
  {
   "id": "SCENARIO/010/01478",
   "jp": "シーン０５１９",
-  "en": ""
+  "en": "Scene 0519"
  },
  {
   "id": "SCENARIO/010/01490",
   "jp": "シーン０５２０",
-  "en": ""
+  "en": "Scene 0520"
  },
  {
   "id": "SCENARIO/010/014a8",
   "jp": "シーン０５２１",
-  "en": ""
+  "en": "Scene 0521"
  },
  {
   "id": "SCENARIO/010/014c0",
   "jp": "シーン０５２２",
-  "en": ""
+  "en": "Scene 0522"
  },
  {
   "id": "SCENARIO/010/014d8",
   "jp": "シーン０５２３（自由行動３）",
-  "en": ""
+  "en": "Scene 0523 (Free Roam 3)"
  },
  {
   "id": "SCENARIO/010/014fc",
   "jp": "シーン０５２４",
-  "en": ""
+  "en": "Scene 0524"
  },
  {
   "id": "SCENARIO/010/01514",
   "jp": "シーン０５２５",
-  "en": ""
+  "en": "Scene 0525"
  },
  {
   "id": "SCENARIO/010/0152c",
   "jp": "シーン０５２６",
-  "en": ""
+  "en": "Scene 0526"
  },
  {
   "id": "SCENARIO/010/01544",
   "jp": "シーン０５２７",
-  "en": ""
+  "en": "Scene 0527"
  },
  {
   "id": "SCENARIO/010/0155c",
   "jp": "シーン０５２８",
-  "en": ""
+  "en": "Scene 0528"
  },
  {
   "id": "SCENARIO/010/01574",
   "jp": "シーン０５２９（戦闘３）",
-  "en": ""
+  "en": "Scene 0529 (Battle 3)"
  },
  {
   "id": "SCENARIO/010/01594",
   "jp": "シーン０５３０",
-  "en": ""
+  "en": "Scene 0530"
  },
  {
   "id": "SCENARIO/010/015ac",
   "jp": "シーン０５３１",
-  "en": ""
+  "en": "Scene 0531"
  },
  {
   "id": "SCENARIO/010/015c4",
   "jp": "シーン０５３２",
-  "en": ""
+  "en": "Scene 0532"
  },
  {
   "id": "SCENARIO/010/015dc",
   "jp": "シーン０５３３",
-  "en": ""
+  "en": "Scene 0533"
  },
  {
   "id": "SCENARIO/010/015f4",
   "jp": "シーン０５３４",
-  "en": ""
+  "en": "Scene 0534"
  },
  {
   "id": "SCENARIO/010/0160c",
   "jp": "シーン０５３５",
-  "en": ""
+  "en": "Scene 0535"
  },
  {
   "id": "SCENARIO/010/01754",
   "jp": "シーン０６０１",
-  "en": ""
+  "en": "Scene 0601"
  },
  {
   "id": "SCENARIO/010/0176c",
   "jp": "シーン０６０２",
-  "en": ""
+  "en": "Scene 0602"
  },
  {
   "id": "SCENARIO/010/01784",
   "jp": "シーン０６０３（自由行動１）",
-  "en": ""
+  "en": "Scene 0603 (Free Roam 1)"
  },
  {
   "id": "SCENARIO/010/017a8",
   "jp": "シーン０６０４",
-  "en": ""
+  "en": "Scene 0604"
  },
  {
   "id": "SCENARIO/010/017c0",
   "jp": "シーン０６０５",
-  "en": ""
+  "en": "Scene 0605"
  },
  {
   "id": "SCENARIO/010/017d8",
   "jp": "シーン０６０６",
-  "en": ""
+  "en": "Scene 0606"
  },
  {
   "id": "SCENARIO/010/017f0",
   "jp": "シーン０６０７",
-  "en": ""
+  "en": "Scene 0607"
  },
  {
   "id": "SCENARIO/010/01808",
   "jp": "シーン０６０８",
-  "en": ""
+  "en": "Scene 0608"
  },
  {
   "id": "SCENARIO/010/01820",
   "jp": "シーン０６０９",
-  "en": ""
+  "en": "Scene 0609"
  },
  {
   "id": "SCENARIO/010/01838",
   "jp": "シーン０６１０",
-  "en": ""
+  "en": "Scene 0610"
  },
  {
   "id": "SCENARIO/010/01850",
   "jp": "シーン０６１１",
-  "en": ""
+  "en": "Scene 0611"
  },
  {
   "id": "SCENARIO/010/01868",
   "jp": "シーン０６１２",
-  "en": ""
+  "en": "Scene 0612"
  },
  {
   "id": "SCENARIO/010/01880",
   "jp": "シーン０６１３",
-  "en": ""
+  "en": "Scene 0613"
  },
  {
   "id": "SCENARIO/010/01898",
   "jp": "シーン０６１４（戦闘１）",
-  "en": ""
+  "en": "Scene 0614 (Battle 1)"
  },
  {
   "id": "SCENARIO/010/018b8",
   "jp": "シーン０６１５",
-  "en": ""
+  "en": "Scene 0615"
  },
  {
   "id": "SCENARIO/010/018d0",
   "jp": "シーン０６１６（戦闘２）",
-  "en": ""
+  "en": "Scene 0616 (Battle 2)"
  },
  {
   "id": "SCENARIO/010/018f0",
   "jp": "シーン０６１７",
-  "en": ""
+  "en": "Scene 0617"
  },
  {
   "id": "SCENARIO/010/01908",
   "jp": "シーン０６１８",
-  "en": ""
+  "en": "Scene 0618"
  },
  {
   "id": "SCENARIO/010/01920",
   "jp": "シーン０６１９",
-  "en": ""
+  "en": "Scene 0619"
  },
  {
   "id": "SCENARIO/010/01938",
   "jp": "シーン０６２０",
-  "en": ""
+  "en": "Scene 0620"
  },
  {
   "id": "SCENARIO/010/01950",
   "jp": "シーン０６２１（戦闘３）",
-  "en": ""
+  "en": "Scene 0621 (Battle 3)"
  },
  {
   "id": "SCENARIO/010/01970",
   "jp": "シーン０６２２",
-  "en": ""
+  "en": "Scene 0622"
  },
  {
   "id": "SCENARIO/010/01988",
   "jp": "シーン０６２３（自由行動２）",
-  "en": ""
+  "en": "Scene 0623 (Free Roam 2)"
  },
  {
   "id": "SCENARIO/010/019ac",
   "jp": "シーン０６２４",
-  "en": ""
+  "en": "Scene 0624"
  },
  {
   "id": "SCENARIO/010/019c4",
   "jp": "シーン０６２５",
-  "en": ""
+  "en": "Scene 0625"
  },
  {
   "id": "SCENARIO/010/019dc",
   "jp": "シーン０６２６",
-  "en": ""
+  "en": "Scene 0626"
  },
  {
   "id": "SCENARIO/010/019f4",
   "jp": "シーン０６２７",
-  "en": ""
+  "en": "Scene 0627"
  },
  {
   "id": "SCENARIO/010/01a0c",
   "jp": "シーン０６２８",
-  "en": ""
+  "en": "Scene 0628"
  },
  {
   "id": "SCENARIO/010/01a24",
   "jp": "シーン０６２９",
-  "en": ""
+  "en": "Scene 0629"
  },
  {
   "id": "SCENARIO/010/01a3c",
   "jp": "シーン０６３０",
-  "en": ""
+  "en": "Scene 0630"
  },
  {
   "id": "SCENARIO/010/01a54",
   "jp": "シーン０６３１（戦闘４）",
-  "en": ""
+  "en": "Scene 0631 (Battle 4)"
  },
  {
   "id": "SCENARIO/010/01a74",
   "jp": "シーン０６３２",
-  "en": ""
+  "en": "Scene 0632"
  },
  {
   "id": "SCENARIO/010/01a8c",
   "jp": "シーン０６３３（戦闘５）",
-  "en": ""
+  "en": "Scene 0633 (Battle 5)"
  },
  {
   "id": "SCENARIO/010/01aac",
   "jp": "シーン０６３４",
-  "en": ""
+  "en": "Scene 0634"
  },
  {
   "id": "SCENARIO/010/01ac4",
   "jp": "シーン０６３５",
-  "en": ""
+  "en": "Scene 0635"
  },
  {
   "id": "SCENARIO/010/01adc",
   "jp": "シーン０６３６",
-  "en": ""
+  "en": "Scene 0636"
  },
  {
   "id": "SCENARIO/010/01c2c",
   "jp": "シーン０７０１",
-  "en": ""
+  "en": "Scene 0701"
  },
  {
   "id": "SCENARIO/010/01c44",
   "jp": "シーン０７０２",
-  "en": ""
+  "en": "Scene 0702"
  },
  {
   "id": "SCENARIO/010/01c5c",
   "jp": "シーン０７０３",
-  "en": ""
+  "en": "Scene 0703"
  },
  {
   "id": "SCENARIO/010/01c74",
   "jp": "シーン０７０４",
-  "en": ""
+  "en": "Scene 0704"
  },
  {
   "id": "SCENARIO/010/01c8c",
   "jp": "シーン０７０５（自由行動１）",
-  "en": ""
+  "en": "Scene 0705 (Free Roam 1)"
  },
  {
   "id": "SCENARIO/010/01cb0",
   "jp": "シーン０７０６",
-  "en": ""
+  "en": "Scene 0706"
  },
  {
   "id": "SCENARIO/010/01cc8",
   "jp": "シーン０７０７",
-  "en": ""
+  "en": "Scene 0707"
  },
  {
   "id": "SCENARIO/010/01ce0",
   "jp": "シーン０７０８",
-  "en": ""
+  "en": "Scene 0708"
  },
  {
   "id": "SCENARIO/010/01cf8",
   "jp": "シーン０７０９",
-  "en": ""
+  "en": "Scene 0709"
  },
  {
   "id": "SCENARIO/010/01d10",
   "jp": "シーン０７１０（戦闘１）",
-  "en": ""
+  "en": "Scene 0710 (Battle 1)"
  },
  {
   "id": "SCENARIO/010/01d30",
   "jp": "シーン０７１１",
-  "en": ""
+  "en": "Scene 0711"
  },
  {
   "id": "SCENARIO/010/01d48",
   "jp": "シーン０７１２",
-  "en": ""
+  "en": "Scene 0712"
  },
  {
   "id": "SCENARIO/010/01d60",
   "jp": "シーン０７１３（自由行動２）",
-  "en": ""
+  "en": "Scene 0713 (Free Roam 2)"
  },
  {
   "id": "SCENARIO/010/01d84",
   "jp": "シーン０７１４",
-  "en": ""
+  "en": "Scene 0714"
  },
  {
   "id": "SCENARIO/010/01d9c",
   "jp": "シーン０７１５",
-  "en": ""
+  "en": "Scene 0715"
  },
  {
   "id": "SCENARIO/010/01db4",
   "jp": "シーン０７１６",
-  "en": ""
+  "en": "Scene 0716"
  },
  {
   "id": "SCENARIO/010/01dcc",
   "jp": "シーン０７１７",
-  "en": ""
+  "en": "Scene 0717"
  },
  {
   "id": "SCENARIO/010/01de4",
   "jp": "シーン０７１８",
-  "en": ""
+  "en": "Scene 0718"
  },
  {
   "id": "SCENARIO/010/01dfc",
   "jp": "シーン０７１９（戦闘２）",
-  "en": ""
+  "en": "Scene 0719 (Battle 2)"
  },
  {
   "id": "SCENARIO/010/01e1c",
   "jp": "シーン０７２０",
-  "en": ""
+  "en": "Scene 0720"
  },
  {
   "id": "SCENARIO/010/01e34",
   "jp": "シーン０７２１",
-  "en": ""
+  "en": "Scene 0721"
  },
  {
   "id": "SCENARIO/010/01e4c",
   "jp": "シーン０７２２（自由行動３）",
-  "en": ""
+  "en": "Scene 0722 (Free Roam 3)"
  },
  {
   "id": "SCENARIO/010/01e70",
   "jp": "シーン０７２３",
-  "en": ""
+  "en": "Scene 0723"
  },
  {
   "id": "SCENARIO/010/01e88",
   "jp": "シーン０７２４",
-  "en": ""
+  "en": "Scene 0724"
  },
  {
   "id": "SCENARIO/010/01ea0",
   "jp": "シーン０７２５",
-  "en": ""
+  "en": "Scene 0725"
  },
  {
   "id": "SCENARIO/010/01eb8",
   "jp": "シーン０７２６",
-  "en": ""
+  "en": "Scene 0726"
  },
  {
   "id": "SCENARIO/010/01ed0",
   "jp": "シーン０７２７",
-  "en": ""
+  "en": "Scene 0727"
  },
  {
   "id": "SCENARIO/010/01ee8",
   "jp": "シーン０７２８（自由行動４）",
-  "en": ""
+  "en": "Scene 0728 (Free Roam 4)"
  },
  {
   "id": "SCENARIO/010/01f0c",
   "jp": "シーン０７２９",
-  "en": ""
+  "en": "Scene 0729"
  },
  {
   "id": "SCENARIO/010/01f24",
   "jp": "シーン０７３０",
-  "en": ""
+  "en": "Scene 0730"
  },
  {
   "id": "SCENARIO/010/01f3c",
   "jp": "シーン０７３１",
-  "en": ""
+  "en": "Scene 0731"
  },
  {
   "id": "SCENARIO/010/01f54",
   "jp": "シーン０７３２",
-  "en": ""
+  "en": "Scene 0732"
  },
  {
   "id": "SCENARIO/010/01f6c",
   "jp": "シーン０７３３",
-  "en": ""
+  "en": "Scene 0733"
  },
  {
   "id": "SCENARIO/010/01f84",
   "jp": "シーン０７３４",
-  "en": ""
+  "en": "Scene 0734"
  },
  {
   "id": "SCENARIO/010/01f9c",
   "jp": "シーン０７３５",
-  "en": ""
+  "en": "Scene 0735"
  },
  {
   "id": "SCENARIO/010/01fb4",
   "jp": "シーン０７３７",
-  "en": ""
+  "en": "Scene 0737"
  },
  {
   "id": "SCENARIO/010/01fcc",
   "jp": "シーン０７３８",
-  "en": ""
+  "en": "Scene 0738"
  },
  {
   "id": "SCENARIO/010/01fe4",
   "jp": "シーン０７３９（戦闘３）",
-  "en": ""
+  "en": "Scene 0739 (Battle 3)"
  },
  {
   "id": "SCENARIO/010/02004",
   "jp": "シーン０７４０",
-  "en": ""
+  "en": "Scene 0740"
  },
  {
   "id": "SCENARIO/010/0201c",
   "jp": "シーン０７４１",
-  "en": ""
+  "en": "Scene 0741"
  },
  {
   "id": "SCENARIO/010/02034",
   "jp": "シーン０７４２",
-  "en": ""
+  "en": "Scene 0742"
  },
  {
   "id": "SCENARIO/010/021ac",
   "jp": "シーン０８０１",
-  "en": ""
+  "en": "Scene 0801"
  },
  {
   "id": "SCENARIO/010/021c4",
   "jp": "シーン０８０２",
-  "en": ""
+  "en": "Scene 0802"
  },
  {
   "id": "SCENARIO/010/021dc",
   "jp": "シーン０８０３",
-  "en": ""
+  "en": "Scene 0803"
  },
  {
   "id": "SCENARIO/010/021f4",
   "jp": "シーン０８０４（自由行動１）",
-  "en": ""
+  "en": "Scene 0804 (Free Roam 1)"
  },
  {
   "id": "SCENARIO/010/02218",
   "jp": "シーン０８０５",
-  "en": ""
+  "en": "Scene 0805"
  },
  {
   "id": "SCENARIO/010/02230",
   "jp": "シーン０８０６",
-  "en": ""
+  "en": "Scene 0806"
  },
  {
   "id": "SCENARIO/010/02248",
   "jp": "シーン０８０７（戦闘１）",
-  "en": ""
+  "en": "Scene 0807 (Battle 1)"
  },
  {
   "id": "SCENARIO/010/02268",
   "jp": "シーン０８０８",
-  "en": ""
+  "en": "Scene 0808"
  },
  {
   "id": "SCENARIO/010/02280",
   "jp": "シーン０８０９",
-  "en": ""
+  "en": "Scene 0809"
  },
  {
   "id": "SCENARIO/010/02298",
   "jp": "シーン０８１０",
-  "en": ""
+  "en": "Scene 0810"
  },
  {
   "id": "SCENARIO/010/022b0",
   "jp": "シーン０８１１（自由行動２）",
-  "en": ""
+  "en": "Scene 0811 (Free Roam 2)"
  },
  {
   "id": "SCENARIO/010/022d4",
   "jp": "シーン０８１２",
-  "en": ""
+  "en": "Scene 0812"
  },
  {
   "id": "SCENARIO/010/022ec",
   "jp": "シーン０８１３",
-  "en": ""
+  "en": "Scene 0813"
  },
  {
   "id": "SCENARIO/010/02304",
   "jp": "シーン０８１４",
-  "en": ""
+  "en": "Scene 0814"
  },
  {
   "id": "SCENARIO/010/0231c",
   "jp": "シーン０８１５",
-  "en": ""
+  "en": "Scene 0815"
  },
  {
   "id": "SCENARIO/010/02334",
   "jp": "シーン０８１６",
-  "en": ""
+  "en": "Scene 0816"
  },
  {
   "id": "SCENARIO/010/0234c",
   "jp": "シーン０８１７（戦闘２）",
-  "en": ""
+  "en": "Scene 0817 (Battle 2)"
  },
  {
   "id": "SCENARIO/010/0236c",
   "jp": "シーン０８１８",
-  "en": ""
+  "en": "Scene 0818"
  },
  {
   "id": "SCENARIO/010/02384",
   "jp": "シーン０８１９（自由行動３）",
-  "en": ""
+  "en": "Scene 0819 (Free Roam 3)"
  },
  {
   "id": "SCENARIO/010/023a8",
   "jp": "シーン０８２０",
-  "en": ""
+  "en": "Scene 0820"
  },
  {
   "id": "SCENARIO/010/023c0",
   "jp": "シーン０８２１",
-  "en": ""
+  "en": "Scene 0821"
  },
  {
   "id": "SCENARIO/010/023d8",
   "jp": "シーン０８２２",
-  "en": ""
+  "en": "Scene 0822"
  },
  {
   "id": "SCENARIO/010/023f0",
   "jp": "シーン０８２３",
-  "en": ""
+  "en": "Scene 0823"
  },
  {
   "id": "SCENARIO/010/02408",
   "jp": "シーン０８２４",
-  "en": ""
+  "en": "Scene 0824"
  },
  {
   "id": "SCENARIO/010/02420",
   "jp": "シーン０８２５",
-  "en": ""
+  "en": "Scene 0825"
  },
  {
   "id": "SCENARIO/010/02438",
   "jp": "シーン０８２６（戦闘３）",
-  "en": ""
+  "en": "Scene 0826 (Battle 3)"
  },
  {
   "id": "SCENARIO/010/02458",
   "jp": "シーン０８２７",
-  "en": ""
+  "en": "Scene 0827"
  },
  {
   "id": "SCENARIO/010/02470",
   "jp": "シーン０８２８（自由行動４）",
-  "en": ""
+  "en": "Scene 0828 (Free Roam 4)"
  },
  {
   "id": "SCENARIO/010/02494",
   "jp": "シーン０８２９",
-  "en": ""
+  "en": "Scene 0829"
  },
  {
   "id": "SCENARIO/010/025ac",
   "jp": "シーン０９０１",
-  "en": ""
+  "en": "Scene 0901"
  },
  {
   "id": "SCENARIO/010/025c4",
   "jp": "シーン０９０２",
-  "en": ""
+  "en": "Scene 0902"
  },
  {
   "id": "SCENARIO/010/025dc",
   "jp": "シーン０９０３",
-  "en": ""
+  "en": "Scene 0903"
  },
  {
   "id": "SCENARIO/010/025f4",
   "jp": "シーン０９０４",
-  "en": ""
+  "en": "Scene 0904"
  },
  {
   "id": "SCENARIO/010/0260c",
   "jp": "シーン０９０５（自由行動１）",
-  "en": ""
+  "en": "Scene 0905 (Free Roam 1)"
  },
  {
   "id": "SCENARIO/010/02630",
   "jp": "シーン０９０６",
-  "en": ""
+  "en": "Scene 0906"
  },
  {
   "id": "SCENARIO/010/02648",
   "jp": "シーン０９０７",
-  "en": ""
+  "en": "Scene 0907"
  },
  {
   "id": "SCENARIO/010/02660",
   "jp": "シーン０９０８",
-  "en": ""
+  "en": "Scene 0908"
  },
  {
   "id": "SCENARIO/010/02678",
   "jp": "シーン０９１０",
-  "en": ""
+  "en": "Scene 0910"
  },
  {
   "id": "SCENARIO/010/02690",
   "jp": "シーン０９１１",
-  "en": ""
+  "en": "Scene 0911"
  },
  {
   "id": "SCENARIO/010/026a8",
   "jp": "シーン０９１２",
-  "en": ""
+  "en": "Scene 0912"
  },
  {
   "id": "SCENARIO/010/026c0",
   "jp": "シーン０９１３",
-  "en": ""
+  "en": "Scene 0913"
  },
  {
   "id": "SCENARIO/010/026d8",
   "jp": "シーン０９１４",
-  "en": ""
+  "en": "Scene 0914"
  },
  {
   "id": "SCENARIO/010/026f0",
   "jp": "シーン０９１５",
-  "en": ""
+  "en": "Scene 0915"
  },
  {
   "id": "SCENARIO/010/02708",
   "jp": "シーン０９１６",
-  "en": ""
+  "en": "Scene 0916"
  },
  {
   "id": "SCENARIO/010/02720",
   "jp": "シーン０９１７",
-  "en": ""
+  "en": "Scene 0917"
  },
  {
   "id": "SCENARIO/010/02738",
   "jp": "シーン０９１８",
-  "en": ""
+  "en": "Scene 0918"
  },
  {
   "id": "SCENARIO/010/02750",
   "jp": "シーン０９１９",
-  "en": ""
+  "en": "Scene 0919"
  },
  {
   "id": "SCENARIO/010/02768",
   "jp": "シーン０９２０",
-  "en": ""
+  "en": "Scene 0920"
  },
  {
   "id": "SCENARIO/010/02780",
   "jp": "シーン０９２１",
-  "en": ""
+  "en": "Scene 0921"
  },
  {
   "id": "SCENARIO/010/02798",
   "jp": "シーン０９２２（戦闘１）",
-  "en": ""
+  "en": "Scene 0922 (Battle 1)"
  },
  {
   "id": "SCENARIO/010/027b8",
   "jp": "シーン０９２３",
-  "en": ""
+  "en": "Scene 0923"
  },
  {
   "id": "SCENARIO/010/027d0",
   "jp": "シーン０９２４",
-  "en": ""
+  "en": "Scene 0924"
  },
  {
   "id": "SCENARIO/010/027e8",
   "jp": "シーン０９２５",
-  "en": ""
+  "en": "Scene 0925"
  },
  {
   "id": "SCENARIO/010/02800",
   "jp": "シーン０９２６（自由行動２）",
-  "en": ""
+  "en": "Scene 0926 (Free Roam 2)"
  },
  {
   "id": "SCENARIO/010/02824",
   "jp": "シーン０９２７",
-  "en": ""
+  "en": "Scene 0927"
  },
  {
   "id": "SCENARIO/010/0283c",
   "jp": "シーン０９２８",
-  "en": ""
+  "en": "Scene 0928"
  },
  {
   "id": "SCENARIO/010/02854",
   "jp": "シーン０９２９",
-  "en": ""
+  "en": "Scene 0929"
  },
  {
   "id": "SCENARIO/010/0286c",
   "jp": "シーン０９３１",
-  "en": ""
+  "en": "Scene 0931"
  },
  {
   "id": "SCENARIO/010/02884",
   "jp": "シーン０９３２",
-  "en": ""
+  "en": "Scene 0932"
  },
  {
   "id": "SCENARIO/010/0289c",
   "jp": "シーン０９３３",
-  "en": ""
+  "en": "Scene 0933"
  },
  {
   "id": "SCENARIO/010/028b4",
   "jp": "シーン０９３４",
-  "en": ""
+  "en": "Scene 0934"
  },
  {
   "id": "SCENARIO/010/028cc",
   "jp": "シーン０９３５",
-  "en": ""
+  "en": "Scene 0935"
  },
  {
   "id": "SCENARIO/010/02a04",
   "jp": "シーン１００１",
-  "en": ""
+  "en": "Scene 1001"
  },
  {
   "id": "SCENARIO/010/02a1c",
   "jp": "シーン１００２",
-  "en": ""
+  "en": "Scene 1002"
  },
  {
   "id": "SCENARIO/010/02a34",
   "jp": "シーン１００３",
-  "en": ""
+  "en": "Scene 1003"
  },
  {
   "id": "SCENARIO/010/02a4c",
   "jp": "シーン１００４（戦闘１）",
-  "en": ""
+  "en": "Scene 1004 (Battle 1)"
  },
  {
   "id": "SCENARIO/010/02a6c",
   "jp": "シーン１００５",
-  "en": ""
+  "en": "Scene 1005"
  },
  {
   "id": "SCENARIO/010/02a84",
   "jp": "シーン１００６（戦闘２）",
-  "en": ""
+  "en": "Scene 1006 (Battle 2)"
  },
  {
   "id": "SCENARIO/010/02aa4",
   "jp": "シーン１００７",
-  "en": ""
+  "en": "Scene 1007"
  },
  {
   "id": "SCENARIO/010/02abc",
   "jp": "シーン１００８（戦闘３）",
-  "en": ""
+  "en": "Scene 1008 (Battle 3)"
  },
  {
   "id": "SCENARIO/010/02adc",
   "jp": "シーン１００９ＥＤ１",
-  "en": ""
+  "en": "Scene 1009 ED1"
  },
  {
   "id": "SCENARIO/010/02af8",
   "jp": "シーン１０１０ＥＤ２",
-  "en": ""
+  "en": "Scene 1010 ED2"
  },
  {
   "id": "SCENARIO/010/02b14",
   "jp": "シーン１０１１ＥＤ３",
-  "en": ""
+  "en": "Scene 1011 ED3"
  },
  {
   "id": "SCENARIO/010/02b30",
   "jp": "シーン１０１２ＥＤ４",
-  "en": ""
+  "en": "Scene 1012 ED4"
  },
  {
   "id": "SCENARIO/010/02b4c",
   "jp": "シーン１０１３ＥＤ５",
-  "en": ""
+  "en": "Scene 1013 ED5"
  },
  {
   "id": "SCENARIO/010/02b68",
   "jp": "シーン１０１３ＥＤ５後半",
-  "en": ""
+  "en": "Scene 1013 ED5 Part 2"
  },
  {
   "id": "SCENARIO/010/02c10",
   "jp": "おつかい",
-  "en": ""
+  "en": "Errand"
  },
  {
   "id": "SCENARIO/010/02c20",
   "jp": "うちの子１",
-  "en": ""
+  "en": "Our Boy 1"
  },
  {
   "id": "SCENARIO/010/02c34",
   "jp": "レア",
-  "en": ""
+  "en": "Rea"
  },
  {
   "id": "SCENARIO/010/02c40",
   "jp": "レア（戦闘）",
-  "en": ""
+  "en": "Rea (Battle)"
  },
  {
   "id": "SCENARIO/010/02c54",
   "jp": "リング１　前半",
-  "en": ""
+  "en": "Ring 1 Part 1"
  },
  {
   "id": "SCENARIO/010/02c6c",
   "jp": "リング１　後半",
-  "en": ""
+  "en": "Ring 1 Part 2"
  },
  {
   "id": "SCENARIO/010/02c84",
   "jp": "うちの子２",
-  "en": ""
+  "en": "Our Boy 2"
  },
  {
   "id": "SCENARIO/010/02c98",
   "jp": "手合わせ",
-  "en": ""
+  "en": "Sparring"
  },
  {
   "id": "SCENARIO/010/02ca8",
   "jp": "薬草",
-  "en": ""
+  "en": "Herbs"
  },
  {
   "id": "SCENARIO/010/02cb4",
   "jp": "薬草（戦闘）",
-  "en": ""
+  "en": "Herbs (Battle)"
  },
  {
   "id": "SCENARIO/010/02cc8",
   "jp": "リリスの絵本",
-  "en": ""
+  "en": "Lilis's Picture Book"
  },
  {
   "id": "SCENARIO/010/02cdc",
   "jp": "リング２　前半",
-  "en": ""
+  "en": "Ring 2 Part 1"
  },
  {
   "id": "SCENARIO/010/02cf4",
   "jp": "リング２　後半",
-  "en": ""
+  "en": "Ring 2 Part 2"
  },
  {
   "id": "SCENARIO/010/02d0c",
   "jp": "温泉　前半",
-  "en": ""
+  "en": "Hot Spring Part 1"
  },
  {
   "id": "SCENARIO/010/02d20",
   "jp": "温泉　後半",
-  "en": ""
+  "en": "Hot Spring Part 2"
  },
  {
   "id": "SCENARIO/010/02d34",
   "jp": "リング３　前半",
-  "en": ""
+  "en": "Ring 3 Part 1"
  },
  {
   "id": "SCENARIO/010/02d4c",
   "jp": "リング３（戦闘）",
-  "en": ""
+  "en": "Ring 3 (Battle)"
  },
  {
   "id": "SCENARIO/010/02d64",
   "jp": "リング３　後半",
-  "en": ""
+  "en": "Ring 3 Part 2"
  },
  {
   "id": "SCENARIO/010/02d7c",
   "jp": "花嫁衣装",
-  "en": ""
+  "en": "Wedding Dress"
  },
  {
   "id": "SCENARIO/010/02d8c",
   "jp": "特訓",
-  "en": ""
+  "en": "Training"
  },
  {
   "id": "SCENARIO/010/02d98",
   "jp": "クッタ最終　前半",
-  "en": ""
+  "en": "Kutta Finale Part 1"
  },
  {
   "id": "SCENARIO/010/02db0",
   "jp": "クッタ最終（戦闘）",
-  "en": ""
+  "en": "Kutta Finale (Battle)"
  },
  {
   "id": "SCENARIO/010/02dcc",
   "jp": "クッタ最終　後半",
-  "en": ""
+  "en": "Kutta Finale Part 2"
  },
  {
   "id": "SCENARIO/010/02de4",
   "jp": "０２０５Ａ",
-  "en": ""
+  "en": "0205A"
  },
  {
   "id": "SCENARIO/010/02df8",
   "jp": "０２０５Ｂ",
-  "en": ""
+  "en": "0205B"
  },
  {
   "id": "SCENARIO/010/02e0c",
   "jp": "０２１０Ａ",
-  "en": ""
+  "en": "0210A"
  },
  {
   "id": "SCENARIO/010/02e20",
   "jp": "０２１９Ａ",
-  "en": ""
+  "en": "0219A"
  },
  {
   "id": "SCENARIO/010/02e34",
   "jp": "０８０４Ａ",
-  "en": ""
+  "en": "0804A"
  },
  {
   "id": "SCENARIO/010/02e48",
   "jp": "０８２８Ａ",
-  "en": ""
+  "en": "0828A"
  },
  {
   "id": "SCENARIO/010/02e5c",
   "jp": "０９０５Ａ",
-  "en": ""
+  "en": "0905A"
  },
  {
   "id": "SCENARIO/010/02e70",
   "jp": "ミニゲームエンド",
-  "en": ""
+  "en": "Minigame End"
  },
  {
   "id": "SCENARIO/010/06a7c",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/010/06a8a",
@@ -1810,12 +1810,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/010/06aa2",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/010/06ab2",
@@ -1823,6 +1823,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

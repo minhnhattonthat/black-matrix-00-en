@@ -2,147 +2,147 @@
  {
   "id": "SCENARIO/015/00010",
   "jp": "ビラ配り",
-  "en": ""
+  "en": "Flyer Handout"
  },
  {
   "id": "SCENARIO/015/00020",
   "jp": "ナイフ投げ",
-  "en": ""
+  "en": "Knife Throwing"
  },
  {
   "id": "SCENARIO/015/00034",
   "jp": "ジャグリング",
-  "en": ""
+  "en": "Juggling"
  },
  {
   "id": "SCENARIO/015/00048",
   "jp": "綱渡り",
-  "en": ""
+  "en": "Tightrope"
  },
  {
   "id": "SCENARIO/015/00058",
   "jp": "猛獣使い",
-  "en": ""
+  "en": "Beast Tamer"
  },
  {
   "id": "SCENARIO/015/00068",
   "jp": "スポットライト",
-  "en": ""
+  "en": "Spotlight"
  },
  {
   "id": "SCENARIO/015/00080",
   "jp": "空中ブランコ",
-  "en": ""
+  "en": "Trapeze"
  },
  {
   "id": "SCENARIO/015/000a8",
   "jp": "ＬＶ１",
-  "en": ""
+  "en": "LV1"
  },
  {
   "id": "SCENARIO/015/000b8",
   "jp": "ＬＶ２",
-  "en": ""
+  "en": "LV2"
  },
  {
   "id": "SCENARIO/015/000c8",
   "jp": "ＬＶ３",
-  "en": ""
+  "en": "LV3"
  },
  {
   "id": "SCENARIO/015/00120",
   "jp": "ＬＶ１",
-  "en": ""
+  "en": "LV1"
  },
  {
   "id": "SCENARIO/015/00130",
   "jp": "ＬＶ２",
-  "en": ""
+  "en": "LV2"
  },
  {
   "id": "SCENARIO/015/00140",
   "jp": "ＬＶ３",
-  "en": ""
+  "en": "LV3"
  },
  {
   "id": "SCENARIO/015/00198",
   "jp": "ＬＶ１",
-  "en": ""
+  "en": "LV1"
  },
  {
   "id": "SCENARIO/015/001a8",
   "jp": "ＬＶ２",
-  "en": ""
+  "en": "LV2"
  },
  {
   "id": "SCENARIO/015/001b8",
   "jp": "ＬＶ３",
-  "en": ""
+  "en": "LV3"
  },
  {
   "id": "SCENARIO/015/00210",
   "jp": "ＬＶ１",
-  "en": ""
+  "en": "LV1"
  },
  {
   "id": "SCENARIO/015/00220",
   "jp": "ＬＶ２",
-  "en": ""
+  "en": "LV2"
  },
  {
   "id": "SCENARIO/015/00230",
   "jp": "ＬＶ３",
-  "en": ""
+  "en": "LV3"
  },
  {
   "id": "SCENARIO/015/00288",
   "jp": "ＬＶ１",
-  "en": ""
+  "en": "LV1"
  },
  {
   "id": "SCENARIO/015/00298",
   "jp": "ＬＶ２",
-  "en": ""
+  "en": "LV2"
  },
  {
   "id": "SCENARIO/015/002a8",
   "jp": "ＬＶ３",
-  "en": ""
+  "en": "LV3"
  },
  {
   "id": "SCENARIO/015/00300",
   "jp": "ＬＶ１",
-  "en": ""
+  "en": "LV1"
  },
  {
   "id": "SCENARIO/015/00310",
   "jp": "ＬＶ２",
-  "en": ""
+  "en": "LV2"
  },
  {
   "id": "SCENARIO/015/00320",
   "jp": "ＬＶ３",
-  "en": ""
+  "en": "LV3"
  },
  {
   "id": "SCENARIO/015/00378",
   "jp": "ＬＶ１",
-  "en": ""
+  "en": "LV1"
  },
  {
   "id": "SCENARIO/015/00388",
   "jp": "ＬＶ２",
-  "en": ""
+  "en": "LV2"
  },
  {
   "id": "SCENARIO/015/00398",
   "jp": "ＬＶ３",
-  "en": ""
+  "en": "LV3"
  },
  {
   "id": "SCENARIO/015/03ef0",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/015/03efe",
@@ -150,12 +150,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/015/03f16",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/015/03f26",
@@ -163,6 +163,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

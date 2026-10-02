@@ -6,7 +6,7 @@
    "ボーナスシナリオ　１",
    "＜おつかい＞"
   ],
-  "en": "",
+  "en": "Bonus Scenario 1\n\"Errand\"",
   "spill": false
  },
  {
@@ -17,7 +17,7 @@
    "お肉にジャガイモにニンジンに",
    "小麦粉に・・・"
   ],
-  "en": ""
+  "en": "Let's see~ Meat, potatoes, carrots, flour..."
  },
  {
   "id": "SCENARIO/020/00190",
@@ -25,7 +25,7 @@
   "jp": [
    "これでもう十分かな？"
   ],
-  "en": ""
+  "en": "Is that enough, I wonder?"
  },
  {
   "id": "SCENARIO/020/001fe",
@@ -33,7 +33,7 @@
   "jp": [
    "お兄さん、大丈夫～？"
   ],
-  "en": ""
+  "en": "You okay, mister~?"
  },
  {
   "id": "SCENARIO/020/00286",
@@ -41,7 +41,7 @@
   "jp": [
    "お、重い・・・"
   ],
-  "en": ""
+  "en": "H-heavy..."
  },
  {
   "id": "SCENARIO/020/002b0",
@@ -49,7 +49,7 @@
   "jp": [
    "手伝わせちゃってごめんね～"
   ],
-  "en": ""
+  "en": "Sorry for making you help~"
  },
  {
   "id": "SCENARIO/020/002dc",
@@ -59,7 +59,7 @@
    "せっかくの人手があるなら",
    "しっかり買い込まないとね～"
   ],
-  "en": ""
+  "en": "But it's bargain day, and with an extra pair of hands, I had to stock up properly~"
  },
  {
   "id": "SCENARIO/020/00356",
@@ -69,7 +69,7 @@
    "無理してたくさん買わなくても",
    "べつに良かったってこと？"
   ],
-  "en": ""
+  "en": "S-so you mean... you didn't actually need to buy this much?"
  },
  {
   "id": "SCENARIO/020/003b8",
@@ -78,7 +78,7 @@
    "小麦粉は長持ちするから",
    "買い込んでも大丈夫だよ～"
   ],
-  "en": ""
+  "en": "Flour keeps a long time, so it's fine to stock up~"
  },
  {
   "id": "SCENARIO/020/00404",
@@ -87,7 +87,7 @@
    "そうじゃなくて",
    "本当に、重たいんだけど・・・"
   ],
-  "en": ""
+  "en": "That's not what I mean. This is really heavy..."
  },
  {
   "id": "SCENARIO/020/0044c",
@@ -96,7 +96,7 @@
    "カインがいて良かったよ～",
    "本当にありがとうね"
   ],
-  "en": ""
+  "en": "Good thing you were here, Cain~ Thanks a lot."
  },
  {
   "id": "SCENARIO/020/0048c",
@@ -106,7 +106,7 @@
    "小麦粉をぶちまけたりしちゃ",
    "ダメだからね～"
   ],
-  "en": ""
+  "en": "Whatever you do, don't trip and spill the flour everywhere~"
  },
  {
   "id": "SCENARIO/020/00512",
@@ -116,7 +116,7 @@
    "荷物持ちなんか",
    "引き受けるんじゃなかった・・・"
   ],
-  "en": ""
+  "en": "Uuugh... I never should've agreed to carry the bags..."
  },
  {
   "id": "SCENARIO/020/00570",
@@ -125,7 +125,7 @@
    "ファイト～",
    "あともう少しだよ～"
   ],
-  "en": ""
+  "en": "Hang in there~ Just a little farther~"
  },
  {
   "id": "SCENARIO/020/005f4",
@@ -133,7 +133,7 @@
   "jp": [
    "そこの子供達、止まれ！！！"
   ],
-  "en": ""
+  "en": "You kids there, halt!!"
  },
  {
   "id": "SCENARIO/020/00652",
@@ -142,7 +142,7 @@
    "お前達・・・どこかで",
    "見たことある顔のようだが？"
   ],
-  "en": ""
+  "en": "You two... I've seen your faces somewhere before, haven't I?"
  },
  {
   "id": "SCENARIO/020/006cc",
@@ -151,7 +151,7 @@
    "この人達って",
    "もしかして・・・・・・"
   ],
-  "en": ""
+  "en": "These guys... could they be......"
  },
  {
   "id": "SCENARIO/020/0070c",
@@ -160,7 +160,7 @@
    "はっ！！！",
    "思い出したぞ！！！"
   ],
-  "en": ""
+  "en": "Hah!! I remember now!!"
  },
  {
   "id": "SCENARIO/020/00748",
@@ -169,7 +169,7 @@
    "貴様はサーカスのテントで",
    "刃向かってきた小僧だな！"
   ],
-  "en": ""
+  "en": "You're the brat who defied us in the circus tent!"
  },
  {
   "id": "SCENARIO/020/007a6",
@@ -179,7 +179,7 @@
    "そっちが先に襲いかかってきた",
    "からじゃないか！！！"
   ],
-  "en": ""
+  "en": "Defied you...? You're the ones who attacked first!!!"
  },
  {
   "id": "SCENARIO/020/00810",
@@ -188,7 +188,7 @@
    "何を言う",
    "教団に刃向かう異端者め！！！"
   ],
-  "en": ""
+  "en": "Silence, heretic! You dare defy the Church!!"
  },
  {
   "id": "SCENARIO/020/00874",
@@ -197,7 +197,7 @@
    "いい大人が",
    "子供相手にみっともないよ"
   ],
-  "en": ""
+  "en": "A grown man picking on children. How unseemly."
  },
  {
   "id": "SCENARIO/020/008b4",
@@ -206,7 +206,7 @@
    "なんだと貴様！！",
    "貴様も教団に刃向かう気か！？"
   ],
-  "en": ""
+  "en": "What was that!? You mean to defy the Church too!?"
  },
  {
   "id": "SCENARIO/020/00900",
@@ -216,7 +216,7 @@
    "組織の顔に泥を塗るような行為は",
    "やめた方が良いよ"
   ],
-  "en": ""
+  "en": "If you belong to an organization, even at the bottom, don't go smearing its name."
  },
  {
   "id": "SCENARIO/020/00968",
@@ -226,7 +226,7 @@
    "そのまま教団に対するイメージと",
    "なって人々に浸透する"
   ],
-  "en": ""
+  "en": "Your high-handed behavior becomes the image of the Church in people's minds."
  },
  {
   "id": "SCENARIO/020/009cc",
@@ -236,7 +236,7 @@
    "続ければ、やがて貴方自身の",
    "首を絞めることになると思うよ"
   ],
-  "en": ""
+  "en": "Keep cheapening the Church's dignity, and it's your own neck in the noose someday."
  },
  {
   "id": "SCENARIO/020/00a44",
@@ -244,7 +244,7 @@
   "jp": [
    "き、貴様！！！"
   ],
-  "en": ""
+  "en": "Y-you!!"
  },
  {
   "id": "SCENARIO/020/00a6c",
@@ -254,7 +254,7 @@
    "切り伏せるような教団に",
    "誰が信仰を捧げてくれるの？"
   ],
-  "en": ""
+  "en": "Who would give their faith to a Church that cuts down unarmed, helpless children?"
  },
  {
   "id": "SCENARIO/020/00ad4",
@@ -264,7 +264,7 @@
    "中にいるあなた方の方が",
    "よくわかっているはずだよ"
   ],
-  "en": ""
+  "en": "You're on the inside. You know better than anyone the Church isn't that kind."
  },
  {
   "id": "SCENARIO/020/00b38",
@@ -274,7 +274,7 @@
    "いくらでも代わりがいる",
    "貴方はいつでも切り捨てられる"
   ],
-  "en": ""
+  "en": "Monk soldiers are a dime a dozen. You can be cut loose any time."
  },
  {
   "id": "SCENARIO/020/00b98",
@@ -283,7 +283,7 @@
    "く、くそ！！",
    "とっとと行け！！！"
   ],
-  "en": ""
+  "en": "D-damn it!! Get out of here!!"
  },
  {
   "id": "SCENARIO/020/00ce8",
@@ -291,7 +291,7 @@
   "jp": [
    "遅くなっちゃったね～"
   ],
-  "en": ""
+  "en": "We're running late, huh~"
  },
  {
   "id": "SCENARIO/020/00d72",
@@ -299,7 +299,7 @@
   "jp": [
    "う、うん・・・"
   ],
-  "en": ""
+  "en": "Y-yeah..."
  },
  {
   "id": "SCENARIO/020/00da2",
@@ -307,7 +307,7 @@
   "jp": [
    "フライはいつもあんな感じなの？"
   ],
-  "en": ""
+  "en": "Are you always like that, Fly?"
  },
  {
   "id": "SCENARIO/020/00ddc",
@@ -315,7 +315,7 @@
   "jp": [
    "？"
   ],
-  "en": ""
+  "en": "?"
  },
  {
   "id": "SCENARIO/020/00e06",
@@ -324,7 +324,7 @@
    "なんだかいつも",
    "すごく落ち着いた感じで・・・"
   ],
-  "en": ""
+  "en": "It's like you're always so calm about everything..."
  },
  {
   "id": "SCENARIO/020/00e50",
@@ -334,7 +334,7 @@
    "さっきのなんかは",
    "ちょこっと怒ってたし"
   ],
-  "en": ""
+  "en": "Not really~ Back there, I was a teensy bit angry."
  },
  {
   "id": "SCENARIO/020/00eae",
@@ -342,7 +342,7 @@
   "jp": [
    "あれ、怒っていたの？"
   ],
-  "en": ""
+  "en": "That was you angry?"
  },
  {
   "id": "SCENARIO/020/00edc",
@@ -350,7 +350,7 @@
   "jp": [
    "・・・うん"
   ],
-  "en": ""
+  "en": "...Yeah."
  },
  {
   "id": "SCENARIO/020/00ef8",
@@ -360,7 +360,7 @@
    "大人がああなるしかなかったの",
    "かと思うと、僧兵も悲しいよね～"
   ],
-  "en": ""
+  "en": "I hate bullies, but if that's all they could become... monk soldiers are sad too~"
  },
  {
   "id": "SCENARIO/020/00f8a",
@@ -368,7 +368,7 @@
   "jp": [
    "ああなるしか、なかった？"
   ],
-  "en": ""
+  "en": "All they could become?"
  },
  {
   "id": "SCENARIO/020/00ff0",
@@ -377,7 +377,7 @@
    "二人ともお疲れさまー♪",
    "戦利品はこれで全部？"
   ],
-  "en": ""
+  "en": "Good work, you two~! Is this all the loot?"
  },
  {
   "id": "SCENARIO/020/01046",
@@ -385,7 +385,7 @@
   "jp": [
    "うん、遅くなってゴメン"
   ],
-  "en": ""
+  "en": "Yeah. Sorry we're late."
  },
  {
   "id": "SCENARIO/020/01086",
@@ -395,7 +395,7 @@
    "これだけの荷物運ぶのは",
    "大変だったでしょう"
   ],
-  "en": ""
+  "en": "It's fine. Carrying all that must have been rough."
  },
  {
   "id": "SCENARIO/020/010fe",
@@ -405,7 +405,7 @@
    "荷物持ちを頼んだらカインじゃ",
    "なかったら逃げ出していたわよ？"
   ],
-  "en": ""
+  "en": "Fly, if you'd asked anyone but Cain to carry that much, they'd have run for it."
  },
  {
   "id": "SCENARIO/020/01178",
@@ -413,7 +413,7 @@
   "jp": [
    "うん、計算済みだよ～"
   ],
-  "en": ""
+  "en": "Yep, I counted on that~"
  },
  {
   "id": "SCENARIO/020/011c6",
@@ -421,7 +421,7 @@
   "jp": [
    "そう、それならいいけれど"
   ],
-  "en": ""
+  "en": "Well, that's fine, then."
  },
  {
   "id": "SCENARIO/020/01206",
@@ -429,7 +429,7 @@
   "jp": [
    "それならいいって・・・"
   ],
-  "en": ""
+  "en": "Fine, she says..."
  },
  {
   "id": "SCENARIO/020/01250",
@@ -439,7 +439,7 @@
    "フライの言葉だったら",
    "あんまり気にしなくて大丈夫よ"
   ],
-  "en": ""
+  "en": "Oh, right. Don't take what Fly says too much to heart."
  },
  {
   "id": "SCENARIO/020/012a8",
@@ -449,7 +449,7 @@
    "昔からのクセみたいなものだから",
    "深く考えないでね"
   ],
-  "en": ""
+  "en": "Blurting out odd things now and then is an old habit of hers, so don't read into it."
  },
  {
   "id": "SCENARIO/020/0131e",
@@ -457,7 +457,7 @@
   "jp": [
    "・・・はぁ"
   ],
-  "en": ""
+  "en": "...Right."
  },
  {
   "id": "SCENARIO/020/01344",
@@ -467,7 +467,7 @@
    "大したものは出せないけど",
    "受け取ってちょうだい"
   ],
-  "en": ""
+  "en": "Now, your reward! It's not much, but please take it."
  },
  {
   "id": "SCENARIO/020/013c0",
@@ -475,7 +475,7 @@
   "jp": [
    "ありがとう"
   ],
-  "en": ""
+  "en": "Thanks."
  },
  {
   "id": "SCENARIO/020/013e4",
@@ -484,7 +484,7 @@
    "また暇な時に立ち寄って",
    "ここの手伝い、お願いするわ"
   ],
-  "en": ""
+  "en": "Drop by again when you're free. We could use your help here."
  },
  {
   "id": "SCENARIO/020/0142c",
@@ -492,12 +492,12 @@
   "jp": [
    "よろしくお願いね"
   ],
-  "en": ""
+  "en": "Counting on you!"
  },
  {
   "id": "SCENARIO/020/04f94",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/020/04fa2",
@@ -505,12 +505,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/020/04fba",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/020/04fca",
@@ -518,6 +518,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

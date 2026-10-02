@@ -116,3 +116,11 @@ Corrections: Kilota uses 僕 and is called 坊主 in script 111 — a boy, not a
 | 悪魔討伐隊 | demon-hunting squad | Kreis's unit |
 | 機械化僧兵 | mechanized monk soldier | |
 | ヒヨコ頭 | chick-head | nickname for Cain's hair |
+| 自由行動 | Free Roam | menu label |
+| 核神機 | God Core | portrait label "Matia (God Core)"; guess |
+| 神の見えざる手 | the Invisible Hand of God | |
+| 咎人の証 | the Mark of the Sinner | |
+| 適合者 | Compatible One | Pain Ring lore |
+| 酒場の女主人 | Tavern Mistress | portrait label |
+| パンク兵 | Punk Soldier | Cypherpunk rank-and-file |
+| うちの子 | Our Boy | bonus scenario title |

@@ -2,32 +2,32 @@
  {
   "id": "SCENARIO/002/00010",
   "jp": "シーン選択",
-  "en": ""
+  "en": "Scene Select"
  },
  {
   "id": "SCENARIO/002/00024",
   "jp": "戦　　闘",
-  "en": ""
+  "en": "Battle"
  },
  {
   "id": "SCENARIO/002/00034",
   "jp": "自由行動",
-  "en": ""
+  "en": "Free Roam"
  },
  {
   "id": "SCENARIO/002/00044",
   "jp": "ミニゲーム",
-  "en": ""
+  "en": "Minigame"
  },
  {
   "id": "SCENARIO/002/00058",
   "jp": "データ確認",
-  "en": ""
+  "en": "Data Check"
  },
  {
   "id": "SCENARIO/002/03ba0",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/002/03bae",
@@ -35,12 +35,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/002/03bc6",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/002/03bd6",
@@ -48,6 +48,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

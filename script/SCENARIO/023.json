@@ -6,7 +6,7 @@
    "ボーナスシナリオ　４",
    "＜エクサルの小刀＞"
   ],
-  "en": "",
+  "en": "Bonus Scenario 4\n\"Exal's Dagger\"",
   "spill": false
  },
  {
@@ -15,7 +15,7 @@
   "jp": [
    "ない！どこだ！？"
   ],
-  "en": ""
+  "en": "It's gone! Where is it!?"
  },
  {
   "id": "SCENARIO/023/001ce",
@@ -23,7 +23,7 @@
   "jp": [
    "？"
   ],
-  "en": ""
+  "en": "?"
  },
  {
   "id": "SCENARIO/023/001fc",
@@ -31,7 +31,7 @@
   "jp": [
    "ここか？ちがう！"
   ],
-  "en": ""
+  "en": "Here? No!"
  },
  {
   "id": "SCENARIO/023/002da",
@@ -39,7 +39,7 @@
   "jp": [
    "うわっとと"
   ],
-  "en": ""
+  "en": "Whoa, whoa."
  },
  {
   "id": "SCENARIO/023/00360",
@@ -48,7 +48,7 @@
    "エクサル",
    "どうしたの？"
   ],
-  "en": ""
+  "en": "Exal, what's wrong?"
  },
  {
   "id": "SCENARIO/023/003f4",
@@ -56,7 +56,7 @@
   "jp": [
    "まずい！どこにやったんだ？"
   ],
-  "en": ""
+  "en": "This is bad! Where did I put it?"
  },
  {
   "id": "SCENARIO/023/004ec",
@@ -64,7 +64,7 @@
   "jp": [
    "ムヒョ？"
   ],
-  "en": ""
+  "en": "Muhyo?"
  },
  {
   "id": "SCENARIO/023/005c6",
@@ -72,7 +72,7 @@
   "jp": [
    "エクサル！"
   ],
-  "en": ""
+  "en": "Exal!"
  },
  {
   "id": "SCENARIO/023/005fa",
@@ -81,7 +81,7 @@
    "大事なものなんだよ！",
    "どこだ！どこなんだよ～！？"
   ],
-  "en": ""
+  "en": "It's important! Where is it! Where could it beee!?"
  },
  {
   "id": "SCENARIO/023/00656",
@@ -89,7 +89,7 @@
   "jp": [
    "お、落ち着いて、エクサル！"
   ],
-  "en": ""
+  "en": "C-calm down, Exal!"
  },
  {
   "id": "SCENARIO/023/0068c",
@@ -97,7 +97,7 @@
   "jp": [
    "坊や、エクサルにこれをあげて"
   ],
-  "en": ""
+  "en": "Kiddo, give this to Exal."
  },
  {
   "id": "SCENARIO/023/006f8",
@@ -107,7 +107,7 @@
    "エクサル！",
    "とりあえず、ハイ、これ！"
   ],
-  "en": ""
+  "en": "Uh, okay. Exal! Here, for now, take this!"
  },
  {
   "id": "SCENARIO/023/00760",
@@ -116,7 +116,7 @@
    "あ、ああ・・・ゴクゴク",
    "ぷはー"
   ],
-  "en": ""
+  "en": "Y-yeah... Glug, glug. Pwah!"
  },
  {
   "id": "SCENARIO/023/007c2",
@@ -124,7 +124,7 @@
   "jp": [
    "不味い！ミルクかよ！？"
   ],
-  "en": ""
+  "en": "Yuck! Is this milk!?"
  },
  {
   "id": "SCENARIO/023/007f4",
@@ -132,7 +132,7 @@
   "jp": [
    "落ち着いた？"
   ],
-  "en": ""
+  "en": "Calmed down?"
  },
  {
   "id": "SCENARIO/023/0082a",
@@ -141,7 +141,7 @@
    "な、なんとか・・・",
    "う～、お腹がゴロゴロする・・・"
   ],
-  "en": ""
+  "en": "S-sort of... Ugh, my stomach's rumbling..."
  },
  {
   "id": "SCENARIO/023/00878",
@@ -150,7 +150,7 @@
    "いったい、どうしたの？",
    "そんなに慌てて・・・"
   ],
-  "en": ""
+  "en": "What on earth is going on? You're so worked up..."
  },
  {
   "id": "SCENARIO/023/008ce",
@@ -159,7 +159,7 @@
    "俺、大事な物を",
    "無くしちまった・・・"
   ],
-  "en": ""
+  "en": "I lost something important..."
  },
  {
   "id": "SCENARIO/023/00908",
@@ -168,7 +168,7 @@
    "街中探し回ったんだけど",
    "どこにもなくて・・・"
   ],
-  "en": ""
+  "en": "I searched all over town, but it's nowhere..."
  },
  {
   "id": "SCENARIO/023/0095e",
@@ -176,7 +176,7 @@
   "jp": [
    "大事な物って何？"
   ],
-  "en": ""
+  "en": "What's the important thing?"
  },
  {
   "id": "SCENARIO/023/00996",
@@ -185,7 +185,7 @@
    "ヴァルトス様から預かった",
    "小刀だよ・・・"
   ],
-  "en": ""
+  "en": "The dagger Valtoss-sama entrusted to me..."
  },
  {
   "id": "SCENARIO/023/009e2",
@@ -195,7 +195,7 @@
    "なんだ・・・だから、肌身離さず",
    "持って・・・"
   ],
-  "en": ""
+  "en": "To me it matters more than anything but my life... I never let it leave my side..."
  },
  {
   "id": "SCENARIO/023/00a4c",
@@ -204,7 +204,7 @@
    "もしかして、エクサル",
    "スリにあったんじゃないの？"
   ],
-  "en": ""
+  "en": "Exal, could you have been pickpocketed?"
  },
  {
   "id": "SCENARIO/023/00aa6",
@@ -212,7 +212,7 @@
   "jp": [
    "ス、スリ？"
   ],
-  "en": ""
+  "en": "P-pickpocketed?"
  },
  {
   "id": "SCENARIO/023/00ada",
@@ -221,7 +221,7 @@
    "うん、雑記帳に書いてあったよ",
    "最近、多いんだって"
   ],
-  "en": ""
+  "en": "Yeah, it was in the Notebook. There's been a lot of it lately."
  },
  {
   "id": "SCENARIO/023/00b28",
@@ -229,7 +229,7 @@
   "jp": [
    "・・・"
   ],
-  "en": ""
+  "en": "..."
  },
  {
   "id": "SCENARIO/023/00b40",
@@ -237,7 +237,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/023/00b60",
@@ -245,7 +245,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/023/00b9a",
@@ -253,7 +253,7 @@
   "jp": [
    "エクサル？"
   ],
-  "en": ""
+  "en": "Exal?"
  },
  {
   "id": "SCENARIO/023/00bc0",
@@ -261,7 +261,7 @@
   "jp": [
    "・・・・・・・・・・・・"
   ],
-  "en": ""
+  "en": "............"
  },
  {
   "id": "SCENARIO/023/00c02",
@@ -269,7 +269,7 @@
   "jp": [
    "エクサルってば"
   ],
-  "en": ""
+  "en": "Exal, hello?"
  },
  {
   "id": "SCENARIO/023/00c5c",
@@ -278,7 +278,7 @@
    "あーーーーーーーっ！！",
    "思い出したっ！"
   ],
-  "en": ""
+  "en": "Aaaaaaaah!! I remember!"
  },
  {
   "id": "SCENARIO/023/00ca0",
@@ -286,7 +286,7 @@
   "jp": [
    "うわっ！"
   ],
-  "en": ""
+  "en": "Whoa!"
  },
  {
   "id": "SCENARIO/023/00e60",
@@ -296,7 +296,7 @@
    "なんども言ってるでしょ！",
    "まだ、準備中なんです！"
   ],
-  "en": ""
+  "en": "Like. I. Said! How many times do I have to tell you! We're still setting up!"
  },
  {
   "id": "SCENARIO/023/00f76",
@@ -304,7 +304,7 @@
   "jp": [
    "なんだ？"
   ],
-  "en": ""
+  "en": "What's that?"
  },
  {
   "id": "SCENARIO/023/0104c",
@@ -313,7 +313,7 @@
    "ふむ・・・",
    "それでは仕方がない"
   ],
-  "en": ""
+  "en": "Hmm... Then it cannot be helped."
  },
  {
   "id": "SCENARIO/023/0109e",
@@ -322,7 +322,7 @@
    "は～",
    "やっと分かってくれたようね"
   ],
-  "en": ""
+  "en": "Phew~ Looks like you finally get it."
  },
  {
   "id": "SCENARIO/023/010fc",
@@ -331,7 +331,7 @@
    "ムッハ！",
    "ふはははははははは！"
   ],
-  "en": ""
+  "en": "Muhah! Fwahahahahaha!"
  },
  {
   "id": "SCENARIO/023/01146",
@@ -340,7 +340,7 @@
    "な、なによ？",
    "いきなり・・・"
   ],
-  "en": ""
+  "en": "Wh-what? Out of nowhere..."
  },
  {
   "id": "SCENARIO/023/01240",
@@ -348,7 +348,7 @@
   "jp": [
    "我が輩は・・・高いぞ？"
   ],
-  "en": ""
+  "en": "I... do not come cheap, you know?"
  },
  {
   "id": "SCENARIO/023/0127e",
@@ -356,7 +356,7 @@
   "jp": [
    "はあ？"
   ],
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "SCENARIO/023/012a0",
@@ -364,7 +364,7 @@
   "jp": [
    "ムッハ！頭の悪い小娘め！"
   ],
-  "en": ""
+  "en": "Muhah! Dim-witted little girl!"
  },
  {
   "id": "SCENARIO/023/012e2",
@@ -372,7 +372,7 @@
   "jp": [
    "な！なんですって！！"
   ],
-  "en": ""
+  "en": "Wha! What did you say!!"
  },
  {
   "id": "SCENARIO/023/0131e",
@@ -381,7 +381,7 @@
    "我が輩がスターになってやる",
    "と言っているのだ！"
   ],
-  "en": ""
+  "en": "I am saying that I shall be your star!"
  },
  {
   "id": "SCENARIO/023/01368",
@@ -389,7 +389,7 @@
   "jp": [
    "スター？"
   ],
-  "en": ""
+  "en": "Star?"
  },
  {
   "id": "SCENARIO/023/0139a",
@@ -398,7 +398,7 @@
    "そう！",
    "このクッタ様がな"
   ],
-  "en": ""
+  "en": "Yes! I, the great Kutta!"
  },
  {
   "id": "SCENARIO/023/013de",
@@ -406,7 +406,7 @@
   "jp": [
    "はぁ？"
   ],
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "SCENARIO/023/01400",
@@ -416,7 +416,7 @@
    "感動して声もでないとは・・・",
    "我が輩も罪な男だ"
   ],
-  "en": ""
+  "en": "Oho, speechless with emotion... I am a sinful man indeed."
  },
  {
   "id": "SCENARIO/023/01462",
@@ -424,7 +424,7 @@
   "jp": [
    "・・・帰って"
   ],
-  "en": ""
+  "en": "...Go home."
  },
  {
   "id": "SCENARIO/023/01488",
@@ -432,7 +432,7 @@
   "jp": [
    "？"
   ],
-  "en": ""
+  "en": "?"
  },
  {
   "id": "SCENARIO/023/014b8",
@@ -440,7 +440,7 @@
   "jp": [
    "帰ってよ！"
   ],
-  "en": ""
+  "en": "Go home!"
  },
  {
   "id": "SCENARIO/023/014dc",
@@ -449,7 +449,7 @@
    "ムッハ！",
    "こ、小娘、今なんと言った！？"
   ],
-  "en": ""
+  "en": "Muhah! L-little girl, what did you just say!?"
  },
  {
   "id": "SCENARIO/023/0152e",
@@ -459,7 +459,7 @@
    "あたしは忙しいの！",
    "帰れ！変なヒゲ！！"
   ],
-  "en": ""
+  "en": "Nyaaaaah!! I'm busy! Go home, you weird mustache!!"
  },
  {
   "id": "SCENARIO/023/01596",
@@ -469,7 +469,7 @@
    "貴様、このヒゲを侮辱したな！！",
    "我が輩のヒゲを侮辱したな！"
   ],
-  "en": ""
+  "en": "Muhah!! You insult this mustache!! You insult MY mustache!"
  },
  {
   "id": "SCENARIO/023/015fc",
@@ -478,7 +478,7 @@
    "プランちゃ～ん",
    "どうしたの～？"
   ],
-  "en": ""
+  "en": "Plan-chan~ What's wrong~?"
  },
  {
   "id": "SCENARIO/023/01646",
@@ -488,7 +488,7 @@
    "このヒゲが",
    "変なこと言い出して・・・"
   ],
-  "en": ""
+  "en": "Fly! This mustache started spouting nonsense..."
  },
  {
   "id": "SCENARIO/023/01694",
@@ -497,7 +497,7 @@
    "こ、小娘！またもや！",
    "我が輩のヒゲを・・・"
   ],
-  "en": ""
+  "en": "L-little girl! Yet again! My mustache..."
  },
  {
   "id": "SCENARIO/023/016fc",
@@ -506,7 +506,7 @@
    "あ～ほんとだ",
    "変なヒゲ"
   ],
-  "en": ""
+  "en": "Ah~ you're right. Weird mustache."
  },
  {
   "id": "SCENARIO/023/01730",
@@ -516,7 +516,7 @@
    "我が輩を侮辱するとは",
    "・・・ムッヒィ～！！"
   ],
-  "en": ""
+  "en": "You make me sick! The both of you! Insulting me... Muhheee~!!"
  },
  {
   "id": "SCENARIO/023/017b0",
@@ -526,7 +526,7 @@
    "そんなヒゲ付けて",
    "スターですって！？"
   ],
-  "en": ""
+  "en": "Shut uuuup! A star, with THAT mustache!?"
  },
  {
   "id": "SCENARIO/023/01824",
@@ -534,7 +534,7 @@
   "jp": [
    "スター？"
   ],
-  "en": ""
+  "en": "Star?"
  },
  {
   "id": "SCENARIO/023/01868",
@@ -543,7 +543,7 @@
    "スター候補ならもういるから",
    "あなたなんていらないの！！"
   ],
-  "en": ""
+  "en": "We already have a star candidate, so we don't need YOU!!"
  },
  {
   "id": "SCENARIO/023/018bc",
@@ -553,7 +553,7 @@
    "我が輩はすでにスターだぞ！",
    "何故、それがわからんのだ！"
   ],
-  "en": ""
+  "en": "Muhah! I am already a star! Why can you not see that!"
  },
  {
   "id": "SCENARIO/023/0191c",
@@ -562,7 +562,7 @@
    "プランちゃん",
    "スター候補って？"
   ],
-  "en": ""
+  "en": "Plan-chan, a star candidate?"
  },
  {
   "id": "SCENARIO/023/01966",
@@ -572,7 +572,7 @@
    "カインっていうスター候補",
    "がいるんだから！"
   ],
-  "en": ""
+  "en": "That's right. We've got a proper star candidate named Cain!"
  },
  {
   "id": "SCENARIO/023/019c0",
@@ -581,7 +581,7 @@
    "ムッハ！カインだと！",
    "何奴だ、そいつは！？"
   ],
-  "en": ""
+  "en": "Muhah! Cain, you say! Who is this fellow!?"
  },
  {
   "id": "SCENARIO/023/01a28",
@@ -590,7 +590,7 @@
    "うん、カインなら確かに",
    "このサーカスのスターだね～"
   ],
-  "en": ""
+  "en": "Yeah, Cain's definitely the star of this circus~"
  },
  {
   "id": "SCENARIO/023/01a78",
@@ -599,7 +599,7 @@
    "どこだ！どこにいる？",
    "そのカインとやらは！？"
   ],
-  "en": ""
+  "en": "Where! Where is he? This Cain!?"
  },
  {
   "id": "SCENARIO/023/01ae0",
@@ -608,7 +608,7 @@
    "なんで、あんたなんかに",
    "教えなきゃ・・・"
   ],
-  "en": ""
+  "en": "Why would I tell YOU..."
  },
  {
   "id": "SCENARIO/023/01b44",
@@ -618,7 +618,7 @@
    "ダリア・ビアーっていう酒場に",
    "居るよ～"
   ],
-  "en": ""
+  "en": "Cain's at a tavern called Dahlia Beer~"
  },
  {
   "id": "SCENARIO/023/01b98",
@@ -626,7 +626,7 @@
   "jp": [
    "フ、フライ！？"
   ],
-  "en": ""
+  "en": "F-Fly!?"
  },
  {
   "id": "SCENARIO/023/01bce",
@@ -636,7 +636,7 @@
    "スターとスター候補の違いを",
    "見せてやるぞ！！"
   ],
-  "en": ""
+  "en": "Muhah! The tavern! I'll show him the difference between a star and a candidate!!"
  },
  {
   "id": "SCENARIO/023/01d00",
@@ -644,7 +644,7 @@
   "jp": [
    "な、なんだ？"
   ],
-  "en": ""
+  "en": "Wh-what the?"
  },
  {
   "id": "SCENARIO/023/01de6",
@@ -652,7 +652,7 @@
   "jp": [
    "ムッヒョーーーーッ"
   ],
-  "en": ""
+  "en": "Muhyooooo!"
  },
  {
   "id": "SCENARIO/023/01e22",
@@ -660,7 +660,7 @@
   "jp": [
    "いってぇ～"
   ],
-  "en": ""
+  "en": "Owww~"
  },
  {
   "id": "SCENARIO/023/01fd4",
@@ -669,7 +669,7 @@
    "じゃあ、その人に",
    "ぶつかったときなのかな？"
   ],
-  "en": ""
+  "en": "So it was when that guy ran into you?"
  },
  {
   "id": "SCENARIO/023/0201c",
@@ -678,7 +678,7 @@
    "ああ、そうだ！",
    "アイツに決まってる！"
   ],
-  "en": ""
+  "en": "Yeah, that's it! It had to be him!"
  },
  {
   "id": "SCENARIO/023/0207c",
@@ -688,7 +688,7 @@
    "ただぶつかってきただけ",
    "なんだろ？"
   ],
-  "en": ""
+  "en": "But from what you just said, he only bumped into you, right?"
  },
  {
   "id": "SCENARIO/023/020e6",
@@ -696,7 +696,7 @@
   "jp": [
    "いや、絶対アイツだ！"
   ],
-  "en": ""
+  "en": "No, it's definitely him!"
  },
  {
   "id": "SCENARIO/023/021d8",
@@ -704,7 +704,7 @@
   "jp": [
    "ムヒョ"
   ],
-  "en": ""
+  "en": "Muhyo."
  },
  {
   "id": "SCENARIO/023/022ac",
@@ -714,7 +714,7 @@
    "じゃあ、その人",
    "この酒場に来てるってこと？"
   ],
-  "en": ""
+  "en": "Hmm... So that guy's coming to this tavern?"
  },
  {
   "id": "SCENARIO/023/02304",
@@ -723,7 +723,7 @@
    "そういうことになるな",
    "お前を捜して・・・"
   ],
-  "en": ""
+  "en": "That's what it means... looking for you..."
  },
  {
   "id": "SCENARIO/023/02348",
@@ -731,7 +731,7 @@
   "jp": [
    "ムヒョヒョヒョヒョ"
   ],
-  "en": ""
+  "en": "Muhyohyohyohyo."
  },
  {
   "id": "SCENARIO/023/02382",
@@ -739,7 +739,7 @@
   "jp": [
    "え？"
   ],
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "SCENARIO/023/023ae",
@@ -747,7 +747,7 @@
   "jp": [
    "俺の話、聞いてただろ？"
   ],
-  "en": ""
+  "en": "You were listening, right?"
  },
  {
   "id": "SCENARIO/023/023e0",
@@ -755,7 +755,7 @@
   "jp": [
    "ムヒョ？"
   ],
-  "en": ""
+  "en": "Muhyo?"
  },
  {
   "id": "SCENARIO/023/02424",
@@ -763,7 +763,7 @@
   "jp": [
    "・・・？"
   ],
-  "en": ""
+  "en": "...?"
  },
  {
   "id": "SCENARIO/023/02468",
@@ -772,7 +772,7 @@
    "え、そんなんじゃないよ",
    "ちょっと手伝っただけだよ"
   ],
-  "en": ""
+  "en": "Huh? It's not like that. I just helped out a little."
  },
  {
   "id": "SCENARIO/023/024c2",
@@ -781,7 +781,7 @@
    "ふーん・・・",
    "でも俺、はっきりと聞いたぜ？"
   ],
-  "en": ""
+  "en": "Hmm... But I heard it loud and clear."
  },
  {
   "id": "SCENARIO/023/02528",
@@ -790,7 +790,7 @@
    "エクサル、",
    "ちょっといいかい？"
   ],
-  "en": ""
+  "en": "Exal, got a moment?"
  },
  {
   "id": "SCENARIO/023/02572",
@@ -798,7 +798,7 @@
   "jp": [
    "なに？"
   ],
-  "en": ""
+  "en": "What?"
  },
  {
   "id": "SCENARIO/023/025a2",
@@ -807,7 +807,7 @@
    "その、ぶつかってきた人の特徴",
    "なんだけど"
   ],
-  "en": ""
+  "en": "About that fellow who ran into you. What he looked like."
  },
  {
   "id": "SCENARIO/023/025e8",
@@ -815,7 +815,7 @@
   "jp": [
    "ああ、変なヒゲの"
   ],
-  "en": ""
+  "en": "Yeah, weird mustache."
  },
  {
   "id": "SCENARIO/023/02622",
@@ -823,7 +823,7 @@
   "jp": [
    "エクサル、後ろ"
   ],
-  "en": ""
+  "en": "Exal. Behind you."
  },
  {
   "id": "SCENARIO/023/02728",
@@ -831,7 +831,7 @@
   "jp": [
    "後ろって・・・"
   ],
-  "en": ""
+  "en": "Behind me...?"
  },
  {
   "id": "SCENARIO/023/027a2",
@@ -840,7 +840,7 @@
    "このヒゲを侮辱するなー！",
    "我が輩はクッタ様だ！"
   ],
-  "en": ""
+  "en": "Do not insult this mustache! I am the great Kutta!"
  },
  {
   "id": "SCENARIO/023/027fa",
@@ -849,7 +849,7 @@
    "うわっ",
    "お、お前は！"
   ],
-  "en": ""
+  "en": "Whoa! Y-you're!"
  },
  {
   "id": "SCENARIO/023/02898",
@@ -857,7 +857,7 @@
   "jp": [
    "エクサル、この人が"
   ],
-  "en": ""
+  "en": "Exal, this man is..."
  },
  {
   "id": "SCENARIO/023/028e2",
@@ -865,7 +865,7 @@
   "jp": [
    "こいつだ！カイン！"
   ],
-  "en": ""
+  "en": "This is him! Cain!"
  },
  {
   "id": "SCENARIO/023/02930",
@@ -873,7 +873,7 @@
   "jp": [
    "おまえが！カイン！"
   ],
-  "en": ""
+  "en": "YOU are! Cain!"
  },
  {
   "id": "SCENARIO/023/0297a",
@@ -881,7 +881,7 @@
   "jp": [
    "え？あ、うう、そ、そ"
   ],
-  "en": ""
+  "en": "Huh? Uh, um, w-wait..."
  },
  {
   "id": "SCENARIO/023/029c8",
@@ -890,7 +890,7 @@
    "おい、おっさん！",
    "俺から盗ったものを返せ！"
   ],
-  "en": ""
+  "en": "Hey, old man! Give back what you stole from me!"
  },
  {
   "id": "SCENARIO/023/02a10",
@@ -899,7 +899,7 @@
    "ムッハ！",
    "貴様は・・・う～ん？"
   ],
-  "en": ""
+  "en": "Muhah! You are... hmmm?"
  },
  {
   "id": "SCENARIO/023/02a44",
@@ -907,7 +907,7 @@
   "jp": [
    "あ！あのときの"
   ],
-  "en": ""
+  "en": "Ah! From before!"
  },
  {
   "id": "SCENARIO/023/02a7a",
@@ -916,7 +916,7 @@
    "やっぱり",
    "おっさんがスリだったのか！"
   ],
-  "en": ""
+  "en": "So you WERE the pickpocket, old man!"
  },
  {
   "id": "SCENARIO/023/02abc",
@@ -925,7 +925,7 @@
    "ムッハ、我が輩がスリだと！？",
    "ふざけるな！"
   ],
-  "en": ""
+  "en": "Muhah, I, a pickpocket!? Don't be ridiculous!"
  },
  {
   "id": "SCENARIO/023/02afc",
@@ -935,7 +935,7 @@
    "ケガをさせようとしたのだ",
    "その治療代として貰っただけだ！"
   ],
-  "en": ""
+  "en": "You ran into the great Kutta and tried to injure me! I merely took my medical fee!"
  },
  {
   "id": "SCENARIO/023/02b7e",
@@ -945,7 +945,7 @@
    "おっさんがいきなり走って",
    "きたんだろ！？"
   ],
-  "en": ""
+  "en": "Ran into you... You came charging at me out of nowhere!?"
  },
  {
   "id": "SCENARIO/023/02bfc",
@@ -955,7 +955,7 @@
    "別にケガなんて",
    "無いみたいだけど"
   ],
-  "en": ""
+  "en": "Medical fee... You don't look hurt at all."
  },
  {
   "id": "SCENARIO/023/02c4c",
@@ -965,7 +965,7 @@
    "いつ、ぶつかった所が痛くなるか",
    "わからんではないか！？"
   ],
-  "en": ""
+  "en": "Ah, quiet! Who knows when the spot you hit will start to hurt!?"
  },
  {
   "id": "SCENARIO/023/02cba",
@@ -975,7 +975,7 @@
    "むかついたぞ！貴様ら！",
    "今、ここで・・・"
   ],
-  "en": ""
+  "en": "Mmmm~ Muhah! You make me sick! Both of you! Right here, right now..."
  },
  {
   "id": "SCENARIO/023/02dd8",
@@ -985,7 +985,7 @@
    "その方がてっとり早いぜ",
    "やるぞ、カイン！"
   ],
-  "en": ""
+  "en": "You wanna go, old man...? That's quicker anyway. Let's do this, Cain!"
  },
  {
   "id": "SCENARIO/023/02e58",
@@ -993,7 +993,7 @@
   "jp": [
    "え、やるって！？"
   ],
-  "en": ""
+  "en": "Huh, do what!?"
  },
  {
   "id": "SCENARIO/023/02ea4",
@@ -1003,7 +1003,7 @@
    "ここでそういう荒っぽいのは",
    "やめてくれないかい？"
   ],
-  "en": ""
+  "en": "Hey now, hey. Could you not get rough in here?"
  },
  {
   "id": "SCENARIO/023/02f08",
@@ -1012,7 +1012,7 @@
    "おばちゃん！",
    "止めるな！"
   ],
-  "en": ""
+  "en": "Auntie! Stay out of it!"
  },
  {
   "id": "SCENARIO/023/02f5e",
@@ -1020,7 +1020,7 @@
   "jp": [
    "おば・・・"
   ],
-  "en": ""
+  "en": "Aun..."
  },
  {
   "id": "SCENARIO/023/02fe4",
@@ -1028,7 +1028,7 @@
   "jp": [
    "あ、ダリアさん・・・"
   ],
-  "en": ""
+  "en": "Ah, Dahlia-san..."
  },
  {
   "id": "SCENARIO/023/03014",
@@ -1038,7 +1038,7 @@
    "おばちゃんなんかほっとけ！",
    "今はおっさんだ！！"
   ],
-  "en": ""
+  "en": "Cain! Forget about Auntie! The old man, now!!"
  },
  {
   "id": "SCENARIO/023/0307a",
@@ -1046,7 +1046,7 @@
   "jp": [
    "おばちゃんなんかほっとけ・・・"
   ],
-  "en": ""
+  "en": "Forget about Auntie..."
  },
  {
   "id": "SCENARIO/023/030b6",
@@ -1055,7 +1055,7 @@
    "今、戻ったカイン",
    "良い本を手に入れることができた"
   ],
-  "en": ""
+  "en": "I am back, Cain. I managed to find a good book."
  },
  {
   "id": "SCENARIO/023/03112",
@@ -1064,7 +1064,7 @@
    "ヨハネ！",
    "いいところに・・・"
   ],
-  "en": ""
+  "en": "Johannes! Good timing..."
  },
  {
   "id": "SCENARIO/023/03160",
@@ -1073,7 +1073,7 @@
    "ムッハ！",
    "いまだ！！"
   ],
-  "en": ""
+  "en": "Muhah! Now!!"
  },
  {
   "id": "SCENARIO/023/032de",
@@ -1081,7 +1081,7 @@
   "jp": [
    "おっと・・・"
   ],
-  "en": ""
+  "en": "Oh my..."
  },
  {
   "id": "SCENARIO/023/03348",
@@ -1090,7 +1090,7 @@
    "待ちやがれ！",
    "おっさん！"
   ],
-  "en": ""
+  "en": "Get back here! Old man!"
  },
  {
   "id": "SCENARIO/023/033e2",
@@ -1098,7 +1098,7 @@
   "jp": [
    "おっとっと・・・"
   ],
-  "en": ""
+  "en": "Oh, oh my..."
  },
  {
   "id": "SCENARIO/023/03438",
@@ -1106,7 +1106,7 @@
   "jp": [
    "エクサル！"
   ],
-  "en": ""
+  "en": "Exal!"
  },
  {
   "id": "SCENARIO/023/0345c",
@@ -1116,7 +1116,7 @@
    "エクサルも一体・・・",
    "ん・・・ダリア？"
   ],
-  "en": ""
+  "en": "What is going on, Cain? And what has gotten into Exal... Hm... Dahlia?"
  },
  {
   "id": "SCENARIO/023/034b8",
@@ -1125,7 +1125,7 @@
    "ふ、ふふふふ・・・",
    "おばさんはほっとかれるんだ"
   ],
-  "en": ""
+  "en": "Heh, heh heh heh... So Auntie just gets forgotten, does she."
  },
  {
   "id": "SCENARIO/023/0355a",
@@ -1133,7 +1133,7 @@
   "jp": [
    "ダ、ダリアさん？"
   ],
-  "en": ""
+  "en": "D-Dahlia-san?"
  },
  {
   "id": "SCENARIO/023/03584",
@@ -1142,7 +1142,7 @@
    "はははははは・・・",
    "あはははははははは！"
   ],
-  "en": ""
+  "en": "Ha ha ha ha... Ahahahahaha!"
  },
  {
   "id": "SCENARIO/023/035ca",
@@ -1150,7 +1150,7 @@
   "jp": [
    "ダ、ダリアさんが・・・"
   ],
-  "en": ""
+  "en": "D-Dahlia-san's..."
  },
  {
   "id": "SCENARIO/023/0361a",
@@ -1158,7 +1158,7 @@
   "jp": [
    "ダリアがどうした？"
   ],
-  "en": ""
+  "en": "What about Dahlia?"
  },
  {
   "id": "SCENARIO/023/03674",
@@ -1166,7 +1166,7 @@
   "jp": [
    "ダリアさんが壊れちゃった"
   ],
-  "en": ""
+  "en": "Dahlia-san's broken."
  },
  {
   "id": "SCENARIO/023/036e8",
@@ -1174,12 +1174,12 @@
   "jp": [
    "エ～ク～サ～ルゥ"
   ],
-  "en": ""
+  "en": "Eeexaaal..."
  },
  {
   "id": "SCENARIO/023/072d4",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/023/072e2",
@@ -1187,12 +1187,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/023/072fa",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/023/0730a",
@@ -1200,6 +1200,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

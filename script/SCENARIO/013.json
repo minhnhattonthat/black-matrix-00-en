@@ -2,37 +2,37 @@
  {
   "id": "SCENARIO/013/00008",
   "jp": "イベント関連",
-  "en": ""
+  "en": "Events"
  },
  {
   "id": "SCENARIO/013/0001c",
   "jp": "ＢＧＭ",
-  "en": ""
+  "en": "BGM"
  },
  {
   "id": "SCENARIO/013/0002c",
   "jp": "ムービー",
-  "en": ""
+  "en": "Movies"
  },
  {
   "id": "SCENARIO/013/0003c",
   "jp": "初期化データ",
-  "en": ""
+  "en": "Init Data"
  },
  {
   "id": "SCENARIO/013/00050",
   "jp": "クリアデータ",
-  "en": ""
+  "en": "Clear Data"
  },
  {
   "id": "SCENARIO/013/00064",
   "jp": "所持品デバッグ",
-  "en": ""
+  "en": "Item Debug"
  },
  {
   "id": "SCENARIO/013/0007c",
   "jp": "スキルデバッグ",
-  "en": ""
+  "en": "Skill Debug"
  },
  {
   "id": "SCENARIO/013/00160",
@@ -41,7 +41,7 @@
    "「起動時初期化設定」",
    "を行いました"
   ],
-  "en": "",
+  "en": "Startup init settings applied.",
   "spill": false
  },
  {
@@ -51,7 +51,7 @@
    "「ゲームクリア設定」",
    "を行いました"
   ],
-  "en": "",
+  "en": "Game clear settings applied.",
   "spill": false
  },
  {
@@ -61,7 +61,7 @@
    "「所持品デバッグ設定」",
    "を行いました"
   ],
-  "en": "",
+  "en": "Item debug settings applied.",
   "spill": false
  },
  {
@@ -71,468 +71,468 @@
    "「スキルデバッグ設定」",
    "を行いました"
   ],
-  "en": "",
+  "en": "Skill debug settings applied.",
   "spill": false
  },
  {
   "id": "SCENARIO/013/004e8",
   "jp": "ＢＭ００",
-  "en": ""
+  "en": "BM00"
  },
  {
   "id": "SCENARIO/013/004f8",
   "jp": "ＢＭ＋",
-  "en": ""
+  "en": "BM+"
  },
  {
   "id": "SCENARIO/013/00508",
   "jp": "ＢＧＭ停止",
-  "en": ""
+  "en": "Stop BGM"
  },
  {
   "id": "SCENARIO/013/00528",
   "jp": "０１：閉鎖病棟メランコリ",
-  "en": ""
+  "en": "01: Closed Ward Melancholy"
  },
  {
   "id": "SCENARIO/013/00548",
   "jp": "０２：ＣｈａｉｎＳｍｏＫｅｒ",
-  "en": ""
+  "en": "02: ChainSmoKer"
  },
  {
   "id": "SCENARIO/013/0056c",
   "jp": "０３：ミドルアイアン",
-  "en": ""
+  "en": "03: Middle Iron"
  },
  {
   "id": "SCENARIO/013/00588",
   "jp": "０４：ゾンビスプレー",
-  "en": ""
+  "en": "04: Zombie Spray"
  },
  {
   "id": "SCENARIO/013/005a4",
   "jp": "０５：検問",
-  "en": ""
+  "en": "05: Checkpoint"
  },
  {
   "id": "SCENARIO/013/005b8",
   "jp": "０６：学級閉鎖",
-  "en": ""
+  "en": "06: Class Shutdown"
  },
  {
   "id": "SCENARIO/013/005d0",
   "jp": "０７：近海産アメーバー",
-  "en": ""
+  "en": "07: Coastal Amoeba"
  },
  {
   "id": "SCENARIO/013/005f0",
   "jp": "０８：近海産アメーバーａｇ２",
-  "en": ""
+  "en": "08: Coastal Amoeba ag2"
  },
  {
   "id": "SCENARIO/013/00614",
   "jp": "０９：Ｓｉｎｃｅ１９８３",
-  "en": ""
+  "en": "09: Since1983"
  },
  {
   "id": "SCENARIO/013/00634",
   "jp": "１０：コックローチ",
-  "en": ""
+  "en": "10: Cockroach"
  },
  {
   "id": "SCENARIO/013/00650",
   "jp": "１１：青顔",
-  "en": ""
+  "en": "11: Blue Face"
  },
  {
   "id": "SCENARIO/013/00664",
   "jp": "１２：ＧｏｌｄＤｒａｇｏｎ：ｏｐ２",
-  "en": ""
+  "en": "12: GoldDragon:op2"
  },
  {
   "id": "SCENARIO/013/00690",
   "jp": "１３：ＮａｖｙＣｏｓｍｅｔｉｃ",
-  "en": ""
+  "en": "13: NavyCosmetic"
  },
  {
   "id": "SCENARIO/013/006b8",
   "jp": "１４：サムソン",
-  "en": ""
+  "en": "14: Samson"
  },
  {
   "id": "SCENARIO/013/006d0",
   "jp": "１５：教団のテーマ",
-  "en": ""
+  "en": "15: Church Theme"
  },
  {
   "id": "SCENARIO/013/006ec",
   "jp": "１６：Ｂ／Ｍ真・愛のテーマ",
-  "en": ""
+  "en": "16: B/M True Love Theme"
  },
  {
   "id": "SCENARIO/013/00710",
   "jp": "１７：哀しい",
-  "en": ""
+  "en": "17: Sorrow"
  },
  {
   "id": "SCENARIO/013/00724",
   "jp": "１８：異様な世界",
-  "en": ""
+  "en": "18: Strange World"
  },
  {
   "id": "SCENARIO/013/0073c",
   "jp": "１９：Ｇｏｔｏｈｄａ",
-  "en": ""
+  "en": "19: Gotohda"
  },
  {
   "id": "SCENARIO/013/00758",
   "jp": "２０：心のふれあい",
-  "en": ""
+  "en": "20: Heart to Heart"
  },
  {
   "id": "SCENARIO/013/00774",
   "jp": "２１：タイトル",
-  "en": ""
+  "en": "21: Title"
  },
  {
   "id": "SCENARIO/013/0078c",
   "jp": "２２：ミニゲーム",
-  "en": ""
+  "en": "22: Minigame"
  },
  {
   "id": "SCENARIO/013/007b0",
   "jp": "０１：戦闘１",
-  "en": ""
+  "en": "01: Battle 1"
  },
  {
   "id": "SCENARIO/013/007c4",
   "jp": "０２：戦闘２",
-  "en": ""
+  "en": "02: Battle 2"
  },
  {
   "id": "SCENARIO/013/007d8",
   "jp": "０３：戦闘３",
-  "en": ""
+  "en": "03: Battle 3"
  },
  {
   "id": "SCENARIO/013/007ec",
   "jp": "０４：戦闘４",
-  "en": ""
+  "en": "04: Battle 4"
  },
  {
   "id": "SCENARIO/013/00800",
   "jp": "０５：戦闘５",
-  "en": ""
+  "en": "05: Battle 5"
  },
  {
   "id": "SCENARIO/013/00814",
   "jp": "０６：マティアのテーマ（通常版）",
-  "en": ""
+  "en": "06: Matia's Theme (Normal)"
  },
  {
   "id": "SCENARIO/013/0083c",
   "jp": "０８：決意のテーマ",
-  "en": ""
+  "en": "08: Resolve Theme"
  },
  {
   "id": "SCENARIO/013/00858",
   "jp": "０９：リリスのテーマ",
-  "en": ""
+  "en": "09: Lilis's Theme"
  },
  {
   "id": "SCENARIO/013/00874",
   "jp": "１０：ヨハネのテーマ",
-  "en": ""
+  "en": "10: Johannes's Theme"
  },
  {
   "id": "SCENARIO/013/00890",
   "jp": "１１：天使のテーマ",
-  "en": ""
+  "en": "11: Angel Theme"
  },
  {
   "id": "SCENARIO/013/008ac",
   "jp": "１２：カルディアのテーマ",
-  "en": ""
+  "en": "12: Cardia's Theme"
  },
  {
   "id": "SCENARIO/013/008cc",
   "jp": "１３：プレッシャーのテーマ",
-  "en": ""
+  "en": "13: Pressure Theme"
  },
  {
   "id": "SCENARIO/013/008f0",
   "jp": "１４：クッタのテーマ",
-  "en": ""
+  "en": "14: Kutta's Theme"
  },
  {
   "id": "SCENARIO/013/0090c",
   "jp": "１５：深い思慮のテーマ",
-  "en": ""
+  "en": "15: Deep Thought Theme"
  },
  {
   "id": "SCENARIO/013/0092c",
   "jp": "１６：教団のテーマ",
-  "en": ""
+  "en": "16: Church Theme"
  },
  {
   "id": "SCENARIO/013/00948",
   "jp": "１７：世界樹のテーマ",
-  "en": ""
+  "en": "17: World Tree Theme"
  },
  {
   "id": "SCENARIO/013/00964",
   "jp": "１８：潜入のテーマ",
-  "en": ""
+  "en": "18: Infiltration Theme"
  },
  {
   "id": "SCENARIO/013/00980",
   "jp": "１９：街のテーマ",
-  "en": ""
+  "en": "19: Town Theme"
  },
  {
   "id": "SCENARIO/013/00998",
   "jp": "２０：ダリア・ビアーのテーマ",
-  "en": ""
+  "en": "20: Dahlia Beer's Theme"
  },
  {
   "id": "SCENARIO/013/009bc",
   "jp": "２１：回想のテーマ",
-  "en": ""
+  "en": "21: Memories Theme"
  },
  {
   "id": "SCENARIO/013/009d8",
   "jp": "２２：ミニゲームのテーマ",
-  "en": ""
+  "en": "22: Minigame Theme"
  },
  {
   "id": "SCENARIO/013/009f8",
   "jp": "２３：衝撃のテーマ",
-  "en": ""
+  "en": "23: Shock Theme"
  },
  {
   "id": "SCENARIO/013/00a14",
   "jp": "２４：衝突のテーマ",
-  "en": ""
+  "en": "24: Clash Theme"
  },
  {
   "id": "SCENARIO/013/00a30",
   "jp": "２５：激流のテーマ",
-  "en": ""
+  "en": "25: Torrent Theme"
  },
  {
   "id": "SCENARIO/013/00a4c",
   "jp": "２６：ラスボスのテーマ１",
-  "en": ""
+  "en": "26: Last Boss Theme 1"
  },
  {
   "id": "SCENARIO/013/00a6c",
   "jp": "２８：小競り合いのテーマ",
-  "en": ""
+  "en": "28: Skirmish Theme"
  },
  {
   "id": "SCENARIO/013/00a8c",
   "jp": "２９：マティアのテーマ（特別版）",
-  "en": ""
+  "en": "29: Matia's Theme (Special)"
  },
  {
   "id": "SCENARIO/013/00ab4",
   "jp": "３０：不安のテーマ",
-  "en": ""
+  "en": "30: Unease Theme"
  },
  {
   "id": "SCENARIO/013/00ad0",
   "jp": "３１：ラスボスのテーマ２",
-  "en": ""
+  "en": "31: Last Boss Theme 2"
  },
  {
   "id": "SCENARIO/013/00af0",
   "jp": "３２：リリスのテーマ（オルゴール）",
-  "en": ""
+  "en": "32: Lilis's Theme (Music Box)"
  },
  {
   "id": "SCENARIO/013/00b1c",
   "jp": "３３：ゲームオーバーのテーマ",
-  "en": ""
+  "en": "33: Game Over Theme"
  },
  {
   "id": "SCENARIO/013/01f58",
   "jp": "共通：天使と悪魔の戦い（ＯＰ）",
-  "en": ""
+  "en": "Common: Angel/Demon War (OP)"
  },
  {
   "id": "SCENARIO/013/01f80",
   "jp": "共通：世界観（ＯＰ）",
-  "en": ""
+  "en": "Common: The World (OP)"
  },
  {
   "id": "SCENARIO/013/01f9c",
   "jp": "Ｄ１：目覚めるアラギ",
-  "en": ""
+  "en": "D1: Aragi Awakens"
  },
  {
   "id": "SCENARIO/013/01fb8",
   "jp": "Ｄ１：島にやって来るアラギ",
-  "en": ""
+  "en": "D1: Aragi Comes to Island"
  },
  {
   "id": "SCENARIO/013/01fdc",
   "jp": "Ｄ１：カイン死亡後…",
-  "en": ""
+  "en": "D1: After Cain's Death..."
  },
  {
   "id": "SCENARIO/013/01ff8",
   "jp": "Ｄ１：未来を予見するカイン１",
-  "en": ""
+  "en": "D1: Cain Sees Future 1"
  },
  {
   "id": "SCENARIO/013/0201c",
   "jp": "Ｄ１：世界樹からのイメージ",
-  "en": ""
+  "en": "D1: World Tree Vision"
  },
  {
   "id": "SCENARIO/013/02040",
   "jp": "Ｄ２：キボートス島へ戻る",
-  "en": ""
+  "en": "D2: Return to Kibotos"
  },
  {
   "id": "SCENARIO/013/02060",
   "jp": "Ｄ２：未来を予見するカイン２",
-  "en": ""
+  "en": "D2: Cain Sees Future 2"
  },
  {
   "id": "SCENARIO/013/02084",
   "jp": "Ｄ２：ラスボス登場（アベル）",
-  "en": ""
+  "en": "D2: Last Boss (Abel)"
  },
  {
   "id": "SCENARIO/013/020a8",
   "jp": "Ｄ２：ラスボス登場（アラギ）",
-  "en": ""
+  "en": "D2: Last Boss (Aragi)"
  },
  {
   "id": "SCENARIO/013/020cc",
   "jp": "Ｄ２：クレジット（バッド）",
-  "en": ""
+  "en": "D2: Credits (Bad)"
  },
  {
   "id": "SCENARIO/013/020f0",
   "jp": "Ｄ２：クレジット（グッド）",
-  "en": ""
+  "en": "D2: Credits (Good)"
  },
  {
   "id": "SCENARIO/013/02114",
   "jp": "共通：ミニゲームエンディング",
-  "en": ""
+  "en": "Common: Minigame Ending"
  },
  {
   "id": "SCENARIO/013/02138",
   "jp": "共通：アイキャッチ",
-  "en": ""
+  "en": "Common: Eyecatch"
  },
  {
   "id": "SCENARIO/013/02154",
   "jp": "Ｄ１：第１章タイトル",
-  "en": ""
+  "en": "D1: Ch. 1 Title"
  },
  {
   "id": "SCENARIO/013/02170",
   "jp": "Ｄ１：第２章タイトル",
-  "en": ""
+  "en": "D1: Ch. 2 Title"
  },
  {
   "id": "SCENARIO/013/0218c",
   "jp": "Ｄ１：第３章タイトル",
-  "en": ""
+  "en": "D1: Ch. 3 Title"
  },
  {
   "id": "SCENARIO/013/021a8",
   "jp": "Ｄ１：第４章タイトル",
-  "en": ""
+  "en": "D1: Ch. 4 Title"
  },
  {
   "id": "SCENARIO/013/021c4",
   "jp": "Ｄ１：第５章タイトル",
-  "en": ""
+  "en": "D1: Ch. 5 Title"
  },
  {
   "id": "SCENARIO/013/021e0",
   "jp": "Ｄ１：第６章タイトル",
-  "en": ""
+  "en": "D1: Ch. 6 Title"
  },
  {
   "id": "SCENARIO/013/021fc",
   "jp": "Ｄ２：第７章タイトル",
-  "en": ""
+  "en": "D2: Ch. 7 Title"
  },
  {
   "id": "SCENARIO/013/02218",
   "jp": "Ｄ２：第８章タイトル",
-  "en": ""
+  "en": "D2: Ch. 8 Title"
  },
  {
   "id": "SCENARIO/013/02234",
   "jp": "Ｄ２：第９章タイトル",
-  "en": ""
+  "en": "D2: Ch. 9 Title"
  },
  {
   "id": "SCENARIO/013/02250",
   "jp": "Ｄ２：最終章タイトル",
-  "en": ""
+  "en": "D2: Final Ch. Title"
  },
  {
   "id": "SCENARIO/013/0226c",
   "jp": "Ｄ１：第１章アイキャッチ",
-  "en": ""
+  "en": "D1: Ch. 1 Eyecatch"
  },
  {
   "id": "SCENARIO/013/0228c",
   "jp": "Ｄ１：第２章アイキャッチ",
-  "en": ""
+  "en": "D1: Ch. 2 Eyecatch"
  },
  {
   "id": "SCENARIO/013/022ac",
   "jp": "Ｄ１：第３章アイキャッチ",
-  "en": ""
+  "en": "D1: Ch. 3 Eyecatch"
  },
  {
   "id": "SCENARIO/013/022cc",
   "jp": "Ｄ１：第４章アイキャッチ",
-  "en": ""
+  "en": "D1: Ch. 4 Eyecatch"
  },
  {
   "id": "SCENARIO/013/022ec",
   "jp": "Ｄ１：第５章アイキャッチ",
-  "en": ""
+  "en": "D1: Ch. 5 Eyecatch"
  },
  {
   "id": "SCENARIO/013/0230c",
   "jp": "Ｄ１：第６章アイキャッチ",
-  "en": ""
+  "en": "D1: Ch. 6 Eyecatch"
  },
  {
   "id": "SCENARIO/013/0232c",
   "jp": "Ｄ２：第７章アイキャッチ",
-  "en": ""
+  "en": "D2: Ch. 7 Eyecatch"
  },
  {
   "id": "SCENARIO/013/0234c",
   "jp": "Ｄ２：第８章アイキャッチ",
-  "en": ""
+  "en": "D2: Ch. 8 Eyecatch"
  },
  {
   "id": "SCENARIO/013/0236c",
   "jp": "Ｄ２：第９章アイキャッチ",
-  "en": ""
+  "en": "D2: Ch. 9 Eyecatch"
  },
  {
   "id": "SCENARIO/013/0238c",
   "jp": "Ｄ２：最終章アイキャッチ",
-  "en": ""
+  "en": "D2: Final Ch. Eyecatch"
  },
  {
   "id": "SCENARIO/013/06580",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/013/0658e",
@@ -540,12 +540,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/013/065a6",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/013/065b6",
@@ -553,6 +553,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

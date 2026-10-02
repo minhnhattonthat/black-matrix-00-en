@@ -2,142 +2,142 @@
  {
   "id": "SCENARIO/012/00090",
   "jp": "自由行動２－１",
-  "en": ""
+  "en": "Free Roam 2-1"
  },
  {
   "id": "SCENARIO/012/000a8",
   "jp": "自由行動２－２",
-  "en": ""
+  "en": "Free Roam 2-2"
  },
  {
   "id": "SCENARIO/012/000c0",
   "jp": "自由行動２－３",
-  "en": ""
+  "en": "Free Roam 2-3"
  },
  {
   "id": "SCENARIO/012/000d8",
   "jp": "自由行動３－１",
-  "en": ""
+  "en": "Free Roam 3-1"
  },
  {
   "id": "SCENARIO/012/000f0",
   "jp": "自由行動３－２",
-  "en": ""
+  "en": "Free Roam 3-2"
  },
  {
   "id": "SCENARIO/012/00108",
   "jp": "自由行動３－３",
-  "en": ""
+  "en": "Free Roam 3-3"
  },
  {
   "id": "SCENARIO/012/00120",
   "jp": "自由行動３－４",
-  "en": ""
+  "en": "Free Roam 3-4"
  },
  {
   "id": "SCENARIO/012/00138",
   "jp": "自由行動４－１",
-  "en": ""
+  "en": "Free Roam 4-1"
  },
  {
   "id": "SCENARIO/012/00150",
   "jp": "自由行動４－２",
-  "en": ""
+  "en": "Free Roam 4-2"
  },
  {
   "id": "SCENARIO/012/00168",
   "jp": "自由行動４－３",
-  "en": ""
+  "en": "Free Roam 4-3"
  },
  {
   "id": "SCENARIO/012/00180",
   "jp": "自由行動４－４",
-  "en": ""
+  "en": "Free Roam 4-4"
  },
  {
   "id": "SCENARIO/012/00198",
   "jp": "自由行動４－５",
-  "en": ""
+  "en": "Free Roam 4-5"
  },
  {
   "id": "SCENARIO/012/001b0",
   "jp": "自由行動５－１",
-  "en": ""
+  "en": "Free Roam 5-1"
  },
  {
   "id": "SCENARIO/012/001c8",
   "jp": "自由行動５－２",
-  "en": ""
+  "en": "Free Roam 5-2"
  },
  {
   "id": "SCENARIO/012/001e0",
   "jp": "自由行動５－３",
-  "en": ""
+  "en": "Free Roam 5-3"
  },
  {
   "id": "SCENARIO/012/001f8",
   "jp": "自由行動６－１",
-  "en": ""
+  "en": "Free Roam 6-1"
  },
  {
   "id": "SCENARIO/012/00210",
   "jp": "自由行動６－２",
-  "en": ""
+  "en": "Free Roam 6-2"
  },
  {
   "id": "SCENARIO/012/00228",
   "jp": "自由行動７－１",
-  "en": ""
+  "en": "Free Roam 7-1"
  },
  {
   "id": "SCENARIO/012/00240",
   "jp": "自由行動７－２",
-  "en": ""
+  "en": "Free Roam 7-2"
  },
  {
   "id": "SCENARIO/012/00258",
   "jp": "自由行動７－３",
-  "en": ""
+  "en": "Free Roam 7-3"
  },
  {
   "id": "SCENARIO/012/00270",
   "jp": "自由行動７－４",
-  "en": ""
+  "en": "Free Roam 7-4"
  },
  {
   "id": "SCENARIO/012/00288",
   "jp": "自由行動８－１",
-  "en": ""
+  "en": "Free Roam 8-1"
  },
  {
   "id": "SCENARIO/012/002a0",
   "jp": "自由行動８－２",
-  "en": ""
+  "en": "Free Roam 8-2"
  },
  {
   "id": "SCENARIO/012/002b8",
   "jp": "自由行動８－３",
-  "en": ""
+  "en": "Free Roam 8-3"
  },
  {
   "id": "SCENARIO/012/002d0",
   "jp": "自由行動８－４",
-  "en": ""
+  "en": "Free Roam 8-4"
  },
  {
   "id": "SCENARIO/012/002e8",
   "jp": "自由行動９－１",
-  "en": ""
+  "en": "Free Roam 9-1"
  },
  {
   "id": "SCENARIO/012/00300",
   "jp": "自由行動９－２",
-  "en": ""
+  "en": "Free Roam 9-2"
  },
  {
   "id": "SCENARIO/012/04044",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/012/04052",
@@ -145,12 +145,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/012/0406a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/012/0407a",
@@ -158,6 +158,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

@@ -6,7 +6,7 @@
    "ボーナスシナリオ　２",
    "＜うちの子＞"
   ],
-  "en": "",
+  "en": "Bonus Scenario 2\n\"Our Boy\"",
   "spill": false
  },
  {
@@ -17,7 +17,7 @@
    "なんだかエクサルに似てる気が",
    "するんだ"
   ],
-  "en": ""
+  "en": "This kid in the article kind of reminds me of you, Exal."
  },
  {
   "id": "SCENARIO/021/001e0",
@@ -27,7 +27,7 @@
    "ガキの頃は、そんなににぎやか",
    "でもなかったんだぜ？"
   ],
-  "en": ""
+  "en": "I'll admit I can't sit still, but I wasn't that rowdy as a kid, you know?"
  },
  {
   "id": "SCENARIO/021/0025e",
@@ -35,7 +35,7 @@
   "jp": [
    "・・・そうなの？"
   ],
-  "en": ""
+  "en": "...Really?"
  },
  {
   "id": "SCENARIO/021/00296",
@@ -44,7 +44,7 @@
    "少なくともガキの頃は",
    "今よりはるかに大人しかったんだ"
   ],
-  "en": ""
+  "en": "At least as a kid, I was way quieter than I am now."
  },
  {
   "id": "SCENARIO/021/002f6",
@@ -52,7 +52,7 @@
   "jp": [
    "・・・"
   ],
-  "en": ""
+  "en": "..."
  },
  {
   "id": "SCENARIO/021/00326",
@@ -61,7 +61,7 @@
    "なんだよ、その目は",
    "そんなに信じられないか？"
   ],
-  "en": ""
+  "en": "What's with that look? That hard to believe?"
  },
  {
   "id": "SCENARIO/021/00370",
@@ -69,7 +69,7 @@
   "jp": [
    "うーん・・・"
   ],
-  "en": ""
+  "en": "Hmm..."
  },
  {
   "id": "SCENARIO/021/00390",
@@ -77,18 +77,18 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": "",
+  "en": ".........",
   "spill": false
  },
  {
   "id": "SCENARIO/021/003aa",
   "jp": "　一応、信じるけど",
-  "en": ""
+  "en": "I guess I believe you"
  },
  {
   "id": "SCENARIO/021/003c4",
   "jp": "　信じられない",
-  "en": ""
+  "en": "I don't believe you"
  },
  {
   "id": "SCENARIO/021/00400",
@@ -98,7 +98,7 @@
    "大人しいエクサルなんて",
    "想像できないよ"
   ],
-  "en": ""
+  "en": "I guess I believe you... but I can't picture a quiet Exal."
  },
  {
   "id": "SCENARIO/021/0046a",
@@ -106,7 +106,7 @@
   "jp": [
    "なんかトゲがある言い方だなぁ"
   ],
-  "en": ""
+  "en": "There's a bit of a sting in that."
  },
  {
   "id": "SCENARIO/021/004ae",
@@ -115,7 +115,7 @@
    "元気じゃなきゃエクサルって",
    "感じがしないもん"
   ],
-  "en": ""
+  "en": "If you're not lively, you just don't feel like Exal."
  },
  {
   "id": "SCENARIO/021/00506",
@@ -123,7 +123,7 @@
   "jp": [
    "ま、それもそうかな"
   ],
-  "en": ""
+  "en": "Well, I guess that's true."
  },
  {
   "id": "SCENARIO/021/00542",
@@ -133,7 +133,7 @@
    "落ち着いてるエクサルなんて",
    "エクサルらしくないよ"
   ],
-  "en": ""
+  "en": "Yeah. A calm Exal just isn't Exal."
  },
  {
   "id": "SCENARIO/021/005a6",
@@ -141,7 +141,7 @@
   "jp": [
    "おいおい、そこまで言うかよ"
   ],
-  "en": ""
+  "en": "Hey, hey, no need to go that far."
  },
  {
   "id": "SCENARIO/021/005e2",
@@ -149,7 +149,7 @@
   "jp": [
    "ま、元気が一番だな"
   ],
-  "en": ""
+  "en": "Well, lively's best anyway."
  },
  {
   "id": "SCENARIO/021/0061e",
@@ -157,7 +157,7 @@
   "jp": [
    "うん"
   ],
-  "en": ""
+  "en": "Yeah."
  },
  {
   "id": "SCENARIO/021/00656",
@@ -166,7 +166,7 @@
    "信じられないし・・・",
    "なんか、想像できない"
   ],
-  "en": ""
+  "en": "I don't believe it... I just can't picture it."
  },
  {
   "id": "SCENARIO/021/006aa",
@@ -176,7 +176,7 @@
    "そんな顔して",
    "悩むことでもないだろ？"
   ],
-  "en": ""
+  "en": "Hey, hey. It's nothing to make that face over, is it?"
  },
  {
   "id": "SCENARIO/021/0071a",
@@ -185,7 +185,7 @@
    "あ、そうだ！！",
    "ダリアさんに聞いてみよう！！"
   ],
-  "en": ""
+  "en": "Oh, I know!! Let's ask Dahlia-san!!"
  },
  {
   "id": "SCENARIO/021/00772",
@@ -193,7 +193,7 @@
   "jp": [
    "えぇっ！？"
   ],
-  "en": ""
+  "en": "Whaat!?"
  },
  {
   "id": "SCENARIO/021/00826",
@@ -201,7 +201,7 @@
   "jp": [
    "ダリアさーん"
   ],
-  "en": ""
+  "en": "Dahlia-saaan!"
  },
  {
   "id": "SCENARIO/021/0085a",
@@ -209,7 +209,7 @@
   "jp": [
    "なんだい坊や？"
   ],
-  "en": ""
+  "en": "What is it, kiddo?"
  },
  {
   "id": "SCENARIO/021/00884",
@@ -218,7 +218,7 @@
    "小さい頃のエクサルって",
    "どんな子だったの？"
   ],
-  "en": ""
+  "en": "What was Exal like when he was little?"
  },
  {
   "id": "SCENARIO/021/008da",
@@ -228,7 +228,7 @@
    "今よりずっと大人しくて",
    "素直で可愛い子供だったよ"
   ],
-  "en": ""
+  "en": "Exal as a child, eh... He was much quieter than now. A sweet, obedient little thing."
  },
  {
   "id": "SCENARIO/021/00968",
@@ -237,7 +237,7 @@
    "なんか、口調にトゲを感じるん",
    "だけど"
   ],
-  "en": ""
+  "en": "I'm sensing a bit of a sting in your tone there."
  },
  {
   "id": "SCENARIO/021/009a8",
@@ -247,7 +247,7 @@
    "どれくらい素直で可愛いかった",
    "かと言えば"
   ],
-  "en": ""
+  "en": "...Let's see. Just how sweet and obedient was he?"
  },
  {
   "id": "SCENARIO/021/00a06",
@@ -257,7 +257,7 @@
    "特別大切な人にだけしてあげる",
    "挨拶だよって冗談で言ったら"
   ],
-  "en": ""
+  "en": "I joked that a kiss on the cheek is a greeting just for someone truly special..."
  },
  {
   "id": "SCENARIO/021/00a70",
@@ -267,7 +267,7 @@
    "向かっていったくらい",
    "素直で可愛い子供だったよ"
   ],
-  "en": ""
+  "en": "...and off he went, straight to Valtoss-sama. That's how sweet and obedient he was."
  },
  {
   "id": "SCENARIO/021/00ae6",
@@ -275,7 +275,7 @@
   "jp": [
    "！！！？"
   ],
-  "en": ""
+  "en": "!!?"
  },
  {
   "id": "SCENARIO/021/00b16",
@@ -285,7 +285,7 @@
    "キスされたのは、ヴァルトス様と",
    "あたしだけでねぇ"
   ],
-  "en": ""
+  "en": "In the end, the only ones Exal ever kissed were Valtoss-sama and me."
  },
  {
   "id": "SCENARIO/021/00b70",
@@ -294,7 +294,7 @@
    "あの時は、あたしもちょっと",
    "特別気分で嬉しかったものさ"
   ],
-  "en": ""
+  "en": "I felt a little special myself back then. It made me happy."
  },
  {
   "id": "SCENARIO/021/00bc4",
@@ -304,7 +304,7 @@
    "お、俺、ヴァルトス様に",
    "そんなことしたのか！？"
   ],
-  "en": ""
+  "en": "W-wait a second! I-I did that to Valtoss-sama!?"
  },
  {
   "id": "SCENARIO/021/00c3e",
@@ -314,7 +314,7 @@
    "直接聞いてみればいいじゃないか",
    "きっと覚えているはずだよ"
   ],
-  "en": ""
+  "en": "Why not ask Valtoss-sama himself? I'm sure he remembers."
  },
  {
   "id": "SCENARIO/021/00cbe",
@@ -322,7 +322,7 @@
   "jp": [
    "き、聞けるわけないだろっ！！"
   ],
-  "en": ""
+  "en": "L-like I could ask him that!!"
  },
  {
   "id": "SCENARIO/021/00d02",
@@ -332,7 +332,7 @@
    "本人が覚えてないのも無理ない",
    "けどね・・・"
   ],
-  "en": ""
+  "en": "Well, it was so long ago. No wonder you don't remember it yourself..."
  },
  {
   "id": "SCENARIO/021/00d84",
@@ -342,7 +342,7 @@
    "ボクも見てみたかったな",
    "小さい頃のエクサル"
   ],
-  "en": ""
+  "en": "Wow~... I wish I could've seen it. Little Exal."
  },
  {
   "id": "SCENARIO/021/00dea",
@@ -352,7 +352,7 @@
    "ヴァルトス様に聞いてみても",
    "面白い話が聞けるはずだよ"
   ],
-  "en": ""
+  "en": "Heh heh. Ask Valtoss-sama about Exal, and you'll hear some fun stories too."
  },
  {
   "id": "SCENARIO/021/00e50",
@@ -361,7 +361,7 @@
    "どこかでチャンスがあったら",
    "聞いてみるんだね"
   ],
-  "en": ""
+  "en": "If you get the chance somewhere, give it a try."
  },
  {
   "id": "SCENARIO/021/00ea6",
@@ -370,7 +370,7 @@
    "うん",
    "ありがとうダリアさん"
   ],
-  "en": ""
+  "en": "Yeah. Thanks, Dahlia-san."
  },
  {
   "id": "SCENARIO/021/00eea",
@@ -378,12 +378,12 @@
   "jp": [
    "どういたしまして"
   ],
-  "en": ""
+  "en": "You're welcome."
  },
  {
   "id": "SCENARIO/021/04a4c",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/021/04a5a",
@@ -391,12 +391,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/021/04a72",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/021/04a82",
@@ -404,6 +404,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
