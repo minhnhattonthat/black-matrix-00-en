@@ -41,7 +41,7 @@ def apply(js: Path, answers: Path) -> list[str]:
         if not en.strip():                 # a tab-less line must not blank an existing translation
             unknown.append(f"{id_} (empty)")
             continue
-        by_id[id_]["en"] = en.replace("\\n", "\n").strip()
+        by_id[id_]["en"] = en.replace("\\n", "\n").rstrip()   # leading spaces may be alignment
     js.write_text(json.dumps(entries, ensure_ascii=False, indent=1), encoding="utf-8")
     return unknown
 
