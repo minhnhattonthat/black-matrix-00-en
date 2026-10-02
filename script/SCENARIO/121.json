@@ -7,7 +7,7 @@
    "アレも、そのようなことを",
    "言っていたな・・・"
   ],
-  "en": ""
+  "en": "A kind person... That one, too, said something of the sort, once..."
  },
  {
   "id": "SCENARIO/121/001ba",
@@ -16,7 +16,7 @@
    "今はどこで",
    "どうしているのか・・・"
   ],
-  "en": ""
+  "en": "Where might that one be now, and how..."
  },
  {
   "id": "SCENARIO/121/001f8",
@@ -24,7 +24,7 @@
   "jp": [
    "失礼します、ベイル様"
   ],
-  "en": ""
+  "en": "Pardon me, Bale-sama."
  },
  {
   "id": "SCENARIO/121/0026a",
@@ -34,7 +34,7 @@
    "＜インセスト＞の待遇の件は",
    "どうなった？"
   ],
-  "en": ""
+  "en": "Cardia... What came of the matter of the Incest's treatment?"
  },
  {
   "id": "SCENARIO/121/002d2",
@@ -42,7 +42,7 @@
   "jp": [
    "いえ、まだなんとも・・・"
   ],
-  "en": ""
+  "en": "No word as yet, I'm afraid..."
  },
  {
   "id": "SCENARIO/121/00304",
@@ -50,7 +50,7 @@
   "jp": [
    "そうか・・・"
   ],
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "SCENARIO/121/0033c",
@@ -58,7 +58,7 @@
   "jp": [
    "それよりも、ベイル様"
   ],
-  "en": ""
+  "en": "More importantly, Bale-sama."
  },
  {
   "id": "SCENARIO/121/00364",
@@ -68,7 +68,7 @@
    "悪魔アラギとおぼしき者が",
    "現れたとの情報があります"
   ],
-  "en": ""
+  "en": "There are reports that one resembling the demon Aragi, whom you slew, has appeared."
  },
  {
   "id": "SCENARIO/121/003de",
@@ -77,7 +77,7 @@
    "アラギだと？バカな、",
    "ヤツは私が確実に仕留めたはずだ"
   ],
-  "en": ""
+  "en": "Aragi? Absurd. I finished him for certain."
  },
  {
   "id": "SCENARIO/121/00430",
@@ -87,7 +87,7 @@
    "替え玉だったのではないかと",
    "考えているようです"
   ],
-  "en": ""
+  "en": "Even so, the Church seems to believe that Aragi may have been a double."
  },
  {
   "id": "SCENARIO/121/00498",
@@ -95,7 +95,7 @@
   "jp": [
    "替え玉・・・"
   ],
-  "en": ""
+  "en": "A double..."
  },
  {
   "id": "SCENARIO/121/004c0",
@@ -104,7 +104,7 @@
    "剣を交えた感触では、",
    "あれが替え玉とは思えんが・・"
   ],
-  "en": ""
+  "en": "From the feel of our blades crossing, I cannot believe that was a double..."
  },
  {
   "id": "SCENARIO/121/00510",
@@ -114,7 +114,7 @@
    "その討伐を一任したいとの",
    "テリオス様からの命ですが"
   ],
-  "en": ""
+  "en": "Accordingly, Terios-sama commands that you be entrusted with his subjugation."
  },
  {
   "id": "SCENARIO/121/00586",
@@ -123,7 +123,7 @@
    "分かった、引き受けよう",
    "テリオスにそう伝えてくれ"
   ],
-  "en": ""
+  "en": "Very well, I accept. Tell Terios as much."
  },
  {
   "id": "SCENARIO/121/005d4",
@@ -131,7 +131,7 @@
   "jp": [
    "了解しました"
   ],
-  "en": ""
+  "en": "Understood."
  },
  {
   "id": "SCENARIO/121/0060a",
@@ -139,12 +139,12 @@
   "jp": [
    "アラギめ・・・"
   ],
-  "en": ""
+  "en": "Aragi..."
  },
  {
   "id": "SCENARIO/121/04198",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/121/041a6",
@@ -152,12 +152,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/121/041be",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/121/041ce",
@@ -165,6 +165,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

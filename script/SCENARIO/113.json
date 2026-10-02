@@ -6,7 +6,7 @@
    "この教会・・・",
    "中に誰も居ないのかな？"
   ],
-  "en": ""
+  "en": "This church... Is there nobody inside?"
  },
  {
   "id": "SCENARIO/113/00192",
@@ -14,7 +14,7 @@
   "jp": [
    "いったいどうなってるんだ？"
   ],
-  "en": ""
+  "en": "What on earth is going on?"
  },
  {
   "id": "SCENARIO/113/001e8",
@@ -23,7 +23,7 @@
    "・・・あんたたち感じないの？",
    "この空間を支配する異様な空気を"
   ],
-  "en": ""
+  "en": "...Can't you two feel it? The strange air hanging over this whole place."
  },
  {
   "id": "SCENARIO/113/0024e",
@@ -33,7 +33,7 @@
    "微かに甘い匂いが・・・",
    "なんだか、くらくらするよ"
   ],
-  "en": ""
+  "en": "What is that? A faint sweet smell... I feel kind of dizzy."
  },
  {
   "id": "SCENARIO/113/002de",
@@ -42,7 +42,7 @@
    "言われてみれば",
    "確かに・・・"
   ],
-  "en": ""
+  "en": "Now that you mention it... yeah..."
  },
  {
   "id": "SCENARIO/113/00338",
@@ -51,7 +51,7 @@
    "それだけじゃない",
    "微かにだが、血の臭いがする"
   ],
-  "en": ""
+  "en": "That's not all. Faint, but there's the smell of blood."
  },
  {
   "id": "SCENARIO/113/0038e",
@@ -60,7 +60,7 @@
    "・・・まさか、パスカが",
    "ここにいた人達を襲ったとか？"
   ],
-  "en": ""
+  "en": "...You don't think Pasca attacked the people here?"
  },
  {
   "id": "SCENARIO/113/003f4",
@@ -68,7 +68,7 @@
   "jp": [
    "・・・争った形跡はないが"
   ],
-  "en": ""
+  "en": "...No sign of a struggle, though."
  },
  {
   "id": "SCENARIO/113/00428",
@@ -78,7 +78,7 @@
    "そしてこの甘い匂いは・・・",
    "睡眠薬の一種だ"
   ],
-  "en": ""
+  "en": "An empty church, a faint smell of blood, and this sweet scent... a sleeping drug."
  },
  {
   "id": "SCENARIO/113/0057e",
@@ -86,7 +86,7 @@
   "jp": [
    "ヨハネ！"
   ],
-  "en": ""
+  "en": "Johannes!"
  },
  {
   "id": "SCENARIO/113/005a0",
@@ -94,7 +94,7 @@
   "jp": [
    "遅くなってすまない"
   ],
-  "en": ""
+  "en": "Sorry I am late."
  },
  {
   "id": "SCENARIO/113/005f8",
@@ -103,7 +103,7 @@
    "それより、睡眠薬って？",
    "アラギがやったのか？"
   ],
-  "en": ""
+  "en": "Never mind that, a sleeping drug? Was this Aragi's doing?"
  },
  {
   "id": "SCENARIO/113/00640",
@@ -113,7 +113,7 @@
    "相手を眠らせてからの侵入とは、",
    "無駄が無いな"
   ],
-  "en": ""
+  "en": "I do not know. But to put them to sleep before entering... there is no waste in it."
  },
  {
   "id": "SCENARIO/113/006c8",
@@ -121,7 +121,7 @@
   "jp": [
    "考える暇があったら先に行くぞ"
   ],
-  "en": ""
+  "en": "No time to think. We press on."
  },
  {
   "id": "SCENARIO/113/0070e",
@@ -131,7 +131,7 @@
    "もしアラギやパスカどもが",
    "潜んでいたらやばい！！"
   ],
-  "en": ""
+  "en": "That's right, Syria! If Aragi or Pasca are lurking in here, she's in trouble!!"
  },
  {
   "id": "SCENARIO/113/0079c",
@@ -139,12 +139,12 @@
   "jp": [
    "うん、急ごう！！"
   ],
-  "en": ""
+  "en": "Yeah, let's hurry!!"
  },
  {
   "id": "SCENARIO/113/042f4",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/113/04302",
@@ -152,12 +152,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/113/0431a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/113/0432a",
@@ -165,6 +165,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

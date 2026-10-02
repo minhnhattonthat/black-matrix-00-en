@@ -5,7 +5,7 @@
   "jp": [
    "ここが、リゴルの教会？"
   ],
-  "en": ""
+  "en": "So this is Rigor Church?"
  },
  {
   "id": "SCENARIO/112/00174",
@@ -14,7 +14,7 @@
    "それにしても、手薄な警備ね",
    "誰も居ないじゃない"
   ],
-  "en": ""
+  "en": "Still, security's thin. There's nobody here."
  },
  {
   "id": "SCENARIO/112/001d4",
@@ -22,7 +22,7 @@
   "jp": [
    "少し静かだし・・・"
   ],
-  "en": ""
+  "en": "It's a little too quiet..."
  },
  {
   "id": "SCENARIO/112/00220",
@@ -30,7 +30,7 @@
   "jp": [
    "もしかして、一歩遅かったとか？"
   ],
-  "en": ""
+  "en": "Don't tell me we're a step too late?"
  },
  {
   "id": "SCENARIO/112/0025a",
@@ -38,7 +38,7 @@
   "jp": [
    "・・・おい、誰か来るぞ！！"
   ],
-  "en": ""
+  "en": "...Hey, someone's coming!!"
  },
  {
   "id": "SCENARIO/112/0029e",
@@ -46,7 +46,7 @@
   "jp": [
    "隠れよう！！"
   ],
-  "en": ""
+  "en": "Hide!!"
  },
  {
   "id": "SCENARIO/112/0034c",
@@ -54,7 +54,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/112/003b4",
@@ -62,7 +62,7 @@
   "jp": [
    "今のは、シリア！！？"
   ],
-  "en": ""
+  "en": "Was that Syria!!?"
  },
  {
   "id": "SCENARIO/112/00416",
@@ -72,7 +72,7 @@
    "街で花を売ってる女の子だ",
    "エクサル知ってるの？"
   ],
-  "en": ""
+  "en": "She's... the girl who sells flowers in town, right? You know her, Exal?"
  },
  {
   "id": "SCENARIO/112/00486",
@@ -81,7 +81,7 @@
    "知ってるも何も、シリアは",
    "サイファーパンクの仲間だ"
   ],
-  "en": ""
+  "en": "Know her? Syria's one of us, in Cypherpunk."
  },
  {
   "id": "SCENARIO/112/004cc",
@@ -91,7 +91,7 @@
    "教団に追われて酷い怪我をした所",
    "を、ウチが保護したらしいんだ"
   ],
-  "en": ""
+  "en": "Not a formal member, though. The Church hurt her badly, and we took her in, I hear."
  },
  {
   "id": "SCENARIO/112/00540",
@@ -100,7 +100,7 @@
    "・・・でも",
    "なんでこんな場所に"
   ],
-  "en": ""
+  "en": "...But why would she be here?"
  },
  {
   "id": "SCENARIO/112/0059c",
@@ -109,7 +109,7 @@
    "おい、あの女",
    "教会の中に入っていったぞ？"
   ],
-  "en": ""
+  "en": "Hey, that woman just went into the church!"
  },
  {
   "id": "SCENARIO/112/005ee",
@@ -117,7 +117,7 @@
   "jp": [
    "エクサル・・・"
   ],
-  "en": ""
+  "en": "Exal..."
  },
  {
   "id": "SCENARIO/112/00638",
@@ -126,12 +126,12 @@
    "どの道、行くしかないんだ",
    "俺達も行こう！"
   ],
-  "en": ""
+  "en": "We have to go in anyway. Let's follow her!"
  },
  {
   "id": "SCENARIO/112/041c8",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/112/041d6",
@@ -139,12 +139,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/112/041ee",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/112/041fe",
@@ -152,6 +152,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

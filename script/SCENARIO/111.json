@@ -5,7 +5,7 @@
   "jp": [
    "きゃっ！"
   ],
-  "en": ""
+  "en": "Eek!"
  },
  {
   "id": "SCENARIO/111/0021c",
@@ -14,7 +14,7 @@
    "次の実験まで",
    "そこで大人しくしていろ！"
   ],
-  "en": ""
+  "en": "Stay quiet in there until the next experiment!"
  },
  {
   "id": "SCENARIO/111/0028e",
@@ -22,7 +22,7 @@
   "jp": [
    "・・・うぅ、ひっく"
   ],
-  "en": ""
+  "en": "...Uuh, hic."
  },
  {
   "id": "SCENARIO/111/002bc",
@@ -30,7 +30,7 @@
   "jp": [
    "いちいち泣くな！！"
   ],
-  "en": ""
+  "en": "Quit your crying!!"
  },
  {
   "id": "SCENARIO/111/00328",
@@ -38,7 +38,7 @@
   "jp": [
    "ヒッ！"
   ],
-  "en": ""
+  "en": "Eep!"
  },
  {
   "id": "SCENARIO/111/00356",
@@ -47,7 +47,7 @@
    "まだ実験は続くんだ",
    "泣いて無駄な体力を使うな"
   ],
-  "en": ""
+  "en": "The experiments aren't over. Don't waste your strength bawling."
  },
  {
   "id": "SCENARIO/111/003ae",
@@ -55,7 +55,7 @@
   "jp": [
    "・・・ご、ごめんなさい"
   ],
-  "en": ""
+  "en": "...S-sorry."
  },
  {
   "id": "SCENARIO/111/003e0",
@@ -64,7 +64,7 @@
    "・・・まったく",
    "ガキどもの面倒はうんざりだ"
   ],
-  "en": ""
+  "en": "...Honestly. I'm sick of minding brats."
  },
  {
   "id": "SCENARIO/111/00420",
@@ -73,7 +73,7 @@
    "お前も隣のガキみたいに",
    "大人しくしているんだぞ"
   ],
-  "en": ""
+  "en": "You behave yourself, like the brat next door."
  },
  {
   "id": "SCENARIO/111/0046c",
@@ -81,7 +81,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/111/00494",
@@ -89,7 +89,7 @@
   "jp": [
    "・・・・・・フン"
   ],
-  "en": ""
+  "en": "......Hmph."
  },
  {
   "id": "SCENARIO/111/004de",
@@ -97,7 +97,7 @@
   "jp": [
    "・・・リリス泣かない"
   ],
-  "en": ""
+  "en": "...Lilis won't cry."
  },
  {
   "id": "SCENARIO/111/0051c",
@@ -105,7 +105,7 @@
   "jp": [
    "リリス、泣いちゃいけない"
   ],
-  "en": ""
+  "en": "Lilis mustn't cry."
  },
  {
   "id": "SCENARIO/111/00556",
@@ -114,7 +114,7 @@
    "・・・・・・ひっく、うぅぅ",
    "・・・お姉ちゃん"
   ],
-  "en": ""
+  "en": "......Hic, uuh... Big sis..."
  },
  {
   "id": "SCENARIO/111/005be",
@@ -123,7 +123,7 @@
    "・・・泣かないで",
    "泣いたらもっと悲しくなるから"
   ],
-  "en": ""
+  "en": "...Don't cry. Crying only makes it sadder."
  },
  {
   "id": "SCENARIO/111/00622",
@@ -131,7 +131,7 @@
   "jp": [
    "・・・だあれ？"
   ],
-  "en": ""
+  "en": "...Who's there?"
  },
  {
   "id": "SCENARIO/111/00644",
@@ -139,7 +139,7 @@
   "jp": [
    "誰か、そこにいるの？"
   ],
-  "en": ""
+  "en": "Is someone there?"
  },
  {
   "id": "SCENARIO/111/0075a",
@@ -147,7 +147,7 @@
   "jp": [
    "ここだよ"
   ],
-  "en": ""
+  "en": "Over here."
  },
  {
   "id": "SCENARIO/111/00774",
@@ -156,7 +156,7 @@
    "僕はキロタ",
    "キミは？"
   ],
-  "en": ""
+  "en": "I'm Kilota. And you?"
  },
  {
   "id": "SCENARIO/111/007b4",
@@ -164,7 +164,7 @@
   "jp": [
    "リリス・・・"
   ],
-  "en": ""
+  "en": "Lilis..."
  },
  {
   "id": "SCENARIO/111/007e2",
@@ -173,7 +173,7 @@
    "ねぇ、キロタ",
    "ここって牢屋だよね"
   ],
-  "en": ""
+  "en": "Hey, Kilota. This is a jail, right?"
  },
  {
   "id": "SCENARIO/111/0082e",
@@ -181,7 +181,7 @@
   "jp": [
    "うん、そうだよ"
   ],
-  "en": ""
+  "en": "Yeah, it is."
  },
  {
   "id": "SCENARIO/111/00936",
@@ -191,7 +191,7 @@
    "リリスずっと牢屋から出して",
    "もらえないの"
   ],
-  "en": ""
+  "en": "Is Lilis a bad girl? They never let Lilis out of the jail."
  },
  {
   "id": "SCENARIO/111/0098c",
@@ -200,7 +200,7 @@
    "牢屋は悪い人が入れられる",
    "場所でしょ？"
   ],
-  "en": ""
+  "en": "Jail is where they put bad people, right?"
  },
  {
   "id": "SCENARIO/111/009c8",
@@ -209,7 +209,7 @@
    "リリス悪い子だから",
    "ここにいなきゃいけないの？"
   ],
-  "en": ""
+  "en": "Is Lilis here because Lilis is bad?"
  },
  {
   "id": "SCENARIO/111/00a1a",
@@ -219,7 +219,7 @@
    "お姉ちゃんに会いたい！",
    "お家に帰りたい！！"
   ],
-  "en": ""
+  "en": "......Lilis wants to see big sis! Lilis wants to go home!!"
  },
  {
   "id": "SCENARIO/111/00a88",
@@ -227,7 +227,7 @@
   "jp": [
    "・・・リリスちゃん"
   ],
-  "en": ""
+  "en": "...Lilis-chan."
  },
  {
   "id": "SCENARIO/111/00ab4",
@@ -237,7 +237,7 @@
    "冷たいのも",
    "リリスはもう嫌なの"
   ],
-  "en": ""
+  "en": "The hurting, the scary, the cold... Lilis doesn't want any more."
  },
  {
   "id": "SCENARIO/111/00b04",
@@ -245,7 +245,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/111/00b36",
@@ -254,7 +254,7 @@
    "リリスちゃんは",
    "悪い子なんかじゃないよ"
   ],
-  "en": ""
+  "en": "Lilis-chan isn't a bad girl at all."
  },
  {
   "id": "SCENARIO/111/00b86",
@@ -262,7 +262,7 @@
   "jp": [
    "どうしてわかるの？"
   ],
-  "en": ""
+  "en": "How do you know?"
  },
  {
   "id": "SCENARIO/111/00bb4",
@@ -271,7 +271,7 @@
    "僕がそう思うから",
    "・・・じゃ、ダメかな？"
   ],
-  "en": ""
+  "en": "Because I think so. ...Is that not good enough?"
  },
  {
   "id": "SCENARIO/111/00bf8",
@@ -279,7 +279,7 @@
   "jp": [
    "リリス、悪い子じゃない？"
   ],
-  "en": ""
+  "en": "Lilis isn't bad?"
  },
  {
   "id": "SCENARIO/111/00c2c",
@@ -288,7 +288,7 @@
    "うん、リリスちゃんは",
    "悪い子なんかじゃないよ"
   ],
-  "en": ""
+  "en": "Yeah. Lilis-chan isn't a bad girl at all."
  },
  {
   "id": "SCENARIO/111/00c74",
@@ -297,7 +297,7 @@
    "じゃあ、リリス",
    "おうちに帰してもらえるかな？"
   ],
-  "en": ""
+  "en": "Then will they let Lilis go home?"
  },
  {
   "id": "SCENARIO/111/00cbc",
@@ -306,7 +306,7 @@
    "・・・うん",
    "いつかきっと"
   ],
-  "en": ""
+  "en": "...Yeah. Someday, for sure."
  },
  {
   "id": "SCENARIO/111/00cf6",
@@ -314,7 +314,7 @@
   "jp": [
    "・・・僕も帰りたいな"
   ],
-  "en": ""
+  "en": "...I want to go home too."
  },
  {
   "id": "SCENARIO/111/00d32",
@@ -322,7 +322,7 @@
   "jp": [
    "帰れるんだ"
   ],
-  "en": ""
+  "en": "We can go home."
  },
  {
   "id": "SCENARIO/111/00d5e",
@@ -331,7 +331,7 @@
    "リリス、早く",
    "お姉ちゃんに会いたいな"
   ],
-  "en": ""
+  "en": "Lilis wants to see big sis soon."
  },
  {
   "id": "SCENARIO/111/00e5a",
@@ -340,7 +340,7 @@
    "リリスちゃんにも",
    "お姉さんがいるんだね"
   ],
-  "en": ""
+  "en": "So you have a big sister too, Lilis-chan."
  },
  {
   "id": "SCENARIO/111/00eaa",
@@ -348,7 +348,7 @@
   "jp": [
    "うん！"
   ],
-  "en": ""
+  "en": "Yeah!"
  },
  {
   "id": "SCENARIO/111/00ecc",
@@ -356,7 +356,7 @@
   "jp": [
    "僕にも姉さんが二人いるんだ"
   ],
-  "en": ""
+  "en": "I have two big sisters."
  },
  {
   "id": "SCENARIO/111/00f0e",
@@ -365,7 +365,7 @@
    "へぇぇぇ",
    "キロタもお姉ちゃんがいるんだ"
   ],
-  "en": ""
+  "en": "Wooow. Kilota has big sisters too."
  },
  {
   "id": "SCENARIO/111/00f5e",
@@ -375,7 +375,7 @@
    "心配かけてるだろうから",
    "一目でいいから会いたい"
   ],
-  "en": ""
+  "en": "...Yeah. They must be worried. I want to see them, even for a moment."
  },
  {
   "id": "SCENARIO/111/00fc6",
@@ -385,7 +385,7 @@
    "だってキロタも",
    "悪い子じゃないもん！"
   ],
-  "en": ""
+  "en": "You will, for sure! Because Kilota isn't a bad kid either!"
  },
  {
   "id": "SCENARIO/111/0102a",
@@ -394,7 +394,7 @@
    "どうして僕が",
    "悪い子じゃないって言えるの？"
   ],
-  "en": ""
+  "en": "How can you say I'm not a bad kid?"
  },
  {
   "id": "SCENARIO/111/01070",
@@ -403,7 +403,7 @@
    "リリスがそう思うから！",
    "えへへ"
   ],
-  "en": ""
+  "en": "Because Lilis thinks so! Ehehe."
  },
  {
   "id": "SCENARIO/111/010ba",
@@ -411,7 +411,7 @@
   "jp": [
    "ありがとうリリスちゃん"
   ],
-  "en": ""
+  "en": "Thank you, Lilis-chan."
  },
  {
   "id": "SCENARIO/111/010e4",
@@ -420,7 +420,7 @@
    "いつか、外で会うことが",
    "できたら・・・"
   ],
-  "en": ""
+  "en": "If we can meet outside someday..."
  },
  {
   "id": "SCENARIO/111/01138",
@@ -428,7 +428,7 @@
   "jp": [
    "おい、坊主！！"
   ],
-  "en": ""
+  "en": "Hey, kid!!"
  },
  {
   "id": "SCENARIO/111/011ee",
@@ -437,7 +437,7 @@
    "リリスちゃん",
    "あきらめたらダメなんだ"
   ],
-  "en": ""
+  "en": "Lilis-chan, you mustn't give up."
  },
  {
   "id": "SCENARIO/111/01228",
@@ -447,7 +447,7 @@
    "悲しい気持ちに負けないように",
    "そうしたら、きっと・・・"
   ],
-  "en": ""
+  "en": "Think of happy things, so the sadness doesn't win. Then, surely..."
  },
  {
   "id": "SCENARIO/111/012b8",
@@ -456,7 +456,7 @@
    "移動だ",
    "早くしろ！！"
   ],
-  "en": ""
+  "en": "Transfer. Move it!!"
  },
  {
   "id": "SCENARIO/111/01376",
@@ -464,7 +464,7 @@
   "jp": [
    "うっ！"
   ],
-  "en": ""
+  "en": "Ugh!"
  },
  {
   "id": "SCENARIO/111/01488",
@@ -472,7 +472,7 @@
   "jp": [
    "キロタ！！"
   ],
-  "en": ""
+  "en": "Kilota!!"
  },
  {
   "id": "SCENARIO/111/014bc",
@@ -481,7 +481,7 @@
    "そっちのガキは次の実験まで",
    "大人しくしていろ！！"
   ],
-  "en": ""
+  "en": "You there, stay quiet until the next experiment!!"
  },
  {
   "id": "SCENARIO/111/015b4",
@@ -489,7 +489,7 @@
   "jp": [
    "・・・・・・キロタ"
   ],
-  "en": ""
+  "en": "......Kilota."
  },
  {
   "id": "SCENARIO/111/015ee",
@@ -497,7 +497,7 @@
   "jp": [
    "・・・リリスの楽しいこと"
   ],
-  "en": ""
+  "en": "...Lilis's happy things."
  },
  {
   "id": "SCENARIO/111/0162e",
@@ -507,7 +507,7 @@
    "いつかお姉ちゃんが",
    "リリスを迎えに来てくれるんだ"
   ],
-  "en": ""
+  "en": "...You know, someday big sis is going to come for Lilis."
  },
  {
   "id": "SCENARIO/111/01692",
@@ -516,7 +516,7 @@
    "そしてね、大好きなお絵かきを",
    "いっぱいするんだよ"
   ],
-  "en": ""
+  "en": "And then Lilis will draw lots and lots of pictures, her favorite thing."
  },
  {
   "id": "SCENARIO/111/016d8",
@@ -525,7 +525,7 @@
    "一番最初に",
    "キロタの絵を描くから・・・"
   ],
-  "en": ""
+  "en": "The very first picture will be of Kilota..."
  },
  {
   "id": "SCENARIO/111/01714",
@@ -534,7 +534,7 @@
    "それから・・・",
    "それから・・・・・・"
   ],
-  "en": ""
+  "en": "And then... And then......"
  },
  {
   "id": "SCENARIO/111/01780",
@@ -543,7 +543,7 @@
    "なんだろう？",
    "甘い匂いだ・・・"
   ],
-  "en": ""
+  "en": "What is it? A sweet smell..."
  },
  {
   "id": "SCENARIO/111/01810",
@@ -551,7 +551,7 @@
   "jp": [
    "なんだか、ねむい・・・"
   ],
-  "en": ""
+  "en": "I feel kind of... sleepy..."
  },
  {
   "id": "SCENARIO/111/018d0",
@@ -559,12 +559,12 @@
   "jp": [
    "・・・・・・・・・すぅすぅ"
   ],
-  "en": ""
+  "en": ".........zzz"
  },
  {
   "id": "SCENARIO/111/05428",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/111/05436",
@@ -572,12 +572,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/111/0544e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/111/0545e",
@@ -585,6 +585,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

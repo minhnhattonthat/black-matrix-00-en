@@ -5,7 +5,7 @@
   "jp": [
    "あそこにいるのは・・・？"
   ],
-  "en": ""
+  "en": "Who's that over there...?"
  },
  {
   "id": "SCENARIO/114/0018c",
@@ -13,7 +13,7 @@
   "jp": [
    "んん・・・"
   ],
-  "en": ""
+  "en": "Nngh..."
  },
  {
   "id": "SCENARIO/114/00232",
@@ -21,7 +21,7 @@
   "jp": [
    "その声は、リリス！？"
   ],
-  "en": ""
+  "en": "That voice... Lilis!?"
  },
  {
   "id": "SCENARIO/114/002ec",
@@ -29,7 +29,7 @@
   "jp": [
    "・・・はっ！！"
   ],
-  "en": ""
+  "en": "...Ah!!"
  },
  {
   "id": "SCENARIO/114/0032e",
@@ -38,7 +38,7 @@
    "ダメ！！",
    "お姉ちゃん、来ちゃダメ！！"
   ],
-  "en": ""
+  "en": "No!! Big sis, don't come here!!"
  },
  {
   "id": "SCENARIO/114/00406",
@@ -46,7 +46,7 @@
   "jp": [
    "キシャァァァァァァ！！！"
   ],
-  "en": ""
+  "en": "KSHAAAAAAA!!"
  },
  {
   "id": "SCENARIO/114/0045c",
@@ -54,7 +54,7 @@
   "jp": [
    "きゃぁぁっ！！"
   ],
-  "en": ""
+  "en": "Kyaaah!!"
  },
  {
   "id": "SCENARIO/114/00492",
@@ -62,7 +62,7 @@
   "jp": [
    "危ない！！"
   ],
-  "en": ""
+  "en": "Look out!!"
  },
  {
   "id": "SCENARIO/114/0061c",
@@ -70,7 +70,7 @@
   "jp": [
    "・・・あ、貴方は？"
   ],
-  "en": ""
+  "en": "...Wh-who are you?"
  },
  {
   "id": "SCENARIO/114/00680",
@@ -78,7 +78,7 @@
   "jp": [
    "大丈夫か、シリア！！"
   ],
-  "en": ""
+  "en": "You all right, Syria!!"
  },
  {
   "id": "SCENARIO/114/006c4",
@@ -87,7 +87,7 @@
    "・・・エ、エクサルさん！？",
    "どうしてここに！？"
   ],
-  "en": ""
+  "en": "...E-Exal-san!? Why are you here!?"
  },
  {
   "id": "SCENARIO/114/00710",
@@ -97,7 +97,7 @@
    "それより、あの女の子を",
    "助けるんだろ？"
   ],
-  "en": ""
+  "en": "Talk later! You're here to save that girl, right?"
  },
  {
   "id": "SCENARIO/114/0076e",
@@ -105,7 +105,7 @@
   "jp": [
    "はい、リリスを！！"
   ],
-  "en": ""
+  "en": "Yes, Lilis!!"
  },
  {
   "id": "SCENARIO/114/007c4",
@@ -113,7 +113,7 @@
   "jp": [
    "お姉ちゃん！"
   ],
-  "en": ""
+  "en": "Big sis!"
  },
  {
   "id": "SCENARIO/114/00826",
@@ -121,7 +121,7 @@
   "jp": [
    "キシャァァァァァァ"
   ],
-  "en": ""
+  "en": "KSHAAAAAAA"
  },
  {
   "id": "SCENARIO/114/00892",
@@ -130,7 +130,7 @@
    "この異形の者たちは",
    "いったい・・・"
   ],
-  "en": ""
+  "en": "These misshapen things... what on earth are they?"
  },
  {
   "id": "SCENARIO/114/00902",
@@ -139,7 +139,7 @@
    "パスカではないな",
    "むしろ、天使に近い・・"
   ],
-  "en": ""
+  "en": "Not Pasca. If anything, they're closer to angels..."
  },
  {
   "id": "SCENARIO/114/00948",
@@ -147,7 +147,7 @@
   "jp": [
    "グルルルルルルル"
   ],
-  "en": ""
+  "en": "Grrrrrrrrr"
  },
  {
   "id": "SCENARIO/114/00994",
@@ -156,7 +156,7 @@
    "ふふふ・・・",
    "むき出しの敵意ね"
   ],
-  "en": ""
+  "en": "Hee hee hee... Naked hostility."
  },
  {
   "id": "SCENARIO/114/009d6",
@@ -164,7 +164,7 @@
   "jp": [
    "いいわ、切り刻んであげる！！"
   ],
-  "en": ""
+  "en": "Fine. I'll cut you to ribbons!!"
  },
  {
   "id": "SCENARIO/114/00a1a",
@@ -172,12 +172,12 @@
   "jp": [
    "キシャァァァァァ！！！"
   ],
-  "en": ""
+  "en": "KSHAAAAAA!!"
  },
  {
   "id": "SCENARIO/114/045d4",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/114/045e2",
@@ -185,12 +185,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/114/045fa",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/114/0460a",
@@ -198,6 +198,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

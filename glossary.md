@@ -95,3 +95,16 @@ The `speaker` field in the JSON is the `1058` value before a window. In the open
 | 0 | default slot; narration and most NPC lines |
 | 16 | second slot; the other party in a two-way scene |
 | 1, 3, 5, 17, 19, 21, 22 | further slots / reaction lines (`！？`, thoughts) |
+
+## Added during the scale-up
+
+| Japanese | English | notes |
+|---|---|---|
+| 雑記帳 | the Notebook | tavern message book |
+| ＜書＞ | the Book | the Gutenberg handout |
+| 構成員・男 / 女 / 若者 | Member (Man) / Member (Woman) / Member (Youth) | speaker labels |
+| 片翼の天使 | One-winged Angel | |
+| ヒトの管理者 | overseer of Man | Bale's title |
+| キシャァ / ギシャァ / キシュルル | KSHAAAAAAA / GSHAAAAAAAA / Kshurururu | Embryon cries |
+
+Corrections: Kilota uses 僕 and is called 坊主 in script 111 — a boy, not a girl (gender list above is wrong on this point).

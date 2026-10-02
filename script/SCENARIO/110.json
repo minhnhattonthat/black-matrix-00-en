@@ -7,7 +7,7 @@
    "謎のバケモノ・・",
    "教会を襲ったってことは・・"
   ],
-  "en": ""
+  "en": "The mystery monster in the Notebook... If it attacked a church, that means..."
  },
  {
   "id": "SCENARIO/110/00198",
@@ -15,7 +15,7 @@
   "jp": [
    "アラギだ"
   ],
-  "en": ""
+  "en": "Aragi."
  },
  {
   "id": "SCENARIO/110/001dc",
@@ -24,7 +24,7 @@
    "リゴルの街なら",
    "そう遠くはないわ"
   ],
-  "en": ""
+  "en": "The town of Rigor isn't that far."
  },
  {
   "id": "SCENARIO/110/0023a",
@@ -33,7 +33,7 @@
    "どうしよう",
    "ヨハネがいないけど・・・"
   ],
-  "en": ""
+  "en": "What should we do? Johannes isn't here..."
  },
  {
   "id": "SCENARIO/110/0029c",
@@ -42,7 +42,7 @@
    "書き置き残しておけば",
    "大丈夫だって"
   ],
-  "en": ""
+  "en": "Leave a note and it'll be fine."
  },
  {
   "id": "SCENARIO/110/002fc",
@@ -51,7 +51,7 @@
    "行くのか？",
    "行かないのか？"
   ],
-  "en": ""
+  "en": "Are we going or not?"
  },
  {
   "id": "SCENARIO/110/00342",
@@ -59,12 +59,12 @@
   "jp": [
    "・・・うん、行こう！！"
   ],
-  "en": ""
+  "en": "...Yeah, let's go!!"
  },
  {
   "id": "SCENARIO/110/03ed0",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/110/03ede",
@@ -72,12 +72,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/110/03ef6",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/110/03f06",
@@ -85,6 +85,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
