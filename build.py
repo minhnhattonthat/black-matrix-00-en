@@ -20,8 +20,20 @@ def extract():
         shutil.copy2(EXTRACTED / name, ORIG / name)
 
 
+def make_iso() -> Path:
+    BUILD.mkdir(exist_ok=True)
+    out = BUILD / "bm00-en.bin"
+    # cwd is the dump dir: layout.xml refers to its files by relative path
+    subprocess.run([MKPSXISO / "mkpsxiso.exe", "-y", "-o", out,
+                    "-c", BUILD / "bm00-en.cue", "layout.xml"],
+                   cwd=EXTRACTED, check=True)
+    return out
+
+
 if __name__ == "__main__":
     if sys.argv[1:] == ["extract"]:
         extract()
+    elif not sys.argv[1:]:
+        print(make_iso())
     else:
-        sys.exit("usage: python build.py extract")
+        sys.exit("usage: python build.py [extract]")
