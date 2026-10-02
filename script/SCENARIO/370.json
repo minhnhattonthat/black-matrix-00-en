@@ -1309,7 +1309,7 @@
  {
   "id": "SCENARIO/370/03c00",
   "jp": "ここまでをセーブしますか？",
-  "en": "Save up to this point?"
+  "en": "Save your progress so far?"
  },
  {
   "id": "SCENARIO/370/03c4c",
@@ -1319,7 +1319,7 @@
  {
   "id": "SCENARIO/370/03c6e",
   "jp": "よろしいですか？",
-  "en": "Is that all right?"
+  "en": "Are you sure?"
  },
  {
   "id": "SCENARIO/370/077b0",
