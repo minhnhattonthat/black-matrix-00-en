@@ -1,6 +1,8 @@
-"""Build driver. Usage: python build.py extract | python build.py"""
-import shutil, subprocess, sys
+"""Build driver. Usage: python build.py [extract|dump]"""
+import json, shutil, subprocess, sys
 from pathlib import Path
+
+import dat, script
 
 ROOT = Path(__file__).parent
 ROM = ROOT / "rom" / "Black-Matrix 00 (Japan) (Disc 1).bin"
@@ -20,6 +22,28 @@ def extract():
         shutil.copy2(EXTRACTED / name, ORIG / name)
 
 
+SCRIPT = ROOT / "script"
+
+
+def dump():
+    """Write script/SCENARIO/NNN.json. Never overwrites: translations live there."""
+    out = SCRIPT / "SCENARIO"
+    out.mkdir(parents=True, exist_ok=True)
+    for i, b in enumerate(dat.unpack((ORIG / "SCENARIO.DAT").read_bytes())):
+        path = out / f"{i:03d}.json"
+        if b and not path.exists():
+            entries = script.extract(b, f"SCENARIO/{i:03d}")
+            path.write_text(json.dumps(entries, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+def patch():
+    files = dat.unpack((ORIG / "SCENARIO.DAT").read_bytes())
+    for path in sorted((SCRIPT / "SCENARIO").glob("*.json")):
+        i = int(path.stem)
+        files[i] = script.insert(files[i], json.loads(path.read_text(encoding="utf-8")))
+    (EXTRACTED / "SCENARIO.DAT").write_bytes(dat.pack(files))
+
+
 def make_iso() -> Path:
     BUILD.mkdir(exist_ok=True)
     out = BUILD / "bm00-en.bin"
@@ -33,7 +57,10 @@ def make_iso() -> Path:
 if __name__ == "__main__":
     if sys.argv[1:] == ["extract"]:
         extract()
+    elif sys.argv[1:] == ["dump"]:
+        dump()
     elif not sys.argv[1:]:
+        patch()
         print(make_iso())
     else:
-        sys.exit("usage: python build.py [extract]")
+        sys.exit("usage: python build.py [extract|dump]")
