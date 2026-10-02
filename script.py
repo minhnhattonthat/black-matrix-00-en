@@ -123,7 +123,7 @@ def tokenize(b: bytes) -> list[Token]:
 _ESCAPE = re.compile(r"\{([0-9A-F]{2})\}")
 MAX_CELLS = 23      # glyph slots in the game's text object; it does not bounds-check
 WINDOW_CELLS = 15   # cells that fit the dialogue window; tune after an in-game look
-_ASCII_RUN = re.compile(r"[\x20-\x7e]+")
+_UNSUPPORTED = re.compile(r"[\x00-\x1f\x7f｡-ﾟ]")   # control chars, halfwidth kana
 
 
 def decode(raw: bytes) -> str:
@@ -151,13 +151,26 @@ def encode(text: str) -> bytes:
         elif "{" in part or "}" in part:
             raise ValueError(f"malformed escape in {part!r}; write a byte as {{XX}}, uppercase hex")
         else:
-            # two ASCII letters share one glyph cell, so each run must fill whole cells
-            part = _ASCII_RUN.sub(lambda m: m.group() + " " * (len(m.group()) % 2), part)
+            bad = _UNSUPPORTED.search(part)
+            if bad:
+                raise ValueError(f"unsupported character {bad.group()!r}; write a raw byte as {{XX}}")
             try:
                 out += part.encode("cp932")
             except UnicodeEncodeError as e:
                 raise ValueError(f"cannot encode {part[e.start:e.end]!r} in cp932") from None
-    return bytes(out)
+    # Two single-byte characters share one glyph cell, so every run of them must fill
+    # whole cells or the Shift-JIS characters after it fall off the 2-byte grid.
+    padded, i = bytearray(), 0
+    while i < len(out):
+        if 0x81 <= out[i] <= 0x9F or 0xE0 <= out[i] <= 0xFC:
+            padded += out[i:i + 2]
+            i += 2
+            continue
+        start = i
+        while i < len(out) and not (0x81 <= out[i] <= 0x9F or 0xE0 <= out[i] <= 0xFC):
+            i += 1
+        padded += out[start:i] + b" " * ((i - start) % 2)
+    return bytes(padded)
 
 
 def extract(b: bytes, prefix: str) -> list[dict]:

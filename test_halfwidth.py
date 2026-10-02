@@ -77,17 +77,46 @@ def _reads_loaded_register(load: int, nxt: int) -> bool:
     return rt == rs or (reads_rt and rt == rt2)
 
 
+def _load_delay_hazards(word, addrs) -> list[str]:
+    """Addresses in `addrs` holding a load whose register is read by the next instruction
+    executed: the following one, or the target when the load sits in a delay slot."""
+    bad = []
+    for a in addrs:
+        w = word(a)
+        if _reads_loaded_register(w, word(a + 4)):
+            bad.append(hex(a))
+        op = w >> 26
+        if op in (2, 3):                                         # j, jal
+            target = (w & 0x3FFFFFF) << 2 | 0x80000000
+        elif op in (1, 4, 5, 6, 7):                              # conditional branches
+            target = a + 4 + (((w & 0xFFFF) ^ 0x8000) - 0x8000 << 2)
+        elif op == 0 and w & 0x3F in (8, 9):                     # jr, jalr: target unknown,
+            if 0x20 <= word(a + 4) >> 26 <= 0x26:                #   so allow no load in the slot
+                bad.append(hex(a + 4))
+            continue
+        else:
+            continue
+        if _reads_loaded_register(word(a + 4), word(target)):
+            bad.append(hex(a + 4))
+    return bad
+
+
+def test_hazard_scan_sees_a_load_in_a_delay_slot_read_at_the_target():
+    mem = {0x80060000: 0x08000000 | 0x80060010 >> 2 & 0x3FFFFFF,   # j 0x80060010
+           0x80060004: 0x90A20000,                                 # lbu v0, 0(a1)
+           0x80060008: 0, 0x8006000C: 0,
+           0x80060010: 0x2C580080,                                 # sltiu t8, v0, 0x80
+           0x80060014: 0}
+    assert _load_delay_hazards(mem.__getitem__, [0x80060000]) == ["0x80060004"]
+
+
 def test_patch_never_reads_a_register_in_its_load_delay_slot():
     import struct
     b = _patched()
     word = lambda addr: struct.unpack_from("<I", b, addr - BASE)[0]
     lo, hi = halfwidth.RANGES[3]
-    pairs = [(a, a + 4) for a in range(lo, hi - 4, 4)]
-    for site, _ in halfwidth.RANGES[:2]:             # delay slot of each hook's j, then its target
-        target = (word(site) & 0x3FFFFFF) << 2 | 0x80000000
-        pairs.append((site + 4, target))
-    bad = [hex(a) for a, n in pairs if _reads_loaded_register(word(a), word(n))]
-    assert not bad, bad
+    addrs = [site for site, _ in halfwidth.RANGES[:2]] + list(range(lo, hi - 4, 4))
+    assert not _load_delay_hazards(word, addrs)
 
 
 if __name__ == "__main__":

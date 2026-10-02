@@ -35,9 +35,25 @@ def test_every_japanese_run_is_inside_a_string_token():
 
 
 def test_decode_encode_keeps_odd_bytes():
-    raw = b"\x82\xa0\x81\xf4\x05\x82\xa2{"
+    raw = bytes.fromhex("82a0 81f4 0506 82a2 7b7d")       # control bytes and braces, in whole cells
     assert script.encode(script.decode(raw)) == raw
-    assert "{" not in script.decode(b"\x82\xa0")
+    assert "{" not in script.decode(bytes.fromhex("82a0"))
+
+
+def test_padding_counts_escaped_bytes():
+    jp = bytes.fromhex("82a0")
+    assert script.encode("a{7B}b" + jp.decode("cp932")) == b"a{b " + jp
+    assert script.encode("ab{41}" + jp.decode("cp932")) == b"abA " + jp
+    assert len(script.encode("x" * 45 + "{41}")) == 46
+
+
+def test_encode_rejects_control_and_halfwidth_kana():
+    for bad in ("a" + chr(9) + "b", "a" + chr(10) + "b", chr(0xFF71)):
+        try:
+            script.encode(bad)
+        except ValueError:
+            continue
+        assert False, repr(bad)
 
 
 def test_encode_rejects_unencodable_text():
