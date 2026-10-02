@@ -5,7 +5,7 @@
   "jp": [
    "カインの・・・"
   ],
-  "en": ""
+  "en": "Cain's..."
  },
  {
   "id": "SCENARIO/357/000f6",
@@ -13,7 +13,7 @@
   "jp": [
    "カインの声が聞こえる・・"
   ],
-  "en": ""
+  "en": "I can hear Cain's voice.."
  },
  {
   "id": "SCENARIO/357/0013a",
@@ -22,7 +22,7 @@
    "カイン、また・・・",
    "傷だらけだわ"
   ],
-  "en": ""
+  "en": "Cain, you're... covered in wounds again."
  },
  {
   "id": "SCENARIO/357/0018a",
@@ -31,7 +31,7 @@
    "もう・・・",
    "もういいのよ"
   ],
-  "en": ""
+  "en": "Enough... It's enough now."
  },
  {
   "id": "SCENARIO/357/001d2",
@@ -39,7 +39,7 @@
   "jp": [
    "全部、わたしがいけないの"
   ],
-  "en": ""
+  "en": "It's all my fault."
  },
  {
   "id": "SCENARIO/357/00216",
@@ -48,7 +48,7 @@
    "だから、わたしなんか・・",
    "消えて・・・"
   ],
-  "en": ""
+  "en": "So someone like me... should just disappear..."
  },
  {
   "id": "SCENARIO/357/00292",
@@ -56,7 +56,7 @@
   "jp": [
    "ダメだよマティア！"
   ],
-  "en": ""
+  "en": "No, Matia!"
  },
  {
   "id": "SCENARIO/357/002d2",
@@ -64,7 +64,7 @@
   "jp": [
    "キミがいなきゃ"
   ],
-  "en": ""
+  "en": "Without you,"
  },
  {
   "id": "SCENARIO/357/0030e",
@@ -72,7 +72,7 @@
   "jp": [
    "ボクはッ！！！"
   ],
-  "en": ""
+  "en": "I...!!!"
  },
  {
   "id": "SCENARIO/357/00372",
@@ -81,12 +81,12 @@
    "カイン・・・・",
    "お願い・・"
   ],
-  "en": ""
+  "en": "Cain.... Please.."
  },
  {
   "id": "SCENARIO/357/03ed0",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/357/03ede",
@@ -94,12 +94,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/357/03ef6",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/357/03f06",
@@ -107,6 +107,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

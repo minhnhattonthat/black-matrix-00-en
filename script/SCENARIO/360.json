@@ -5,7 +5,7 @@
   "jp": [
    "あの時と同じ・・・"
   ],
-  "en": ""
+  "en": "The same as back then..."
  },
  {
   "id": "SCENARIO/360/001a6",
@@ -15,7 +15,7 @@
    "世界樹達が、悲鳴を",
    "上げている・・・"
   ],
-  "en": ""
+  "en": "Every World Tree holding up the earth... is screaming..."
  },
  {
   "id": "SCENARIO/360/0021c",
@@ -23,7 +23,7 @@
   "jp": [
    "ウンダ様、大変です！"
   ],
-  "en": ""
+  "en": "Unda-sama, it's terrible!"
  },
  {
   "id": "SCENARIO/360/00244",
@@ -33,7 +33,7 @@
    "みんな、ここはもう危ないって！",
    "ウンダ様も逃げましょう！！"
   ],
-  "en": ""
+  "en": "The ground keeps shaking! Everyone says it's not safe here! Flee with us, Unda-sama!!"
  },
  {
   "id": "SCENARIO/360/002b4",
@@ -42,7 +42,7 @@
    "地下に住まう我らに",
    "逃げる場所などありはせぬ・・"
   ],
-  "en": ""
+  "en": "For us who dwell underground, there is nowhere to flee.."
  },
  {
   "id": "SCENARIO/360/0030e",
@@ -51,7 +51,7 @@
    "何を落ち着いているんですか",
    "ウンダ様！！"
   ],
-  "en": ""
+  "en": "How can you be so calm, Unda-sama!!"
  },
  {
   "id": "SCENARIO/360/00354",
@@ -60,7 +60,7 @@
    "滅びるというのなら",
    "どこへ逃げても同じ・・・"
   ],
-  "en": ""
+  "en": "If the world is ending, it is the same wherever one flees..."
  },
  {
   "id": "SCENARIO/360/00394",
@@ -70,7 +70,7 @@
    "ならば、その世界樹が枯れれば",
    "この世界はたちまち滅びてしまう"
   ],
-  "en": ""
+  "en": "The World Trees' roots hold up the earth. If they wither, the world ends at once."
  },
  {
   "id": "SCENARIO/360/00404",
@@ -80,7 +80,7 @@
    "空は硫黄を含んだ熱風が吹き荒れ",
    "大地は塩を含んだ水に沈む"
   ],
-  "en": ""
+  "en": "Survive, and still sulfurous gales would scour the sky and salt water drown the land."
  },
  {
   "id": "SCENARIO/360/0046c",
@@ -89,7 +89,7 @@
    "我らとて、とうてい",
    "生きながらえられる世界ではない"
   ],
-  "en": ""
+  "en": "Not even we could long live on in such a world."
  },
  {
   "id": "SCENARIO/360/004ca",
@@ -97,7 +97,7 @@
   "jp": [
    "ウ、ウンダ様・・・・・"
   ],
-  "en": ""
+  "en": "U-Unda-sama....."
  },
  {
   "id": "SCENARIO/360/0050a",
@@ -106,7 +106,7 @@
    "落ち着きなさい、ソリュウ",
    "これしきで世界は滅びぬよ"
   ],
-  "en": ""
+  "en": "Calm yourself, Soryu. The world will not end over this much."
  },
  {
   "id": "SCENARIO/360/00566",
@@ -114,7 +114,7 @@
   "jp": [
    "ほ、本当ですか？"
   ],
-  "en": ""
+  "en": "R-really?"
  },
  {
   "id": "SCENARIO/360/0059e",
@@ -122,7 +122,7 @@
   "jp": [
    "うむ・・・"
   ],
-  "en": ""
+  "en": "Mm..."
  },
  {
   "id": "SCENARIO/360/005d2",
@@ -131,12 +131,12 @@
    "滅びる時は、おそらく",
    "もっと恐ろしいことが・・・・"
   ],
-  "en": ""
+  "en": "When it ends, it will surely be something far more terrible...."
  },
  {
   "id": "SCENARIO/360/04174",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/360/04182",
@@ -144,12 +144,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/360/0419a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/360/041aa",
@@ -157,6 +157,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

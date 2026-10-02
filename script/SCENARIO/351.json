@@ -5,7 +5,7 @@
   "jp": [
    "なんなのよ、これ・・・"
   ],
-  "en": ""
+  "en": "What is this..."
  },
  {
   "id": "SCENARIO/351/00234",
@@ -13,7 +13,7 @@
   "jp": [
    "世界樹が変質し始めている"
   ],
-  "en": ""
+  "en": "The World Tree has begun to change."
  },
  {
   "id": "SCENARIO/351/00288",
@@ -23,7 +23,7 @@
    "なってからでは遅い・・・",
    "先を急ぐぞ"
   ],
-  "en": ""
+  "en": "Once there's no going back, it'll be too late... We hurry."
  },
  {
   "id": "SCENARIO/351/002f6",
@@ -31,7 +31,7 @@
   "jp": [
    "うん"
   ],
-  "en": ""
+  "en": "Yeah."
  },
  {
   "id": "SCENARIO/351/00322",
@@ -40,7 +40,7 @@
    "ザイオン、本当は",
    "ルカが心配なんだよね・・・"
   ],
-  "en": ""
+  "en": "Zion, you're really worried about Luca, aren't you..."
  },
  {
   "id": "SCENARIO/351/00364",
@@ -48,7 +48,7 @@
   "jp": [
    "でも、ルカは・・・"
   ],
-  "en": ""
+  "en": "But Luca is..."
  },
  {
   "id": "SCENARIO/351/00396",
@@ -58,12 +58,12 @@
    "ルカも言ってたじゃないか！",
    "今は、前だけを見なくちゃ！"
   ],
-  "en": ""
+  "en": "No! Luca said it herself! Right now, I have to look only ahead!"
  },
  {
   "id": "SCENARIO/351/03f10",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/351/03f1e",
@@ -71,12 +71,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/351/03f36",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/351/03f46",
@@ -84,6 +84,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

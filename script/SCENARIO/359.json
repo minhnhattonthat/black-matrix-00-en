@@ -2,7 +2,7 @@
  {
   "id": "SCENARIO/359/00040",
   "jp": "ここまでをセーブしますか？",
-  "en": ""
+  "en": "Save your progress so far?"
  },
  {
   "id": "SCENARIO/359/0020a",
@@ -10,7 +10,7 @@
   "jp": [
    "なんだ、この揺れは？"
   ],
-  "en": ""
+  "en": "What's this shaking?"
  },
  {
   "id": "SCENARIO/359/00246",
@@ -19,7 +19,7 @@
    "くっ・・・",
    "これは、あの時と同じ・・・"
   ],
-  "en": ""
+  "en": "Ugh... This is the same as back then..."
  },
  {
   "id": "SCENARIO/359/00296",
@@ -27,7 +27,7 @@
   "jp": [
    "嫌なことを思い出させてくれるね"
   ],
-  "en": ""
+  "en": "You're reminding me of something I'd rather forget."
  },
  {
   "id": "SCENARIO/359/002de",
@@ -35,7 +35,7 @@
   "jp": [
    "まさか、倒立樹が・・・"
   ],
-  "en": ""
+  "en": "Don't tell me... the Inverted Tree is..."
  },
  {
   "id": "SCENARIO/359/0031e",
@@ -43,7 +43,7 @@
   "jp": [
    "そうなのか、テリオス！？"
   ],
-  "en": ""
+  "en": "Is it, Terios!?"
  },
  {
   "id": "SCENARIO/359/00350",
@@ -51,7 +51,7 @@
   "jp": [
    "まだ、わからない・・"
   ],
-  "en": ""
+  "en": "I don't know yet.."
  },
  {
   "id": "SCENARIO/359/00394",
@@ -60,7 +60,7 @@
    "でも、こんな地震",
    "まだまだ序の口だよ"
   ],
-  "en": ""
+  "en": "But a quake like this is barely the beginning."
  },
  {
   "id": "SCENARIO/359/003da",
@@ -69,12 +69,12 @@
    "世界が滅びる予兆は",
    "こんな生ぬるいものではなかった"
   ],
-  "en": ""
+  "en": "The omens of the world's end were nothing this gentle."
  },
  {
   "id": "SCENARIO/359/03f44",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/359/03f52",
@@ -82,12 +82,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/359/03f6a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/359/03f7a",
@@ -95,6 +95,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

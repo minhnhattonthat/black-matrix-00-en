@@ -5,7 +5,7 @@
   "jp": [
    "ここは・・・？"
   ],
-  "en": ""
+  "en": "Where is this...?"
  },
  {
   "id": "SCENARIO/355/00138",
@@ -14,7 +14,7 @@
    "なんでだろう・・・",
    "すごく、懐かしい感じがする"
   ],
-  "en": ""
+  "en": "Why is that... It feels so nostalgic here."
  },
  {
   "id": "SCENARIO/355/0018a",
@@ -22,7 +22,7 @@
   "jp": [
    "でも、なんだか・・・"
   ],
-  "en": ""
+  "en": "But somehow..."
  },
  {
   "id": "SCENARIO/355/001d8",
@@ -31,7 +31,7 @@
    "なんだか",
    "不思議な感じがする場所ですね"
   ],
-  "en": ""
+  "en": "Somehow, this place feels strange, doesn't it?"
  },
  {
   "id": "SCENARIO/355/0023c",
@@ -41,7 +41,7 @@
    "守られているような",
    "不思議な感じがするの"
   ],
-  "en": ""
+  "en": "Yeah, somehow this place... feels strange, like it's being protected."
  },
  {
   "id": "SCENARIO/355/002a2",
@@ -49,7 +49,7 @@
   "jp": [
    "ここだけは汚されていません"
   ],
-  "en": ""
+  "en": "This place alone has not been defiled."
  },
  {
   "id": "SCENARIO/355/002d0",
@@ -59,7 +59,7 @@
    "ここを清浄に保っている",
    "みたいですね・・・"
   ],
-  "en": ""
+  "en": "It seems someone's strong feelings linger here and keep it pure..."
  },
  {
   "id": "SCENARIO/355/00374",
@@ -68,7 +68,7 @@
    "翼が、熱い・・・",
    "胸が、痛い・・・・"
   ],
-  "en": ""
+  "en": "My wings burn... My chest aches...."
  },
  {
   "id": "SCENARIO/355/003d6",
@@ -76,7 +76,7 @@
   "jp": [
    "ここは、まさか・・・・"
   ],
-  "en": ""
+  "en": "Could this place be...."
  },
  {
   "id": "SCENARIO/355/00428",
@@ -84,7 +84,7 @@
   "jp": [
    "どうしたんだ、カイン？"
   ],
-  "en": ""
+  "en": "What's wrong, Cain?"
  },
  {
   "id": "SCENARIO/355/00450",
@@ -93,7 +93,7 @@
    "なんかお前",
    "泣きそうな顔してるけど・・"
   ],
-  "en": ""
+  "en": "You look like you're about to cry.."
  },
  {
   "id": "SCENARIO/355/004a4",
@@ -102,7 +102,7 @@
    "なんでもないよ・・・",
    "先を急ごう"
   ],
-  "en": ""
+  "en": "It's nothing... Let's hurry on."
  },
  {
   "id": "SCENARIO/355/0056c",
@@ -110,7 +110,7 @@
   "jp": [
    "・・・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/355/005a2",
@@ -118,7 +118,7 @@
   "jp": [
    "守られてるような感じ・・・か"
   ],
-  "en": ""
+  "en": "Feels like it's being protected... huh."
  },
  {
   "id": "SCENARIO/355/00618",
@@ -126,7 +126,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/355/00652",
@@ -136,7 +136,7 @@
    "足を踏み入れることは",
    "ないと思っていた・・・"
   ],
-  "en": ""
+  "en": "I never thought I would set foot in this place again..."
  },
  {
   "id": "SCENARIO/355/006d0",
@@ -144,7 +144,7 @@
   "jp": [
    "グレイヘン・・・"
   ],
-  "en": ""
+  "en": "Greyhen..."
  },
  {
   "id": "SCENARIO/355/006f4",
@@ -153,12 +153,12 @@
    "彼女はやはり・・・",
    "キミの生まれ変わりなのか？"
   ],
-  "en": ""
+  "en": "Is she truly... your reincarnation?"
  },
  {
   "id": "SCENARIO/355/04274",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/355/04282",
@@ -166,12 +166,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/355/0429a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/355/042aa",
@@ -179,6 +179,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

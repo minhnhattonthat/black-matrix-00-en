@@ -215,3 +215,7 @@ Correction: Luca uses アタシ (script 250) and 捜したわよ (056): Luca is 
 | ＜翼ある者の年齢＞ | the Age of the Winged Ones | |
 | ギギ / ギギギ | Grrk... / Grrk-rrk... | Embryon rasp |
 | 過ぎたる知識 / 過ぎたる力 | excessive knowledge / excessive power | |
+| ＜選ばれしインセスト＞ | the Chosen Incest | |
+| ＜天使のカクセイ＞ | the Angelic Awakening | |
+| ＜定め＞ | Fate | Whiteface |
+| 虚像 | phantom image | |

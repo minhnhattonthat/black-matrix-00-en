@@ -5,7 +5,7 @@
   "jp": [
    "いよいよって感じだな"
   ],
-  "en": ""
+  "en": "Feels like this is it."
  },
  {
   "id": "SCENARIO/354/00228",
@@ -13,7 +13,7 @@
   "jp": [
    "うん、いよいよなの！"
   ],
-  "en": ""
+  "en": "Yeah, this is it!"
  },
  {
   "id": "SCENARIO/354/0028a",
@@ -21,7 +21,7 @@
   "jp": [
    "静かすぎて、逆に怖いですね"
   ],
-  "en": ""
+  "en": "It's so quiet it's almost frightening."
  },
  {
   "id": "SCENARIO/354/002f2",
@@ -29,7 +29,7 @@
   "jp": [
    "ええ、本当に・・・"
   ],
-  "en": ""
+  "en": "Yes, truly..."
  },
  {
   "id": "SCENARIO/354/0035a",
@@ -37,7 +37,7 @@
   "jp": [
    "お兄様・・・"
   ],
-  "en": ""
+  "en": "Brother..."
  },
  {
   "id": "SCENARIO/354/003c0",
@@ -45,7 +45,7 @@
   "jp": [
    "ああ、ここで全ての決着がつく"
   ],
-  "en": ""
+  "en": "Yes. Everything will be settled here."
  },
  {
   "id": "SCENARIO/354/00418",
@@ -54,7 +54,7 @@
    "倒立樹を完成させる",
    "わけにはいかない"
   ],
-  "en": ""
+  "en": "We cannot allow the Inverted Tree to be completed."
  },
  {
   "id": "SCENARIO/354/00498",
@@ -63,7 +63,7 @@
    "ええ、そして",
    "マティアさんを・・・"
   ],
-  "en": ""
+  "en": "Yes, and Matia-san too..."
  },
  {
   "id": "SCENARIO/354/00500",
@@ -72,7 +72,7 @@
    "マティア・・・",
    "キミをすぐ近くに感じる"
   ],
-  "en": ""
+  "en": "Matia... I can feel you so close."
  },
  {
   "id": "SCENARIO/354/0055c",
@@ -80,12 +80,12 @@
   "jp": [
    "行こう、みんな！"
   ],
-  "en": ""
+  "en": "Let's go, everyone!"
  },
  {
   "id": "SCENARIO/354/040a4",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/354/040b2",
@@ -93,12 +93,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/354/040ca",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/354/040da",
@@ -106,6 +106,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
