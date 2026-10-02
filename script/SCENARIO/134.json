@@ -6,7 +6,7 @@
    "お姉ちゃん！",
    "お姉ちゃん！！"
   ],
-  "en": ""
+  "en": "Big sis! Big sis!!"
  },
  {
   "id": "SCENARIO/134/001a0",
@@ -15,7 +15,7 @@
    "・・・ん",
    "・・・あれ、わたし"
   ],
-  "en": ""
+  "en": "...Mm. ...Huh? Was I..."
  },
  {
   "id": "SCENARIO/134/001e6",
@@ -24,7 +24,7 @@
    "・・・いつの間に",
    "眠っていたんだろう？"
   ],
-  "en": ""
+  "en": "...When did I fall asleep?"
  },
  {
   "id": "SCENARIO/134/00236",
@@ -33,7 +33,7 @@
    "お姉ちゃん、大丈夫？",
    "どこか痛いの？"
   ],
-  "en": ""
+  "en": "Big sis, are you okay? Does something hurt?"
  },
  {
   "id": "SCENARIO/134/00286",
@@ -42,7 +42,7 @@
    "どうしたの、リリスちゃん？",
    "わたしはどこも平気よ？"
   ],
-  "en": ""
+  "en": "What's wrong, Lilis-chan? I'm perfectly fine."
  },
  {
   "id": "SCENARIO/134/002d4",
@@ -51,7 +51,7 @@
    "でも、お姉ちゃん",
    "泣いてるよ？"
   ],
-  "en": ""
+  "en": "But big sis, you're crying."
  },
  {
   "id": "SCENARIO/134/0031e",
@@ -59,7 +59,7 @@
   "jp": [
    "泣いてる・・・？"
   ],
-  "en": ""
+  "en": "Crying...?"
  },
  {
   "id": "SCENARIO/134/0034e",
@@ -67,7 +67,7 @@
   "jp": [
    "・・・あ"
   ],
-  "en": ""
+  "en": "...Oh."
  },
  {
   "id": "SCENARIO/134/003a2",
@@ -77,7 +77,7 @@
    "大丈夫？",
    "どこか痛いの？"
   ],
-  "en": ""
+  "en": "See, you're crying! Are you okay? Does something hurt?"
  },
  {
   "id": "SCENARIO/134/003f0",
@@ -86,7 +86,7 @@
    "・・・違うの、これは",
    "わたしじゃないわ"
   ],
-  "en": ""
+  "en": "...No, it's not that. These aren't mine."
  },
  {
   "id": "SCENARIO/134/00442",
@@ -94,7 +94,7 @@
   "jp": [
    "痛く、ないの？"
   ],
-  "en": ""
+  "en": "It doesn't... hurt?"
  },
  {
   "id": "SCENARIO/134/0047a",
@@ -102,7 +102,7 @@
   "jp": [
    "・・・うん、すぐにおさまるから"
   ],
-  "en": ""
+  "en": "...No. It'll pass soon."
  },
  {
   "id": "SCENARIO/134/004b6",
@@ -110,7 +110,7 @@
   "jp": [
    "・・・うん"
   ],
-  "en": ""
+  "en": "...Okay."
  },
  {
   "id": "SCENARIO/134/00516",
@@ -119,7 +119,7 @@
    "・・・カインが",
    "どこかで泣いてるんだわ"
   ],
-  "en": ""
+  "en": "...Cain is crying, somewhere."
  },
  {
   "id": "SCENARIO/134/00566",
@@ -127,12 +127,12 @@
   "jp": [
    "カイン・・・"
   ],
-  "en": ""
+  "en": "Cain..."
  },
  {
   "id": "SCENARIO/134/04114",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/134/04122",
@@ -140,12 +140,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/134/0413a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/134/0414a",
@@ -153,6 +153,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

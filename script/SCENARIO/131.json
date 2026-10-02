@@ -6,7 +6,7 @@
    "ヒャーハッハッハッハッ！",
    "やられちまったよなぁ"
   ],
-  "en": ""
+  "en": "HYAA-HAHAHAHA! That did a number on you, huh?"
  },
  {
   "id": "SCENARIO/131/001e4",
@@ -15,7 +15,7 @@
    "・・・くそっ！",
    "こうなったら！！！"
   ],
-  "en": ""
+  "en": "...Damn it! If that's how it is...!!"
  },
  {
   "id": "SCENARIO/131/00242",
@@ -24,7 +24,7 @@
    "くっくっくっ・・・・",
    "無駄に力を使っていいのか？"
   ],
-  "en": ""
+  "en": "Kukuku.... Sure you want to waste your power like that?"
  },
  {
   "id": "SCENARIO/131/0029e",
@@ -32,7 +32,7 @@
   "jp": [
    "後がもたなくなるぜ？"
   ],
-  "en": ""
+  "en": "You won't last afterwards, you know?"
  },
  {
   "id": "SCENARIO/131/002ea",
@@ -40,7 +40,7 @@
   "jp": [
    "・・・・・・・・・ちぃっ"
   ],
-  "en": ""
+  "en": ".........Tch!"
  },
  {
   "id": "SCENARIO/131/003a4",
@@ -49,7 +49,7 @@
    "ヒャーハッハッハッハッ！",
    "やられちまったよなぁ"
   ],
-  "en": ""
+  "en": "HYAA-HAHAHAHA! That did a number on you, huh?"
  },
  {
   "id": "SCENARIO/131/00438",
@@ -57,12 +57,12 @@
   "jp": [
    "ふざけている場合か"
   ],
-  "en": ""
+  "en": "This is no time for jokes."
  },
  {
   "id": "SCENARIO/131/03fc0",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/131/03fce",
@@ -70,12 +70,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/131/03fe6",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/131/03ff6",
@@ -83,6 +83,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

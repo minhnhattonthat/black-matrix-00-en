@@ -6,7 +6,7 @@
    "ボーナスシナリオ　７",
    "＜神秘の薬草＞"
   ],
-  "en": "",
+  "en": "Bonus Scenario 7\nThe Mystic Herb",
   "spill": false
  },
  {
@@ -16,7 +16,7 @@
    "本当に、こんな場所に",
    "花など咲いているのでしょうか？"
   ],
-  "en": ""
+  "en": "Are there really flowers blooming in a place like this?"
  },
  {
   "id": "SCENARIO/027/001ec",
@@ -26,7 +26,7 @@
    "もし本当にどんな傷にでもきく",
    "薬草があるのなら・・・"
   ],
-  "en": ""
+  "en": "I don't know, but if there really is an herb that heals any wound..."
  },
  {
   "id": "SCENARIO/027/00270",
@@ -36,7 +36,7 @@
    "ヨハネさんが傷ついて倒れたの",
    "気にしてるから・・・"
   ],
-  "en": ""
+  "en": "Right, Cain's been worried ever since Johannes-san got hurt and collapsed..."
  },
  {
   "id": "SCENARIO/027/002e6",
@@ -45,7 +45,7 @@
    "見つかるといいな",
    "そのルオナ草っていう薬草"
   ],
-  "en": ""
+  "en": "Hope we find it. That Luona herb."
  },
  {
   "id": "SCENARIO/027/0033a",
@@ -53,7 +53,7 @@
   "jp": [
    "うん"
   ],
-  "en": ""
+  "en": "Yeah."
  },
  {
   "id": "SCENARIO/027/00374",
@@ -63,7 +63,7 @@
    "そこの小僧、止まれ！！",
    "ここはクッタ様の私有地だぞ！"
   ],
-  "en": ""
+  "en": "Fwahahaha!! Halt, boy!! This is the private property of the great Kutta!"
  },
  {
   "id": "SCENARIO/027/003dc",
@@ -71,7 +71,7 @@
   "jp": [
    "！！！！？"
   ],
-  "en": ""
+  "en": "!!?"
  },
  {
   "id": "SCENARIO/027/00422",
@@ -80,7 +80,7 @@
    "違う、今の声は",
    "俺達に言ったんじゃない！"
   ],
-  "en": ""
+  "en": "No, that wasn't aimed at us!"
  },
  {
   "id": "SCENARIO/027/00460",
@@ -88,7 +88,7 @@
   "jp": [
    "向こうからだ"
   ],
-  "en": ""
+  "en": "It came from over there."
  },
  {
   "id": "SCENARIO/027/00496",
@@ -97,7 +97,7 @@
    "なんだか、なんとなく",
    "嫌～な感じがするけど・・"
   ],
-  "en": ""
+  "en": "I've got a baaad feeling about this somehow..."
  },
  {
   "id": "SCENARIO/027/004ee",
@@ -105,7 +105,7 @@
   "jp": [
    "とりあえず、様子を見に行こうぜ"
   ],
-  "en": ""
+  "en": "Let's go take a look, anyway."
  },
  {
   "id": "SCENARIO/027/0059e",
@@ -113,7 +113,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/027/005ec",
@@ -122,7 +122,7 @@
    "ここを通るというなら",
    "通行料を払ってもらうぞ！"
   ],
-  "en": ""
+  "en": "If you want to pass, you'll pay the toll!"
  },
  {
   "id": "SCENARIO/027/00630",
@@ -132,7 +132,7 @@
    "その手に持っているルオナの花を",
    "置いていけ！！"
   ],
-  "en": ""
+  "en": "If you don't want to get hurt, leave that Luona flower in your hand and go!!"
  },
  {
   "id": "SCENARIO/027/00698",
@@ -140,7 +140,7 @@
   "jp": [
    "断る"
   ],
-  "en": ""
+  "en": "I refuse."
  },
  {
   "id": "SCENARIO/027/006b8",
@@ -149,7 +149,7 @@
    "ふはははははははっ！",
    "断る権利など貴様にはない！"
   ],
-  "en": ""
+  "en": "Fwahahahaha! You have no right to refuse!"
  },
  {
   "id": "SCENARIO/027/006fc",
@@ -159,7 +159,7 @@
    "このクッタ様の下部達が",
    "見えないのか？"
   ],
-  "en": ""
+  "en": "Can't you see the great Kutta's underlings waiting behind me?"
  },
  {
   "id": "SCENARIO/027/00758",
@@ -168,7 +168,7 @@
    "・・・フン",
    "ザコの寄せ集めにしか見えないね"
   ],
-  "en": ""
+  "en": "...Hmph. All I see is a pile of small fry."
  },
  {
   "id": "SCENARIO/027/007ae",
@@ -178,7 +178,7 @@
    "言わせておけば言いたい放題",
    "ムカツクぞ貴様！"
   ],
-  "en": ""
+  "en": "Mu-hyeee!! Running your mouth like that... You tick me off!"
  },
  {
   "id": "SCENARIO/027/00812",
@@ -188,7 +188,7 @@
    "あたりがシャクに触るぞ！！",
    "貴様！さては美形だな！！？"
   ],
-  "en": ""
+  "en": "And that hood ticks me off too!! You're a pretty boy under there, aren't you!?"
  },
  {
   "id": "SCENARIO/027/00884",
@@ -196,7 +196,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/027/008be",
@@ -206,7 +206,7 @@
    "美形に限って顔を隠したがるのは",
    "このクッタ様へのあてつけか！？"
   ],
-  "en": ""
+  "en": "Mu-hyeee!! Only the pretty ones hide their faces! Is that a dig at the great Kutta!?"
  },
  {
   "id": "SCENARIO/027/00936",
@@ -215,7 +215,7 @@
    "とにかく、ルオナの最後の一輪！",
    "このクッタ様に渡してもらうぞ！"
   ],
-  "en": ""
+  "en": "Anyway, that last Luona bloom! Hand it over to the great Kutta!"
  },
  {
   "id": "SCENARIO/027/009cc",
@@ -224,7 +224,7 @@
    "おい、あんな大勢相手に",
    "あいつ一人じゃ危ないぜ！"
   ],
-  "en": ""
+  "en": "Hey, he's alone against that whole crowd! He's in trouble!"
  },
  {
   "id": "SCENARIO/027/00a38",
@@ -232,7 +232,7 @@
   "jp": [
    "助けに行こう！！"
   ],
-  "en": ""
+  "en": "Let's go help!!"
  },
  {
   "id": "SCENARIO/027/00a84",
@@ -242,7 +242,7 @@
    "あのフードのヤツ、嫌な気配が",
    "する"
   ],
-  "en": ""
+  "en": "Don't go sticking your nose in! I don't like the feel of that hooded one."
  },
  {
   "id": "SCENARIO/027/00af2",
@@ -251,7 +251,7 @@
    "余計なことかもしれないけれど",
    "見て見ぬふりなんて出来ないよ！"
   ],
-  "en": ""
+  "en": "Maybe it's none of my business, but I can't just look away!"
  },
  {
   "id": "SCENARIO/027/00b62",
@@ -260,7 +260,7 @@
    "・・・・・・チッ！",
    "あのバカ！"
   ],
-  "en": ""
+  "en": "......Tch! That idiot!"
  },
  {
   "id": "SCENARIO/027/00be8",
@@ -268,7 +268,7 @@
   "jp": [
    "・・・まいったな"
   ],
-  "en": ""
+  "en": "...This is a problem."
  },
  {
   "id": "SCENARIO/027/00c0c",
@@ -278,7 +278,7 @@
    "こんな場所で力を使ったら",
    "生き埋めになるのは間違いないな"
   ],
-  "en": ""
+  "en": "I'm no good at holding back... Use my power here and we'd surely be buried alive."
  },
  {
   "id": "SCENARIO/027/00c84",
@@ -288,7 +288,7 @@
    "泣いて許しを請うなら",
    "今のうちだぞ！！！"
   ],
-  "en": ""
+  "en": "Fwahahaha!! Now's your chance to beg for mercy on your knees!!"
  },
  {
   "id": "SCENARIO/027/00cfc",
@@ -296,7 +296,7 @@
   "jp": [
    "それはアンタの方じゃないか？"
   ],
-  "en": ""
+  "en": "Isn't that your line?"
  },
  {
   "id": "SCENARIO/027/00d42",
@@ -304,7 +304,7 @@
   "jp": [
    "何！？"
   ],
-  "en": ""
+  "en": "What!?"
  },
  {
   "id": "SCENARIO/027/00d72",
@@ -313,7 +313,7 @@
    "一人を相手に、大勢で囲むなんて",
    "卑怯だぜ！！"
   ],
-  "en": ""
+  "en": "Ganging up on one guy? That's low!!"
  },
  {
   "id": "SCENARIO/027/00dbc",
@@ -321,7 +321,7 @@
   "jp": [
    "な、なんだ貴様らは！！？"
   ],
-  "en": ""
+  "en": "Wh-who are you lot!?"
  },
  {
   "id": "SCENARIO/027/00e10",
@@ -331,7 +331,7 @@
    "でも、あくまで戦うと言うのなら",
    "ボク達が相手になる"
   ],
-  "en": ""
+  "en": "Back off now and we'll let you go. But if you insist on fighting, you'll fight us."
  },
  {
   "id": "SCENARIO/027/00e8e",
@@ -341,7 +341,7 @@
    "ガキどもが格好つけおって～",
    "貴様らムカツクぞ！！"
   ],
-  "en": ""
+  "en": "Gnnnngh... Cheeky brats, acting all cool~ You tick me off!!"
  },
  {
   "id": "SCENARIO/027/00f0a",
@@ -349,7 +349,7 @@
   "jp": [
    "別に格好なんかつけてないよ"
   ],
-  "en": ""
+  "en": "I'm not acting cool."
  },
  {
   "id": "SCENARIO/027/00f40",
@@ -359,7 +359,7 @@
    "イイことする奴らが",
    "格好よくてムカツクのだ！！"
   ],
-  "en": ""
+  "en": "That's just it! Guys who do good so naturally ARE cool, and that ticks me off!!"
  },
  {
   "id": "SCENARIO/027/00fb2",
@@ -367,7 +367,7 @@
   "jp": [
    "そんなこと言われても・・・"
   ],
-  "en": ""
+  "en": "What do you want me to say..."
  },
  {
   "id": "SCENARIO/027/00fe8",
@@ -375,7 +375,7 @@
   "jp": [
    "ええい、不愉快だ！！"
   ],
-  "en": ""
+  "en": "Grr, how unpleasant!!"
  },
  {
   "id": "SCENARIO/027/0101e",
@@ -385,7 +385,7 @@
    "このクッタ様を怒らせたこと",
    "激しく後悔させてやる！！！"
   ],
-  "en": ""
+  "en": "You brats!! I'll make you bitterly regret angering the great Kutta!!!"
  },
  {
   "id": "SCENARIO/027/01186",
@@ -395,7 +395,7 @@
    "このクッタ様がこんなやつらに",
    "敗けるなんて認めないぞ！！"
   ],
-  "en": ""
+  "en": "Curses, curses!! The great Kutta, beaten by the likes of you? I won't accept it!!"
  },
  {
   "id": "SCENARIO/027/01210",
@@ -404,7 +404,7 @@
    "力いっぱい敗北しておきながら",
    "本当に元気なオッサンだよな"
   ],
-  "en": ""
+  "en": "Lost with everything he had and still this lively. What a geezer."
  },
  {
   "id": "SCENARIO/027/01272",
@@ -413,7 +413,7 @@
    "ムッヒーーッ！！",
    "こうなったら！！！"
   ],
-  "en": ""
+  "en": "Mu-hyeee!! In that case!!"
  },
  {
   "id": "SCENARIO/027/01324",
@@ -421,7 +421,7 @@
   "jp": [
    "！？"
   ],
-  "en": ""
+  "en": "!?"
  },
  {
   "id": "SCENARIO/027/01352",
@@ -431,7 +431,7 @@
    "このクッタ様に盗めぬ物など",
    "ない！！！"
   ],
-  "en": ""
+  "en": "Fwahahaha!! There is nothing the great Kutta cannot steal!!"
  },
  {
   "id": "SCENARIO/027/013ac",
@@ -439,7 +439,7 @@
   "jp": [
    "貴様・・・"
   ],
-  "en": ""
+  "en": "You..."
  },
  {
   "id": "SCENARIO/027/013d0",
@@ -448,7 +448,7 @@
    "ふははははっ！！",
    "証拠隠滅！それっ！！"
   ],
-  "en": ""
+  "en": "Fwahahaha!! Destroying the evidence! There!!"
  },
  {
   "id": "SCENARIO/027/01414",
@@ -456,7 +456,7 @@
   "jp": [
    "！！？"
   ],
-  "en": ""
+  "en": "!!?"
  },
  {
   "id": "SCENARIO/027/01434",
@@ -466,7 +466,7 @@
    "ううむ、このピリリとした",
    "味わいもなかなか"
   ],
-  "en": ""
+  "en": "Munch munch... Mm, this peppery kick isn't half bad."
  },
  {
   "id": "SCENARIO/027/01488",
@@ -474,7 +474,7 @@
   "jp": [
    "もぐもぐもぐ・・・"
   ],
-  "en": ""
+  "en": "Chomp chomp chomp..."
  },
  {
   "id": "SCENARIO/027/014c2",
@@ -482,7 +482,7 @@
   "jp": [
    "ごっくん"
   ],
-  "en": ""
+  "en": "Gulp."
  },
  {
   "id": "SCENARIO/027/014ec",
@@ -492,7 +492,7 @@
    "ルオナの紅い花を",
    "食べてしまった・・・"
   ],
-  "en": ""
+  "en": "Wh-what a man... He ate the crimson Luona flower..."
  },
  {
   "id": "SCENARIO/027/01556",
@@ -502,7 +502,7 @@
    "伝説の癒しの霊草ルオナの花",
    "美味であったぞ！！"
   ],
-  "en": ""
+  "en": "Fwahahahaha!! The legendary healing herb, the Luona flower! Delicious!!"
  },
  {
   "id": "SCENARIO/027/015b4",
@@ -510,7 +510,7 @@
   "jp": [
    "皆の者、さらばじゃ！！！"
   ],
-  "en": ""
+  "en": "Farewell, all of you!!"
  },
  {
   "id": "SCENARIO/027/01620",
@@ -518,7 +518,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/027/01682",
@@ -527,7 +527,7 @@
    "あの・・・",
    "大丈夫ですか？"
   ],
-  "en": ""
+  "en": "Um... are you all right?"
  },
  {
   "id": "SCENARIO/027/016b8",
@@ -537,7 +537,7 @@
    "礼もまだだったね",
    "ありがとう"
   ],
-  "en": ""
+  "en": "Ah, you helped me and I haven't even thanked you yet. Thank you."
  },
  {
   "id": "SCENARIO/027/0172c",
@@ -546,7 +546,7 @@
    "アンタもルオナの花を探しに",
    "来たクチみたいだけど・・・"
   ],
-  "en": ""
+  "en": "Looks like you came hunting for Luona flowers too..."
  },
  {
   "id": "SCENARIO/027/01780",
@@ -555,7 +555,7 @@
    "不覚にも、最後の一本だったのを",
    "あの男に食われてしまったよ"
   ],
-  "en": ""
+  "en": "Shamefully, I let that man eat the very last one."
  },
  {
   "id": "SCENARIO/027/017f8",
@@ -563,7 +563,7 @@
   "jp": [
    "最後の一本・・・"
   ],
-  "en": ""
+  "en": "The last one..."
  },
  {
   "id": "SCENARIO/027/01824",
@@ -573,7 +573,7 @@
    "乱獲で失われてしまったものだ",
    "そう簡単にはみつからないね"
   ],
-  "en": ""
+  "en": "The Luona flower was wiped out by overpicking decades ago. It isn't easily found."
  },
  {
   "id": "SCENARIO/027/01898",
@@ -582,7 +582,7 @@
    "僕もずいぶんと探したけれど",
    "もう見つからないだろうな"
   ],
-  "en": ""
+  "en": "I searched a long time myself. I doubt there are any left."
  },
  {
   "id": "SCENARIO/027/018e8",
@@ -590,7 +590,7 @@
   "jp": [
    "そうなんですか・・・"
   ],
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "SCENARIO/027/01918",
@@ -598,7 +598,7 @@
   "jp": [
    "手を出してくれないか？"
   ],
-  "en": ""
+  "en": "Would you hold out your hand?"
  },
  {
   "id": "SCENARIO/027/0197a",
@@ -606,7 +606,7 @@
   "jp": [
    "え？"
   ],
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "SCENARIO/027/019bc",
@@ -615,7 +615,7 @@
    "助けてもらった礼だよ",
    "カイン"
   ],
-  "en": ""
+  "en": "Thanks for your help, Cain."
  },
  {
   "id": "SCENARIO/027/01a12",
@@ -623,7 +623,7 @@
   "jp": [
    "！！？"
   ],
-  "en": ""
+  "en": "!!?"
  },
  {
   "id": "SCENARIO/027/01a34",
@@ -631,7 +631,7 @@
   "jp": [
    "どうして、ボクの名前を？"
   ],
-  "en": ""
+  "en": "How do you know my name?"
  },
  {
   "id": "SCENARIO/027/01a68",
@@ -640,7 +640,7 @@
    "互いの名前を呼び合っているのが",
    "聞こえただけさ"
   ],
-  "en": ""
+  "en": "I just heard you calling each other by name."
  },
  {
   "id": "SCENARIO/027/01ad4",
@@ -650,7 +650,7 @@
    "教団の刺客か何かかと思って",
    "思わず警戒しちまったぜ"
   ],
-  "en": ""
+  "en": "Oh, is that all. I figured you for a Church assassin or something. Had my guard up."
  },
  {
   "id": "SCENARIO/027/01b38",
@@ -660,7 +660,7 @@
    "キミ達もあまり奥に進みすぎて",
    "帰り道に迷わぬようにね"
   ],
-  "en": ""
+  "en": "I'm giving up and heading back. Don't go in too deep, or you'll lose the way home."
  },
  {
   "id": "SCENARIO/027/01bc8",
@@ -668,7 +668,7 @@
   "jp": [
    "あ、はい"
   ],
-  "en": ""
+  "en": "Oh, okay."
  },
  {
   "id": "SCENARIO/027/01bec",
@@ -676,7 +676,7 @@
   "jp": [
    "それじゃあ、失礼するよ"
   ],
-  "en": ""
+  "en": "Well then, I'll take my leave."
  },
  {
   "id": "SCENARIO/027/01c58",
@@ -685,7 +685,7 @@
    "・・・なんだか、少し",
    "変わった感じのする人だったね"
   ],
-  "en": ""
+  "en": "...He felt kind of... different, somehow."
  },
  {
   "id": "SCENARIO/027/01cf8",
@@ -695,7 +695,7 @@
    "ヤツを行かせたんじゃ",
    "なかったのか？"
   ],
-  "en": ""
+  "en": "...You mean you didn't notice, and let him walk off anyway?"
  },
  {
   "id": "SCENARIO/027/01d66",
@@ -703,7 +703,7 @@
   "jp": [
    "気が付くって、何を？"
   ],
-  "en": ""
+  "en": "Notice what?"
  },
  {
   "id": "SCENARIO/027/01db4",
@@ -712,7 +712,7 @@
    "さっきのヤツ・・・",
    "ただ者じゃない"
   ],
-  "en": ""
+  "en": "That guy... he's no ordinary person."
  },
  {
   "id": "SCENARIO/027/01dec",
@@ -721,7 +721,7 @@
    "あの威圧感・・・・",
    "かなりの実力を秘めた天使よ"
   ],
-  "en": ""
+  "en": "That pressure... He's an angel hiding serious power."
  },
  {
   "id": "SCENARIO/027/01e46",
@@ -729,7 +729,7 @@
   "jp": [
    "！？"
   ],
-  "en": ""
+  "en": "!?"
  },
  {
   "id": "SCENARIO/027/01e72",
@@ -738,7 +738,7 @@
    "しかも幹部クラスか、",
    "ひょっとすると十審将・・？"
   ],
-  "en": ""
+  "en": "Officer class, too. Or maybe even one of the Ten Tribunal Generals...?"
  },
  {
   "id": "SCENARIO/027/01ece",
@@ -746,7 +746,7 @@
   "jp": [
    "・・ルカ？"
   ],
-  "en": ""
+  "en": "...Luca?"
  },
  {
   "id": "SCENARIO/027/01f02",
@@ -755,7 +755,7 @@
    "ルオナの花を探していたのは",
    "確かみたいだけど・・・"
   ],
-  "en": ""
+  "en": "He really was after the Luona flower, it seems..."
  },
  {
   "id": "SCENARIO/027/01f48",
@@ -765,7 +765,7 @@
    "命がいくつあっても足りなく",
    "なるわよ"
   ],
-  "en": ""
+  "en": "Get tangled up with someone like that and you won't have enough lives to spare."
  },
  {
   "id": "SCENARIO/027/01fb6",
@@ -773,7 +773,7 @@
   "jp": [
    "そんなにスゴイ天使だったの？"
   ],
-  "en": ""
+  "en": "He was that powerful an angel?"
  },
  {
   "id": "SCENARIO/027/0200c",
@@ -782,7 +782,7 @@
    "僧兵達を呼ばれるかもしれない",
    "引き上げるぞ"
   ],
-  "en": ""
+  "en": "He might call in monk soldiers. We're pulling out."
  },
  {
   "id": "SCENARIO/027/02062",
@@ -790,7 +790,7 @@
   "jp": [
    "・・・う、うん"
   ],
-  "en": ""
+  "en": "...Y-yeah."
  },
  {
   "id": "SCENARIO/027/02106",
@@ -798,7 +798,7 @@
   "jp": [
    "ふぅ・・・やれやれだ"
   ],
-  "en": ""
+  "en": "Phew... good grief."
  },
  {
   "id": "SCENARIO/027/02276",
@@ -807,7 +807,7 @@
    "まさか、彼らに助けられるとは",
    "思ってもみなかったよ"
   ],
-  "en": ""
+  "en": "I never imagined I'd be rescued by them."
  },
  {
   "id": "SCENARIO/027/022e6",
@@ -815,7 +815,7 @@
   "jp": [
    "あれが、カイン・・・"
   ],
-  "en": ""
+  "en": "So that's Cain..."
  },
  {
   "id": "SCENARIO/027/02322",
@@ -824,7 +824,7 @@
    "あの翼から放たれていた気配は",
    "やはり・・・"
   ],
-  "en": ""
+  "en": "The presence I felt from those wings... Just as I thought..."
  },
  {
   "id": "SCENARIO/027/02368",
@@ -832,7 +832,7 @@
   "jp": [
    "テリオス様っ！！！"
   ],
-  "en": ""
+  "en": "Terios-sama!!"
  },
  {
   "id": "SCENARIO/027/02432",
@@ -841,7 +841,7 @@
    "騒々しいよ、クレイス",
    "そんなに慌てて何かあったの？"
   ],
-  "en": ""
+  "en": "You're noisy, Kreis. What's got you in such a hurry?"
  },
  {
   "id": "SCENARIO/027/0248e",
@@ -849,7 +849,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/027/024ca",
@@ -858,7 +858,7 @@
    "ごめん、ごめん",
    "黙って外出したことなら謝るよ"
   ],
-  "en": ""
+  "en": "Sorry, sorry. If it's about going out without a word, I apologize."
  },
  {
   "id": "SCENARIO/027/02522",
@@ -868,7 +868,7 @@
    "一言書き置きでも残して下さい",
    "皆が心配します"
   ],
-  "en": ""
+  "en": "At least leave a note when you go out. Everyone worries."
  },
  {
   "id": "SCENARIO/027/0259a",
@@ -876,7 +876,7 @@
   "jp": [
    "その言葉、そのままキミに返すよ"
   ],
-  "en": ""
+  "en": "I could say the same to you."
  },
  {
   "id": "SCENARIO/027/025da",
@@ -886,7 +886,7 @@
    "わざわざあんなものを探しに",
    "出かけたと思っているんだい？"
   ],
-  "en": ""
+  "en": "Honestly, who do you think I went out searching for that thing for?"
  },
  {
   "id": "SCENARIO/027/02656",
@@ -894,7 +894,7 @@
   "jp": [
    "あんなもの、ですか？"
   ],
-  "en": ""
+  "en": "That thing, sir?"
  },
  {
   "id": "SCENARIO/027/02684",
@@ -904,7 +904,7 @@
    "もう何十年も前に採り尽くされた",
    "はずのルオナの花を探したんだ"
   ],
-  "en": ""
+  "en": "A cure for your wounds. The Luona flower, supposedly picked clean decades ago."
  },
  {
   "id": "SCENARIO/027/026fe",
@@ -913,7 +913,7 @@
    "ルオナの花の効能は絶大だからね",
    "キミに・・・と思ったんだが"
   ],
-  "en": ""
+  "en": "Its healing power is tremendous. I thought it would do for you... but."
  },
  {
   "id": "SCENARIO/027/02762",
@@ -921,7 +921,7 @@
   "jp": [
    "・・・・・"
   ],
-  "en": ""
+  "en": "....."
  },
  {
   "id": "SCENARIO/027/02796",
@@ -931,7 +931,7 @@
    "あって、食べていいものでは",
    "ないのだけどね"
   ],
-  "en": ""
+  "en": "That said, it's an ingredient for salve. Not something you should eat."
  },
  {
   "id": "SCENARIO/027/0280a",
@@ -939,7 +939,7 @@
   "jp": [
    "まさか、アレを食べる者など"
   ],
-  "en": ""
+  "en": "Surely no one would eat it..."
  },
  {
   "id": "SCENARIO/027/0284e",
@@ -947,7 +947,7 @@
   "jp": [
    "いたんだよ"
   ],
-  "en": ""
+  "en": "Someone did."
  },
  {
   "id": "SCENARIO/027/02874",
@@ -955,7 +955,7 @@
   "jp": [
    "！？"
   ],
-  "en": ""
+  "en": "!?"
  },
  {
   "id": "SCENARIO/027/0289a",
@@ -963,7 +963,7 @@
   "jp": [
    "本当ですか？"
   ],
-  "en": ""
+  "en": "Truly?"
  },
  {
   "id": "SCENARIO/027/028ce",
@@ -972,7 +972,7 @@
    "まったく・・",
    "本当に無知とは恐ろしいものだね"
   ],
-  "en": ""
+  "en": "Honestly... Ignorance truly is a frightening thing."
  },
  {
   "id": "SCENARIO/027/02926",
@@ -980,7 +980,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/027/0295a",
@@ -990,7 +990,7 @@
    "殺そうかと思ったけど",
    "楽しいから生かすことにしたよ"
   ],
-  "en": ""
+  "en": "When he stole the flower I thought of killing him, but it was fun, so I let him live."
  },
  {
   "id": "SCENARIO/027/029c6",
@@ -1000,7 +1000,7 @@
    "三日三晩はトイレにこもって",
    "出てこれなくなるはずさ"
   ],
-  "en": ""
+  "en": "Heh heh heh. He'll be stuck in the toilet for three days and nights."
  },
  {
   "id": "SCENARIO/027/02a2e",
@@ -1009,7 +1009,7 @@
    "強い薬は、強い毒にもなると",
    "言います"
   ],
-  "en": ""
+  "en": "They say a strong medicine is also a strong poison."
  },
  {
   "id": "SCENARIO/027/02a8c",
@@ -1019,7 +1019,7 @@
    "死んでいるかは本人の体力と気力",
    "次第だろうね"
   ],
-  "en": ""
+  "en": "Whether he's alive or dead on the fourth day depends on his stamina and willpower."
  },
  {
   "id": "SCENARIO/027/02aec",
@@ -1028,7 +1028,7 @@
    "・・・まぁ",
    "僕にはどうでもいいことだよ"
   ],
-  "en": ""
+  "en": "...Well, it's nothing to me either way."
  },
  {
   "id": "SCENARIO/027/02c0a",
@@ -1036,12 +1036,12 @@
   "jp": [
    "ムッハーーーーーーーッ！！！"
   ],
-  "en": ""
+  "en": "Mu-haaaaaaaah!!"
  },
  {
   "id": "SCENARIO/027/067b0",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/027/067be",
@@ -1049,12 +1049,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/027/067d6",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/027/067e6",
@@ -1062,6 +1062,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

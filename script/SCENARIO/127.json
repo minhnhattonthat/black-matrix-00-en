@@ -5,7 +5,7 @@
   "jp": [
    "アラギに会っただって！？"
   ],
-  "en": ""
+  "en": "You met Aragi!?"
  },
  {
   "id": "SCENARIO/127/00190",
@@ -14,7 +14,7 @@
    "まーまー",
    "落ち着けって"
   ],
-  "en": ""
+  "en": "Now, now, calm down."
  },
  {
   "id": "SCENARIO/127/001c4",
@@ -23,7 +23,7 @@
    "うるさい！！",
    "どうしてアタシを呼ばなかった！"
   ],
-  "en": ""
+  "en": "Shut up!! Why didn't you call me!?"
  },
  {
   "id": "SCENARIO/127/0021a",
@@ -33,7 +33,7 @@
    "俺とザイオンの二人じゃ",
    "どうしようもなかったんだ"
   ],
-  "en": ""
+  "en": "Don't be unreasonable. Zion and I together couldn't do a thing about it."
  },
  {
   "id": "SCENARIO/127/0028c",
@@ -42,7 +42,7 @@
    "ザイオン！",
    "あんたがいたのに、どうして！？"
   ],
-  "en": ""
+  "en": "Zion! You were right there, so why!?"
  },
  {
   "id": "SCENARIO/127/002cc",
@@ -50,7 +50,7 @@
   "jp": [
    "せっかくのチャンスだったのに"
   ],
-  "en": ""
+  "en": "That was our big chance!"
  },
  {
   "id": "SCENARIO/127/00324",
@@ -59,7 +59,7 @@
    "焦るなルカ、俺達の目的は",
    "パスカのペインリングの回収だ"
   ],
-  "en": ""
+  "en": "Don't rush it, Luca. Our goal is to recover the Pasca's Pain Ring."
  },
  {
   "id": "SCENARIO/127/00370",
@@ -68,7 +68,7 @@
    "使命を果たさず",
    "犬死にするわけにはいかない"
   ],
-  "en": ""
+  "en": "We can't die like dogs with our mission unfinished."
  },
  {
   "id": "SCENARIO/127/003b0",
@@ -78,7 +78,7 @@
    "本気でアラギに勝てると思って",
    "いるのか？"
   ],
-  "en": ""
+  "en": "Besides, do you honestly think the two of us, as we are now, can beat Aragi?"
  },
  {
   "id": "SCENARIO/127/00422",
@@ -88,7 +88,7 @@
    "＜百人斬りのザイオン＞が",
    "聞いて呆れるわよ"
   ],
-  "en": ""
+  "en": "Oh? \"Zion the Hundred-Slayer.\" What a joke that name turned out to be."
  },
  {
   "id": "SCENARIO/127/00470",
@@ -97,7 +97,7 @@
    "いつから臆病風に吹かれる",
    "ようになったんだい？"
   ],
-  "en": ""
+  "en": "Since when did you turn into a coward?"
  },
  {
   "id": "SCENARIO/127/004b4",
@@ -106,7 +106,7 @@
    "勝てるかどうかなんて",
    "やってみなきゃわからないわよ"
   ],
-  "en": ""
+  "en": "You never know if you can win until you try."
  },
  {
   "id": "SCENARIO/127/00514",
@@ -115,7 +115,7 @@
    "本気で言ってるのなら",
    "＜冷血のルカ＞も名前負けだな"
   ],
-  "en": ""
+  "en": "If you mean that, then \"Cold-Blooded Luca\" doesn't live up to her name either."
  },
  {
   "id": "SCENARIO/127/00574",
@@ -124,7 +124,7 @@
    "ザイオン・・・",
    "アタシにケンカを売るつもり？"
   ],
-  "en": ""
+  "en": "Zion... Are you trying to pick a fight with me?"
  },
  {
   "id": "SCENARIO/127/005cc",
@@ -133,7 +133,7 @@
    "別に収穫が",
    "何もなかったわけじゃない"
   ],
-  "en": ""
+  "en": "It's not as if we came away with nothing."
  },
  {
   "id": "SCENARIO/127/0061c",
@@ -141,7 +141,7 @@
   "jp": [
    "！"
   ],
-  "en": ""
+  "en": "!"
  },
  {
   "id": "SCENARIO/127/006e0",
@@ -151,7 +151,7 @@
    "アイツのために汚れるつもりなら",
    "俺も一緒に地下を歩いてやるぜ"
   ],
-  "en": ""
+  "en": "...Or if you'd dirty your hands for her, I'll walk the underground with you."
  },
  {
   "id": "SCENARIO/127/00874",
@@ -160,7 +160,7 @@
    "地下を歩くと言ったら",
    "＜幽葬の地下通路＞しかない"
   ],
-  "en": ""
+  "en": "If he says \"underground,\" it can only mean the Spectral Catacombs."
  },
  {
   "id": "SCENARIO/127/008b8",
@@ -168,7 +168,7 @@
   "jp": [
    "アラギはそこにいる"
   ],
-  "en": ""
+  "en": "Aragi is there."
  },
  {
   "id": "SCENARIO/127/00904",
@@ -178,7 +178,7 @@
    "前にパスカやアラギと会った",
    "ところだよね？"
   ],
-  "en": ""
+  "en": "The Phantom Grave Passage... that's where we met the Pasca and Aragi before, right?"
  },
  {
   "id": "SCENARIO/127/00980",
@@ -187,7 +187,7 @@
    "でも、アラギ達はもう",
    "あそこには・・・"
   ],
-  "en": ""
+  "en": "But Aragi and the others aren't there anymore..."
  },
  {
   "id": "SCENARIO/127/009e4",
@@ -196,7 +196,7 @@
    "＜幽葬の地下通路＞は",
    "さらに奥深くまで続いている"
   ],
-  "en": ""
+  "en": "The Phantom Grave Passage runs far deeper still."
  },
  {
   "id": "SCENARIO/127/00a28",
@@ -205,7 +205,7 @@
    "おそらく、アラギ達は",
    "さらに奥へと移動したのだろう"
   ],
-  "en": ""
+  "en": "Most likely, Aragi and his lot have moved further in."
  },
  {
   "id": "SCENARIO/127/00a7a",
@@ -215,7 +215,7 @@
    "あれ以上奥に行ったら、",
    "帰り道がわからなくなるよ？"
   ],
-  "en": ""
+  "en": "But that place is a maze. Go any deeper and we won't know the way back!"
  },
  {
   "id": "SCENARIO/127/00ae8",
@@ -225,7 +225,7 @@
    "元よりカインの記憶力は",
    "あてにしていない"
   ],
-  "en": ""
+  "en": "No problem. I never counted on your memory to begin with, Cain."
  },
  {
   "id": "SCENARIO/127/00b5a",
@@ -233,7 +233,7 @@
   "jp": [
    "ううう・・・"
   ],
-  "en": ""
+  "en": "Uuugh..."
  },
  {
   "id": "SCENARIO/127/00b80",
@@ -242,7 +242,7 @@
    "それでどうする？",
    "行くのか、行かないのか・・・"
   ],
-  "en": ""
+  "en": "So what'll it be? Are we going, or not..."
  },
  {
   "id": "SCENARIO/127/00bec",
@@ -251,7 +251,7 @@
    "聞かなくても",
    "行くに決まってるでしょ？"
   ],
-  "en": ""
+  "en": "You don't even need to ask. Of course we're going."
  },
  {
   "id": "SCENARIO/127/00c50",
@@ -260,7 +260,7 @@
    "よっしゃあ！",
    "そうと決まったら"
   ],
-  "en": ""
+  "en": "All right! Now that that's settled..."
  },
  {
   "id": "SCENARIO/127/00cac",
@@ -268,7 +268,7 @@
   "jp": [
    "わたしも同行させて下さい"
   ],
-  "en": ""
+  "en": "Please let me come with you."
  },
  {
   "id": "SCENARIO/127/00d00",
@@ -276,7 +276,7 @@
   "jp": [
    "シリア！？"
   ],
-  "en": ""
+  "en": "Syria!?"
  },
  {
   "id": "SCENARIO/127/00d32",
@@ -285,7 +285,7 @@
    "すみません",
    "お話は聞かせて頂きました"
   ],
-  "en": ""
+  "en": "I'm sorry. I overheard your conversation."
  },
  {
   "id": "SCENARIO/127/00d7a",
@@ -294,7 +294,7 @@
    "わたしも、皆様にお力添え",
    "出来るのなら、同行させて下さい"
   ],
-  "en": ""
+  "en": "If I can be of any help to you all, please let me accompany you."
  },
  {
   "id": "SCENARIO/127/00dde",
@@ -302,7 +302,7 @@
   "jp": [
    "怪我の方はもう大丈夫なの？"
   ],
-  "en": ""
+  "en": "Is your injury all right now?"
  },
  {
   "id": "SCENARIO/127/00e22",
@@ -312,7 +312,7 @@
    "それに四翼は、普通の天使より",
    "傷の治りが早いんです"
   ],
-  "en": ""
+  "en": "Yes. I'm an angel, after all. And four-wings heal faster than ordinary angels."
  },
  {
   "id": "SCENARIO/127/00eb0",
@@ -322,7 +322,7 @@
    "こっそり後をつけられるよりは",
    "目の届くとこに置いた方が安全だ"
   ],
-  "en": ""
+  "en": "Sure, bring her along. Better to keep her in sight than have her sneak after us."
  },
  {
   "id": "SCENARIO/127/00f44",
@@ -331,7 +331,7 @@
    "いえ、あの・・・",
    "そんなつもりは・・・・・"
   ],
-  "en": ""
+  "en": "No, um... I wasn't planning to......"
  },
  {
   "id": "SCENARIO/127/00fa8",
@@ -339,7 +339,7 @@
   "jp": [
    "図星だって、顔に出てるぜ？"
   ],
-  "en": ""
+  "en": "Nailed it. It's written all over your face."
  },
  {
   "id": "SCENARIO/127/00fea",
@@ -347,7 +347,7 @@
   "jp": [
    "あの、その・・・・"
   ],
-  "en": ""
+  "en": "Um, well......"
  },
  {
   "id": "SCENARIO/127/01038",
@@ -355,7 +355,7 @@
   "jp": [
    "和んでる暇があったら行くぞ"
   ],
-  "en": ""
+  "en": "If you have time to get chummy, you have time to move. Let's go."
  },
  {
   "id": "SCENARIO/127/01094",
@@ -364,12 +364,12 @@
    "アラギ・・・",
    "今日こそケリをつけてやる！"
   ],
-  "en": ""
+  "en": "Aragi... Today I'll settle this for good!"
  },
  {
   "id": "SCENARIO/127/04c38",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/127/04c46",
@@ -377,12 +377,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/127/04c5e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/127/04c6e",
@@ -390,6 +390,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

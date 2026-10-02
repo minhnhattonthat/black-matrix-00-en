@@ -145,3 +145,9 @@ Fly uses 僕 in script 031: gender ambiguous, keep pronoun-free.
 | グーテンベルグの戒律書 | Gutenberg Book of Precepts | |
 | 団長 | ringmaster | circus |
 | ＜特例＞ | special exception | |
+| ルオナ草 / ルオナの花 | Luona herb / Luona flower | |
+| 勇者ザイオーン / 木こりのザイオ | Zioon the Hero / Zio the Woodcutter | Lilis's picture book |
+| 孤高の騎士 | Solitary Knight | |
+| ＜百人斬りのザイオン＞ | Zion the Hundred-Slayer | |
+| ＜冷血のルカ＞ | Cold-Blooded Luca | |
+| お兄様 (Syria → Bale) | Brother | |

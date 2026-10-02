@@ -6,7 +6,7 @@
    "ボーナスシナリオ　８",
    "＜リリスの絵本＞"
   ],
-  "en": "",
+  "en": "Bonus Scenario 8\nLilis's Picture Book",
   "spill": false
  },
  {
@@ -15,7 +15,7 @@
   "jp": [
    "あ、カイン！"
   ],
-  "en": ""
+  "en": "Ah, Cain!"
  },
  {
   "id": "SCENARIO/028/00194",
@@ -23,7 +23,7 @@
   "jp": [
    "見て見て！"
   ],
-  "en": ""
+  "en": "Look, look!"
  },
  {
   "id": "SCENARIO/028/001ea",
@@ -32,7 +32,7 @@
    "へぇー",
    "上手だね、リリス"
   ],
-  "en": ""
+  "en": "Wow, that's good, Lilis."
  },
  {
   "id": "SCENARIO/028/0022e",
@@ -40,7 +40,7 @@
   "jp": [
    "えへへ～"
   ],
-  "en": ""
+  "en": "Ehehe~"
  },
  {
   "id": "SCENARIO/028/00290",
@@ -49,7 +49,7 @@
    "ほう、これはザイオンか？",
    "なかなか上手く描けているな"
   ],
-  "en": ""
+  "en": "Oh, is this Zion? It is quite well drawn."
  },
  {
   "id": "SCENARIO/028/002ee",
@@ -58,7 +58,7 @@
    "そうだよ、ザイオンに絵の",
    "モデルになってもらったの♪"
   ],
-  "en": ""
+  "en": "Yup! Zion was my model for it!"
  },
  {
   "id": "SCENARIO/028/00380",
@@ -67,7 +67,7 @@
    "勘違いするな",
    "こいつが勝手に描いただけだ"
   ],
-  "en": ""
+  "en": "Don't get the wrong idea. She drew it on her own."
  },
  {
   "id": "SCENARIO/028/003e4",
@@ -77,7 +77,7 @@
    "何もしないで動かないのが",
    "仕事だもんな"
   ],
-  "en": ""
+  "en": "Well, a model's job is to sit still and do nothing while he's drawn."
  },
  {
   "id": "SCENARIO/028/0044e",
@@ -87,7 +87,7 @@
    "動き回るお前をモデルにする",
    "ヤツなんていないだろうがな"
   ],
-  "en": ""
+  "en": "Hmph. Nobody would model you, the way you never stop fidgeting."
  },
  {
   "id": "SCENARIO/028/004dc",
@@ -97,7 +97,7 @@
    "お願いしても動いちゃうから",
    "絵が描けないの"
   ],
-  "en": ""
+  "en": "Exal moves even when I ask him to stay still, so I can't draw him."
  },
  {
   "id": "SCENARIO/028/00560",
@@ -107,7 +107,7 @@
    "確かにエクサルって",
    "落ち着きがないもんね"
   ],
-  "en": ""
+  "en": "Ahahaha. Yeah, Exal really can't sit still."
  },
  {
   "id": "SCENARIO/028/005d4",
@@ -115,7 +115,7 @@
   "jp": [
    "悪かったな、落ち着きなくて"
   ],
-  "en": ""
+  "en": "Sorry for fidgeting, then."
  },
  {
   "id": "SCENARIO/028/0060e",
@@ -124,7 +124,7 @@
    "でも絵のモデルだったら",
    "カインもダメだったろ？"
   ],
-  "en": ""
+  "en": "But you'd be a lousy model too, Cain."
  },
  {
   "id": "SCENARIO/028/00650",
@@ -134,7 +134,7 @@
    "負けて、ヨダレをたらすのは",
    "どこの誰だったかな～？"
   ],
-  "en": ""
+  "en": "Who was it who nods off and drools the second he sits still, I wonder~?"
  },
  {
   "id": "SCENARIO/028/006ce",
@@ -142,7 +142,7 @@
   "jp": [
    "うぅ・・・だって"
   ],
-  "en": ""
+  "en": "Ugh... but..."
  },
  {
   "id": "SCENARIO/028/00718",
@@ -152,7 +152,7 @@
    "主人公のモデルはザイオンって",
    "リリス、決めたの"
   ],
-  "en": ""
+  "en": "It's okay! Lilis decided Zion's the model for the hero."
  },
  {
   "id": "SCENARIO/028/0077e",
@@ -160,7 +160,7 @@
   "jp": [
    "主人公？"
   ],
-  "en": ""
+  "en": "The hero?"
  },
  {
   "id": "SCENARIO/028/007ae",
@@ -170,7 +170,7 @@
    "シリアお姉ちゃんと二人で",
    "絵本を作ろうって約束してたの"
   ],
-  "en": ""
+  "en": "See, a long time ago Lilis promised Syria-neesan we'd make a picture book together."
  },
  {
   "id": "SCENARIO/028/00814",
@@ -179,7 +179,7 @@
    "お話は二人で考えて",
    "絵はリリスが描くんだよ"
   ],
-  "en": ""
+  "en": "We think up the story together, and I draw the pictures."
  },
  {
   "id": "SCENARIO/028/0087c",
@@ -189,7 +189,7 @@
    "主人公が俺とは",
    "どういう意味だ？"
   ],
-  "en": ""
+  "en": "Hold on. What do you mean, I'm the hero?"
  },
  {
   "id": "SCENARIO/028/008ce",
@@ -197,7 +197,7 @@
   "jp": [
    "うーん・・・だって、"
   ],
-  "en": ""
+  "en": "Umm... well,"
  },
  {
   "id": "SCENARIO/028/00980",
@@ -205,7 +205,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/028/009a8",
@@ -213,7 +213,7 @@
   "jp": [
    "カインじゃ頼りないし"
   ],
-  "en": ""
+  "en": "Cain's not reliable enough,"
  },
  {
   "id": "SCENARIO/028/00ab4",
@@ -221,7 +221,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/028/00aea",
@@ -229,7 +229,7 @@
   "jp": [
    "エクサルじゃ三枚目だし"
   ],
-  "en": ""
+  "en": "Exal's the comic relief,"
  },
  {
   "id": "SCENARIO/028/00bec",
@@ -237,7 +237,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/028/00c22",
@@ -245,7 +245,7 @@
   "jp": [
    "ヨハネさんは・・・う～ん"
   ],
-  "en": ""
+  "en": "and Johannes-san is... hmm."
  },
  {
   "id": "SCENARIO/028/00c62",
@@ -253,7 +253,7 @@
   "jp": [
    "ふむ・・・消去法か"
   ],
-  "en": ""
+  "en": "Hm... Process of elimination."
  },
  {
   "id": "SCENARIO/028/00cb0",
@@ -262,7 +262,7 @@
    "納得しないでよ・・・",
    "ヨハネさん"
   ],
-  "en": ""
+  "en": "Don't just accept it, Johannes-san..."
  },
  {
   "id": "SCENARIO/028/00d0c",
@@ -271,7 +271,7 @@
    "だからザイオンが絵本の",
    "主人公なの♪"
   ],
-  "en": ""
+  "en": "So Zion's the hero of the picture book!"
  },
  {
   "id": "SCENARIO/028/00d5a",
@@ -281,7 +281,7 @@
    "どんな世界が生まれるのか",
    "今から楽しみだな"
   ],
-  "en": ""
+  "en": "A picture book... I look forward to seeing what world is born."
  },
  {
   "id": "SCENARIO/028/00dbe",
@@ -290,7 +290,7 @@
    "世界が生まれる？",
    "リリスがつくるのは絵本だよ"
   ],
-  "en": ""
+  "en": "A world is born? Lilis is making a picture book."
  },
  {
   "id": "SCENARIO/028/00e08",
@@ -300,7 +300,7 @@
    "物語が生まれた世界を創ると",
    "いうことだ"
   ],
-  "en": ""
+  "en": "To create a story is to create the world in which that story was born."
  },
  {
   "id": "SCENARIO/028/00e5c",
@@ -310,7 +310,7 @@
    "その世界の全てを統括する",
    "いわば神のような存在だからな"
   ],
-  "en": ""
+  "en": "The writer governs all of that world. A god, so to speak."
  },
  {
   "id": "SCENARIO/028/00eca",
@@ -319,7 +319,7 @@
    "へ～・・・",
    "リリスも神様になれるの？"
   ],
-  "en": ""
+  "en": "Wow... Lilis can be a god too?"
  },
  {
   "id": "SCENARIO/028/00f1a",
@@ -327,7 +327,7 @@
   "jp": [
    "ああ、そうだ"
   ],
-  "en": ""
+  "en": "Yes, you can."
  },
  {
   "id": "SCENARIO/028/00f38",
@@ -336,7 +336,7 @@
    "何かを創るということは",
    "何かの創造主であるということ"
   ],
-  "en": ""
+  "en": "To create something is to be the creator of something."
  },
  {
   "id": "SCENARIO/028/00f80",
@@ -344,7 +344,7 @@
   "jp": [
    "人はいつでも、神になれる"
   ],
-  "en": ""
+  "en": "Anyone can become a god, at any time."
  },
  {
   "id": "SCENARIO/028/00fc2",
@@ -353,7 +353,7 @@
    "それじゃあリリス",
    "頑張って、いい神様を目指すの！"
   ],
-  "en": ""
+  "en": "Then Lilis will try her best to be a good god!"
  },
  {
   "id": "SCENARIO/028/01008",
@@ -363,7 +363,7 @@
    "かっこよく生まれるから",
    "期待しててね！"
   ],
-  "en": ""
+  "en": "You'll be born all cool in my world, Zion, so look forward to it!"
  },
  {
   "id": "SCENARIO/028/01088",
@@ -371,7 +371,7 @@
   "jp": [
    "おい、勝手に人を・・・"
   ],
-  "en": ""
+  "en": "Hey, don't go deciding for me..."
  },
  {
   "id": "SCENARIO/028/010d8",
@@ -381,7 +381,7 @@
    "リリスの世界で格好良く",
    "してもらってこいよ"
   ],
-  "en": ""
+  "en": "Why not? Go get yourself made cool in Lilis's world."
  },
  {
   "id": "SCENARIO/028/01170",
@@ -389,7 +389,7 @@
   "jp": [
    "それで、どんな話なの？"
   ],
-  "en": ""
+  "en": "So, what's the story?"
  },
  {
   "id": "SCENARIO/028/011ae",
@@ -399,7 +399,7 @@
    "勇者ザイオーンと木こりのザイオ",
    "カインはどっちがいいと思う？"
   ],
-  "en": ""
+  "en": "So I was thinking: Zioon the Hero or Zio the Woodcutter. Which is better, Cain?"
  },
  {
   "id": "SCENARIO/028/01220",
@@ -407,18 +407,18 @@
   "jp": [
    "どっちにする？"
   ],
-  "en": "",
+  "en": "Which one?",
   "spill": false
  },
  {
   "id": "SCENARIO/028/01236",
   "jp": "　勇者ザイオーン",
-  "en": ""
+  "en": "Zioon the Hero"
  },
  {
   "id": "SCENARIO/028/01250",
   "jp": "　木こりのザイオ",
-  "en": ""
+  "en": "Zio the Woodcutter"
  },
  {
   "id": "SCENARIO/028/0128c",
@@ -427,7 +427,7 @@
    "＜勇者ザイオーン＞の方が",
    "格好良いかな？"
   ],
-  "en": ""
+  "en": "Zioon the Hero sounds cooler, I guess?"
  },
  {
   "id": "SCENARIO/028/012de",
@@ -436,7 +436,7 @@
    "そうだよね",
    "主人公は格好良くだよね♪"
   ],
-  "en": ""
+  "en": "Right? The hero's gotta be cool!"
  },
  {
   "id": "SCENARIO/028/01340",
@@ -444,7 +444,7 @@
   "jp": [
    "却下だ"
   ],
-  "en": ""
+  "en": "Rejected."
  },
  {
   "id": "SCENARIO/028/0136e",
@@ -452,7 +452,7 @@
   "jp": [
    "ザイオン、勇者はイヤ？"
   ],
-  "en": ""
+  "en": "Zion, you don't want to be a hero?"
  },
  {
   "id": "SCENARIO/028/013ba",
@@ -461,7 +461,7 @@
    "＜木こりのザイオ＞の方が",
    "面白そうかな？"
   ],
-  "en": ""
+  "en": "Zio the Woodcutter sounds more fun, I guess?"
  },
  {
   "id": "SCENARIO/028/0140e",
@@ -471,7 +471,7 @@
    "ザイオンなら木こりが",
    "似合うよね♪"
   ],
-  "en": ""
+  "en": "Right? Woodcutter really suits Zion!"
  },
  {
   "id": "SCENARIO/028/0147c",
@@ -479,7 +479,7 @@
   "jp": [
    "却下だ！"
   ],
-  "en": ""
+  "en": "Rejected!"
  },
  {
   "id": "SCENARIO/028/014ae",
@@ -487,7 +487,7 @@
   "jp": [
    "ザイオン、木こりはイヤ？"
   ],
-  "en": ""
+  "en": "Zion, you don't want to be a woodcutter?"
  },
  {
   "id": "SCENARIO/028/014f6",
@@ -495,7 +495,7 @@
   "jp": [
    "人を勝手にオモチャにするな！"
   ],
-  "en": ""
+  "en": "Stop making me your plaything!"
  },
  {
   "id": "SCENARIO/028/0153a",
@@ -503,7 +503,7 @@
   "jp": [
    "リリスは真剣に考えたんだよ！"
   ],
-  "en": ""
+  "en": "Lilis thought really hard about it!"
  },
  {
   "id": "SCENARIO/028/0157e",
@@ -511,7 +511,7 @@
   "jp": [
    "ダメなものはダメだ"
   ],
-  "en": ""
+  "en": "No means no."
  },
  {
   "id": "SCENARIO/028/015ba",
@@ -519,7 +519,7 @@
   "jp": [
    "うー・・・"
   ],
-  "en": ""
+  "en": "Ooh..."
  },
  {
   "id": "SCENARIO/028/015e6",
@@ -528,7 +528,7 @@
    "それじゃあ、",
    "ココーの騎士とかじゃダメ？"
   ],
-  "en": ""
+  "en": "Then... how about a Soli-tary Knight?"
  },
  {
   "id": "SCENARIO/028/0162c",
@@ -536,7 +536,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/028/0165e",
@@ -544,7 +544,7 @@
   "jp": [
    "勝手にしろ"
   ],
-  "en": ""
+  "en": "Do what you want."
  },
  {
   "id": "SCENARIO/028/01692",
@@ -552,7 +552,7 @@
   "jp": [
    "勝手にしていいんだね！！"
   ],
-  "en": ""
+  "en": "I can do what I want!!"
  },
  {
   "id": "SCENARIO/028/016d2",
@@ -560,7 +560,7 @@
   "jp": [
    "おい、誰もいいとは・・・"
   ],
-  "en": ""
+  "en": "Hey, nobody said you could..."
  },
  {
   "id": "SCENARIO/028/01712",
@@ -569,7 +569,7 @@
    "それじゃあ、主人公は",
    "ココーの騎士ね！"
   ],
-  "en": ""
+  "en": "Then the hero is the Solitary Knight!"
  },
  {
   "id": "SCENARIO/028/01774",
@@ -578,7 +578,7 @@
    "孤高とは・・・",
    "難しい言葉を知っているな"
   ],
-  "en": ""
+  "en": "\"Solitary\"... That's a big word for you to know."
  },
  {
   "id": "SCENARIO/028/017c6",
@@ -587,7 +587,7 @@
    "うん！",
    "シリアお姉ちゃんが言ってたの"
   ],
-  "en": ""
+  "en": "Yup! Syria-neesan said it."
  },
  {
   "id": "SCENARIO/028/01828",
@@ -595,7 +595,7 @@
   "jp": [
    "シリアが？"
   ],
-  "en": ""
+  "en": "Syria did?"
  },
  {
   "id": "SCENARIO/028/0184c",
@@ -604,7 +604,7 @@
    "そうだよ、ココーの騎士様に",
    "助けてもらうのが夢だったって"
   ],
-  "en": ""
+  "en": "Uh-huh. She said it was her dream to be rescued by a Solitary Knight."
  },
  {
   "id": "SCENARIO/028/018c0",
@@ -613,7 +613,7 @@
    "へー",
    "そうなんだ・・・"
   ],
-  "en": ""
+  "en": "Huh. Is that so..."
  },
  {
   "id": "SCENARIO/028/01914",
@@ -622,7 +622,7 @@
    "意外性を求めるのはおかしいが、",
    "シリアならば納得できるな"
   ],
-  "en": ""
+  "en": "Not that one should expect surprises, but from Syria, that is believable."
  },
  {
   "id": "SCENARIO/028/01988",
@@ -630,7 +630,7 @@
   "jp": [
    "他には何か言ってたか？"
   ],
-  "en": ""
+  "en": "Did she say anything else?"
  },
  {
   "id": "SCENARIO/028/019c6",
@@ -639,7 +639,7 @@
    "うーん、あとはねぇ・・・",
    "あっ！そう言えばルカがね・・・"
   ],
-  "en": ""
+  "en": "Umm, let's see... Oh! Come to think of it, Luca said..."
  },
  {
   "id": "SCENARIO/028/01a4a",
@@ -648,7 +648,7 @@
    "！！",
    "ルカはなんと言っていた！？"
   ],
-  "en": ""
+  "en": "!! What did Luca say!?"
  },
  {
   "id": "SCENARIO/028/01aaa",
@@ -656,7 +656,7 @@
   "jp": [
    "ど、どうしたの？ザイオン"
   ],
-  "en": ""
+  "en": "Wh-what's wrong, Zion?"
  },
  {
   "id": "SCENARIO/028/01aea",
@@ -665,7 +665,7 @@
    "俺のことはどうでもいい！",
    "ルカはなんと言っていたんだ"
   ],
-  "en": ""
+  "en": "Never mind me! What did Luca say?"
  },
  {
   "id": "SCENARIO/028/01b4a",
@@ -673,7 +673,7 @@
   "jp": [
    "う、うん、えっとね・・・"
   ],
-  "en": ""
+  "en": "O-okay, um..."
  },
  {
   "id": "SCENARIO/028/01b9c",
@@ -682,7 +682,7 @@
    "あら、リリス",
    "こんなところにいたのね"
   ],
-  "en": ""
+  "en": "Oh, Lilis. So this is where you were."
  },
  {
   "id": "SCENARIO/028/01bea",
@@ -690,7 +690,7 @@
   "jp": [
    "あ、シリアお姉ちゃん！"
   ],
-  "en": ""
+  "en": "Ah, Syria-neesan!"
  },
  {
   "id": "SCENARIO/028/01cf4",
@@ -699,7 +699,7 @@
    "ちっ、",
    "もう少しでルカの・・・"
   ],
-  "en": ""
+  "en": "Tch. I was so close to hearing what Luca..."
  },
  {
   "id": "SCENARIO/028/01d5c",
@@ -707,7 +707,7 @@
   "jp": [
    "アタシがどうしたって？"
   ],
-  "en": ""
+  "en": "What about me?"
  },
  {
   "id": "SCENARIO/028/01d9a",
@@ -716,7 +716,7 @@
    "ル、ルカ！？",
    "いや、な、なんでもない"
   ],
-  "en": ""
+  "en": "L-Luca!? No, n-nothing."
  },
  {
   "id": "SCENARIO/028/01f44",
@@ -725,7 +725,7 @@
    "リリス、絵本の方は",
    "どこまで進みました？"
   ],
-  "en": ""
+  "en": "Lilis, how far along is the picture book?"
  },
  {
   "id": "SCENARIO/028/01f96",
@@ -735,7 +735,7 @@
    "シリアお姉ちゃんに",
    "相談しようと思ったところなの"
   ],
-  "en": ""
+  "en": "I was just about to come ask you about it, Syria-neesan."
  },
  {
   "id": "SCENARIO/028/02010",
@@ -745,7 +745,7 @@
    "ルカさんから面白いお話が",
    "あるって"
   ],
-  "en": ""
+  "en": "Oh, perfect timing. Luca-san says she has an interesting story for us."
  },
  {
   "id": "SCENARIO/028/0207e",
@@ -753,7 +753,7 @@
   "jp": [
    "ほんとに？"
   ],
-  "en": ""
+  "en": "Really?"
  },
  {
   "id": "SCENARIO/028/020c8",
@@ -763,7 +763,7 @@
    "？あの、どうかしましたか？",
    "私の顔に何かついていますか？"
   ],
-  "en": ""
+  "en": "Yes, right now... ? Um, is something wrong? Is there something on my face?"
  },
  {
   "id": "SCENARIO/028/02154",
@@ -771,7 +771,7 @@
   "jp": [
    "！"
   ],
-  "en": ""
+  "en": "!"
  },
  {
   "id": "SCENARIO/028/02190",
@@ -779,7 +779,7 @@
   "jp": [
    "！"
   ],
-  "en": ""
+  "en": "!"
  },
  {
   "id": "SCENARIO/028/021cc",
@@ -788,7 +788,7 @@
    "な、なんでもないよ",
    "なあ、ヨハネさん？"
   ],
-  "en": ""
+  "en": "N-nothing at all. Right, Johannes-san?"
  },
  {
   "id": "SCENARIO/028/02230",
@@ -797,7 +797,7 @@
    "あ、ああ",
    "少し、考え事をしていただけだ"
   ],
-  "en": ""
+  "en": "Ah, yes. I was merely lost in thought."
  },
  {
   "id": "SCENARIO/028/022ca",
@@ -807,7 +807,7 @@
    "ルカの話が聞きたい",
    "シリアお姉ちゃん♪"
   ],
-  "en": ""
+  "en": "Lilis wants to hear Luca's story right now, Syria-neesan!"
  },
  {
   "id": "SCENARIO/028/0232a",
@@ -817,7 +817,7 @@
    "それじゃルカさん",
    "お願いできますか？"
   ],
-  "en": ""
+  "en": "All right. Luca-san, would you?"
  },
  {
   "id": "SCENARIO/028/02398",
@@ -826,7 +826,7 @@
    "ああ、いいよ",
    "もっと面白い話をしてやるよ"
   ],
-  "en": ""
+  "en": "Sure. I'll give you an even better story."
  },
  {
   "id": "SCENARIO/028/023ea",
@@ -834,7 +834,7 @@
   "jp": [
    "もっとおもしろい話って？"
   ],
-  "en": ""
+  "en": "An even better story?"
  },
  {
   "id": "SCENARIO/028/0241c",
@@ -843,7 +843,7 @@
    "ああ、フフフッ",
    "ザイオンが子供の時の話だ"
   ],
-  "en": ""
+  "en": "Yeah. Heh heh heh. The story of Zion as a kid."
  },
  {
   "id": "SCENARIO/028/02480",
@@ -851,7 +851,7 @@
   "jp": [
    "な！"
   ],
-  "en": ""
+  "en": "Wha!"
  },
  {
   "id": "SCENARIO/028/024c0",
@@ -859,7 +859,7 @@
   "jp": [
    "それっておもしろいの？"
   ],
-  "en": ""
+  "en": "Is that interesting?"
  },
  {
   "id": "SCENARIO/028/024fe",
@@ -869,7 +869,7 @@
    "とびっきりのやつだ",
    "話してやるから、場所を移そう"
   ],
-  "en": ""
+  "en": "Oh, absolutely. A real gem. Let's move somewhere else and I'll tell you."
  },
  {
   "id": "SCENARIO/028/02580",
@@ -878,7 +878,7 @@
    "おい！",
    "ちょっと待て！ルカ！"
   ],
-  "en": ""
+  "en": "Hey! Wait a second, Luca!"
  },
  {
   "id": "SCENARIO/028/02600",
@@ -887,7 +887,7 @@
    "はやく行こう",
    "シリアお姉ちゃん"
   ],
-  "en": ""
+  "en": "Let's go, Syria-neesan!"
  },
  {
   "id": "SCENARIO/028/0263c",
@@ -895,7 +895,7 @@
   "jp": [
    "ええ"
   ],
-  "en": ""
+  "en": "Yes."
  },
  {
   "id": "SCENARIO/028/026a8",
@@ -903,7 +903,7 @@
   "jp": [
    "じゃあな、ザイオン♪"
   ],
-  "en": ""
+  "en": "See ya, Zion!"
  },
  {
   "id": "SCENARIO/028/02742",
@@ -912,7 +912,7 @@
    "ま、待ってくれ、ルカ！",
    "くそっ・・・！"
   ],
-  "en": ""
+  "en": "W-wait, Luca! Damn it...!"
  },
  {
   "id": "SCENARIO/028/02792",
@@ -921,7 +921,7 @@
    "おい、そこの二人！",
    "なに、安心しきってるんだ！？"
   ],
-  "en": ""
+  "en": "Hey, you two! What are you looking so relieved about!?"
  },
  {
   "id": "SCENARIO/028/02800",
@@ -931,7 +931,7 @@
    "い、いや、悪いな",
    "保身に走ってしまったようだ"
   ],
-  "en": ""
+  "en": "Ah, what a relief. ...N-no, forgive me. It seems I put my own safety first."
  },
  {
   "id": "SCENARIO/028/02890",
@@ -941,7 +941,7 @@
    "でも、ルカの話って",
    "どういうのなんだ？"
   ],
-  "en": ""
+  "en": "Sorry, Zion. But what IS this story of Luca's?"
  },
  {
   "id": "SCENARIO/028/028fa",
@@ -949,7 +949,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/028/02954",
@@ -959,7 +959,7 @@
    "かわいそうなザイオンの物語",
    "になっちゃうね"
   ],
-  "en": ""
+  "en": "The tale of the Solitary Knight is about to become the tale of poor Zion."
  },
  {
   "id": "SCENARIO/028/029c6",
@@ -967,12 +967,12 @@
   "jp": [
    "・・・・・・くっ"
   ],
-  "en": ""
+  "en": "......Ngh."
  },
  {
   "id": "SCENARIO/028/06528",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/028/06536",
@@ -980,12 +980,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/028/0654e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/028/0655e",
@@ -993,6 +993,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

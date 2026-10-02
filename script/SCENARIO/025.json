@@ -6,7 +6,7 @@
    "ボーナスシナリオ　５",
    "＜うちの子２＞"
   ],
-  "en": "",
+  "en": "Bonus Scenario 5\nOur Boy 2",
   "spill": false
  },
  {
@@ -16,7 +16,7 @@
    "エクサルも怖い話が苦手",
    "だよね？"
   ],
-  "en": ""
+  "en": "You're bad with scary stories too, aren't you, Exal?"
  },
  {
   "id": "SCENARIO/025/001c4",
@@ -25,7 +25,7 @@
    "・・・べ、別にそんなの",
    "どうでもいいだろ"
   ],
-  "en": ""
+  "en": "...Wh-who cares about that?"
  },
  {
   "id": "SCENARIO/025/00208",
@@ -34,7 +34,7 @@
    "エクサルは小さい頃、",
    "夜中に一人でトイレに行けた？"
   ],
-  "en": ""
+  "en": "When you were little, could you go to the bathroom alone at night?"
  },
  {
   "id": "SCENARIO/025/00266",
@@ -44,7 +44,7 @@
    "それぐらい平気だったに",
    "決まってるだろ！！"
   ],
-  "en": ""
+  "en": "D-don't mock me!! Of course I could!!"
  },
  {
   "id": "SCENARIO/025/002e6",
@@ -52,7 +52,7 @@
   "jp": [
    "ふーん・・・"
   ],
-  "en": ""
+  "en": "Hmm..."
  },
  {
   "id": "SCENARIO/025/00304",
@@ -60,18 +60,18 @@
   "jp": [
    "それじゃあ"
   ],
-  "en": "",
+  "en": "Well then,",
   "spill": false
  },
  {
   "id": "SCENARIO/025/00316",
   "jp": "　そういうことにしておこう",
-  "en": ""
+  "en": "I'll leave it at that"
  },
  {
   "id": "SCENARIO/025/00338",
   "jp": "　ダリアさんに聞いてみよう",
-  "en": ""
+  "en": "Let's ask Dahlia-san"
  },
  {
   "id": "SCENARIO/025/00380",
@@ -80,7 +80,7 @@
    "・・・そうだね",
    "そういうことにしておくね"
   ],
-  "en": ""
+  "en": "...Okay. I'll leave it at that, then."
  },
  {
   "id": "SCENARIO/025/003d2",
@@ -88,7 +88,7 @@
   "jp": [
    "お前、絶対信じてないだろっ！"
   ],
-  "en": ""
+  "en": "You totally don't believe me!"
  },
  {
   "id": "SCENARIO/025/00416",
@@ -98,7 +98,7 @@
    "大丈夫だよエクサル",
    "ちゃんと信じてるってば"
   ],
-  "en": ""
+  "en": "Ahahaha. Relax, Exal, I believe you, really."
  },
  {
   "id": "SCENARIO/025/0046c",
@@ -108,7 +108,7 @@
    "今のは絶対、心にもない言葉を",
    "吐いてる時の笑顔だ！！"
   ],
-  "en": ""
+  "en": "Damn it! That's the smile you make when you don't mean a word of it!!"
  },
  {
   "id": "SCENARIO/025/004c8",
@@ -116,7 +116,7 @@
   "jp": [
    "あはははは"
   ],
-  "en": ""
+  "en": "Ahahaha."
  },
  {
   "id": "SCENARIO/025/00506",
@@ -125,7 +125,7 @@
    "うん、こういう時は",
    "ダリアさんに聞いてみよう！"
   ],
-  "en": ""
+  "en": "Yeah, at times like this, let's ask Dahlia-san!"
  },
  {
   "id": "SCENARIO/025/0055e",
@@ -133,7 +133,7 @@
   "jp": [
    "！？"
   ],
-  "en": ""
+  "en": "!?"
  },
  {
   "id": "SCENARIO/025/0057c",
@@ -141,7 +141,7 @@
   "jp": [
    "ダリアさーん"
   ],
-  "en": ""
+  "en": "Dahlia-saaan!"
  },
  {
   "id": "SCENARIO/025/00632",
@@ -149,7 +149,7 @@
   "jp": [
    "なんだい坊や？"
   ],
-  "en": ""
+  "en": "What is it, kiddo?"
  },
  {
   "id": "SCENARIO/025/0065c",
@@ -158,7 +158,7 @@
    "エクサルって怖い話が苦手だよね",
    "いつからそうなっちゃったの？"
   ],
-  "en": ""
+  "en": "Exal's bad with scary stories, right? When did he get like that?"
  },
  {
   "id": "SCENARIO/025/006c2",
@@ -167,7 +167,7 @@
    "ああ、それは・・・",
    "あたし達の責任かもしれないねぇ"
   ],
-  "en": ""
+  "en": "Ah, that... That might be our fault."
  },
  {
   "id": "SCENARIO/025/0071e",
@@ -175,7 +175,7 @@
   "jp": [
    "ダリアさん達のせい？"
   ],
-  "en": ""
+  "en": "Your fault?"
  },
  {
   "id": "SCENARIO/025/0074c",
@@ -184,7 +184,7 @@
    "サイファーパンクのメンバーが",
    "エクサルをからかってね"
   ],
-  "en": ""
+  "en": "The Cypherpunk members used to tease Exal, you see."
  },
  {
   "id": "SCENARIO/025/00794",
@@ -194,7 +194,7 @@
    "怖い話を聞かせて遊んでいたから",
    "恐がりになっちまったんだよ"
   ],
-  "en": ""
+  "en": "As a kid they'd gang up on him with scary stories for fun. Made him a scaredy-cat."
  },
  {
   "id": "SCENARIO/025/00816",
@@ -202,7 +202,7 @@
   "jp": [
    "そんなことが・・・"
   ],
-  "en": ""
+  "en": "That happened..."
  },
  {
   "id": "SCENARIO/025/00844",
@@ -211,7 +211,7 @@
    "まさかここまで苦手になるとは",
    "誰も思っていなかったからね"
   ],
-  "en": ""
+  "en": "Nobody ever imagined he'd end up this bad with them."
  },
  {
   "id": "SCENARIO/025/00898",
@@ -221,7 +221,7 @@
    "誰かの腕にぎゅーって掴まり",
    "ながら、最後まで話を聞くんだよ"
   ],
-  "en": ""
+  "en": "Scared out of his wits, but he'd cling to someone's arm and listen to the very end."
  },
  {
   "id": "SCENARIO/025/00916",
@@ -231,7 +231,7 @@
    "可愛くて可愛くて・・・",
    "つい苛めすぎたかもしれないねぇ"
   ],
-  "en": ""
+  "en": "That face, like he'd cry any second, was just too cute... Maybe we overdid it a bit."
  },
  {
   "id": "SCENARIO/025/00a34",
@@ -240,7 +240,7 @@
    "幼気な子供を玩んでおきながら",
    "この調子なんだぜ？"
   ],
-  "en": ""
+  "en": "She toyed with an innocent kid, and this is her attitude?"
  },
  {
   "id": "SCENARIO/025/00a78",
@@ -249,7 +249,7 @@
    "カイン",
    "こういう大人は信じちゃダメだぞ"
   ],
-  "en": ""
+  "en": "Cain, never trust grown-ups like this."
  },
  {
   "id": "SCENARIO/025/00ab4",
@@ -258,7 +258,7 @@
    "どうせ、口で言うほど",
    "反省なんかしてないんだ"
   ],
-  "en": ""
+  "en": "She's not half as sorry as she says."
  },
  {
   "id": "SCENARIO/025/00b18",
@@ -268,7 +268,7 @@
    "あんたは普段、反省とやらが",
    "できているのかい？"
   ],
-  "en": ""
+  "en": "Oh my. You're one to talk. Since when do you ever reflect on anything?"
  },
  {
   "id": "SCENARIO/025/00c12",
@@ -276,7 +276,7 @@
   "jp": [
    "あはははは・・・"
   ],
-  "en": ""
+  "en": "Ahahaha..."
  },
  {
   "id": "SCENARIO/025/00c34",
@@ -285,7 +285,7 @@
    "お、俺ちょっと野暮用が・・・",
    "それじゃあな！！！"
   ],
-  "en": ""
+  "en": "I-I just remembered an errand... See ya!!"
  },
  {
   "id": "SCENARIO/025/00c96",
@@ -294,7 +294,7 @@
    "やれやれ、逃げ足だけは",
    "早いんだから"
   ],
-  "en": ""
+  "en": "Good grief. Quick on his feet when it comes to running away."
  },
  {
   "id": "SCENARIO/025/00cde",
@@ -304,7 +304,7 @@
    "これっぽっちもしていないのは",
    "本当のことだけどね"
   ],
-  "en": ""
+  "en": "...Well, it's true I'm not the least bit sorry, mind you."
  },
  {
   "id": "SCENARIO/025/00d4a",
@@ -314,7 +314,7 @@
    "なかった子供が、笑ったり",
    "怒ったりするようになったら"
   ],
-  "en": ""
+  "en": "When a child who couldn't talk or laugh starts laughing and getting angry,"
  },
  {
   "id": "SCENARIO/025/00dbe",
@@ -324,7 +324,7 @@
    "＜表情＞を見せて欲しいって",
    "思ってしまうものさ"
   ],
-  "en": ""
+  "en": "anyone would want to see every expression he's got. That's only natural."
  },
  {
   "id": "SCENARIO/025/00e54",
@@ -332,7 +332,7 @@
   "jp": [
    "それって・・・"
   ],
-  "en": ""
+  "en": "You mean..."
  },
  {
   "id": "SCENARIO/025/00e7c",
@@ -340,7 +340,7 @@
   "jp": [
    "あの子にもいろいろあったんだよ"
   ],
-  "en": ""
+  "en": "That boy's been through a lot."
  },
  {
   "id": "SCENARIO/025/00eba",
@@ -348,7 +348,7 @@
   "jp": [
    "いろいろね・・・"
   ],
-  "en": ""
+  "en": "A whole lot..."
  },
  {
   "id": "SCENARIO/025/00ef2",
@@ -356,7 +356,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/025/00f26",
@@ -365,7 +365,7 @@
    "人の数だけ不幸があるからね",
    "坊やが気にする必要もないことさ"
   ],
-  "en": ""
+  "en": "There's a sorrow for every soul alive. Nothing you need to fret over, kiddo."
  },
  {
   "id": "SCENARIO/025/00f74",
@@ -374,7 +374,7 @@
    "いつか話したくなったら",
    "あの子から話してくれるはずだよ"
   ],
-  "en": ""
+  "en": "When he feels like talking someday, he'll tell you himself."
  },
  {
   "id": "SCENARIO/025/00fd6",
@@ -382,12 +382,12 @@
   "jp": [
    "うん"
   ],
-  "en": ""
+  "en": "Yeah."
  },
  {
   "id": "SCENARIO/025/04b2c",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/025/04b3a",
@@ -395,12 +395,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/025/04b52",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/025/04b62",
@@ -408,6 +408,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

@@ -6,7 +6,7 @@
    "おはようカイン",
    "よく眠れたかい？"
   ],
-  "en": ""
+  "en": "Morning, Cain. Sleep well?"
  },
  {
   "id": "SCENARIO/136/00158",
@@ -14,7 +14,7 @@
   "jp": [
    "・・・うん、少しは"
   ],
-  "en": ""
+  "en": "...Yeah, a little."
  },
  {
   "id": "SCENARIO/136/00192",
@@ -24,7 +24,7 @@
    "ここのところ色々ごたついて",
    "いたからねぇ・・"
   ],
-  "en": ""
+  "en": "No wonder. Things have been one mess after another lately..."
  },
  {
   "id": "SCENARIO/136/001f2",
@@ -33,7 +33,7 @@
    "少し振り返って",
    "情報を整理してみるかい？"
   ],
-  "en": ""
+  "en": "Want to look back a bit and sort out what we know?"
  },
  {
   "id": "SCENARIO/136/00240",
@@ -41,18 +41,18 @@
   "jp": [
    "どうする？"
   ],
-  "en": "",
+  "en": "What will you do?",
   "spill": false
  },
  {
   "id": "SCENARIO/136/00252",
   "jp": "　思い出してみる",
-  "en": ""
+  "en": "Think back"
  },
  {
   "id": "SCENARIO/136/0026c",
   "jp": "　思い出さない",
-  "en": ""
+  "en": "Don't bother"
  },
  {
   "id": "SCENARIO/136/002a6",
@@ -61,17 +61,17 @@
    "ええと、なんて言ったかい",
    "あの気持ち悪い化け物"
   ],
-  "en": ""
+  "en": "Let's see, what was it called... that creepy monster."
  },
  {
   "id": "SCENARIO/136/002ea",
   "jp": "　パスカのこと？",
-  "en": ""
+  "en": "The Pasca?"
  },
  {
   "id": "SCENARIO/136/00304",
   "jp": "　白い化け物のこと？",
-  "en": ""
+  "en": "The white monsters?"
  },
  {
   "id": "SCENARIO/136/00334",
@@ -79,7 +79,7 @@
   "jp": [
    "パスカのこと？"
   ],
-  "en": ""
+  "en": "The Pasca?"
  },
  {
   "id": "SCENARIO/136/0036a",
@@ -88,7 +88,7 @@
    "そうそう、パスカ",
    "死骸を食べる悪魔だってねぇ"
   ],
-  "en": ""
+  "en": "That's it, the Pasca. Demons that eat corpses, they say."
  },
  {
   "id": "SCENARIO/136/003ac",
@@ -97,7 +97,7 @@
    "そいつを操ってる悪魔が",
    "確か・・・アラギ"
   ],
-  "en": ""
+  "en": "And the demon controlling them was... Aragi, wasn't it."
  },
  {
   "id": "SCENARIO/136/003fe",
@@ -106,7 +106,7 @@
    "うん、ルカとザイオンが",
    "捜している相手だよ"
   ],
-  "en": ""
+  "en": "Yeah. He's the one Luca and Zion are looking for."
  },
  {
   "id": "SCENARIO/136/0043c",
@@ -116,7 +116,7 @@
    "マティアが＜インセスト＞だから",
    "さらおうとしたんだ"
   ],
-  "en": ""
+  "en": "Back when I was on Kibotos, he tried to take Matia because she's an Incest."
  },
  {
   "id": "SCENARIO/136/004b6",
@@ -126,7 +126,7 @@
    "教団の天使ベイルに",
    "さらわれてしまった"
   ],
-  "en": ""
+  "en": "And in the end, she was taken by Bale, the Church angel who saved her from him."
  },
  {
   "id": "SCENARIO/136/00514",
@@ -134,7 +134,7 @@
   "jp": [
    "・・・そうだったよね？"
   ],
-  "en": ""
+  "en": "...That's right, isn't it?"
  },
  {
   "id": "SCENARIO/136/00552",
@@ -142,7 +142,7 @@
   "jp": [
    "・・・うん"
   ],
-  "en": ""
+  "en": "...Yeah."
  },
  {
   "id": "SCENARIO/136/00582",
@@ -150,7 +150,7 @@
   "jp": [
    "白い化け物のこと？"
   ],
-  "en": ""
+  "en": "The white monsters?"
  },
  {
   "id": "SCENARIO/136/005be",
@@ -160,7 +160,7 @@
    "サイファーパンクが掴んだ情報",
    "によれば、"
   ],
-  "en": ""
+  "en": "That's it. According to what Cypherpunk has dug up,"
  },
  {
   "id": "SCENARIO/136/00608",
@@ -170,7 +170,7 @@
    "探っているらしいけど",
    "その正体は謎に包まれたまま"
   ],
-  "en": ""
+  "en": "the Church is frantically investigating too, but what they are is still a mystery."
  },
  {
   "id": "SCENARIO/136/0066c",
@@ -179,7 +179,7 @@
    "なんでも＜エンブリオン＞",
    "って名前で呼ばれているらしいよ"
   ],
-  "en": ""
+  "en": "Apparently they go by the name \"Embryon.\""
  },
  {
   "id": "SCENARIO/136/006ce",
@@ -187,7 +187,7 @@
   "jp": [
    "＜エンブリオン＞・・"
   ],
-  "en": ""
+  "en": "Embryon..."
  },
  {
   "id": "SCENARIO/136/006f4",
@@ -196,7 +196,7 @@
    "教会を襲って＜インセスト＞の",
    "リリスを連れ去ってしまったんだ"
   ],
-  "en": ""
+  "en": "They attacked the church and carried off Lilis, an Incest."
  },
  {
   "id": "SCENARIO/136/0075a",
@@ -204,7 +204,7 @@
   "jp": [
    "シリアには気の毒だったね"
   ],
-  "en": ""
+  "en": "Poor Syria."
  },
  {
   "id": "SCENARIO/136/0079a",
@@ -213,7 +213,7 @@
    "マティアやリリス・・・",
    "みんな助けてあげたい"
   ],
-  "en": ""
+  "en": "Matia, Lilis... I want to save them all."
  },
  {
   "id": "SCENARIO/136/007fa",
@@ -223,7 +223,7 @@
    "なんなんだろうねぇ？",
    "いろんなものに狙われて・・・"
   ],
-  "en": ""
+  "en": "Still, what ARE these Incests, anyway? Everyone and everything's after them..."
  },
  {
   "id": "SCENARIO/136/00864",
@@ -231,7 +231,7 @@
   "jp": [
    "何かすごい力でもあるのかねぇ？"
   ],
-  "en": ""
+  "en": "Do they have some amazing power or something?"
  },
  {
   "id": "SCENARIO/136/008aa",
@@ -241,7 +241,7 @@
    "風や木々の声を聞けたけど",
    "それだけだよ・・・"
   ],
-  "en": ""
+  "en": "Matia could hear the voices of the wind and the trees, but that was all..."
  },
  {
   "id": "SCENARIO/136/00904",
@@ -249,7 +249,7 @@
   "jp": [
    "風や木々の声を聞く？"
   ],
-  "en": ""
+  "en": "Hear the wind and the trees?"
  },
  {
   "id": "SCENARIO/136/00934",
@@ -259,7 +259,7 @@
    "天気が変わるのが分かったり",
    "そういう力だよ"
   ],
-  "en": ""
+  "en": "Yeah. Listening to the wind and trees, she could tell when the weather would change."
  },
  {
   "id": "SCENARIO/136/009aa",
@@ -269,7 +269,7 @@
    "天使や悪魔が奪い合ってまで",
    "欲しがる力ではなさそうだねぇ"
   ],
-  "en": ""
+  "en": "Hmm, an odd power, but hardly one angels and demons would fight each other over."
  },
  {
   "id": "SCENARIO/136/00a1c",
@@ -277,7 +277,7 @@
   "jp": [
    "そうだね"
   ],
-  "en": ""
+  "en": "Yeah."
  },
  {
   "id": "SCENARIO/136/00a4e",
@@ -286,7 +286,7 @@
    "ああ、それはそうと",
    "翼の具合はどうなんだい？"
   ],
-  "en": ""
+  "en": "Oh, by the way, how are your wings doing?"
  },
  {
   "id": "SCENARIO/136/00aa6",
@@ -294,7 +294,7 @@
   "jp": [
    "大丈夫、もう痛くないよ"
   ],
-  "en": ""
+  "en": "I'm fine. They don't hurt anymore."
  },
  {
   "id": "SCENARIO/136/00ae6",
@@ -302,7 +302,7 @@
   "jp": [
    "そうかい、それならいいけどね"
   ],
-  "en": ""
+  "en": "Is that so? Well, good, then."
  },
  {
   "id": "SCENARIO/136/00b22",
@@ -311,7 +311,7 @@
    "坊や、アベルって子に会うたびに",
    "翼が痛いって言うからねぇ"
   ],
-  "en": ""
+  "en": "You say your wings hurt every time you meet that Abel boy, kiddo."
  },
  {
   "id": "SCENARIO/136/00b86",
@@ -319,7 +319,7 @@
   "jp": [
    "え？"
   ],
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "SCENARIO/136/00ba4",
@@ -329,7 +329,7 @@
    "二回とも、そのアベルって子に",
    "会った後のことだよ"
   ],
-  "en": ""
+  "en": "Both times you said your wings hurt, it was right after meeting that Abel boy."
  },
  {
   "id": "SCENARIO/136/00c1a",
@@ -338,7 +338,7 @@
    "翼が痛くなった時・・・",
    "そっか、気付かなかった"
   ],
-  "en": ""
+  "en": "When my wings hurt... Oh. I hadn't noticed."
  },
  {
   "id": "SCENARIO/136/00c64",
@@ -348,7 +348,7 @@
    "こう色々あると、何にでも関連が",
    "ありそうな気がしてくるからねぇ"
   ],
-  "en": ""
+  "en": "Could be coincidence. But with all that's going on, everything starts to feel linked."
  },
  {
   "id": "SCENARIO/136/00cdc",
@@ -356,7 +356,7 @@
   "jp": [
    "どうして、そう思うの？"
   ],
-  "en": ""
+  "en": "Why do you think that?"
  },
  {
   "id": "SCENARIO/136/00d1a",
@@ -364,7 +364,7 @@
   "jp": [
    "女の勘ってやつだよ"
   ],
-  "en": ""
+  "en": "Call it a woman's intuition."
  },
  {
   "id": "SCENARIO/136/00d48",
@@ -372,7 +372,7 @@
   "jp": [
    "女の勘？"
   ],
-  "en": ""
+  "en": "A woman's intuition?"
  },
  {
   "id": "SCENARIO/136/00d7a",
@@ -381,7 +381,7 @@
    "そうさ、女の勘の鋭さは",
    "世の男たちが証人だよ"
   ],
-  "en": ""
+  "en": "That's right. Every man alive can testify how sharp it is."
  },
  {
   "id": "SCENARIO/136/00dc4",
@@ -389,7 +389,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/136/00e08",
@@ -398,7 +398,7 @@
    "まぁ、色々あって頭の中も",
    "こんがらがってるだろうからねぇ"
   ],
-  "en": ""
+  "en": "Well, with all that's happened, your head must be in a tangle."
  },
  {
   "id": "SCENARIO/136/00e62",
@@ -407,7 +407,7 @@
    "気分転換に",
    "散歩にでも行っておいで"
   ],
-  "en": ""
+  "en": "Go take a walk or something, clear your head."
  },
  {
   "id": "SCENARIO/136/00eae",
@@ -415,12 +415,12 @@
   "jp": [
    "うん、ありがと"
   ],
-  "en": ""
+  "en": "Yeah. Thanks."
  },
  {
   "id": "SCENARIO/136/04a38",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/136/04a46",
@@ -428,12 +428,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/136/04a5e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/136/04a6e",
@@ -441,6 +441,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

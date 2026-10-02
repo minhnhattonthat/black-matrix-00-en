@@ -2,7 +2,7 @@
  {
   "id": "SCENARIO/135/00040",
   "jp": "ここまでをセーブしますか？",
-  "en": ""
+  "en": "Save your progress so far?"
  },
  {
   "id": "SCENARIO/135/00198",
@@ -12,7 +12,7 @@
    "マティアと過ごす",
    "当たり前の幸せに"
   ],
-  "en": ""
+  "en": "Back on Kibotos, the everyday happiness of being with Matia..."
  },
  {
   "id": "SCENARIO/135/00202",
@@ -20,7 +20,7 @@
   "jp": [
    "何の疑問も持たなかった"
   ],
-  "en": ""
+  "en": "I never questioned it for a moment."
  },
  {
   "id": "SCENARIO/135/00246",
@@ -30,7 +30,7 @@
    "もっと遠い世界の話だと",
    "思っていたのに"
   ],
-  "en": ""
+  "en": "Angels and demons... I thought all that was some far-off world."
  },
  {
   "id": "SCENARIO/135/002ae",
@@ -38,7 +38,7 @@
   "jp": [
    "でも、これは現実なんだ"
   ],
-  "en": ""
+  "en": "But this is real."
  },
  {
   "id": "SCENARIO/135/002f2",
@@ -47,7 +47,7 @@
    "マティア・・",
    "キミに逢いたい"
   ],
-  "en": ""
+  "en": "Matia... I want to see you."
  },
  {
   "id": "SCENARIO/135/0033e",
@@ -56,12 +56,12 @@
    "ボクは、あの穏やかな日々を",
    "取り戻すことが出来るのかな？"
   ],
-  "en": ""
+  "en": "Can I ever get those peaceful days back?"
  },
  {
   "id": "SCENARIO/135/03f18",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/135/03f26",
@@ -69,12 +69,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/135/03f3e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/135/03f4e",
@@ -82,6 +82,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

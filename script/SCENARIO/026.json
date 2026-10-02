@@ -6,7 +6,7 @@
    "ボーナスシナリオ　６",
    "＜手合わせ＞"
   ],
-  "en": "",
+  "en": "Bonus Scenario 6\nSparring",
   "spill": false
  },
  {
@@ -16,7 +16,7 @@
    "へー・・・",
    "こんな場所があったなんて"
   ],
-  "en": ""
+  "en": "Huh... I never knew there was a place like this."
  },
  {
   "id": "SCENARIO/026/001d4",
@@ -25,7 +25,7 @@
    "軽く運動するには",
    "ちょうどいい場所だろ？"
   ],
-  "en": ""
+  "en": "Perfect spot for a little exercise, right?"
  },
  {
   "id": "SCENARIO/026/0023a",
@@ -35,7 +35,7 @@
    "肩慣らしがしたいんだけど",
    "どっちか付き合ってくれない？"
   ],
-  "en": ""
+  "en": "It is. I'd like to loosen up a bit myself. One of you care to spar with me?"
  },
  {
   "id": "SCENARIO/026/0029c",
@@ -44,7 +44,7 @@
    "カインでもエクサルでも",
    "どちらでもいいわよ"
   ],
-  "en": ""
+  "en": "Cain or Exal, either's fine."
  },
  {
   "id": "SCENARIO/026/002fc",
@@ -52,18 +52,18 @@
   "jp": [
    "それじゃあ"
   ],
-  "en": "",
+  "en": "Well then,",
   "spill": false
  },
  {
   "id": "SCENARIO/026/0030e",
   "jp": "　ボクが相手になるよ",
-  "en": ""
+  "en": "I'll be your partner"
  },
  {
   "id": "SCENARIO/026/0032c",
   "jp": "　エクサルを推薦する",
-  "en": ""
+  "en": "I nominate Exal"
  },
  {
   "id": "SCENARIO/026/00378",
@@ -72,7 +72,7 @@
    "それじゃあ",
    "ボクが相手になるよ"
   ],
-  "en": ""
+  "en": "Then I'll be your partner."
  },
  {
   "id": "SCENARIO/026/003c2",
@@ -80,7 +80,7 @@
   "jp": [
    "ええ、お願いするわ"
   ],
-  "en": ""
+  "en": "All right, let's go."
  },
  {
   "id": "SCENARIO/026/004c4",
@@ -88,7 +88,7 @@
   "jp": [
    "うわぁっ！！！"
   ],
-  "en": ""
+  "en": "Waaah!!"
  },
  {
   "id": "SCENARIO/026/0051a",
@@ -96,7 +96,7 @@
   "jp": [
    "勝負あったわね"
   ],
-  "en": ""
+  "en": "That settles it."
  },
  {
   "id": "SCENARIO/026/00588",
@@ -106,7 +106,7 @@
    "さすが元僧兵、強いな",
    "あのカインに勝っちまった"
   ],
-  "en": ""
+  "en": "Whoa! That's an ex-monk soldier for you. You beat Cain himself."
  },
  {
   "id": "SCENARIO/026/005ea",
@@ -116,7 +116,7 @@
    "本番じゃないと実力が出せない",
    "タイプだわ"
   ],
-  "en": ""
+  "en": "Cain's no good. He's the type who only shows his real strength when it counts."
  },
  {
   "id": "SCENARIO/026/00660",
@@ -124,7 +124,7 @@
   "jp": [
    "うぅ～・・・"
   ],
-  "en": ""
+  "en": "Uuugh..."
  },
  {
   "id": "SCENARIO/026/00696",
@@ -134,7 +134,7 @@
    "相手に本気を出させることが",
    "出来ないうちは半人前だわ"
   ],
-  "en": ""
+  "en": "But I've a ways to go. Till I can make an opponent go all out, I'm only half-trained."
  },
  {
   "id": "SCENARIO/026/00720",
@@ -142,7 +142,7 @@
   "jp": [
    "へぇ～、格好いいなぁ"
   ],
-  "en": ""
+  "en": "Huh, that's pretty cool."
  },
  {
   "id": "SCENARIO/026/00756",
@@ -152,7 +152,7 @@
    "半人前だなんて、なかなか言える",
    "セリフじゃないぜ？"
   ],
-  "en": ""
+  "en": "Not many could say \"you're half-trained till you can draw out your opponent's best.\""
  },
  {
   "id": "SCENARIO/026/007d6",
@@ -160,7 +160,7 @@
   "jp": [
    "師匠からの受け売りよ"
   ],
-  "en": ""
+  "en": "I'm just parroting my master."
  },
  {
   "id": "SCENARIO/026/0081e",
@@ -168,7 +168,7 @@
   "jp": [
    "ボクよりエクサルの方がいいよ"
   ],
-  "en": ""
+  "en": "Exal would be better than me."
  },
  {
   "id": "SCENARIO/026/00862",
@@ -177,7 +177,7 @@
    "それじゃあ、カインおすすめの",
    "エクサルにお願いしようかしら？"
   ],
-  "en": ""
+  "en": "Then shall I ask Exal, on Cain's recommendation?"
  },
  {
   "id": "SCENARIO/026/008dc",
@@ -187,7 +187,7 @@
    "手加減なんて器用なマネは",
    "出来ないぜ？"
   ],
-  "en": ""
+  "en": "Fine by me, but I'm not good at pulling my punches, you know?"
  },
  {
   "id": "SCENARIO/026/0093e",
@@ -196,7 +196,7 @@
    "あら心外ね",
    "手加減なんて必要ないわ"
   ],
-  "en": ""
+  "en": "Oh, I'm insulted. There's no need to hold back."
  },
  {
   "id": "SCENARIO/026/00982",
@@ -206,7 +206,7 @@
    "手合わせだったら、慣れている",
    "から大丈夫"
   ],
-  "en": ""
+  "en": "Besides, I'm used to sparring with people who can't hold back. I'll be fine."
  },
  {
   "id": "SCENARIO/026/009f6",
@@ -214,7 +214,7 @@
   "jp": [
    "じゃ、遠慮無くいくぜ！"
   ],
-  "en": ""
+  "en": "Then I won't hold back!"
  },
  {
   "id": "SCENARIO/026/00a36",
@@ -222,7 +222,7 @@
   "jp": [
    "ええ、こっちも本気でいくわよ！"
   ],
-  "en": ""
+  "en": "Good. I'm coming at you for real too!"
  },
  {
   "id": "SCENARIO/026/00b44",
@@ -230,7 +230,7 @@
   "jp": [
    "うわっ！！！"
   ],
-  "en": ""
+  "en": "Waah!!"
  },
  {
   "id": "SCENARIO/026/00b9a",
@@ -238,7 +238,7 @@
   "jp": [
    "勝負あったわね"
   ],
-  "en": ""
+  "en": "That settles it."
  },
  {
   "id": "SCENARIO/026/00c08",
@@ -247,7 +247,7 @@
    "うわぁ・・・",
    "強いんだね、ステイエン"
   ],
-  "en": ""
+  "en": "Wow... You're strong, Stayen."
  },
  {
   "id": "SCENARIO/026/00c56",
@@ -256,7 +256,7 @@
    "あたしなんか",
    "たいしたことないわ"
   ],
-  "en": ""
+  "en": "Oh, I'm nothing special."
  },
  {
   "id": "SCENARIO/026/00cb4",
@@ -266,7 +266,7 @@
    "そんな風に言われちまったら",
    "負けた俺の立場がないって"
   ],
-  "en": ""
+  "en": "Hey now, if you put it like that, where does that leave me, the loser?"
  },
  {
   "id": "SCENARIO/026/00d1e",
@@ -276,7 +276,7 @@
    "本気で戦ってなんかいなかった",
    "くせに"
   ],
-  "en": ""
+  "en": "Oh please. You weren't even fighting seriously."
  },
  {
   "id": "SCENARIO/026/00d7e",
@@ -284,7 +284,7 @@
   "jp": [
    "一応、本気は出したつもりだぜ？"
   ],
-  "en": ""
+  "en": "I was trying, for the record."
  },
  {
   "id": "SCENARIO/026/00dbe",
@@ -294,7 +294,7 @@
    "死力を尽くせって言われても",
    "無理だけどな"
   ],
-  "en": ""
+  "en": "Well, nobody can fight to the death in a peaceful setting like this, though."
  },
  {
   "id": "SCENARIO/026/00e2a",
@@ -302,7 +302,7 @@
   "jp": [
    "それもそうね"
   ],
-  "en": ""
+  "en": "True enough."
  },
  {
   "id": "SCENARIO/026/00e56",
@@ -312,7 +312,7 @@
    "腕を上げれば上げるほど",
    "あの人を遠く感じる・・・"
   ],
-  "en": ""
+  "en": "But it's frustrating. The better I get, the further away that person feels..."
  },
  {
   "id": "SCENARIO/026/00ed4",
@@ -320,7 +320,7 @@
   "jp": [
    "あの人？"
   ],
-  "en": ""
+  "en": "That person?"
  },
  {
   "id": "SCENARIO/026/00f06",
@@ -329,7 +329,7 @@
    "あたしに剣を教えてくれた人",
    "あたしの師匠よ"
   ],
-  "en": ""
+  "en": "The one who taught me the sword. My master."
  },
  {
   "id": "SCENARIO/026/00f96",
@@ -337,7 +337,7 @@
   "jp": [
    "師匠って、もしかして・・・"
   ],
-  "en": ""
+  "en": "Your master... you don't mean..."
  },
  {
   "id": "SCENARIO/026/00fda",
@@ -346,7 +346,7 @@
    "そうよ、アンタたちも",
    "戦ったことがある、あの人のこと"
   ],
-  "en": ""
+  "en": "That's right. The one you two have fought before."
  },
  {
   "id": "SCENARIO/026/01032",
@@ -355,7 +355,7 @@
    "クレイス様・・・",
    "今頃どうしているのかしら"
   ],
-  "en": ""
+  "en": "Kreis-sama... I wonder how he's doing now."
  },
  {
   "id": "SCENARIO/026/01098",
@@ -364,7 +364,7 @@
    "・・・あのさ、お前もしかして",
    "アイツのこと好きだったとか？"
   ],
-  "en": ""
+  "en": "...Hey, don't tell me you had a thing for him?"
  },
  {
   "id": "SCENARIO/026/010fe",
@@ -374,7 +374,7 @@
    "今でも尊敬してるだけ",
    "そういうのじゃないわよ！！"
   ],
-  "en": ""
+  "en": "D-don't get the wrong idea!! I just respect him, that's all. It's not like that!!"
  },
  {
   "id": "SCENARIO/026/01176",
@@ -383,7 +383,7 @@
    "・・・わ、わかったから",
    "そんなに怒るなよ"
   ],
-  "en": ""
+  "en": "...O-okay, okay. Don't get so mad."
  },
  {
   "id": "SCENARIO/026/011ca",
@@ -392,7 +392,7 @@
    "第一、恋心を抱くには",
    "部下として苦労を味わい過ぎたわ"
   ],
-  "en": ""
+  "en": "Besides, I suffered too much under him as a subordinate to fall for him."
  },
  {
   "id": "SCENARIO/026/0123c",
@@ -400,7 +400,7 @@
   "jp": [
    "苦労を味わいすぎた？"
   ],
-  "en": ""
+  "en": "Suffered too much?"
  },
  {
   "id": "SCENARIO/026/0126c",
@@ -410,7 +410,7 @@
    "クレイス様はむしろ、手のかかる",
    "＜兄＞のような存在だったわ"
   ],
-  "en": ""
+  "en": "If you ask me, Kreis-sama was more like a high-maintenance big brother."
  },
  {
   "id": "SCENARIO/026/012e6",
@@ -418,7 +418,7 @@
   "jp": [
    "手のかかる、お兄さん？"
   ],
-  "en": ""
+  "en": "A high-maintenance big brother?"
  },
  {
   "id": "SCENARIO/026/01318",
@@ -427,7 +427,7 @@
    "自分に無頓着すぎる人だから",
    "放っておくと大変なのよ"
   ],
-  "en": ""
+  "en": "He never looks after himself. Leave him alone and it's a disaster."
  },
  {
   "id": "SCENARIO/026/01360",
@@ -437,7 +437,7 @@
    "時間はすべて剣の腕をみがく",
    "ために費やしているし"
   ],
-  "en": ""
+  "en": "For one, every waking moment beyond the bare minimum of rest goes to sword practice."
  },
  {
   "id": "SCENARIO/026/013c4",
@@ -447,7 +447,7 @@
    "何でもイイとか言って、乾燥した",
    "携帯食とかを食べるのよ？"
   ],
-  "en": ""
+  "en": "And meals? He says anything with nutrients will do, and eats dried field rations!"
  },
  {
   "id": "SCENARIO/026/01434",
@@ -457,7 +457,7 @@
    "主食に出来るのは、",
    "クレイス様だけだと思うわ"
   ],
-  "en": ""
+  "en": "Only Kreis-sama could live on something that tasteless."
  },
  {
   "id": "SCENARIO/026/014a6",
@@ -467,7 +467,7 @@
    "テーブルを囲んでする食事が",
    "一番いいと思うけど"
   ],
-  "en": ""
+  "en": "Hmm, I think meals around a table with everyone are the best."
  },
  {
   "id": "SCENARIO/026/0151a",
@@ -475,7 +475,7 @@
   "jp": [
    "あたしもそう思うわ"
   ],
-  "en": ""
+  "en": "So do I."
  },
  {
   "id": "SCENARIO/026/01556",
@@ -485,7 +485,7 @@
    "たぶん今も、携帯食をかじって",
    "いるんでしょうね"
   ],
-  "en": ""
+  "en": "Kreis-sama... He's probably gnawing on rations right now."
  },
  {
   "id": "SCENARIO/026/015ac",
@@ -495,7 +495,7 @@
    "面倒みてくれているといいけれど",
    "大丈夫かしら・・・"
   ],
-  "en": ""
+  "en": "I hope someone's looking after him properly in my place. I do wonder..."
  },
  {
   "id": "SCENARIO/026/0163c",
@@ -504,7 +504,7 @@
    "他人の心配も良いけれど",
    "自分のことも心配しろよ"
   ],
-  "en": ""
+  "en": "Worrying about others is fine, but worry about yourself too."
  },
  {
   "id": "SCENARIO/026/0168e",
@@ -514,7 +514,7 @@
    "顧みないっていう意味では",
    "アンタも一緒だぜ"
   ],
-  "en": ""
+  "en": "If you ask me, when it comes to not looking after yourself, you're just the same."
  },
  {
   "id": "SCENARIO/026/01702",
@@ -524,7 +524,7 @@
    "一番危ないのはカインじゃない",
    "かしら？"
   ],
-  "en": ""
+  "en": "Fair, I'll be careful. But isn't Cain the most dangerous one here?"
  },
  {
   "id": "SCENARIO/026/01776",
@@ -533,7 +533,7 @@
    "あ～確かに一番危なっかしいのは",
    "コイツだよな"
   ],
-  "en": ""
+  "en": "Ah, yeah, this guy's definitely the biggest liability."
  },
  {
   "id": "SCENARIO/026/017ce",
@@ -543,7 +543,7 @@
    "あるなんて、世界中でもきっと",
    "カイン一人だけよ"
   ],
-  "en": ""
+  "en": "Nearly dying to shield a demon? You must be the only one in the world, Cain."
  },
  {
   "id": "SCENARIO/026/0185c",
@@ -552,7 +552,7 @@
    "うー・・・",
    "そんなこと言われても"
   ],
-  "en": ""
+  "en": "Ugh... What am I supposed to say to that?"
  },
  {
   "id": "SCENARIO/026/018a6",
@@ -560,7 +560,7 @@
   "jp": [
    "お互い、無茶はほどほどにね"
   ],
-  "en": ""
+  "en": "Let's both go easy on the recklessness, okay?"
  },
  {
   "id": "SCENARIO/026/018ea",
@@ -568,7 +568,7 @@
   "jp": [
    "うん、ステイエンもだよ"
   ],
-  "en": ""
+  "en": "Yeah. You too, Stayen."
  },
  {
   "id": "SCENARIO/026/0192a",
@@ -576,7 +576,7 @@
   "jp": [
    "ええ、わかってるわ"
   ],
-  "en": ""
+  "en": "Yes, I know."
  },
  {
   "id": "SCENARIO/026/0196c",
@@ -585,7 +585,7 @@
    "クレイス様も・・・",
    "どうか無茶はしないで下さいね"
   ],
-  "en": ""
+  "en": "Kreis-sama... please, don't be reckless either."
  },
  {
   "id": "SCENARIO/026/01af0",
@@ -593,7 +593,7 @@
   "jp": [
    "入れ"
   ],
-  "en": ""
+  "en": "Enter."
  },
  {
   "id": "SCENARIO/026/01b30",
@@ -601,7 +601,7 @@
   "jp": [
    "失礼します"
   ],
-  "en": ""
+  "en": "Excuse me."
  },
  {
   "id": "SCENARIO/026/01b62",
@@ -610,7 +610,7 @@
    "リプサリスか・・・",
    "何の用だ？"
   ],
-  "en": ""
+  "en": "Rhipsalis... What do you want?"
  },
  {
   "id": "SCENARIO/026/01baa",
@@ -619,7 +619,7 @@
    "ええ、お見舞いに参りました",
    "傷の方はいかがですか？"
   ],
-  "en": ""
+  "en": "I came to see how you were. How are your wounds?"
  },
  {
   "id": "SCENARIO/026/01c06",
@@ -628,7 +628,7 @@
    "見舞いに来てもらうほどの",
    "傷ではない"
   ],
-  "en": ""
+  "en": "Not bad enough to warrant a visit."
  },
  {
   "id": "SCENARIO/026/01c56",
@@ -636,7 +636,7 @@
   "jp": [
    "そうですか・・・"
   ],
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "SCENARIO/026/01c86",
@@ -645,7 +645,7 @@
    "ところで、お食事の方は",
    "もう済まされましたか？"
   ],
-  "en": ""
+  "en": "By the way, have you eaten yet?"
  },
  {
   "id": "SCENARIO/026/01cde",
@@ -654,7 +654,7 @@
    "いや、まだだが、",
    "それがどうかしたのか？"
   ],
-  "en": ""
+  "en": "No, not yet. What of it?"
  },
  {
   "id": "SCENARIO/026/01d32",
@@ -663,7 +663,7 @@
    "ええ、御一緒にお食事でも",
    "どうかと思いまして"
   ],
-  "en": ""
+  "en": "I thought we might dine together."
  },
  {
   "id": "SCENARIO/026/01d8a",
@@ -673,7 +673,7 @@
    "何故、わざわざ一緒に取る",
    "必要がある？"
   ],
-  "en": ""
+  "en": "One can eat alone. Why go to the trouble of eating together?"
  },
  {
   "id": "SCENARIO/026/01dfa",
@@ -683,7 +683,7 @@
    "貴方の食事が、食事とは呼べない",
    "ものだからですよ"
   ],
-  "en": ""
+  "en": "Because, of course, what you eat cannot be called a meal."
  },
  {
   "id": "SCENARIO/026/01e50",
@@ -693,7 +693,7 @@
    "また携帯食だけ食べる生活に",
    "戻ってるそうじゃないですか"
   ],
-  "en": ""
+  "en": "I hear that since Stayen left, you're back to living on nothing but rations."
  },
  {
   "id": "SCENARIO/026/01ec0",
@@ -701,7 +701,7 @@
   "jp": [
    "栄養面では問題ない"
   ],
-  "en": ""
+  "en": "Nutritionally, there is no problem."
  },
  {
   "id": "SCENARIO/026/01efa",
@@ -711,7 +711,7 @@
    "まったく、そんなんだから",
    "ステイエンに見限られるんですよ"
   ],
-  "en": ""
+  "en": "As a human being, there is a big problem. Honestly, no wonder Stayen gave up on you."
  },
  {
   "id": "SCENARIO/026/01f76",
@@ -720,7 +720,7 @@
    "別にステイエンには",
    "見限られたわけではなく・・・"
   ],
-  "en": ""
+  "en": "Stayen did not give up on me, it was..."
  },
  {
   "id": "SCENARIO/026/01fd2",
@@ -730,7 +730,7 @@
    "お誘いしてありますから",
    "急ぎましょう"
   ],
-  "en": ""
+  "en": "Come, I've invited Bale-sama as well. Let's hurry."
  },
  {
   "id": "SCENARIO/026/02020",
@@ -739,7 +739,7 @@
    "久々に三人での食事も",
    "悪くないとは思いませんか？"
   ],
-  "en": ""
+  "en": "A meal for the three of us, after so long. Not a bad idea, is it?"
  },
  {
   "id": "SCENARIO/026/0207a",
@@ -749,7 +749,7 @@
    "あの年中多忙な男が",
    "よく誘いに応じたものだな"
   ],
-  "en": ""
+  "en": "Bale too? Surprising that man accepted, busy as he always is."
  },
  {
   "id": "SCENARIO/026/020e6",
@@ -758,7 +758,7 @@
    "ベイル様の場合、放っておくと",
    "食事そのものを怠る方ですからね"
   ],
-  "en": ""
+  "en": "Left to himself, Bale-sama neglects eating altogether."
  },
  {
   "id": "SCENARIO/026/02138",
@@ -768,7 +768,7 @@
    "時間を割いて楽しむ食事の良さを",
    "覚えていただきたいものですわ"
   ],
-  "en": ""
+  "en": "I do wish you two would learn the pleasure of taking time to enjoy a meal."
  },
  {
   "id": "SCENARIO/026/021b6",
@@ -776,7 +776,7 @@
   "jp": [
    "胃に入れば全て同じだろう"
   ],
-  "en": ""
+  "en": "Once it's in your stomach, it's all the same."
  },
  {
   "id": "SCENARIO/026/021f6",
@@ -785,7 +785,7 @@
    "そんなことを言ったら",
    "料理長が泣きますわよ"
   ],
-  "en": ""
+  "en": "Say that and the head chef will cry."
  },
  {
   "id": "SCENARIO/026/02242",
@@ -795,7 +795,7 @@
    "信頼おける方々との語らいの",
    "時間は大切なものですわ"
   ],
-  "en": ""
+  "en": "Besides, at a time like this, time spent talking with those you trust is precious."
  },
  {
   "id": "SCENARIO/026/022be",
@@ -804,7 +804,7 @@
    "こんな時・・・",
    "まさか例の計画のことか？"
   ],
-  "en": ""
+  "en": "A time like this... You mean the plan?"
  },
  {
   "id": "SCENARIO/026/02312",
@@ -814,7 +814,7 @@
    "お話になるかもしれませんが",
    "よろしいでしょうか？"
   ],
-  "en": ""
+  "en": "It may not be suitable talk for the dinner table. Will that be all right?"
  },
  {
   "id": "SCENARIO/026/02386",
@@ -822,12 +822,12 @@
   "jp": [
    "・・・わかった、行こう"
   ],
-  "en": ""
+  "en": "...Very well. Let's go."
  },
  {
   "id": "SCENARIO/026/05ef0",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/026/05efe",
@@ -835,12 +835,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/026/05f16",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/026/05f26",
@@ -848,6 +848,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

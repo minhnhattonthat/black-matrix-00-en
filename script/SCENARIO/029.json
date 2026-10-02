@@ -6,7 +6,7 @@
    "ボーナスシナリオ　９",
    "＜灰色の翼＞"
   ],
-  "en": "",
+  "en": "Bonus Scenario 9\nGrey Wings",
   "spill": false
  },
  {
@@ -15,7 +15,7 @@
   "jp": [
    "坊や、丁度いいところに"
   ],
-  "en": ""
+  "en": "Kiddo, perfect timing."
  },
  {
   "id": "SCENARIO/029/001b8",
@@ -23,7 +23,7 @@
   "jp": [
    "どうしたの？"
   ],
-  "en": ""
+  "en": "What's up?"
  },
  {
   "id": "SCENARIO/029/001ee",
@@ -32,7 +32,7 @@
    "ヨハネさんが居ないんだけど",
    "どこに行ったか知らないかい？"
   ],
-  "en": ""
+  "en": "Johannes-san's gone. You know where he went?"
  },
  {
   "id": "SCENARIO/029/00252",
@@ -41,7 +41,7 @@
    "えっ！",
    "また、いなくなったの！？"
   ],
-  "en": ""
+  "en": "What! He's gone again!?"
  },
  {
   "id": "SCENARIO/029/0029e",
@@ -51,7 +51,7 @@
    "ケガだってまだ治っていない",
    "はずなのに・・・"
   ],
-  "en": ""
+  "en": "Oh dear... His wounds can't have healed yet, either..."
  },
  {
   "id": "SCENARIO/029/0030a",
@@ -59,7 +59,7 @@
   "jp": [
    "ヨハネ・・・"
   ],
-  "en": ""
+  "en": "Johannes..."
  },
  {
   "id": "SCENARIO/029/0033e",
@@ -69,7 +69,7 @@
    "あの人のことだから",
    "すぐに戻ってくるよ"
   ],
-  "en": ""
+  "en": "Don't worry. Knowing him, he'll be back soon."
  },
  {
   "id": "SCENARIO/029/0038c",
@@ -77,7 +77,7 @@
   "jp": [
    "うん、そうだよね"
   ],
-  "en": ""
+  "en": "Yeah, you're right."
  },
  {
   "id": "SCENARIO/029/003b0",
@@ -85,7 +85,7 @@
   "jp": [
    "でも・・"
   ],
-  "en": ""
+  "en": "But..."
  },
  {
   "id": "SCENARIO/029/003e2",
@@ -93,7 +93,7 @@
   "jp": [
    "坊や？"
   ],
-  "en": ""
+  "en": "Kiddo?"
  },
  {
   "id": "SCENARIO/029/00412",
@@ -102,7 +102,7 @@
    "こんな時に、",
    "いなくならなくてもいいのに"
   ],
-  "en": ""
+  "en": "He didn't have to disappear at a time like this..."
  },
  {
   "id": "SCENARIO/029/00492",
@@ -110,7 +110,7 @@
   "jp": [
    "カイン・・・"
   ],
-  "en": ""
+  "en": "Cain..."
  },
  {
   "id": "SCENARIO/029/004dc",
@@ -118,7 +118,7 @@
   "jp": [
    "本当は、スゴク怖いんだ！"
   ],
-  "en": ""
+  "en": "The truth is, I'm really scared!"
  },
  {
   "id": "SCENARIO/029/00510",
@@ -128,7 +128,7 @@
    "助けることが出来るのか・・",
    "本当は、スゴク不安なんだ・・・"
   ],
-  "en": ""
+  "en": "Can I really save Matia... The truth is, I'm so unsure..."
  },
  {
   "id": "SCENARIO/029/0057c",
@@ -137,7 +137,7 @@
    "みんながいるから",
    "大丈夫だって信じることが出来た"
   ],
-  "en": ""
+  "en": "I could believe it'd be okay because everyone was here."
  },
  {
   "id": "SCENARIO/029/005c0",
@@ -146,7 +146,7 @@
    "でも、今は・・・みんな",
    "バラバラになっちゃって・・・"
   ],
-  "en": ""
+  "en": "But now... everyone's scattered..."
  },
  {
   "id": "SCENARIO/029/00608",
@@ -154,7 +154,7 @@
   "jp": [
    "ヨハネまで、いないなんてっ！"
   ],
-  "en": ""
+  "en": "And now even Johannes is gone!"
  },
  {
   "id": "SCENARIO/029/00664",
@@ -162,7 +162,7 @@
   "jp": [
    "・・・カイン"
   ],
-  "en": ""
+  "en": "...Cain."
  },
  {
   "id": "SCENARIO/029/0068c",
@@ -171,7 +171,7 @@
    "ごめんなさい・・・",
    "泣くつもりなんてなかったのに"
   ],
-  "en": ""
+  "en": "I'm sorry... I didn't mean to cry."
  },
  {
   "id": "SCENARIO/029/006e6",
@@ -180,7 +180,7 @@
    "バカだねぇ",
    "何を謝るんだい、この子は"
   ],
-  "en": ""
+  "en": "Silly boy. What are you apologizing for?"
  },
  {
   "id": "SCENARIO/029/0072e",
@@ -189,7 +189,7 @@
    "ちょっとくらい",
    "泣いても良いんだよ"
   ],
-  "en": ""
+  "en": "It's all right to cry a little."
  },
  {
   "id": "SCENARIO/029/0077a",
@@ -197,7 +197,7 @@
   "jp": [
    "ダリアさん・・・"
   ],
-  "en": ""
+  "en": "Dahlia-san..."
  },
  {
   "id": "SCENARIO/029/0087a",
@@ -206,7 +206,7 @@
    "今は何も考えない・・・",
    "いいね？"
   ],
-  "en": ""
+  "en": "Don't think about anything right now... All right?"
  },
  {
   "id": "SCENARIO/029/008b8",
@@ -214,7 +214,7 @@
   "jp": [
    "うぅっ、・・・ひっく"
   ],
-  "en": ""
+  "en": "Uuh... hic."
  },
  {
   "id": "SCENARIO/029/008f6",
@@ -223,7 +223,7 @@
    "坊やが頑張っているのは",
    "あたしもよーく知ってるよ"
   ],
-  "en": ""
+  "en": "I know full well how hard you've been trying, kiddo."
  },
  {
   "id": "SCENARIO/029/0093c",
@@ -232,7 +232,7 @@
    "だから、大丈夫・・",
    "大丈夫だよ"
   ],
-  "en": ""
+  "en": "So it's okay... It's okay."
  },
  {
   "id": "SCENARIO/029/00970",
@@ -241,7 +241,7 @@
    "ほんの少しでいい",
    "頑張ってる自分を信じておやり"
   ],
-  "en": ""
+  "en": "Just a little is enough. Believe in the you that's trying so hard."
  },
  {
   "id": "SCENARIO/029/009d0",
@@ -249,7 +249,7 @@
   "jp": [
    "・・・・・・・・・・"
   ],
-  "en": ""
+  "en": ".........."
  },
  {
   "id": "SCENARIO/029/00a00",
@@ -257,7 +257,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/029/00aec",
@@ -266,7 +266,7 @@
    "ただいま～♪",
    "おなかペコペコ～♪"
   ],
-  "en": ""
+  "en": "We're home~! I'm staaarving~!"
  },
  {
   "id": "SCENARIO/029/00b28",
@@ -275,7 +275,7 @@
    "あ、リリスちゃん",
    "待ってよ"
   ],
-  "en": ""
+  "en": "Ah, Lilis-chan, wait up!"
  },
  {
   "id": "SCENARIO/029/00b84",
@@ -284,7 +284,7 @@
    "あれ？",
    "カインどうしちゃったの？"
   ],
-  "en": ""
+  "en": "Huh? What's wrong with Cain?"
  },
  {
   "id": "SCENARIO/029/00bf2",
@@ -293,7 +293,7 @@
    "お帰り・・・",
    "リリス、キロタ・・・"
   ],
-  "en": ""
+  "en": "Welcome back... Lilis, Kilota..."
  },
  {
   "id": "SCENARIO/029/00c50",
@@ -302,7 +302,7 @@
    "どうしたんですか",
    "カインさん？"
   ],
-  "en": ""
+  "en": "What happened to Cain-san?"
  },
  {
   "id": "SCENARIO/029/00c9a",
@@ -311,7 +311,7 @@
    "いろんなことがありすぎて",
    "疲れただけだよ・・・"
   ],
-  "en": ""
+  "en": "Too much has happened. He's just worn out..."
  },
  {
   "id": "SCENARIO/029/00d04",
@@ -320,7 +320,7 @@
    "ほんとだ♪",
    "カイン、寝ちゃってる"
   ],
-  "en": ""
+  "en": "He is! Cain's fast asleep."
  },
  {
   "id": "SCENARIO/029/00d40",
@@ -328,7 +328,7 @@
   "jp": [
    "すぅ・・・すぅ・・・"
   ],
-  "en": ""
+  "en": "Zzz... zzz..."
  },
  {
   "id": "SCENARIO/029/00d7e",
@@ -337,7 +337,7 @@
    "え？",
    "あら、ほんとだ・・・"
   ],
-  "en": ""
+  "en": "Hm? Oh, so he is..."
  },
  {
   "id": "SCENARIO/029/00dd4",
@@ -346,7 +346,7 @@
    "カインさん・・・",
    "泣いていたんですか？"
   ],
-  "en": ""
+  "en": "Cain-san... was he crying?"
  },
  {
   "id": "SCENARIO/029/00e26",
@@ -355,7 +355,7 @@
    "せめて、ヨハネさんが側にいて",
    "くれればよかったんだろうけどね"
   ],
-  "en": ""
+  "en": "If only Johannes-san were here by his side, at least..."
  },
  {
   "id": "SCENARIO/029/00e8e",
@@ -364,7 +364,7 @@
    "ヨハネさん",
    "いないんですか？"
   ],
-  "en": ""
+  "en": "Johannes-san isn't here?"
  },
  {
   "id": "SCENARIO/029/00ed6",
@@ -373,7 +373,7 @@
    "この子が大変な時に",
    "一番に頼れるのが・・・"
   ],
-  "en": ""
+  "en": "The one he can lean on most, when he needs him..."
  },
  {
   "id": "SCENARIO/029/00f22",
@@ -381,7 +381,7 @@
   "jp": [
    "いや、子供に話す事じゃないね"
   ],
-  "en": ""
+  "en": "No, this isn't something to tell children."
  },
  {
   "id": "SCENARIO/029/00f78",
@@ -390,7 +390,7 @@
    "ヨハネさんをつれてくれば、",
    "カインは元気になるの？"
   ],
-  "en": ""
+  "en": "If we bring Johannes-san back, will Cain feel better?"
  },
  {
   "id": "SCENARIO/029/00fd6",
@@ -398,7 +398,7 @@
   "jp": [
    "子供が気にする事じゃないよ"
   ],
-  "en": ""
+  "en": "It's nothing for children to worry about."
  },
  {
   "id": "SCENARIO/029/0101a",
@@ -407,7 +407,7 @@
    "リリス、",
    "ただの子供じゃないもん！"
   ],
-  "en": ""
+  "en": "Lilis isn't just a kid!"
  },
  {
   "id": "SCENARIO/029/0105e",
@@ -416,7 +416,7 @@
    "リリスにだって",
    "出来ること、たくさんあるもん！"
   ],
-  "en": ""
+  "en": "There's lots of things Lilis can do too!"
  },
  {
   "id": "SCENARIO/029/010b6",
@@ -424,7 +424,7 @@
   "jp": [
    "ふふふふっ、ごめんよリリス"
   ],
-  "en": ""
+  "en": "Heh heh heh. Sorry, Lilis."
  },
  {
   "id": "SCENARIO/029/010ec",
@@ -432,7 +432,7 @@
   "jp": [
    "むぅ～"
   ],
-  "en": ""
+  "en": "Hmph~"
  },
  {
   "id": "SCENARIO/029/0111a",
@@ -441,7 +441,7 @@
    "それじゃ、あたしは",
    "この子を寝かせてくるよ"
   ],
-  "en": ""
+  "en": "Well, I'll go put this boy to bed."
  },
  {
   "id": "SCENARIO/029/01180",
@@ -449,7 +449,7 @@
   "jp": [
    "はい、わかりました"
   ],
-  "en": ""
+  "en": "Yes, all right."
  },
  {
   "id": "SCENARIO/029/011ac",
@@ -458,7 +458,7 @@
    "あぁ、後でおやつを",
    "持ってきてあげるからね♪"
   ],
-  "en": ""
+  "en": "Oh, and I'll bring you a snack later!"
  },
  {
   "id": "SCENARIO/029/0121c",
@@ -467,7 +467,7 @@
    "うぅ～",
    "おやつは食べるけど・・・"
   ],
-  "en": ""
+  "en": "Hmm~ I'll eat the snack, but..."
  },
  {
   "id": "SCENARIO/029/01266",
@@ -476,7 +476,7 @@
    "リリスだって",
    "きっと、何かできるもん！"
   ],
-  "en": ""
+  "en": "Lilis can do something too, I know it!"
  },
  {
   "id": "SCENARIO/029/01350",
@@ -486,7 +486,7 @@
    "一体、どうしたの？",
    "こんな所に来て"
   ],
-  "en": ""
+  "en": "Lilis-chan, what's gotten into you? Coming all the way out here..."
  },
  {
   "id": "SCENARIO/029/01398",
@@ -495,7 +495,7 @@
    "ダリアさんが",
    "おやつを用意してくれるって・・"
   ],
-  "en": ""
+  "en": "Dahlia-san said she's getting us a snack..."
  },
  {
   "id": "SCENARIO/029/013e0",
@@ -505,7 +505,7 @@
    "やっぱり、リリス達って",
    "子供なのかな？"
   ],
-  "en": ""
+  "en": "Kilota... are we really just kids, after all?"
  },
  {
   "id": "SCENARIO/029/0143a",
@@ -515,7 +515,7 @@
    "ダリアさんが言ったこと",
    "気にしてるの？"
   ],
-  "en": ""
+  "en": "Lilis-chan... Are you upset about what Dahlia-san said?"
  },
  {
   "id": "SCENARIO/029/014a2",
@@ -524,7 +524,7 @@
    "うん・・・",
    "キロタはどう思う？"
   ],
-  "en": ""
+  "en": "Yeah... What do you think, Kilota?"
  },
  {
   "id": "SCENARIO/029/014ea",
@@ -533,7 +533,7 @@
    "僕かい？",
    "うん、そうだね・・・"
   ],
-  "en": ""
+  "en": "Me? Well, let's see..."
  },
  {
   "id": "SCENARIO/029/0152a",
@@ -543,7 +543,7 @@
    "ダリアさんから見てみれば",
    "僕達は子供だと思うよ"
   ],
-  "en": ""
+  "en": "It stings, but from where Dahlia-san stands, I think we are kids."
  },
  {
   "id": "SCENARIO/029/0159e",
@@ -553,7 +553,7 @@
    "リリス達が子供でも",
    "できることあるよね？"
   ],
-  "en": ""
+  "en": "But, but! Even if we're kids, there's stuff we can do, right?"
  },
  {
   "id": "SCENARIO/029/015f0",
@@ -562,7 +562,7 @@
    "あのね、リリスちゃん・・",
    "子供には子供の領分があるんだ"
   ],
-  "en": ""
+  "en": "Listen, Lilis-chan... Kids have a kid's domain."
  },
  {
   "id": "SCENARIO/029/01652",
@@ -570,7 +570,7 @@
   "jp": [
    "子供のりょうぶん？"
   ],
-  "en": ""
+  "en": "A kid's doe-main?"
  },
  {
   "id": "SCENARIO/029/01680",
@@ -580,7 +580,7 @@
    "はっきりしているっていう",
    "意味だよ"
   ],
-  "en": ""
+  "en": "It means there's a clear line between what we can and can't do."
  },
  {
   "id": "SCENARIO/029/016d4",
@@ -589,7 +589,7 @@
    "僕らインセストは",
    "人の心を感じ取ることが出来る"
   ],
-  "en": ""
+  "en": "We Incests can feel what's in people's hearts."
  },
  {
   "id": "SCENARIO/029/01718",
@@ -598,7 +598,7 @@
    "それは、他の人にはない",
    "特別な力なのかもしれない"
   ],
-  "en": ""
+  "en": "Maybe that's a special power nobody else has."
  },
  {
   "id": "SCENARIO/029/0175c",
@@ -607,7 +607,7 @@
    "でも、やっぱり",
    "僕らは子供なんだ・・"
   ],
-  "en": ""
+  "en": "But in the end, we're kids..."
  },
  {
   "id": "SCENARIO/029/017aa",
@@ -615,7 +615,7 @@
   "jp": [
    "守られる子供でしかないんだッ！"
   ],
-  "en": ""
+  "en": "Nothing but kids who need protecting!"
  },
  {
   "id": "SCENARIO/029/017f2",
@@ -624,7 +624,7 @@
    "キロタはそれでいいの？",
    "リリスは・・そんなのイヤだよ"
   ],
-  "en": ""
+  "en": "Are you fine with that, Kilota? Lilis... Lilis hates it."
  },
  {
   "id": "SCENARIO/029/01852",
@@ -632,7 +632,7 @@
   "jp": [
    "・・・・・・・・"
   ],
-  "en": ""
+  "en": "........"
  },
  {
   "id": "SCENARIO/029/0188a",
@@ -642,7 +642,7 @@
    "みんながバラバラになったのは",
    "リリスのせいなんでしょ？"
   ],
-  "en": ""
+  "en": "I know, you know. Everyone got split up because of me, right?"
  },
  {
   "id": "SCENARIO/029/01902",
@@ -650,7 +650,7 @@
   "jp": [
    "！？"
   ],
-  "en": ""
+  "en": "!?"
  },
  {
   "id": "SCENARIO/029/0192e",
@@ -659,7 +659,7 @@
    "リリス、ここにいたい・・・",
    "みんな、仲良しでいたいの！"
   ],
-  "en": ""
+  "en": "I want to stay here... I want everyone to stay friends!"
  },
  {
   "id": "SCENARIO/029/01978",
@@ -667,7 +667,7 @@
   "jp": [
    "だから、みんなを元気にするの！"
   ],
-  "en": ""
+  "en": "So I'm gonna cheer everyone up!"
  },
  {
   "id": "SCENARIO/029/019a8",
@@ -676,7 +676,7 @@
    "ヨハネさんを見つければ、",
    "カインは元気になるんでしょ？"
   ],
-  "en": ""
+  "en": "If we find Johannes-san, Cain'll feel better, right?"
  },
  {
   "id": "SCENARIO/029/01a02",
@@ -686,7 +686,7 @@
    "子供だから何も出来ないとか、",
    "する前に決めちゃダメなの！"
   ],
-  "en": ""
+  "en": "So... you can't decide kids can't do anything before you even try!"
  },
  {
   "id": "SCENARIO/029/01a76",
@@ -694,7 +694,7 @@
   "jp": [
    "リリスちゃん・・・"
   ],
-  "en": ""
+  "en": "Lilis-chan..."
  },
  {
   "id": "SCENARIO/029/01aa4",
@@ -703,7 +703,7 @@
    "リリス知ってるよ！",
    "子供のことを半人前って言うの！"
   ],
-  "en": ""
+  "en": "Lilis knows! They say a kid is only half a person!"
  },
  {
   "id": "SCENARIO/029/01afa",
@@ -713,7 +713,7 @@
    "半分と半分が一緒になれば",
    "それって一人前だよね！"
   ],
-  "en": ""
+  "en": "But if Lilis and Kilota put our halves together, that makes a whole one!"
  },
  {
   "id": "SCENARIO/029/01b6e",
@@ -722,7 +722,7 @@
    "リリスちゃんには",
    "敵わないな・・・"
   ],
-  "en": ""
+  "en": "I can't win against Lilis-chan..."
  },
  {
   "id": "SCENARIO/029/01bac",
@@ -730,7 +730,7 @@
   "jp": [
    "ありがとう、リリスちゃん"
   ],
-  "en": ""
+  "en": "Thank you, Lilis-chan."
  },
  {
   "id": "SCENARIO/029/01bee",
@@ -739,7 +739,7 @@
    "ふぇ？",
    "リリス、まだ何もしてないよ？"
   ],
-  "en": ""
+  "en": "Huh? Lilis hasn't done anything yet?"
  },
  {
   "id": "SCENARIO/029/01c3e",
@@ -747,7 +747,7 @@
   "jp": [
    "そんなことないよ"
   ],
-  "en": ""
+  "en": "That's not true."
  },
  {
   "id": "SCENARIO/029/01c60",
@@ -757,7 +757,7 @@
    "僕に、一番大切なことを",
    "教えてくれるんだ"
   ],
-  "en": ""
+  "en": "You always teach me the most important things, Lilis-chan."
  },
  {
   "id": "SCENARIO/029/01cb4",
@@ -766,7 +766,7 @@
    "リリスちゃんには",
    "僕にはないものがいっぱいある"
   ],
-  "en": ""
+  "en": "You have so much that I don't."
  },
  {
   "id": "SCENARIO/029/01cf8",
@@ -775,7 +775,7 @@
    "だから僕は、",
    "こんなにもキミのことが・・・"
   ],
-  "en": ""
+  "en": "That's why I feel so... about you..."
  },
  {
   "id": "SCENARIO/029/01d4e",
@@ -785,7 +785,7 @@
    "リリスもキロタのこと",
    "尊敬してるよ！"
   ],
-  "en": ""
+  "en": "Yeah! Lilis respects you too, Kilota!"
  },
  {
   "id": "SCENARIO/029/01da6",
@@ -794,7 +794,7 @@
    "・・え？",
    "尊敬って・・・"
   ],
-  "en": ""
+  "en": "...Huh? Respect...?"
  },
  {
   "id": "SCENARIO/029/01dea",
@@ -804,7 +804,7 @@
    "リリスの知らないこと",
    "たくさん知ってるの！"
   ],
-  "en": ""
+  "en": "'Cause you know so many things Lilis doesn't!"
  },
  {
   "id": "SCENARIO/029/01e52",
@@ -813,7 +813,7 @@
    "あはははは・・・",
    "尊敬、かぁ・・・"
   ],
-  "en": ""
+  "en": "Ahahaha... Respect, huh..."
  },
  {
   "id": "SCENARIO/029/01e9e",
@@ -823,7 +823,7 @@
    "リリス頑張って",
    "ヨハネさんを見つけちゃうよ！"
   ],
-  "en": ""
+  "en": "All right! Lilis is gonna find Johannes-san for sure!"
  },
  {
   "id": "SCENARIO/029/01efa",
@@ -831,7 +831,7 @@
   "jp": [
    "待っててね、ヨハネさん！！"
   ],
-  "en": ""
+  "en": "Wait for us, Johannes-san!!"
  },
  {
   "id": "SCENARIO/029/01fc0",
@@ -840,7 +840,7 @@
    "う～ん・・・",
    "なかなか見つからないね"
   ],
-  "en": ""
+  "en": "Hmm... he's not easy to find."
  },
  {
   "id": "SCENARIO/029/02020",
@@ -848,7 +848,7 @@
   "jp": [
    "リリス、疲れちゃった・・・"
   ],
-  "en": ""
+  "en": "Lilis is tired..."
  },
  {
   "id": "SCENARIO/029/02062",
@@ -857,7 +857,7 @@
    "人捜しの基本・・・",
    "何かを見逃しているような・・"
   ],
-  "en": ""
+  "en": "The basics of finding someone... I feel like we're missing something..."
  },
  {
   "id": "SCENARIO/029/020be",
@@ -866,7 +866,7 @@
    "あぁぁっ！",
    "ピエロさんが風船配ってるっ！"
   ],
-  "en": ""
+  "en": "Aaah! A clown's handing out balloons!"
  },
  {
   "id": "SCENARIO/029/02116",
@@ -875,7 +875,7 @@
    "聞き込みした情報をメモする",
    "紙と鉛筆なら用意したし・・"
   ],
-  "en": ""
+  "en": "I've got paper and a pencil to note down what people tell us..."
  },
  {
   "id": "SCENARIO/029/02160",
@@ -885,7 +885,7 @@
    "口頭説明でも十分出来るはず",
    "だけど・・・・"
   ],
-  "en": ""
+  "en": "And I can describe Johannes-san well enough out loud, but..."
  },
  {
   "id": "SCENARIO/029/021b8",
@@ -893,7 +893,7 @@
   "jp": [
    "何かが、足りないような・・・"
   ],
-  "en": ""
+  "en": "Something's still missing..."
  },
  {
   "id": "SCENARIO/029/02210",
@@ -902,7 +902,7 @@
    "うぅ～・・",
    "入場券ないと風船ダメだって"
   ],
-  "en": ""
+  "en": "Uuu... He says no balloon without a ticket."
  },
  {
   "id": "SCENARIO/029/0225a",
@@ -912,7 +912,7 @@
    "リリス自分で入場券",
    "作っちゃうもんね！！"
   ],
-  "en": ""
+  "en": "Fine! Lilis'll just make her own ticket!!"
  },
  {
   "id": "SCENARIO/029/022ba",
@@ -920,7 +920,7 @@
   "jp": [
    "それだ！！"
   ],
-  "en": ""
+  "en": "That's it!!"
  },
  {
   "id": "SCENARIO/029/02302",
@@ -929,7 +929,7 @@
    "これ・・？",
    "キロタの分も作るの？"
   ],
-  "en": ""
+  "en": "This...? You want one too, Kilota?"
  },
  {
   "id": "SCENARIO/029/0234e",
@@ -939,7 +939,7 @@
    "ヨハネさんの特徴を描いた",
    "似顔絵を作るんだよ！！"
   ],
-  "en": ""
+  "en": "No! We'll draw a portrait of Johannes-san!!"
  },
  {
   "id": "SCENARIO/029/023a8",
@@ -948,7 +948,7 @@
    "キロタはリリスが作る",
    "入場券いらないの？"
   ],
-  "en": ""
+  "en": "You don't want a ticket Lilis makes?"
  },
  {
   "id": "SCENARIO/029/023ec",
@@ -957,7 +957,7 @@
    "リリスちゃん・・・",
    "偽造チケットは犯罪だよ"
   ],
-  "en": ""
+  "en": "Lilis-chan... forging tickets is a crime."
  },
  {
   "id": "SCENARIO/029/02454",
@@ -965,7 +965,7 @@
   "jp": [
    "偽造チケット・・？"
   ],
-  "en": ""
+  "en": "Forging...?"
  },
  {
   "id": "SCENARIO/029/0248e",
@@ -974,7 +974,7 @@
    "まずい！！",
    "気付かれたみたいだ！！"
   ],
-  "en": ""
+  "en": "Uh-oh!! I think they noticed us!!"
  },
  {
   "id": "SCENARIO/029/024da",
@@ -982,7 +982,7 @@
   "jp": [
    "逃げるよ、リリスちゃん！！"
   ],
-  "en": ""
+  "en": "Run, Lilis-chan!!"
  },
  {
   "id": "SCENARIO/029/02530",
@@ -990,7 +990,7 @@
   "jp": [
    "でも、風船まだ・・"
   ],
-  "en": ""
+  "en": "But the balloon..."
  },
  {
   "id": "SCENARIO/029/0255c",
@@ -998,7 +998,7 @@
   "jp": [
    "いいから早くッ！！！"
   ],
-  "en": ""
+  "en": "Just come on!!"
  },
  {
   "id": "SCENARIO/029/025c0",
@@ -1006,7 +1006,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/029/02650",
@@ -1015,7 +1015,7 @@
    "良かった・・・",
    "追いかけてこないみたいだね"
   ],
-  "en": ""
+  "en": "Phew... Looks like they're not following."
  },
  {
   "id": "SCENARIO/029/026a6",
@@ -1024,7 +1024,7 @@
    "リリスちゃん",
    "ちゃんとした似顔絵、描ける？"
   ],
-  "en": ""
+  "en": "Lilis-chan, can you draw a proper portrait?"
  },
  {
   "id": "SCENARIO/029/0270c",
@@ -1033,7 +1033,7 @@
    "ちょっとだまって！",
    "リリス集中ちゅ～なの！！"
   ],
-  "en": ""
+  "en": "Quiet a sec! Lilis is con-cen-trating!!"
  },
  {
   "id": "SCENARIO/029/02762",
@@ -1042,7 +1042,7 @@
    "ほんとうにちゃんとした",
    "似顔絵できるのかなぁ？"
   ],
-  "en": ""
+  "en": "Is this really going to be a proper portrait...?"
  },
  {
   "id": "SCENARIO/029/027ba",
@@ -1051,7 +1051,7 @@
    "えーと、ここは・・・",
    "こうだったかな？"
   ],
-  "en": ""
+  "en": "Um, this part... was it like this?"
  },
  {
   "id": "SCENARIO/029/0280a",
@@ -1060,7 +1060,7 @@
    "違うよ、リリスちゃん",
    "そこは、"
   ],
-  "en": ""
+  "en": "No, Lilis-chan, that part's..."
  },
  {
   "id": "SCENARIO/029/02852",
@@ -1070,7 +1070,7 @@
    "リリス集中ちゅ～なの！",
    "はなしかけないで！"
   ],
-  "en": ""
+  "en": "Jeez! Lilis is con-cen-trating! Don't talk to me!"
  },
  {
   "id": "SCENARIO/029/028b2",
@@ -1078,7 +1078,7 @@
   "jp": [
    "で、でも・・・"
   ],
-  "en": ""
+  "en": "B-but..."
  },
  {
   "id": "SCENARIO/029/028fc",
@@ -1086,7 +1086,7 @@
   "jp": [
    "なにしてるの～キミたち？"
   ],
-  "en": ""
+  "en": "What're you two up to~?"
  },
  {
   "id": "SCENARIO/029/0293e",
@@ -1094,7 +1094,7 @@
   "jp": [
    "！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/029/0295c",
@@ -1103,7 +1103,7 @@
    "あ～、やっぱりそうだ",
    "キミたちカインの友達だよね？"
   ],
-  "en": ""
+  "en": "Ah, I knew it. You're Cain's friends, right?"
  },
  {
   "id": "SCENARIO/029/029ac",
@@ -1112,7 +1112,7 @@
    "え、カインさんを",
    "知っているんですか！？"
   ],
-  "en": ""
+  "en": "Huh? You know Cain-san!?"
  },
  {
   "id": "SCENARIO/029/029f0",
@@ -1120,7 +1120,7 @@
   "jp": [
    "うん、知ってるよ～"
   ],
-  "en": ""
+  "en": "Yep, I do~"
  },
  {
   "id": "SCENARIO/029/02a3c",
@@ -1128,7 +1128,7 @@
   "jp": [
    "でっきたーッ！！"
   ],
-  "en": ""
+  "en": "Dooone!!"
  },
  {
   "id": "SCENARIO/029/02a68",
@@ -1136,7 +1136,7 @@
   "jp": [
    "出来たって・・・偽チケット？"
   ],
-  "en": ""
+  "en": "Done with... the fake ticket?"
  },
  {
   "id": "SCENARIO/029/02aae",
@@ -1145,7 +1145,7 @@
    "違うよ！",
    "これはヨハネさんの似顔絵なの！"
   ],
-  "en": ""
+  "en": "No! It's a portrait of Johannes-san!"
  },
  {
   "id": "SCENARIO/029/02af4",
@@ -1155,7 +1155,7 @@
    "いつもカインと一緒にいる",
    "灰色の羽根の天使だよね？"
   ],
-  "en": ""
+  "en": "Johannes-san... the grey-winged angel who's always with Cain, right?"
  },
  {
   "id": "SCENARIO/029/02b66",
@@ -1164,7 +1164,7 @@
    "そうなの！",
    "そのヨハネさんを捜してるの！"
   ],
-  "en": ""
+  "en": "That's him! We're looking for him!"
  },
  {
   "id": "SCENARIO/029/02bac",
@@ -1172,7 +1172,7 @@
   "jp": [
    "この似顔絵は・・・"
   ],
-  "en": ""
+  "en": "And this portrait..."
  },
  {
   "id": "SCENARIO/029/02be6",
@@ -1180,7 +1180,7 @@
   "jp": [
    "似てないかな？"
   ],
-  "en": ""
+  "en": "Doesn't it look like him?"
  },
  {
   "id": "SCENARIO/029/02c10",
@@ -1190,7 +1190,7 @@
    "ヨハネさんなら、似顔絵なんて",
    "なくても大丈夫だよ～"
   ],
-  "en": ""
+  "en": "Hmm... You don't need a portrait for Johannes-san~"
  },
  {
   "id": "SCENARIO/029/02c7e",
@@ -1199,7 +1199,7 @@
    "えぇぇぇぇっ！",
    "これ、いらないの？"
   ],
-  "en": ""
+  "en": "Whaaat! You don't need it?"
  },
  {
   "id": "SCENARIO/029/02cbc",
@@ -1207,7 +1207,7 @@
   "jp": [
    "うん、いらないよ～"
   ],
-  "en": ""
+  "en": "Nope, don't need it~"
  },
  {
   "id": "SCENARIO/029/02cf6",
@@ -1216,7 +1216,7 @@
    "リリス、いっしょうけんめい",
    "描いたのに・・・"
   ],
-  "en": ""
+  "en": "But Lilis worked so hard on it..."
  },
  {
   "id": "SCENARIO/029/02d60",
@@ -1226,7 +1226,7 @@
    "リリスちゃんは一生懸命",
    "描いたんですよ！！"
   ],
-  "en": ""
+  "en": "That's right!! Lilis-chan worked really hard on it!!"
  },
  {
   "id": "SCENARIO/029/02dbc",
@@ -1234,7 +1234,7 @@
   "jp": [
    "それをいらないだなんて・・・"
   ],
-  "en": ""
+  "en": "And you say you don't need it..."
  },
  {
   "id": "SCENARIO/029/02df4",
@@ -1242,7 +1242,7 @@
   "jp": [
    "うーん、そうじゃなくて・・"
   ],
-  "en": ""
+  "en": "Hmm, that's not what I mean..."
  },
  {
   "id": "SCENARIO/029/02e20",
@@ -1252,7 +1252,7 @@
    "僕が知ってるから、",
    "似顔絵はもう必要ないんだよ～"
   ],
-  "en": ""
+  "en": "I know where Johannes-san went, so you don't need the portrait anymore~"
  },
  {
   "id": "SCENARIO/029/02ea8",
@@ -1260,7 +1260,7 @@
   "jp": [
    "知ってるの！？"
   ],
-  "en": ""
+  "en": "You know!?"
  },
  {
   "id": "SCENARIO/029/02ed0",
@@ -1268,7 +1268,7 @@
   "jp": [
    "知ってるよ～"
   ],
-  "en": ""
+  "en": "I do~"
  },
  {
   "id": "SCENARIO/029/02f18",
@@ -1278,7 +1278,7 @@
    "そうならそうと言って下さい！",
    "てっきり僕は・・・"
   ],
-  "en": ""
+  "en": "Then say so from the start! I was sure you were..."
  },
  {
   "id": "SCENARIO/029/02f74",
@@ -1287,7 +1287,7 @@
    "リリスちゃんをイジメル",
    "悪い人かと？"
   ],
-  "en": ""
+  "en": "A bad guy picking on Lilis-chan?"
  },
  {
   "id": "SCENARIO/029/02fc2",
@@ -1295,7 +1295,7 @@
   "jp": [
    "・・・・・・・・"
   ],
-  "en": ""
+  "en": "........"
  },
  {
   "id": "SCENARIO/029/02ffa",
@@ -1305,7 +1305,7 @@
    "キミはリリスちゃんのことが",
    "好きなんだね～？"
   ],
-  "en": ""
+  "en": "I see~ You like Lilis-chan, don't you~?"
  },
  {
   "id": "SCENARIO/029/0305e",
@@ -1313,7 +1313,7 @@
   "jp": [
    "！！！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/029/0308e",
@@ -1323,7 +1323,7 @@
    "丘の上の廃墟の中に",
    "入ってくのを見たよ～"
   ],
-  "en": ""
+  "en": "I saw Johannes-san go into the ruins on the hill~"
  },
  {
   "id": "SCENARIO/029/03104",
@@ -1331,7 +1331,7 @@
   "jp": [
    "丘の上の廃墟ねッ！！"
   ],
-  "en": ""
+  "en": "The ruins on the hill!!"
  },
  {
   "id": "SCENARIO/029/03134",
@@ -1340,7 +1340,7 @@
    "それから、コレ・・",
    "欲しがっていたみたいだから"
   ],
-  "en": ""
+  "en": "And here... you seemed to want these."
  },
  {
   "id": "SCENARIO/029/0318e",
@@ -1349,7 +1349,7 @@
    "うわぁぁっ！",
    "サーカスのチケットだ！！"
   ],
-  "en": ""
+  "en": "Waaah! Circus tickets!!"
  },
  {
   "id": "SCENARIO/029/031d0",
@@ -1358,7 +1358,7 @@
    "ホントはいけないんだけど、",
    "プランちゃんにはヒミツだよ～"
   ],
-  "en": ""
+  "en": "I'm not really supposed to, so keep it a secret from Plan-chan~"
  },
  {
   "id": "SCENARIO/029/03232",
@@ -1367,7 +1367,7 @@
    "うん、ありがとう！！",
    "ええと・・・"
   ],
-  "en": ""
+  "en": "Okay, thank you!! Um..."
  },
  {
   "id": "SCENARIO/029/03270",
@@ -1376,7 +1376,7 @@
    "僕の名前はフライだよ",
    "覚えておいてね"
   ],
-  "en": ""
+  "en": "My name's Fly. Remember it, okay?"
  },
  {
   "id": "SCENARIO/029/032be",
@@ -1385,7 +1385,7 @@
    "うん！",
    "ありがとね、フライくん！"
   ],
-  "en": ""
+  "en": "Yup! Thanks, Fly-kun!"
  },
  {
   "id": "SCENARIO/029/0331c",
@@ -1393,7 +1393,7 @@
   "jp": [
    "フライ・・くん？"
   ],
-  "en": ""
+  "en": "Fly... kun?"
  },
  {
   "id": "SCENARIO/029/03340",
@@ -1402,7 +1402,7 @@
    "リリスちゃん・・・",
    "僕のことは呼び捨てなのに・・"
   ],
-  "en": ""
+  "en": "Lilis-chan... but you never add anything to MY name..."
  },
  {
   "id": "SCENARIO/029/0338c",
@@ -1410,7 +1410,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/029/033c6",
@@ -1419,7 +1419,7 @@
    "なんか、このフライって人・・",
    "ちょっと好きじゃないかも"
   ],
-  "en": ""
+  "en": "I don't think I like this Fly guy very much..."
  },
  {
   "id": "SCENARIO/029/03418",
@@ -1428,7 +1428,7 @@
    "それじゃあ",
    "僕は仕事に戻るね～"
   ],
-  "en": ""
+  "en": "Well, back to work for me~"
  },
  {
   "id": "SCENARIO/029/03474",
@@ -1436,7 +1436,7 @@
   "jp": [
    "うん、お仕事頑張ってね！！"
   ],
-  "en": ""
+  "en": "Okay, good luck with work!!"
  },
  {
   "id": "SCENARIO/029/034c8",
@@ -1444,7 +1444,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/029/03502",
@@ -1453,7 +1453,7 @@
    "どうしたの、キロタ？",
    "なんだか怖い顔になってるの"
   ],
-  "en": ""
+  "en": "What's wrong, Kilota? You've got a scary face on."
  },
  {
   "id": "SCENARIO/029/03550",
@@ -1461,7 +1461,7 @@
   "jp": [
    "別になんでも・・・"
   ],
-  "en": ""
+  "en": "It's nothing..."
  },
  {
   "id": "SCENARIO/029/0358a",
@@ -1470,7 +1470,7 @@
    "はい、これ！",
    "キロタの分のチケットだよ！"
   ],
-  "en": ""
+  "en": "Here! This ticket's yours, Kilota!"
  },
  {
   "id": "SCENARIO/029/035de",
@@ -1478,7 +1478,7 @@
   "jp": [
    "えっ？"
   ],
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "SCENARIO/029/0368c",
@@ -1487,7 +1487,7 @@
    "あ～",
    "言い忘れるところだったけどね～"
   ],
-  "en": ""
+  "en": "Oh~ I almost forgot to mention~"
  },
  {
   "id": "SCENARIO/029/036d2",
@@ -1496,7 +1496,7 @@
    "自分でチケット二人分買って、",
    "自分で誘えるようになろうね～"
   ],
-  "en": ""
+  "en": "Learn to buy two tickets yourself and do the asking yourself, okay~?"
  },
  {
   "id": "SCENARIO/029/03730",
@@ -1504,7 +1504,7 @@
   "jp": [
    "！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/029/0387a",
@@ -1513,7 +1513,7 @@
    "フライくん",
    "いい人だったね！"
   ],
-  "en": ""
+  "en": "Fly-kun was really nice, huh!"
  },
  {
   "id": "SCENARIO/029/038c2",
@@ -1521,7 +1521,7 @@
   "jp": [
    "う、うん、そうだね・・・"
   ],
-  "en": ""
+  "en": "Y-yeah, he was..."
  },
  {
   "id": "SCENARIO/029/03902",
@@ -1530,7 +1530,7 @@
    "早くヨハネさん見つけて、",
    "一緒にサーカス見に行こう！"
   ],
-  "en": ""
+  "en": "Let's find Johannes-san quick and all go see the circus together!"
  },
  {
   "id": "SCENARIO/029/03962",
@@ -1538,7 +1538,7 @@
   "jp": [
    "うん"
   ],
-  "en": ""
+  "en": "Yeah."
  },
  {
   "id": "SCENARIO/029/03ac6",
@@ -1548,7 +1548,7 @@
    "フライさんには簡単に見抜かれて",
    "しまったみたいだ・・・"
   ],
-  "en": ""
+  "en": "Hmm... Fly-san saw right through me, it seems..."
  },
  {
   "id": "SCENARIO/029/03b20",
@@ -1557,7 +1557,7 @@
    "僕の態度って",
    "そんなにロコツなのかな？"
   ],
-  "en": ""
+  "en": "Am I really that obvious?"
  },
  {
   "id": "SCENARIO/029/03b72",
@@ -1567,7 +1567,7 @@
    "怖いね！",
    "ドキドキするね！"
   ],
-  "en": ""
+  "en": "Whoa... Scary! My heart's pounding!"
  },
  {
   "id": "SCENARIO/029/03bc6",
@@ -1575,7 +1575,7 @@
   "jp": [
    "う、うん、そうだね・・・"
   ],
-  "en": ""
+  "en": "Y-yeah, it is..."
  },
  {
   "id": "SCENARIO/029/03bf0",
@@ -1584,7 +1584,7 @@
    "危ないから、リリスちゃんは",
    "僕の後ろをゆっくりついてきて"
   ],
-  "en": ""
+  "en": "It's dangerous, so stay behind me and follow slowly, Lilis-chan."
  },
  {
   "id": "SCENARIO/029/03c52",
@@ -1593,7 +1593,7 @@
    "うん！",
    "キロタも足下に気をつけてね！"
   ],
-  "en": ""
+  "en": "Okay! Watch your step too, Kilota!"
  },
  {
   "id": "SCENARIO/029/03caa",
@@ -1601,7 +1601,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/029/03cd8",
@@ -1611,7 +1611,7 @@
    "みんなにバレてないと思って",
    "いるのは僕だけとか・・？"
   ],
-  "en": ""
+  "en": "Could it be... I'm the only one who thinks nobody's noticed...?"
  },
  {
   "id": "SCENARIO/029/03d4a",
@@ -1619,7 +1619,7 @@
   "jp": [
    "いや、そ、そんなことは・・"
   ],
-  "en": ""
+  "en": "No, th-that can't be..."
  },
  {
   "id": "SCENARIO/029/03d86",
@@ -1628,7 +1628,7 @@
    "で、でも・・・",
    "もし、そうだとしたら・・！"
   ],
-  "en": ""
+  "en": "B-but... if it IS true...!"
  },
  {
   "id": "SCENARIO/029/03de6",
@@ -1636,7 +1636,7 @@
   "jp": [
    "うわっ！！"
   ],
-  "en": ""
+  "en": "Waah!!"
  },
  {
   "id": "SCENARIO/029/03e0c",
@@ -1644,7 +1644,7 @@
   "jp": [
    "キロタ！？"
   ],
-  "en": ""
+  "en": "Kilota!?"
  },
  {
   "id": "SCENARIO/029/03e30",
@@ -1653,7 +1653,7 @@
    "危ない・・・",
    "ここらへんは床がもろく・・"
   ],
-  "en": ""
+  "en": "Careful... the floor's weak around here..."
  },
  {
   "id": "SCENARIO/029/03e94",
@@ -1662,7 +1662,7 @@
    "キロタ！",
    "大丈夫なの！！？"
   ],
-  "en": ""
+  "en": "Kilota! Are you okay!?"
  },
  {
   "id": "SCENARIO/029/03eda",
@@ -1671,7 +1671,7 @@
    "リリスちゃん！？",
    "ダメだよ、ここはっ！！"
   ],
-  "en": ""
+  "en": "Lilis-chan!? No, not here!!"
  },
  {
   "id": "SCENARIO/029/03f62",
@@ -1679,7 +1679,7 @@
   "jp": [
    "きゃぁぁぁぁぁぁっ！！"
   ],
-  "en": ""
+  "en": "Kyaaaaaaah!!"
  },
  {
   "id": "SCENARIO/029/03fcc",
@@ -1687,12 +1687,12 @@
   "jp": [
    "うわぁぁぁぁぁぁっ！！"
   ],
-  "en": ""
+  "en": "Waaaaaaah!!"
  },
  {
   "id": "SCENARIO/029/07c04",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/029/07c12",
@@ -1700,12 +1700,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/029/07c2a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/029/07c3a",
@@ -1713,6 +1713,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
