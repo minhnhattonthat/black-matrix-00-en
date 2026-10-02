@@ -1,6 +1,7 @@
 """Translation helper.
   python tl.py show NNN          print untranslated entries of script/SCENARIO/NNN.json
-  python tl.py apply NNN FILE    merge "id<TAB>en" lines (\\n = line break) into the JSON"""
+  python tl.py apply NNN FILE    merge "id<TAB>en" lines (\\n = line break) into the JSON
+  python tl.py check NNN FILE    lint an answer file against work/tl/NNN.src.txt"""
 import json, sys
 from pathlib import Path
 
@@ -34,6 +35,29 @@ def apply(js: Path, answers: Path) -> list[str]:
     return unknown
 
 
+def check(src_lines: list[str], answer_lines: list[str], limit: int = 85) -> list[str]:
+    """Problems in a translator's answer file against the source listing it was made from."""
+    wanted = [l.split("\t")[0] for l in src_lines if l.strip()]
+    seen, problems = {}, []
+    for raw in answer_lines:
+        if not raw.strip():
+            continue
+        id_, _, en = raw.partition("\t")
+        if id_ in seen:
+            problems.append(f"duplicate id: {id_}")
+        seen[id_] = en
+        if id_ not in wanted:
+            problems.append(f"unknown id: {id_}")
+        if not en.isascii():
+            problems.append(f"non-ascii: {id_}: {en!r}")
+        if "\t" in en:
+            problems.append(f"tab in text: {id_}")
+        if len(en.replace("\\n", " ")) > limit or any(len(w) > 30 for w in en.split()):
+            problems.append(f"long: {id_} ({len(en)} chars)")
+    problems += [f"missing id: {i}" for i in wanted if i not in seen]
+    return problems
+
+
 if __name__ == "__main__":
     cmd, num = sys.argv[1], sys.argv[2]
     js = SCRIPT / f"{num}.json"
@@ -43,5 +67,10 @@ if __name__ == "__main__":
     elif cmd == "apply":
         for id_ in apply(js, Path(sys.argv[3])):
             print("unknown id:", id_)
+    elif cmd == "check":
+        src = Path(f"work/tl/{num}.src.txt").read_text(encoding="utf-8").splitlines()
+        ans = Path(sys.argv[3]).read_text(encoding="utf-8").splitlines()
+        sys.stdout.reconfigure(encoding="utf-8")
+        print("\n".join(check(src, ans)) or "ok")
     else:
         sys.exit(__doc__)

@@ -24,6 +24,18 @@ def test_show_lists_only_untranslated_windows_and_strings():
     assert tl.lines(entries) == ["x/1\t3\tone / two", "x/2\t-\tmenu"]
 
 
+def test_check_reports_missing_extra_nonascii_and_long_lines():
+    src = ["x/1\t0\tone / two", "x/2\t-\tmenu", "x/3\t0\tthree"]
+    answers = ["x/1\tHello " + "w" * 85, "x/2\tcafé", "x/9\tstray", "x/2\tdup"]
+    problems = tl.check(src, answers)
+    assert any("missing" in p and "x/3" in p for p in problems)
+    assert any("unknown" in p and "x/9" in p for p in problems)
+    assert any("duplicate" in p and "x/2" in p for p in problems)
+    assert any("non-ascii" in p and "x/2" in p for p in problems)
+    assert any("long" in p and "x/1" in p for p in problems)
+    assert tl.check(src, ["x/1\tHi", "x/2\tMenu", "x/3\tThree"]) == []
+
+
 if __name__ == "__main__":
     for name, fn in list(globals().items()):
         if name.startswith("test_"):
