@@ -8,7 +8,7 @@
 - `・・・` and `・・` → `...`; `～` after a vowel → drop or `~` when the drawl matters; `！？` → `!?`; `！！！` → `!!`; `「」` and `『』` → `"`; `＜＞` around proper nouns → dropped, or `"` for titles.
 - ASCII 0x20–0x7E only. Fullwidth digits → ASCII digits.
 - A window is one utterance: wrap freely across its 1–3 lines; stay inside the Japanese line count where it fits; 30 characters per line, spill (4+ lines) only when meaning needs it.
-- Character gender for pronouns: Cain, Yohane, Zion, Exsal, Abel, Luca, Aragi, Valtos, Bale, Terios male; Mattia, Lilith, Steien, Kirota, Siria, Cardia, Dahlia, Fly, Rea female. Correct as the pilot reveals.
+- Character gender for pronouns: Cain, Johannes, Zion, Exal, Abel, Luca, Aragi, Valtoss, Bale, Terios male; Matia, Lilis, Stayen, Kilota, Syria, Cardia, Dahlia, Fly, Rea female. Correct as the pilot reveals.
 
 ## Names
 
@@ -16,19 +16,19 @@
 |---|---|---|
 | カイン | Cain | protagonist, 16, wingless, memory loss |
 | アベル | Abel | black-winged look-alike |
-| マティア | Mattia | Cain's childhood friend, an Incest |
-| ヨハネ | Yohane | Cain's guardian, "irregular" angel |
-| メフィスト | Mephisto | Yohane's sick companion on the island |
+| マティア | Matia | Cain's childhood friend, an Incest |
+| ヨハネ | Johannes | Cain's guardian, "irregular" angel |
+| メフィスト | Mephisto | Johannes's sick companion on the island |
 | ルカ | Luca | demon, Zion's companion |
 | ザイオン | Zion | demon |
-| エクサル | Exsal ? | Cypherpunk member; alternatives Exal / Exalt |
-| ステイエン / ステイ | Steien / Stei ? | ex-monk soldier |
-| キロタ | Kirota | child, calls Steien "big sis" |
-| リリス | Lilith | child |
-| ヴァルトス | Valtos | Cypherpunk leader |
-| シリア | Siria ? | |
+| エクサル | Exal | Cypherpunk member |
+| ステイエン / ステイ | Stayen / Stay | ex-monk soldier |
+| キロタ | Kilota | child, calls Stayen "big sis" |
+| リリス | Lilis | child |
+| ヴァルトス | Valtoss | Cypherpunk leader |
+| シリア | Syria | |
 | ベイル・ペレンデール | Bale Perendale ? | angel, Church |
-| カルディア | Cardia | Steien's "big sister" in the Church |
+| カルディア | Cardia | Stayen's "big sister" in the Church |
 | ウンダ | Unda | demon village elder |
 | アラギ | Aragi | demon, main antagonist |
 | ホワイトフェイス | Whiteface | |
@@ -69,7 +69,7 @@
 | 十審将 | the Ten Tribunal Generals ? | |
 | 構成員 | member (of Cypherpunk) | |
 | 黒羽根 / 白羽根 | black-wing / white-wing | as noun for the people |
-| 規格外 | irregular | the island's word for Yohane and Mephisto |
+| 規格外 | irregular | the island's word for Johannes and Mephisto |
 | 世界樹 | World Tree | |
 | 倒立樹計画 | the Inverted Tree Plan | |
 | 大地母神 | the Earth Mother | |
@@ -84,7 +84,7 @@
 | グレイヘン | Greyhen ? | |
 | ルオナ | Luona | |
 | ボーナスシナリオ | Bonus Scenario | scripts 020–037 |
-| 核神機 | ? | portrait label for Mattia; decide when met in text |
+| 核神機 | ? | portrait label for Matia; decide when met in text |
 
 ## Speakers
 

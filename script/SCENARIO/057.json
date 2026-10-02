@@ -6,7 +6,7 @@
    "すごい雨だね",
    "ヨハネ、大丈夫かなぁ？"
   ],
-  "en": ""
+  "en": "What a downpour. I hope Johannes is all right."
  },
  {
   "id": "SCENARIO/057/0013c",
@@ -14,7 +14,7 @@
   "jp": [
    "ねぇ、マティア？"
   ],
-  "en": ""
+  "en": "Hey, Matia?"
  },
  {
   "id": "SCENARIO/057/00230",
@@ -22,7 +22,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/057/00258",
@@ -30,7 +30,7 @@
   "jp": [
    "マティア？"
   ],
-  "en": ""
+  "en": "Matia?"
  },
  {
   "id": "SCENARIO/057/0028a",
@@ -39,7 +39,7 @@
    "・・・あ、ごめん",
    "ちょっと、ぼうっとしちゃって"
   ],
-  "en": ""
+  "en": "...Oh, sorry. I was just a little out of it."
  },
  {
   "id": "SCENARIO/057/002e2",
@@ -49,7 +49,7 @@
    "なんだか顔色が悪いよ？",
    "大丈夫？"
   ],
-  "en": ""
+  "en": "...Matia, you look kind of pale. Are you all right?"
  },
  {
   "id": "SCENARIO/057/00330",
@@ -58,7 +58,7 @@
    "大丈夫よ",
    "ちょっとめまいが・・・"
   ],
-  "en": ""
+  "en": "I'm fine. Just a little dizzy..."
  },
  {
   "id": "SCENARIO/057/00380",
@@ -66,7 +66,7 @@
   "jp": [
    "うっ！"
   ],
-  "en": ""
+  "en": "Ugh!"
  },
  {
   "id": "SCENARIO/057/00474",
@@ -74,7 +74,7 @@
   "jp": [
    "マティア！！"
   ],
-  "en": ""
+  "en": "Matia!!"
  },
  {
   "id": "SCENARIO/057/004f0",
@@ -83,7 +83,7 @@
    "大丈夫・・・",
    "ちょっとフラついただけ"
   ],
-  "en": ""
+  "en": "I'm all right... I just wobbled a bit."
  },
  {
   "id": "SCENARIO/057/0053e",
@@ -91,7 +91,7 @@
   "jp": [
    "マティア、もしかして・・・"
   ],
-  "en": ""
+  "en": "Matia, don't tell me..."
  },
  {
   "id": "SCENARIO/057/005c8",
@@ -99,7 +99,7 @@
   "jp": [
    "あつっ！！"
   ],
-  "en": ""
+  "en": "You're burning up!!"
  },
  {
   "id": "SCENARIO/057/005fa",
@@ -107,7 +107,7 @@
   "jp": [
    "すごい熱じゃないか！！"
   ],
-  "en": ""
+  "en": "That's a terrible fever!!"
  },
  {
   "id": "SCENARIO/057/0063a",
@@ -116,7 +116,7 @@
    "大丈夫",
    "大したことないから・・・"
   ],
-  "en": ""
+  "en": "I'm fine. It's nothing serious..."
  },
  {
   "id": "SCENARIO/057/00686",
@@ -124,7 +124,7 @@
   "jp": [
    "横にならなきゃダメだよ！！"
   ],
-  "en": ""
+  "en": "You have to lie down!!"
  },
  {
   "id": "SCENARIO/057/006ca",
@@ -133,7 +133,7 @@
    "うん・・・",
    "そうかもしれない"
   ],
-  "en": ""
+  "en": "Yes... maybe I should."
  },
  {
   "id": "SCENARIO/057/00712",
@@ -142,7 +142,7 @@
    "そうかもじゃなくて",
    "そうしなきゃダメだよ！！"
   ],
-  "en": ""
+  "en": "Not maybe! You have to!!"
  },
  {
   "id": "SCENARIO/057/0075c",
@@ -150,7 +150,7 @@
   "jp": [
    "・・・うん"
   ],
-  "en": ""
+  "en": "...All right."
  },
  {
   "id": "SCENARIO/057/00786",
@@ -159,7 +159,7 @@
    "・・・わたし",
    "ちょっとだけ休むね"
   ],
-  "en": ""
+  "en": "...I'll just rest for a little while."
  },
  {
   "id": "SCENARIO/057/007d2",
@@ -168,7 +168,7 @@
    "ちょっとじゃないよ",
    "ちゃんと休まなきゃ・・・"
   ],
-  "en": ""
+  "en": "Not a little while. You have to rest properly..."
  },
  {
   "id": "SCENARIO/057/0082a",
@@ -176,12 +176,12 @@
   "jp": [
    "・・・うん"
   ],
-  "en": ""
+  "en": "...All right."
  },
  {
   "id": "SCENARIO/057/043dc",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/057/043ea",
@@ -189,12 +189,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/057/04402",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/057/04412",
@@ -202,6 +202,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

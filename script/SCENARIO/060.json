@@ -6,7 +6,7 @@
    "汝、黒き土塊より生まれし",
    "忌まわしき黒き翼を持つ者"
   ],
-  "en": ""
+  "en": "Thou, born of the black clay, accursed bearer of black wings."
  },
  {
   "id": "SCENARIO/060/0016c",
@@ -15,7 +15,7 @@
    "我、白き翼を持つ者",
    "我、汝らを滅ぼす者なり"
   ],
-  "en": ""
+  "en": "I am a bearer of white wings. I am he who shall destroy thee."
  },
  {
   "id": "SCENARIO/060/001ac",
@@ -25,7 +25,7 @@
    "忌まわしき黒き血の系譜を",
    "断ち切らん"
   ],
-  "en": ""
+  "en": "In the name of the Earth Mother, I shall sever the accursed line of black blood."
  },
  {
   "id": "SCENARIO/060/00212",
@@ -34,7 +34,7 @@
    "てめぇは、",
    "天使十審将の熾天使ベイル・・・"
   ],
-  "en": ""
+  "en": "You're... Bale, the Seraph of the Ten Tribunal Generals..."
  },
  {
   "id": "SCENARIO/060/00268",
@@ -43,7 +43,7 @@
    "不浄なる魂を持つ者よ",
    "死ぬ前に言い残すことはないか"
   ],
-  "en": ""
+  "en": "Thou of the unclean soul. Hast thou any last words before thou diest?"
  },
  {
   "id": "SCENARIO/060/002ba",
@@ -51,7 +51,7 @@
   "jp": [
    "クソッ"
   ],
-  "en": ""
+  "en": "Damn it."
  },
  {
   "id": "SCENARIO/060/002e2",
@@ -61,7 +61,7 @@
    "今までのザコとはひと味違う",
    "ようだな・・・"
   ],
-  "en": ""
+  "en": "A Tribunal General, no less. Seems you're a cut above the small fry I've had so far..."
  },
  {
   "id": "SCENARIO/060/00352",
@@ -70,7 +70,7 @@
    "さえない言葉だな・・・",
    "それが、お前の最期の言葉か？"
   ],
-  "en": ""
+  "en": "Dull words... Are those to be your last?"
  },
  {
   "id": "SCENARIO/060/003b2",
@@ -79,7 +79,7 @@
    "ケッ！",
    "スカした面しやがって！！"
   ],
-  "en": ""
+  "en": "Keh! Wipe that smug look off your face!!"
  },
  {
   "id": "SCENARIO/060/003fe",
@@ -89,7 +89,7 @@
    "その汚れた魂もろとも",
    "黒き土に還るがいい・・・"
   ],
-  "en": ""
+  "en": "Filthy black-wing. Return to the black earth, tainted soul and all..."
  },
  {
   "id": "SCENARIO/060/0046e",
@@ -98,7 +98,7 @@
    "はっ！",
    "六翼の天使がよく言うぜ"
   ],
-  "en": ""
+  "en": "Hah! Big talk from a six-winged angel."
  },
  {
   "id": "SCENARIO/060/004a0",
@@ -108,7 +108,7 @@
    "天使は二枚の翼で生まれなきゃ",
    "ならないはずだろ？"
   ],
-  "en": ""
+  "en": "Then what are those on your back? Angels are born with two wings, aren't they?"
  },
  {
   "id": "SCENARIO/060/0051a",
@@ -116,7 +116,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/060/0054e",
@@ -124,7 +124,7 @@
   "jp": [
    "悪魔が汚れてる？"
   ],
-  "en": ""
+  "en": "Demons are tainted?"
  },
  {
   "id": "SCENARIO/060/0057e",
@@ -134,7 +134,7 @@
    "強欲にも、魔力の源の翼を",
    "何枚持てば気がすむんだよ？"
   ],
-  "en": ""
+  "en": "You're the tainted one. How many wings, the source of your magic, before your greed is satisfied?"
  },
  {
   "id": "SCENARIO/060/005fe",
@@ -143,12 +143,12 @@
    "この・・・",
    "言わせておけばっ！！"
   ],
-  "en": ""
+  "en": "Why, you... That is enough out of you!!"
  },
  {
   "id": "SCENARIO/060/042b0",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/060/042be",
@@ -156,12 +156,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/060/042d6",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/060/042e6",
@@ -169,6 +169,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

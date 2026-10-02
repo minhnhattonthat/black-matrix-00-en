@@ -5,7 +5,7 @@
   "jp": [
    "・・・どうしよう"
   ],
-  "en": ""
+  "en": "...What do I do?"
  },
  {
   "id": "SCENARIO/058/001a0",
@@ -14,7 +14,7 @@
    "マティアの具合",
    "どんどん悪くなってる"
   ],
-  "en": ""
+  "en": "Matia's getting worse and worse."
  },
  {
   "id": "SCENARIO/058/001e0",
@@ -22,7 +22,7 @@
   "jp": [
    "う・・・うぅぅ・・・"
   ],
-  "en": ""
+  "en": "Ugh... uughh..."
  },
  {
   "id": "SCENARIO/058/00210",
@@ -31,7 +31,7 @@
    "ヨハネも戻って来ないし、",
    "このままじゃ・・・"
   ],
-  "en": ""
+  "en": "Johannes isn't back either. At this rate..."
  },
  {
   "id": "SCENARIO/058/0025e",
@@ -41,7 +41,7 @@
    "ボクが教会に神父様を",
    "呼びに行けば！！"
   ],
-  "en": ""
+  "en": "That's it! I'll go to the church and fetch the Father!!"
  },
  {
   "id": "SCENARIO/058/002ba",
@@ -51,7 +51,7 @@
    "こんな状態のマティアを",
    "一人きりにはできない"
   ],
-  "en": ""
+  "en": "...No. I can't leave Matia alone in this state."
  },
  {
   "id": "SCENARIO/058/00314",
@@ -59,7 +59,7 @@
   "jp": [
    "どうすれば・・・"
   ],
-  "en": ""
+  "en": "What can I do..."
  },
  {
   "id": "SCENARIO/058/00340",
@@ -67,7 +67,7 @@
   "jp": [
    "・・・うぅぅ"
   ],
-  "en": ""
+  "en": "...Uughh."
  },
  {
   "id": "SCENARIO/058/00376",
@@ -76,7 +76,7 @@
    "そうだ！",
    "マティアを教会に連れて行こう！"
   ],
-  "en": ""
+  "en": "That's it! I'll take Matia to the church!"
  },
  {
   "id": "SCENARIO/058/003ca",
@@ -84,7 +84,7 @@
   "jp": [
    "・・・カイン？"
   ],
-  "en": ""
+  "en": "...Cain?"
  },
  {
   "id": "SCENARIO/058/00402",
@@ -93,7 +93,7 @@
    "・・・・・・マティア",
    "少しの間だけど、我慢してね"
   ],
-  "en": ""
+  "en": "......Matia. It's only for a little while. Please bear with it."
  },
  {
   "id": "SCENARIO/058/00448",
@@ -102,12 +102,12 @@
    "ボクがキミを",
    "神父様のところへ連れて行くから"
   ],
-  "en": ""
+  "en": "I'm taking you to the Father."
  },
  {
   "id": "SCENARIO/058/0405c",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/058/0406a",
@@ -115,12 +115,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/058/04082",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/058/04092",
@@ -128,6 +128,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
