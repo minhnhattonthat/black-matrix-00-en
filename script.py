@@ -1,5 +1,6 @@
 """SCENARIO script bytecode: tokenize, extract strings, reinsert with jump fixups.
 Format notes: docs/script-format.md"""
+import re
 import struct
 from dataclasses import dataclass
 
@@ -117,3 +118,75 @@ def tokenize(b: bytes) -> list[Token]:
         toks.append(t)
         p += len(t.raw)
     return toks
+
+
+_ESCAPE = re.compile(r"\{([0-9A-F]{2})\}")
+
+
+def decode(raw: bytes) -> str:
+    """cp932 text; bytes that do not survive a decode/encode round trip become {XX}."""
+    out, i = [], 0
+    while i < len(raw):
+        n = 2 if (0x81 <= raw[i] <= 0x9F or 0xE0 <= raw[i] <= 0xFC) else 1
+        chunk = raw[i:i + n]
+        try:
+            s = chunk.decode("cp932")
+            if s in "{}" or s.encode("cp932") != chunk or (n == 1 and raw[i] < 0x20):
+                raise UnicodeError
+            out.append(s)
+        except UnicodeError:
+            out.extend(f"{{{c:02X}}}" for c in chunk)
+        i += n
+    return "".join(out)
+
+
+def encode(text: str) -> bytes:
+    out = bytearray()
+    for k, part in enumerate(_ESCAPE.split(text)):
+        if k % 2:
+            out.append(int(part, 16))
+        else:
+            try:
+                out += part.encode("cp932")
+            except UnicodeEncodeError as e:
+                raise ValueError(f"cannot encode {part[e.start:e.end]!r} in cp932") from None
+    return bytes(out)
+
+
+def extract(b: bytes, prefix: str) -> list[dict]:
+    return [{"id": f"{prefix}/{t.off:05x}", "jp": decode(t.text), "en": ""}
+            for t in tokenize(b) if t.text is not None]
+
+
+def insert(b: bytes, entries: list[dict]) -> bytes:
+    """Rebuild the script with each entry's non-empty `en` in place of its string."""
+    english = {int(e["id"].rsplit("/", 1)[1], 16): e for e in entries if e["en"]}
+    out, moved, fixups = bytearray(), {}, []
+    for t in tokenize(b):
+        moved[t.off] = len(out)
+        for kind, data in t.parts:
+            if kind == "s":
+                e = english.get(t.off)
+                if e:
+                    try:
+                        data = encode(e["en"])
+                    except ValueError as err:
+                        raise ValueError(f'{e["id"]}: {err}') from None
+                # the game ends a string at a zero u16, so complete an odd last word first
+                out += data + b"\0" * (len(data) % 2) + b"\0\0"
+            elif kind in "uj":
+                if len(out) % 4:
+                    out += b"\0\0"
+                if kind == "j":
+                    fixups.append((len(out), struct.unpack("<I", data)[0], t.off))
+                out += data
+            else:
+                out += data
+    moved[used_length(b)] = len(out)
+    for pos, target, off in fixups:
+        if target not in moved:
+            raise ValueError(f"jump at {off:#x} targets {target:#x}, not a token start")
+        struct.pack_into("<I", out, pos, moved[target])
+    if len(out) > 0x20000:
+        raise ValueError(f"script is {len(out):#x} bytes; the program counter covers 0x20000")
+    return bytes(out).ljust(max(len(b), -(-len(out) // 2048) * 2048), b"\0")
