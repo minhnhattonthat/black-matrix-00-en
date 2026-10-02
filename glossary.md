@@ -208,3 +208,5 @@ Correction: Luca uses アタシ (script 250) and 捜したわよ (056): Luca is 
 | セイルズ・ペレンデール | Seils Perendale | first Embryon case |
 | 『弱虫ピリポの冒険』 | "The Adventures of Timid Philip" | Kilota's picture book |
 | 翼は踊る | The wings dance | title motif |
+| 動天使 / 能天使 / 儀天使 / 術天使 | Angel of Motion / Power / Rite / Art | Tribunal ranks |
+| ＜ヨハネの書＞ | the Book of Johannes | |
