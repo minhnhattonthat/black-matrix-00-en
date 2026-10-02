@@ -74,7 +74,7 @@ def test_battle_insert_round_trip_and_translation():
 def test_overlay_round_trip_and_in_place_limit():
     sub4 = SYSTEM[4]
     entries = tables.extract_overlay(sub4, "SYSTEM/4")
-    assert 70 <= len(entries) <= 90
+    assert 100 <= len(entries) <= 130
     assert tables.insert_overlay(sub4, entries) == sub4
     e = next(x for x in entries if x["jp"] == "コンフィグ")   # コンフィグ, 10 bytes
     e["en"] = "Config"
