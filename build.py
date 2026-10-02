@@ -40,7 +40,10 @@ def patch():
     files = dat.unpack((ORIG / "SCENARIO.DAT").read_bytes())
     for path in sorted((SCRIPT / "SCENARIO").glob("*.json")):
         i = int(path.stem)
-        files[i] = script.insert(files[i], json.loads(path.read_text(encoding="utf-8")))
+        entries = json.loads(path.read_text(encoding="utf-8"))
+        files[i] = script.insert(files[i], entries)
+        for wide in script.too_wide(entries):
+            print("warning: wider than the window:", wide)
     (EXTRACTED / "SCENARIO.DAT").write_bytes(dat.pack(files))
 
 

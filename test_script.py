@@ -76,7 +76,7 @@ def test_odd_length_string_keeps_even_alignment():
     entries[0]["en"] = "abc"
     toks = script.tokenize(script.insert(b, entries))
     assert all(t.off % 2 == 0 for t in toks)
-    assert next(t.text for t in toks if t.text is not None) == b"abc"
+    assert next(t.text for t in toks if t.text is not None) == b"abc "
 
 
 def test_jump_to_non_token_raises():
@@ -123,6 +123,30 @@ def test_malformed_escape_raises():
 def test_zero_word_inside_string_raises():
     first = script.extract(SCRIPTS[0][1], "S")[0]
     assert _insert_raises([{**first, "en": "ＡＢ{00}{00}ＣＤ"}])
+
+
+def test_ascii_runs_are_padded_to_even_length():
+    assert script.encode("abc") == b"abc "
+    assert script.encode("ab") == b"ab"
+    assert script.encode("あabcい") == bytes.fromhex("82a0") + b"abc " + bytes.fromhex("82a2")   # JP stays on its 2-byte grid
+    assert script.encode("aあb") == b"a " + bytes.fromhex("82a0") + b"b "
+
+
+def test_no_original_string_exceeds_23_cells():
+    longest = max(len(t.text) for i, b in SCRIPTS for t in script.tokenize(b) if t.text is not None)
+    assert longest <= script.MAX_CELLS * 2, longest
+
+
+def test_line_over_23_cells_raises_and_23_passes():
+    first = script.extract(SCRIPTS[0][1], "S")[0]
+    script.insert(SCRIPTS[0][1], [{**first, "en": "x" * 46}])
+    assert _insert_raises([{**first, "en": "x" * 47}])
+
+
+def test_too_wide_lists_lines_past_the_window():
+    entries = [{"id": "a", "jp": "", "en": "x" * 30}, {"id": "b", "jp": "", "en": "x" * 31},
+               {"id": "c", "jp": "", "en": ""}]
+    assert script.too_wide(entries) == ["b"]
 
 
 if __name__ == "__main__":

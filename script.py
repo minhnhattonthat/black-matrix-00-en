@@ -121,6 +121,9 @@ def tokenize(b: bytes) -> list[Token]:
 
 
 _ESCAPE = re.compile(r"\{([0-9A-F]{2})\}")
+MAX_CELLS = 23      # glyph slots in the game's text object; it does not bounds-check
+WINDOW_CELLS = 15   # cells that fit the dialogue window; tune after an in-game look
+_ASCII_RUN = re.compile(r"[\x20-\x7e]+")
 
 
 def decode(raw: bytes) -> str:
@@ -148,6 +151,8 @@ def encode(text: str) -> bytes:
         elif "{" in part or "}" in part:
             raise ValueError(f"malformed escape in {part!r}; write a byte as {{XX}}, uppercase hex")
         else:
+            # two ASCII letters share one glyph cell, so each run must fill whole cells
+            part = _ASCII_RUN.sub(lambda m: m.group() + " " * (len(m.group()) % 2), part)
             try:
                 out += part.encode("cp932")
             except UnicodeEncodeError as e:
@@ -174,6 +179,8 @@ def insert(b: bytes, entries: list[dict]) -> bytes:
                         data = encode(e["en"])
                     except ValueError as err:
                         raise ValueError(f'{e["id"]}: {err}') from None
+                    if len(data) > MAX_CELLS * 2:
+                        raise ValueError(f'{e["id"]}: {len(data)} bytes; a line holds {MAX_CELLS * 2}')
                     padded = data + b"\0" * (len(data) % 2)
                     if any(padded[i:i + 2] == b"\0\0" for i in range(0, len(padded), 2)):
                         raise ValueError(f'{e["id"]}: a zero word inside the text would end the string early')
@@ -198,3 +205,8 @@ def insert(b: bytes, entries: list[dict]) -> bytes:
     if len(out) >= 0x20000:
         raise ValueError(f"script is {len(out):#x} bytes; the program counter covers 0x20000")
     return bytes(out).ljust(max(len(b), -(-len(out) // 2048) * 2048), b"\0")
+
+
+def too_wide(entries: list[dict]) -> list[str]:
+    """IDs of English lines that fit the text object but overflow the window."""
+    return [e["id"] for e in entries if e["en"] and len(encode(e["en"])) > WINDOW_CELLS * 2]
