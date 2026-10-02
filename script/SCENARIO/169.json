@@ -6,7 +6,7 @@
    "敷地内に何者かが",
    "入り込んだぞ！！"
   ],
-  "en": ""
+  "en": "Someone's gotten into the grounds!!"
  },
  {
   "id": "SCENARIO/169/0017c",
@@ -14,7 +14,7 @@
   "jp": [
    "例の悪魔か？"
   ],
-  "en": ""
+  "en": "Is it that demon?"
  },
  {
   "id": "SCENARIO/169/001b8",
@@ -22,7 +22,7 @@
   "jp": [
    "わからん！"
   ],
-  "en": ""
+  "en": "No idea!"
  },
  {
   "id": "SCENARIO/169/001d4",
@@ -31,7 +31,7 @@
    "とにかく奴らをあそこへは",
    "近づけさせるな！！"
   ],
-  "en": ""
+  "en": "Just don't let them anywhere near there!!"
  },
  {
   "id": "SCENARIO/169/002a6",
@@ -40,7 +40,7 @@
    "ヨハネさん達も",
    "動きはじめたみたいだな"
   ],
-  "en": ""
+  "en": "Looks like Johannes-san and the others have made their move too."
  },
  {
   "id": "SCENARIO/169/0031a",
@@ -48,7 +48,7 @@
   "jp": [
    "・・・大丈夫かな？"
   ],
-  "en": ""
+  "en": "...Will they be okay?"
  },
  {
   "id": "SCENARIO/169/00368",
@@ -57,7 +57,7 @@
    "大丈夫だよ！",
    "ルカもザイオンも強いもん"
   ],
-  "en": ""
+  "en": "They'll be fine! Luca and Zion are strong too."
  },
  {
   "id": "SCENARIO/169/003e2",
@@ -65,7 +65,7 @@
   "jp": [
    "！！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/169/00420",
@@ -73,7 +73,7 @@
   "jp": [
    "みんな、ちょっと止まって！"
   ],
-  "en": ""
+  "en": "Everyone, stop a moment!"
  },
  {
   "id": "SCENARIO/169/00474",
@@ -81,7 +81,7 @@
   "jp": [
    "どうしたのステイエン？"
   ],
-  "en": ""
+  "en": "What's wrong, Stayen?"
  },
  {
   "id": "SCENARIO/169/004b2",
@@ -89,7 +89,7 @@
   "jp": [
    "まずいわね・・・"
   ],
-  "en": ""
+  "en": "This is bad..."
  },
  {
   "id": "SCENARIO/169/0050e",
@@ -98,7 +98,7 @@
    "どうしたんだ？",
    "まさか道に迷ったとか言うなよ"
   ],
-  "en": ""
+  "en": "What is it? Don't tell me you got us lost."
  },
  {
   "id": "SCENARIO/169/00566",
@@ -106,7 +106,7 @@
   "jp": [
    "そんなんじゃないわよ！"
   ],
-  "en": ""
+  "en": "It's nothing like that!"
  },
  {
   "id": "SCENARIO/169/0059e",
@@ -116,7 +116,7 @@
    "このまま進むしかないんだけど",
    "見張りがついているわ"
   ],
-  "en": ""
+  "en": "The only way through is straight ahead, but there's a guard posted."
  },
  {
   "id": "SCENARIO/169/00620",
@@ -124,7 +124,7 @@
   "jp": [
    "それは困りましたわね"
   ],
-  "en": ""
+  "en": "Oh, that is a problem."
  },
  {
   "id": "SCENARIO/169/00670",
@@ -132,7 +132,7 @@
   "jp": [
    "・・・どうしよう"
   ],
-  "en": ""
+  "en": "...What do we do?"
  },
  {
   "id": "SCENARIO/169/006bc",
@@ -141,7 +141,7 @@
    "こういうのは騒がれる前に",
    "一瞬でケリつけるのが一番だ"
   ],
-  "en": ""
+  "en": "Things like this are best settled in a flash, before anyone raises the alarm."
  },
  {
   "id": "SCENARIO/169/0071a",
@@ -149,7 +149,7 @@
   "jp": [
    "ええ、行くわよ"
   ],
-  "en": ""
+  "en": "Yes. Let's go."
  },
  {
   "id": "SCENARIO/169/0085e",
@@ -157,7 +157,7 @@
   "jp": [
    "！！！！！！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/169/00896",
@@ -165,7 +165,7 @@
   "jp": [
    "お前は、裏切り者のステイエン！"
   ],
-  "en": ""
+  "en": "You're... Stayen the traitor!"
  },
  {
   "id": "SCENARIO/169/008de",
@@ -174,12 +174,12 @@
    "悪いけど",
    "ここを通らせてもらうわ！！！"
   ],
-  "en": ""
+  "en": "Sorry, but we're coming through!!!"
  },
  {
   "id": "SCENARIO/169/044b0",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/169/044be",
@@ -187,12 +187,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/169/044d6",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/169/044e6",
@@ -200,6 +200,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

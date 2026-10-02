@@ -6,7 +6,7 @@
    "・・・・・・ように",
    "どうか・・・ように・・・"
   ],
-  "en": ""
+  "en": "...so that... Please... so that it may..."
  },
  {
   "id": "SCENARIO/168/00266",
@@ -14,7 +14,7 @@
   "jp": [
    "何かのおまじない？"
   ],
-  "en": ""
+  "en": "Some kind of charm?"
  },
  {
   "id": "SCENARIO/168/00294",
@@ -22,7 +22,7 @@
   "jp": [
    "・・・はい"
   ],
-  "en": ""
+  "en": "...Yes."
  },
  {
   "id": "SCENARIO/168/002b0",
@@ -31,7 +31,7 @@
    "こうやってこのリングに",
    "願いを込めているんです"
   ],
-  "en": ""
+  "en": "I'm putting my wishes into this ring, like this."
  },
  {
   "id": "SCENARIO/168/002fc",
@@ -41,7 +41,7 @@
    "わたしたちにつけられている",
    "この指輪のこと？"
   ],
-  "en": ""
+  "en": "Ring... You mean these rings they put on us?"
  },
  {
   "id": "SCENARIO/168/00366",
@@ -51,7 +51,7 @@
    "このリングは持ち主の心を糧に",
    "成長するって聞きました"
   ],
-  "en": ""
+  "en": "Yes. An angel once told me this ring grows by feeding on its owner's heart."
  },
  {
   "id": "SCENARIO/168/003d0",
@@ -59,7 +59,7 @@
   "jp": [
    "リングが成長？"
   ],
-  "en": ""
+  "en": "The ring grows?"
  },
  {
   "id": "SCENARIO/168/003f8",
@@ -69,7 +69,7 @@
    "インセストの心によって",
    "強力な力を得るんだそうです"
   ],
-  "en": ""
+  "en": "To be exact, it gains great power from the Incest's heart reflected in it."
  },
  {
   "id": "SCENARIO/168/0045c",
@@ -78,7 +78,7 @@
    "憎しみの心は破壊の力を",
    "優しい心は癒しの力を"
   ],
-  "en": ""
+  "en": "A hateful heart gives the power to destroy. A kind heart, the power to heal."
  },
  {
   "id": "SCENARIO/168/004a4",
@@ -88,7 +88,7 @@
    "優しい心を映したリングは、",
    "誰かを守ることが出来るのね"
   ],
-  "en": ""
+  "en": "Then a ring that reflects a kind heart can protect someone."
  },
  {
   "id": "SCENARIO/168/00504",
@@ -97,7 +97,7 @@
    "僕もそう思いました、だから",
    "リングに願いを込めているんです"
   ],
-  "en": ""
+  "en": "That's what I thought too. That's why I put my wishes into the ring."
  },
  {
   "id": "SCENARIO/168/00562",
@@ -107,7 +107,7 @@
    "リングに残された僕の祈りが",
    "姉さん達を守ってくれるように"
   ],
-  "en": ""
+  "en": "So that if I'm gone, the prayer left in my ring will protect my sisters."
  },
  {
   "id": "SCENARIO/168/005de",
@@ -115,7 +115,7 @@
   "jp": [
    "・・・キロタくん"
   ],
-  "en": ""
+  "en": "...Kilota-kun."
  },
  {
   "id": "SCENARIO/168/00616",
@@ -124,7 +124,7 @@
    "お姉さんも優しい気持ちを",
    "リングに込めてあげて"
   ],
-  "en": ""
+  "en": "You should put kind feelings into your ring too, big sis."
  },
  {
   "id": "SCENARIO/168/00666",
@@ -134,7 +134,7 @@
    "とても危険な力を持つものに",
    "なってしまうから・・・"
   ],
-  "en": ""
+  "en": "Otherwise this ring will turn into something with a very dangerous power..."
  },
  {
   "id": "SCENARIO/168/006cc",
@@ -142,7 +142,7 @@
   "jp": [
    "うん"
   ],
-  "en": ""
+  "en": "Okay."
  },
  {
   "id": "SCENARIO/168/006f2",
@@ -151,7 +151,7 @@
    "それじゃあ、わたしは",
    "カインのために祈るわ"
   ],
-  "en": ""
+  "en": "Then I'll pray for Cain."
  },
  {
   "id": "SCENARIO/168/00746",
@@ -160,7 +160,7 @@
    "カイン",
    "それがお姉さんの大切な人？"
   ],
-  "en": ""
+  "en": "Cain... Is that someone precious to you, big sis?"
  },
  {
   "id": "SCENARIO/168/00792",
@@ -169,12 +169,12 @@
    "ええ、そうよ",
    "とても大切な人・・・"
   ],
-  "en": ""
+  "en": "Yes, he is. Someone very precious to me..."
  },
  {
   "id": "SCENARIO/168/0437c",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/168/0438a",
@@ -182,12 +182,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/168/043a2",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/168/043b2",
@@ -195,6 +195,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

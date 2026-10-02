@@ -5,7 +5,7 @@
   "jp": [
    "・・・いいのかな、ヨハネ"
   ],
-  "en": ""
+  "en": "...Is this really okay, Johannes?"
  },
  {
   "id": "SCENARIO/164/00120",
@@ -14,7 +14,7 @@
    "本当はダリアさんも、エクサルに",
    "行って欲しくないよね？"
   ],
-  "en": ""
+  "en": "Dahlia-san doesn't really want Exal to go either, does she?"
  },
  {
   "id": "SCENARIO/164/00174",
@@ -24,7 +24,7 @@
    "エクサルは行くと決めたら行く",
    "我々が止めても無駄だろう"
   ],
-  "en": ""
+  "en": "But as she said, once Exal decides to go, he goes. Stopping him would be futile."
  },
  {
   "id": "SCENARIO/164/001e8",
@@ -34,7 +34,7 @@
    "サイファーパンクにいられなく",
    "なったりしないかな？"
   ],
-  "en": ""
+  "en": "But what if Exal ends up unable to stay in Cypherpunk?"
  },
  {
   "id": "SCENARIO/164/0024c",
@@ -42,7 +42,7 @@
   "jp": [
    "その時はその時さ"
   ],
-  "en": ""
+  "en": "We will cross that bridge when we come to it."
  },
  {
   "id": "SCENARIO/164/0027e",
@@ -52,7 +52,7 @@
    "生きて帰れるかどうかの方が",
    "心配だがね"
   ],
-  "en": ""
+  "en": "Though I worry less about his expulsion than about whether he comes back alive."
  },
  {
   "id": "SCENARIO/164/002e4",
@@ -60,7 +60,7 @@
   "jp": [
    "・・・・・"
   ],
-  "en": ""
+  "en": "....."
  },
  {
   "id": "SCENARIO/164/00316",
@@ -70,7 +70,7 @@
    "この先誰が死のうとも、",
    "お前が責任を感じることはない"
   ],
-  "en": ""
+  "en": "Cain, remember this. Whoever may die from here on, you are not to feel responsible."
  },
  {
   "id": "SCENARIO/164/0037c",
@@ -80,7 +80,7 @@
    "エクサルが死んだとしても",
    "それは自らの意志が招いた結果だ"
   ],
-  "en": ""
+  "en": "Even if Exal dies as a result of helping you, that is where his own will led him."
  },
  {
   "id": "SCENARIO/164/003fa",
@@ -89,7 +89,7 @@
    "エクサルは死んだりなんか",
    "しないよ！！"
   ],
-  "en": ""
+  "en": "Exal isn't going to die!!"
  },
  {
   "id": "SCENARIO/164/0043c",
@@ -99,7 +99,7 @@
    "エクサルと言わず、誰かが",
    "いなくなる可能性はある"
   ],
-  "en": ""
+  "en": "This time, I cannot say that for certain. Exal or not, someone may not come back."
  },
  {
   "id": "SCENARIO/164/004b6",
@@ -107,7 +107,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/164/004dc",
@@ -117,7 +117,7 @@
    "取り乱したりせず",
    "冷静な判断を心がけるんだ"
   ],
-  "en": ""
+  "en": "Should the worst happen, do not lose your head. Keep a clear mind and judge calmly."
  },
  {
   "id": "SCENARIO/164/0053c",
@@ -125,7 +125,7 @@
   "jp": [
    "そんな・・・"
   ],
-  "en": ""
+  "en": "That's..."
  },
  {
   "id": "SCENARIO/164/00564",
@@ -135,7 +135,7 @@
    "自分の意志で動いている",
    "自分の命の責任は自分にある"
   ],
-  "en": ""
+  "en": "No one is forced. Everyone acts on their own will, and answers for their own life."
  },
  {
   "id": "SCENARIO/164/005de",
@@ -143,7 +143,7 @@
   "jp": [
    "・・・わかったよ"
   ],
-  "en": ""
+  "en": "...All right."
  },
  {
   "id": "SCENARIO/164/00600",
@@ -153,7 +153,7 @@
    "誰かが死ぬなんて言葉、",
    "口にしないで・・・"
   ],
-  "en": ""
+  "en": "But even hypothetically, please don't talk about someone dying..."
  },
  {
   "id": "SCENARIO/164/0066a",
@@ -162,7 +162,7 @@
    "・・・すまない、",
    "失言だったな"
   ],
-  "en": ""
+  "en": "...Forgive me. That was careless of me."
  },
  {
   "id": "SCENARIO/164/0069c",
@@ -170,12 +170,12 @@
   "jp": [
    "これからは気をつけるよ"
   ],
-  "en": ""
+  "en": "I will be more careful from now on."
  },
  {
   "id": "SCENARIO/164/0420c",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/164/0421a",
@@ -183,12 +183,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/164/04232",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/164/04242",
@@ -196,6 +196,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

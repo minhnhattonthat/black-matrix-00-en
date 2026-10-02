@@ -6,7 +6,7 @@
    "・・・・・・はぁ、はぁ",
    "・・・もう、足が"
   ],
-  "en": ""
+  "en": "......Hah... hah... ...My legs, I can't..."
  },
  {
   "id": "SCENARIO/174/00174",
@@ -15,7 +15,7 @@
    "マティアさん、",
    "先に行って・・"
   ],
-  "en": ""
+  "en": "Matia-san, go on ahead..."
  },
  {
   "id": "SCENARIO/174/001d0",
@@ -23,7 +23,7 @@
   "jp": [
    "がんばってキロタくん！"
   ],
-  "en": ""
+  "en": "Hang in there, Kilota-kun!"
  },
  {
   "id": "SCENARIO/174/001f8",
@@ -31,7 +31,7 @@
   "jp": [
    "もう少しできっと外に！"
   ],
-  "en": ""
+  "en": "Just a little more and we'll be outside, I'm sure!"
  },
  {
   "id": "SCENARIO/174/00228",
@@ -39,7 +39,7 @@
   "jp": [
    "マティア！"
   ],
-  "en": ""
+  "en": "Matia!"
  },
  {
   "id": "SCENARIO/174/0026a",
@@ -48,7 +48,7 @@
    "・・・今の声",
    "カイン！カインなの！？"
   ],
-  "en": ""
+  "en": "...That voice. Cain! Is that you, Cain!?"
  },
  {
   "id": "SCENARIO/174/002ac",
@@ -56,7 +56,7 @@
   "jp": [
    "マティアーーー！！！"
   ],
-  "en": ""
+  "en": "Matiaaaa!!!"
  },
  {
   "id": "SCENARIO/174/002fa",
@@ -65,12 +65,12 @@
    "カインの声だわ！！",
    "行こう、キロタくん！！"
   ],
-  "en": ""
+  "en": "That's Cain's voice!! Let's go, Kilota-kun!!"
  },
  {
   "id": "SCENARIO/174/03f40",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/174/03f4e",
@@ -78,12 +78,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/174/03f66",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/174/03f76",
@@ -91,6 +91,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

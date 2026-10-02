@@ -5,7 +5,7 @@
   "jp": [
    "らしくなくヘコんでるわね"
   ],
-  "en": ""
+  "en": "You're down in the dumps. Not like you."
  },
  {
   "id": "SCENARIO/166/001be",
@@ -13,7 +13,7 @@
   "jp": [
    "これでも反省してるんだよ"
   ],
-  "en": ""
+  "en": "I'm reflecting on it, believe it or not."
  },
  {
   "id": "SCENARIO/166/001fe",
@@ -21,7 +21,7 @@
   "jp": [
    "そうね"
   ],
-  "en": ""
+  "en": "I see."
  },
  {
   "id": "SCENARIO/166/00218",
@@ -31,7 +31,7 @@
    "人の話もロクに聞かない、",
    "あげくに飛び出すなんて最低よ"
   ],
-  "en": ""
+  "en": "You rant your feelings, barely listen to anyone, then storm off. Just the worst."
  },
  {
   "id": "SCENARIO/166/0029a",
@@ -39,7 +39,7 @@
   "jp": [
    "ステイエンはきっついな～"
   ],
-  "en": ""
+  "en": "Harsh, Stayen~"
  },
  {
   "id": "SCENARIO/166/002d2",
@@ -49,7 +49,7 @@
    "うやむやのまま周りの気持ちに",
    "押し流されそうで嫌だったんだ"
   ],
-  "en": ""
+  "en": "But if I'd stayed, I'd have let everyone's feelings sweep me along. I hated that."
  },
  {
   "id": "SCENARIO/166/0033c",
@@ -58,7 +58,7 @@
    "だって、自分で選んだ答えじゃ",
    "ないと、後悔しちまうだろ？"
   ],
-  "en": ""
+  "en": "'Cause if it's not an answer you chose yourself, you end up regretting it, right?"
  },
  {
   "id": "SCENARIO/166/003a4",
@@ -68,7 +68,7 @@
    "あんた、ちゃんと周りの人達の",
    "気持ちもわかってるの？"
   ],
-  "en": ""
+  "en": "That's true, but... Do you actually understand how the people around you feel?"
  },
  {
   "id": "SCENARIO/166/00410",
@@ -78,7 +78,7 @@
    "みんなは組織の存続だけを",
    "問題にしてるんじゃない"
   ],
-  "en": ""
+  "en": "I do. It's not just the organization's survival they're worried about."
  },
  {
   "id": "SCENARIO/166/00464",
@@ -87,7 +87,7 @@
    "肉親のように、本気で俺のことを",
    "心配してくれているんだ"
   ],
-  "en": ""
+  "en": "They're genuinely worried about me, like I was their own flesh and blood."
  },
  {
   "id": "SCENARIO/166/004d8",
@@ -96,7 +96,7 @@
    "だったらやっぱり",
    "エクサルは残った方が・・・"
   ],
-  "en": ""
+  "en": "Then all the more reason you should stay, Exal..."
  },
  {
   "id": "SCENARIO/166/00520",
@@ -104,7 +104,7 @@
   "jp": [
    "カイン・・・・・"
   ],
-  "en": ""
+  "en": "Cain..."
  },
  {
   "id": "SCENARIO/166/00552",
@@ -112,7 +112,7 @@
   "jp": [
    "俺さ、こんな風に思うんだ"
   ],
-  "en": ""
+  "en": "You know, here's how I see it."
  },
  {
   "id": "SCENARIO/166/0058a",
@@ -122,7 +122,7 @@
    "両手を突き出しても、砂のように",
    "指と指の間からすり抜けちまう"
   ],
-  "en": ""
+  "en": "Lives are like sand. Reach out to save one, and it slips right through your fingers."
  },
  {
   "id": "SCENARIO/166/005fc",
@@ -132,7 +132,7 @@
    "助けることが出来るのは",
    "ほんの一握りの人達だけ"
   ],
-  "en": ""
+  "en": "I know. However far you reach, the ones you can save are only a handful."
  },
  {
   "id": "SCENARIO/166/0065c",
@@ -141,7 +141,7 @@
    "でも、ほんの少し、",
    "後もう少し手を伸ばしたら！"
   ],
-  "en": ""
+  "en": "But if I reach just a little, just a little bit farther!"
  },
  {
   "id": "SCENARIO/166/006ae",
@@ -151,7 +151,7 @@
    "出来ることがあるんじゃないか",
    "誰かを助けられるんじゃないか"
   ],
-  "en": ""
+  "en": "Maybe even a guy like me could do a little more. Maybe I could save somebody."
  },
  {
   "id": "SCENARIO/166/0071c",
@@ -159,7 +159,7 @@
   "jp": [
    "そう思うから、俺は・・・"
   ],
-  "en": ""
+  "en": "That's what I think, so I..."
  },
  {
   "id": "SCENARIO/166/00752",
@@ -167,7 +167,7 @@
   "jp": [
    "エクサル・・・"
   ],
-  "en": ""
+  "en": "Exal..."
  },
  {
   "id": "SCENARIO/166/0078a",
@@ -177,17 +177,17 @@
    "俺がついて行ったんじゃ",
    "足手まといになっちまうかな？"
   ],
-  "en": ""
+  "en": "Or would I just be dead weight if I came along?"
  },
  {
   "id": "SCENARIO/166/007e2",
   "jp": "　そんなことないよ",
-  "en": ""
+  "en": "No, you wouldn't"
  },
  {
   "id": "SCENARIO/166/007fc",
   "jp": "　足手まといだよ",
-  "en": ""
+  "en": "You'd be dead weight"
  },
  {
   "id": "SCENARIO/166/00826",
@@ -195,7 +195,7 @@
   "jp": [
    "そんなことないよ"
   ],
-  "en": ""
+  "en": "No, you wouldn't."
  },
  {
   "id": "SCENARIO/166/00866",
@@ -203,7 +203,7 @@
   "jp": [
    "足手まといだよ"
   ],
-  "en": ""
+  "en": "You'd be dead weight."
  },
  {
   "id": "SCENARIO/166/0089e",
@@ -211,7 +211,7 @@
   "jp": [
    "うわぁ、厳しいな"
   ],
-  "en": ""
+  "en": "Whoa, harsh."
  },
  {
   "id": "SCENARIO/166/008d6",
@@ -220,7 +220,7 @@
    "でも、エクサルが本気だって",
    "ことはボクにも伝わったよ"
   ],
-  "en": ""
+  "en": "But even I can tell you're serious about this, Exal."
  },
  {
   "id": "SCENARIO/166/0093e",
@@ -228,7 +228,7 @@
   "jp": [
    "・・・そうか、サンキュ"
   ],
-  "en": ""
+  "en": "...Yeah? Thanks."
  },
  {
   "id": "SCENARIO/166/00990",
@@ -236,7 +236,7 @@
   "jp": [
    "・・・理解できないわ"
   ],
-  "en": ""
+  "en": "...I don't get it."
  },
  {
   "id": "SCENARIO/166/009c6",
@@ -246,7 +246,7 @@
    "アンタには行かなきゃいけない",
    "理由なんてないじゃない！！"
   ],
-  "en": ""
+  "en": "Unlike us, you don't have any reason you have to go!!"
  },
  {
   "id": "SCENARIO/166/00a46",
@@ -256,7 +256,7 @@
    "何かをするのに、いちいち理由",
    "なんて必要なのか？"
   ],
-  "en": ""
+  "en": "...Well, yeah, but... Do you need a reason for every single thing you do?"
  },
  {
   "id": "SCENARIO/166/00ab0",
@@ -264,7 +264,7 @@
   "jp": [
    "それは・・・"
   ],
-  "en": ""
+  "en": "That's..."
  },
  {
   "id": "SCENARIO/166/00ae6",
@@ -272,7 +272,7 @@
   "jp": [
    "だったら、それでいいだろ？"
   ],
-  "en": ""
+  "en": "Then that settles it, right?"
  },
  {
   "id": "SCENARIO/166/00b2a",
@@ -281,7 +281,7 @@
    "アンタ達って、",
    "本っ当～にお人好しなのね"
   ],
-  "en": ""
+  "en": "You people are really, truly too soft-hearted."
  },
  {
   "id": "SCENARIO/166/00b84",
@@ -290,7 +290,7 @@
    "そんな人間は",
    "長生き出来ないんだから"
   ],
-  "en": ""
+  "en": "People like that don't live long."
  },
  {
   "id": "SCENARIO/166/00bf6",
@@ -299,7 +299,7 @@
    "そういうアンタも",
    "長生き出来なそうね"
   ],
-  "en": ""
+  "en": "And you don't look like you'll live long yourself."
  },
  {
   "id": "SCENARIO/166/00c46",
@@ -309,7 +309,7 @@
    "あたしはお人好しなんかじゃ",
    "ないわよ！！"
   ],
-  "en": ""
+  "en": "Wh-what!? I'm not soft-hearted!!"
  },
  {
   "id": "SCENARIO/166/00d6e",
@@ -318,7 +318,7 @@
    "・・・フン",
    "誰が死のうと構わない"
   ],
-  "en": ""
+  "en": "...Hmph. I don't care who dies."
  },
  {
   "id": "SCENARIO/166/00da4",
@@ -328,7 +328,7 @@
    "戦力は少ないより多い方がいい",
    "ただ、弱い奴は勝手に死ぬだけだ"
   ],
-  "en": ""
+  "en": "If we're heading into danger, more hands beat fewer. The weak just die on their own."
  },
  {
   "id": "SCENARIO/166/00e44",
@@ -337,7 +337,7 @@
    "最初から死ぬことなんて",
    "考えてちゃダメだよ"
   ],
-  "en": ""
+  "en": "You shouldn't be thinking about dying from the start."
  },
  {
   "id": "SCENARIO/166/00e84",
@@ -345,7 +345,7 @@
   "jp": [
    "みんな、生きて戻るんだから"
   ],
-  "en": ""
+  "en": "We're all coming back alive."
  },
  {
   "id": "SCENARIO/166/00ee4",
@@ -355,7 +355,7 @@
    "最初っから気持ちで負けてたら",
    "勝てるケンカも勝てないぜ"
   ],
-  "en": ""
+  "en": "Right. Go in beaten in your head, and you'll lose fights you could've won."
  },
  {
   "id": "SCENARIO/166/00f62",
@@ -364,7 +364,7 @@
    "みんなで、ここに戻ってこよう",
    "奪われた大切な人達と一緒に！"
   ],
-  "en": ""
+  "en": "Let's all come back here together. With the people who were taken from us!"
  },
  {
   "id": "SCENARIO/166/00fb8",
@@ -372,7 +372,7 @@
   "jp": [
    "リリスも一緒に戦うの！！"
   ],
-  "en": ""
+  "en": "Lilis is gonna fight too!!"
  },
  {
   "id": "SCENARIO/166/010d2",
@@ -380,7 +380,7 @@
   "jp": [
    "リ、リリス？！！"
   ],
-  "en": ""
+  "en": "L-Lilis!?"
  },
  {
   "id": "SCENARIO/166/0111c",
@@ -389,7 +389,7 @@
    "お願いしますカインさん",
    "わたし達も連れて行って下さい"
   ],
-  "en": ""
+  "en": "Please, Cain-san. Take us with you."
  },
  {
   "id": "SCENARIO/166/0117a",
@@ -398,7 +398,7 @@
    "そんな・・・",
    "危険な戦いになるんだよ？"
   ],
-  "en": ""
+  "en": "But... it's going to be a dangerous fight, you know?"
  },
  {
   "id": "SCENARIO/166/011bc",
@@ -407,7 +407,7 @@
    "足手まといかもしれないけど",
    "わたし達も、何かしたいんです"
   ],
-  "en": ""
+  "en": "We might be dead weight, but we want to do something too."
  },
  {
   "id": "SCENARIO/166/01208",
@@ -417,7 +417,7 @@
    "わたし達にも出来ると思います",
    "だから・・"
   ],
-  "en": ""
+  "en": "I think we can at least heal everyone's wounds. So..."
  },
  {
   "id": "SCENARIO/166/0127a",
@@ -427,7 +427,7 @@
    "でも、危険が迫ったら、",
    "真っ先に逃げるんだよ"
   ],
-  "en": ""
+  "en": "All right. But if danger comes, you run first, got it?"
  },
  {
   "id": "SCENARIO/166/012de",
@@ -437,7 +437,7 @@
    "守ってみせます",
    "だから、一緒に戦いましょう"
   ],
-  "en": ""
+  "en": "Yes. I'll protect Lilis and myself, at least. So let's fight together."
  },
  {
   "id": "SCENARIO/166/01356",
@@ -446,7 +446,7 @@
    "ありがとう",
    "シリア、リリス"
   ],
-  "en": ""
+  "en": "Thank you, Syria, Lilis."
  },
  {
   "id": "SCENARIO/166/013ac",
@@ -454,12 +454,12 @@
   "jp": [
    "ありがとう・・"
   ],
-  "en": ""
+  "en": "Thank you..."
  },
  {
   "id": "SCENARIO/166/04f50",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/166/04f5e",
@@ -467,12 +467,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/166/04f76",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/166/04f86",
@@ -480,6 +480,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

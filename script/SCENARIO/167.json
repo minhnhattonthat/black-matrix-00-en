@@ -5,7 +5,7 @@
   "jp": [
    "ここが・・・"
   ],
-  "en": ""
+  "en": "So this is..."
  },
  {
   "id": "SCENARIO/167/0019a",
@@ -15,7 +15,7 @@
    "並ぶ大教会の一つ",
    "＜ラムシュタイン大聖堂＞よ"
   ],
-  "en": ""
+  "en": "Yes. One of the great cathedrals, on par with San Bartelmi: Ramstein Cathedral."
  },
  {
   "id": "SCENARIO/167/0021c",
@@ -24,7 +24,7 @@
    "それじゃあ、手はず通り",
    "二手に分かれて行動だ"
   ],
-  "en": ""
+  "en": "Then, as planned, we split into two groups."
  },
  {
   "id": "SCENARIO/167/00284",
@@ -34,7 +34,7 @@
    "俺たちがインセストの場所を",
    "つきとめる、それでいいんだな？"
   ],
-  "en": ""
+  "en": "While you play decoy, we track down where the Incests are. That's the plan, right?"
  },
  {
   "id": "SCENARIO/167/0031c",
@@ -43,7 +43,7 @@
    "ヨハネ、ルカ、ザイオン",
    "くれぐれも気をつけてね"
   ],
-  "en": ""
+  "en": "Johannes, Luca, Zion... please, be careful."
  },
  {
   "id": "SCENARIO/167/00388",
@@ -51,7 +51,7 @@
   "jp": [
    "そっちこそ"
   ],
-  "en": ""
+  "en": "Same to you."
  },
  {
   "id": "SCENARIO/167/003a4",
@@ -61,7 +61,7 @@
    "アンタ達が無事とは限らないん",
    "だからね"
   ],
-  "en": ""
+  "en": "Just because we're the decoys doesn't mean you lot will be safe."
  },
  {
   "id": "SCENARIO/167/00424",
@@ -71,12 +71,12 @@
    "与えられた役割を果たせばいい",
    "それだけだ"
   ],
-  "en": ""
+  "en": "Each of us does the job we were given. That is all."
  },
  {
   "id": "SCENARIO/167/03fb8",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/167/03fc6",
@@ -84,12 +84,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/167/03fde",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/167/03fee",
@@ -97,6 +97,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

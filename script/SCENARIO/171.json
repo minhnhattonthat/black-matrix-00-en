@@ -6,7 +6,7 @@
    "よっし！",
    "なんとかうまくいったみたいだな"
   ],
-  "en": ""
+  "en": "All right! Looks like that worked out somehow."
  },
  {
   "id": "SCENARIO/171/0017c",
@@ -16,7 +16,7 @@
    "マティアのとこまで行けたら",
    "いいけど・・・"
   ],
-  "en": ""
+  "en": "Be nice if we could get to Matia without causing a stir..."
  },
  {
   "id": "SCENARIO/171/0020e",
@@ -26,7 +26,7 @@
    "もちろん、出来る限り戦闘は",
    "避けるつもりだけど・・・"
   ],
-  "en": ""
+  "en": "Better assume we can't. Of course, I mean to avoid fighting as much as possible..."
  },
  {
   "id": "SCENARIO/171/002a0",
@@ -34,7 +34,7 @@
   "jp": [
    "ええ、そうですわね"
   ],
-  "en": ""
+  "en": "Yes, quite so."
  },
  {
   "id": "SCENARIO/171/002cc",
@@ -43,7 +43,7 @@
    "こっちよ！",
    "ついてきてっ！！"
   ],
-  "en": ""
+  "en": "This way! Follow me!!"
  },
  {
   "id": "SCENARIO/171/0032c",
@@ -51,12 +51,12 @@
   "jp": [
    "・・・マティア！"
   ],
-  "en": ""
+  "en": "...Matia!"
  },
  {
   "id": "SCENARIO/171/03e94",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/171/03ea2",
@@ -64,12 +64,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/171/03eba",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/171/03eca",
@@ -77,6 +77,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

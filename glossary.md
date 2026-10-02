@@ -171,3 +171,8 @@ Grisina presents female but self-identifies as a man (195): pronoun-free.
 | 上級天使 | high-ranking angel | |
 | 幹部候補 | officer candidate | |
 | 異端者 | heretic | |
+| 智天使 | Cherub | Whiteface's rank |
+| 法天使 | Angel of Law | Rubiel's rank |
+| 我らが母なる神 | Mother God | Bale's prayer |
+| ラムシュタイン要塞 | Fortress Ramstein | soldiers' nickname |
+| リプサリス・サファイア | Rhipsalis Sapphire | |

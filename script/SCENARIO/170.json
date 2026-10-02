@@ -5,7 +5,7 @@
   "jp": [
    "あぁ・・・我々の正義が・・・・"
   ],
-  "en": ""
+  "en": "Ahh... our justice..."
  },
  {
   "id": "SCENARIO/170/00360",
@@ -13,7 +13,7 @@
   "jp": [
    "て　敵襲だーーー！！！"
   ],
-  "en": ""
+  "en": "E-enemy attaaack!!"
  },
  {
   "id": "SCENARIO/170/003a0",
@@ -21,7 +21,7 @@
   "jp": [
    "おのれ　異端者め！！！"
   ],
-  "en": ""
+  "en": "Curse you, heretics!!"
  },
  {
   "id": "SCENARIO/170/003e0",
@@ -30,7 +30,7 @@
    "みなさん！　今こそ",
    "教団の正義を示す時です！！"
   ],
-  "en": ""
+  "en": "Everyone! Now is the time to show the Church's justice!!"
  },
  {
   "id": "SCENARIO/170/0041c",
@@ -39,7 +39,7 @@
    "返り討ちにして",
    "さしあげなさーーい！！！"
   ],
-  "en": ""
+  "en": "Cut them down where they staaand!!"
  },
  {
   "id": "SCENARIO/170/00470",
@@ -47,7 +47,7 @@
   "jp": [
    "は！！"
   ],
-  "en": ""
+  "en": "Sir!!"
  },
  {
   "id": "SCENARIO/170/004a0",
@@ -55,7 +55,7 @@
   "jp": [
    "は！！"
   ],
-  "en": ""
+  "en": "Sir!!"
  },
  {
   "id": "SCENARIO/170/007fc",
@@ -64,7 +64,7 @@
    "フン　異端者め・・・",
    "我々の正義を思い知ったか！！"
   ],
-  "en": ""
+  "en": "Hmph. Heretics... Now you know our justice!!"
  },
  {
   "id": "SCENARIO/170/00904",
@@ -72,7 +72,7 @@
   "jp": [
    "ふぅ・・・これで先に行けるわ"
   ],
-  "en": ""
+  "en": "Phew... Now we can move on."
  },
  {
   "id": "SCENARIO/170/00990",
@@ -80,7 +80,7 @@
   "jp": [
    "チョロいもんだぜッ！"
   ],
-  "en": ""
+  "en": "Piece of cake!"
  },
  {
   "id": "SCENARIO/170/00a14",
@@ -88,7 +88,7 @@
   "jp": [
    "えへへ～　楽勝なの！"
   ],
-  "en": ""
+  "en": "Eheheh~ Easy-peasy!"
  },
  {
   "id": "SCENARIO/170/00a98",
@@ -97,7 +97,7 @@
    "ぐずぐずしていられない！",
    "先を急ごう！！"
   ],
-  "en": ""
+  "en": "No time to dawdle! Let's hurry on!!"
  },
  {
   "id": "SCENARIO/170/00b28",
@@ -105,12 +105,12 @@
   "jp": [
    "ええ・・！"
   ],
-  "en": ""
+  "en": "Yes...!"
  },
  {
   "id": "SCENARIO/170/04654",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/170/04662",
@@ -118,12 +118,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/170/0467a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/170/0468a",
@@ -131,7 +131,7 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  },
  {
   "id": "SCENARIO/170/047f8",
@@ -139,7 +139,7 @@
   "jp": [
    "うぅ・・・"
   ],
-  "en": ""
+  "en": "Ugh..."
  },
  {
   "id": "SCENARIO/170/048b4",
@@ -148,7 +148,7 @@
    "すまない・・",
    "離脱する"
   ],
-  "en": ""
+  "en": "Forgive me... I must withdraw."
  },
  {
   "id": "SCENARIO/170/04980",
@@ -156,7 +156,7 @@
   "jp": [
    "やられたぁぁぁ"
   ],
-  "en": ""
+  "en": "They got meee..."
  },
  {
   "id": "SCENARIO/170/04a40",
@@ -165,7 +165,7 @@
    "あぁ　もう・・",
    "やってられないわ"
   ],
-  "en": ""
+  "en": "Oh, honestly... I can't take this."
  },
  {
   "id": "SCENARIO/170/04b14",
@@ -173,7 +173,7 @@
   "jp": [
    "ちっ・・・"
   ],
-  "en": ""
+  "en": "Tch..."
  },
  {
   "id": "SCENARIO/170/04bd0",
@@ -182,7 +182,7 @@
    "あぁ・・・",
    "こんなはずでは・・"
   ],
-  "en": ""
+  "en": "Ah... It wasn't supposed to go like this..."
  },
  {
   "id": "SCENARIO/170/04ca4",
@@ -190,7 +190,7 @@
   "jp": [
    "きゃー　もぉ　きゃー"
   ],
-  "en": ""
+  "en": "Eek! Oh, no! Eek!"
  },
  {
   "id": "SCENARIO/170/04d6c",
@@ -198,7 +198,7 @@
   "jp": [
    "いたいよぉ・・"
   ],
-  "en": ""
+  "en": "It hurts..."
  },
  {
   "id": "SCENARIO/170/04e2c",
@@ -206,7 +206,7 @@
   "jp": [
    "す　すいません"
   ],
-  "en": ""
+  "en": "S-sorry..."
  },
  {
   "id": "SCENARIO/170/04eec",
@@ -215,7 +215,7 @@
    "すまない・・",
    "離脱する"
   ],
-  "en": ""
+  "en": "Forgive me... I must withdraw."
  },
  {
   "id": "SCENARIO/170/04fb8",
@@ -223,7 +223,7 @@
   "jp": [
    "ぐっ　この私が・・・"
   ],
-  "en": ""
+  "en": "Ugh... Not me..."
  },
  {
   "id": "SCENARIO/170/05080",
@@ -231,7 +231,7 @@
   "jp": [
    "うー　いたいよぉ"
   ],
-  "en": ""
+  "en": "Ow... it hurts..."
  },
  {
   "id": "SCENARIO/170/05144",
@@ -239,7 +239,7 @@
   "jp": [
    "・・限界だな・・"
   ],
-  "en": ""
+  "en": "...That's my limit..."
  },
  {
   "id": "SCENARIO/170/05208",
@@ -247,7 +247,7 @@
   "jp": [
    "申し訳ありません"
   ],
-  "en": ""
+  "en": "My apologies."
  },
  {
   "id": "SCENARIO/170/052cc",
@@ -257,7 +257,7 @@
    "あああああああああああああああ",
    "あああああああああああああああ"
   ],
-  "en": ""
+  "en": "They got meeeeeeeeeeeeeeeeeeeeeeeee!"
  },
  {
   "id": "SCENARIO/170/053e0",
@@ -267,6 +267,6 @@
    "あああああああああああああああ",
    "あああああああああああああああ"
   ],
-  "en": ""
+  "en": "They got meeeeeeeeeeeeeeeeeeeeeeeee!"
  }
 ]
