@@ -73,7 +73,8 @@ def test_grown_strings_keep_jumps_on_the_same_tokens():
     for i, b in SCRIPTS:
         entries = script.extract(b, f"SCENARIO/{i:03d}")
         for e in entries:
-            e["en"] = e["jp"] + "　　　"     # 6 bytes: flips u32 alignment
+            jp = "\n".join(e["jp"]) if isinstance(e["jp"], list) else e["jp"]
+            e["en"] = jp + "　　　"     # 6 bytes: flips u32 alignment, never spills
         old, new = script.tokenize(b), script.tokenize(script.insert(b, entries))
         assert len(old) == len(new), i
         moved = {o.off: n.off for o, n in zip(old, new)}
@@ -159,10 +160,124 @@ def test_line_over_23_cells_raises_and_23_passes():
     assert _insert_raises([{**first, "en": "x" * 47}])
 
 
-def test_too_wide_lists_lines_past_the_window():
-    entries = [{"id": "a", "jp": "", "en": "x" * 30}, {"id": "b", "jp": "", "en": "x" * 31},
-               {"id": "c", "jp": "", "en": ""}]
-    assert script.too_wide(entries) == ["b"]
+def test_extract_groups_dialogue_runs_into_windows():
+    windows = [e for i, b in SCRIPTS for e in script.extract(b, f"S/{i:03d}") if isinstance(e["jp"], list)]
+    assert len(windows) == 18213
+    assert sum(len(w["jp"]) for w in windows) == 32497
+    assert max(len(w["jp"]) for w in windows) == 3
+    assert sum(1 for w in windows if w.get("spill") is False) == 120
+
+
+def test_extract_reads_the_speaker_from_the_preceding_1058():
+    entries = script.extract(SCRIPTS[12][1], "S")
+    w = next(e for e in entries if e["id"].endswith("/005fa"))
+    assert w["jp"] == ["大事なものなんだよ！",
+                       "どこだ！どこなんだよ～！？"]
+    assert w["speaker"] == 0x10
+    assert "spill" not in w
+
+
+def test_extract_keeps_other_strings_as_single_entries():
+    for i, b in SCRIPTS:
+        toks = script.tokenize(b)
+        singles = [t for t in toks if t.text is not None and script.op(t) != script.DIALOGUE_OP]
+        entries = [e for e in script.extract(b, "S") if isinstance(e["jp"], str)]
+        assert [f"S/{t.off:05x}" for t in singles] == [e["id"] for e in entries], i
+
+
+def _window(entries):
+    """First spillable window with at least two lines."""
+    return next(e for e in entries if isinstance(e["jp"], list) and len(e["jp"]) >= 2 and "spill" not in e)
+
+
+def test_wrap_breaks_at_spaces_within_30_bytes():
+    assert script.wrap("Keep the room bright when you play!") == ["Keep the room bright when you", "play!"]   # 29 chars + pad = 30
+    assert script.wrap("one\ntwo three") == ["one", "two three"]
+    assert script.wrap("a\n\nb\n") == ["a", "b"]                     # no blank lines
+    assert script.wrap("x" * 31) == ["x" * 31]                         # long word stays whole
+    assert script.wrap("abc {41}" + "c" * 26) == ["abc", "{41}" + "c" * 26]   # 3+1+27 = 31 bytes: breaks
+    assert script.wrap("{41}" + "c" * 29) == ["{41}" + "c" * 29]              # escape is one byte, 30 fits
+
+
+def test_window_en_replaces_all_its_lines():
+    i, b = SCRIPTS[12]
+    entries = script.extract(b, "S")
+    w = _window(entries)
+    assert len(w["jp"]) >= 2
+    w["en"] = "Hello"
+    toks = script.tokenize(script.insert(b, entries))
+    texts = [t.text for t in toks if t.text is not None]
+    assert b"Hello " in texts
+    before = len([t for t in script.tokenize(b) if t.text is not None])
+    assert len(texts) == before - len(w["jp"]) + 1
+
+
+def test_four_lines_spill_into_a_second_window():
+    i, b = SCRIPTS[12]
+    entries = script.extract(b, "S")
+    w = _window(entries)
+    w["en"] = "\n".join(["line one", "line two", "line three", "line four"])
+    toks = script.tokenize(script.insert(b, entries))
+    k = next(n for n, t in enumerate(toks) if t.text == b"line one")
+    assert [script.op(t) for t in toks[k:k + 6]] == [0x1050] * 3 + [0x000A] + [0x1050, 0x000A]
+    assert toks[k + 3].raw == toks[k + 5].raw                           # the copied wait call
+    assert script.spilled(entries) == [w["id"]]
+
+
+def test_spill_false_window_rejects_four_lines():
+    i, b = next((i, b) for i, b in SCRIPTS
+                if any(e.get("spill") is False for e in script.extract(b, "S")))
+    entries = script.extract(b, "S")
+    w = next(e for e in entries if e.get("spill") is False)
+    w["en"] = "a\nb\nc\nd"
+    try:
+        script.insert(b, entries)
+    except ValueError as err:
+        assert w["id"] in str(err)
+        return
+    assert False, "expected ValueError"
+
+
+def test_id_of_a_second_window_line_is_rejected():
+    i, b = SCRIPTS[12]
+    entries = script.extract(b, "S")
+    w = _window(entries)
+    toks = script.tokenize(b)
+    k = next(n for n, t in enumerate(toks) if f"S/{t.off:05x}" == w["id"])
+    bad = {"id": f"S/{toks[k + 1].off:05x}", "jp": "", "en": "x"}
+    try:
+        script.insert(b, entries + [bad])
+    except ValueError as err:
+        assert "no string at" in str(err)
+        return
+    assert False, "expected ValueError"
+
+
+def test_jump_into_a_window_raises():
+    i, b = SCRIPTS[12]
+    toks = script.tokenize(b)
+    w = _window(script.extract(b, "S"))
+    k = next(n for n, t in enumerate(toks) if f"S/{t.off:05x}" == w["id"])
+    j = next(t for t in toks if t.jumps)
+    bad = bytearray(b)
+    struct.pack_into("<I", bad, j.off + j.jumps[0], toks[k + 1].off)
+    entries = script.extract(bytes(bad), "S")
+    _window(entries)["en"] = "x"
+    try:
+        script.insert(bytes(bad), entries)
+    except ValueError:
+        return
+    assert False, "expected ValueError"
+
+
+def test_too_wide_reports_lines_over_the_window():
+    i, b = SCRIPTS[12]
+    entries = script.extract(b, "S")
+    w = _window(entries)
+    w["en"] = "x" * 31
+    assert script.too_wide(entries) == [w["id"]]
+    w["en"] = "x" * 30
+    assert script.too_wide(entries) == []
 
 
 if __name__ == "__main__":

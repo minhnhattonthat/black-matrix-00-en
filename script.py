@@ -49,6 +49,21 @@ OPS = {
 }
 
 
+DIALOGUE_OP = 0x1050   # one window line; 1-3 in a row make a window
+WAIT_OP = 0x000A       # call that shows the window and waits; copied when a window spills
+SPEAKER_OP = 0x1058    # 1058 <imm>: speaker / portrait id, context for translators
+
+
+def op(t: "Token") -> int:
+    return struct.unpack_from("<H", t.raw)[0]
+
+
+def _window_end(toks: list, k: int) -> int:
+    while k < len(toks) and op(toks[k]) == DIALOGUE_OP:
+        k += 1
+    return k
+
+
 @dataclass
 class Token:
     off: int
@@ -174,39 +189,107 @@ def encode(text: str) -> bytes:
 
 
 def extract(b: bytes, prefix: str) -> list[dict]:
-    return [{"id": f"{prefix}/{t.off:05x}", "jp": decode(t.text), "en": ""}
-            for t in tokenize(b) if t.text is not None]
+    toks, out, speaker, k = tokenize(b), [], None, 0
+    while k < len(toks):
+        t = toks[k]
+        if op(t) == SPEAKER_OP:
+            speaker = struct.unpack_from("<H", t.raw, 4)[0] if t.raw[2:4] == b"\x01\x00" else None
+        if op(t) == DIALOGUE_OP:
+            end = _window_end(toks, k)
+            e = {"id": f"{prefix}/{t.off:05x}", "speaker": speaker,
+                 "jp": [decode(x.text) for x in toks[k:end]], "en": ""}
+            if not (end < len(toks) and op(toks[end]) == WAIT_OP):
+                e["spill"] = False
+            out.append(e)
+            k = end
+            continue
+        if t.text is not None:
+            out.append({"id": f"{prefix}/{t.off:05x}", "jp": decode(t.text), "en": ""})
+        k += 1
+    return out
+
+
+def wrap(text: str, width: int = WINDOW_CELLS * 2) -> list[str]:
+    """Lines of at most `width` encoded bytes, broken at spaces and at \\n. A word
+    longer than `width` stays whole (insert's 46-byte cap still applies to it)."""
+    lines = []
+    for para in text.split("\n"):
+        cur = ""
+        for word in filter(None, para.split(" ")):
+            if cur and len(encode(cur + " " + word)) > width:
+                lines.append(cur)
+                cur = word
+            else:
+                cur = f"{cur} {word}" if cur else word
+        if cur:
+            lines.append(cur)
+    return lines
+
+
+def _offset(entry: dict) -> int:
+    return int(entry["id"].rsplit("/", 1)[1], 16)
+
+
+def _line_bytes(e: dict, text: str) -> bytes:
+    try:
+        data = encode(text)
+    except ValueError as err:
+        raise ValueError(f'{e["id"]}: {err}') from None
+    if len(data) > MAX_CELLS * 2:
+        raise ValueError(f'{e["id"]}: {len(data)} bytes; a line holds {MAX_CELLS * 2}')
+    padded = data + b"\0" * (len(data) % 2)
+    if any(padded[i:i + 2] == b"\0\0" for i in range(0, len(padded), 2)):
+        raise ValueError(f'{e["id"]}: a zero word inside the text would end the string early')
+    return data
 
 
 def insert(b: bytes, entries: list[dict]) -> bytes:
-    """Rebuild the script with each entry's non-empty `en` in place of its string."""
-    english = {int(e["id"].rsplit("/", 1)[1], 16): e for e in entries if e["en"]}
+    """Rebuild the script with each entry's non-empty `en` in place of its string or window."""
+    english = {_offset(e): e for e in entries if e["en"]}
+    toks = tokenize(b)
     out, moved, fixups = bytearray(), {}, []
-    for t in tokenize(b):
-        moved[t.off] = len(out)
+
+    def emit(t: Token, text: bytes | None = None):
         for kind, data in t.parts:
             if kind == "s":
-                e = english.pop(t.off, None)
-                if e:
-                    try:
-                        data = encode(e["en"])
-                    except ValueError as err:
-                        raise ValueError(f'{e["id"]}: {err}') from None
-                    if len(data) > MAX_CELLS * 2:
-                        raise ValueError(f'{e["id"]}: {len(data)} bytes; a line holds {MAX_CELLS * 2}')
-                    padded = data + b"\0" * (len(data) % 2)
-                    if any(padded[i:i + 2] == b"\0\0" for i in range(0, len(padded), 2)):
-                        raise ValueError(f'{e["id"]}: a zero word inside the text would end the string early')
+                if text is not None:
+                    data = text
                 # the game ends a string at a zero u16, so complete an odd last word first
-                out += data + b"\0" * (len(data) % 2) + b"\0\0"
+                out.extend(data + b"\0" * (len(data) % 2) + b"\0\0")
             elif kind in "uj":
                 if len(out) % 4:
-                    out += b"\0\0"
+                    out.extend(b"\0\0")
                 if kind == "j":
                     fixups.append((len(out), struct.unpack("<I", data)[0], t.off))
-                out += data
+                out.extend(data)
             else:
-                out += data
+                out.extend(data)
+
+    k = 0
+    while k < len(toks):
+        t = toks[k]
+        moved[t.off] = len(out)
+        e = english.pop(t.off, None) if t.text is not None else None
+        if op(t) != DIALOGUE_OP:
+            emit(t, _line_bytes(e, e["en"]) if e else None)
+            k += 1
+            continue
+        end = _window_end(toks, k)
+        if e is None:                # untranslated window: copy its lines; only line 1 can own an id
+            for x in toks[k:end]:
+                moved[x.off] = len(out)
+                emit(x)
+            k = end
+            continue
+        wait = toks[end] if end < len(toks) and op(toks[end]) == WAIT_OP else None
+        lines = wrap(e["en"])
+        if wait is None and len(lines) > 3:
+            raise ValueError(f'{e["id"]}: {len(lines)} lines, and no wait call follows to spill into')
+        for n, line in enumerate(lines):
+            if n and n % 3 == 0:
+                emit(wait)
+            emit(t, _line_bytes(e, line))
+        k = end                      # lines 2-3 of the window are consumed; jumps to them fail below
     if english:
         ids = ", ".join(e["id"] for e in english.values())
         raise ValueError(f"no string at: {ids}")
@@ -220,6 +303,14 @@ def insert(b: bytes, entries: list[dict]) -> bytes:
     return bytes(out).ljust(max(len(b), -(-len(out) // 2048) * 2048), b"\0")
 
 
+def spilled(entries: list[dict]) -> list[str]:
+    """IDs of windows whose English wraps to more than three lines (shown as two windows)."""
+    return [e["id"] for e in entries if e["en"] and isinstance(e["jp"], list) and len(wrap(e["en"])) > 3]
+
+
 def too_wide(entries: list[dict]) -> list[str]:
-    """IDs of English lines that fit the text object but overflow the window."""
-    return [e["id"] for e in entries if e["en"] and len(encode(e["en"])) > WINDOW_CELLS * 2]
+    """IDs with a line wider than the dialogue window after wrapping."""
+    limit = WINDOW_CELLS * 2
+    return [e["id"] for e in entries if e["en"]
+            and any(len(encode(line)) > limit for line in wrap(e["en"]))]
+
