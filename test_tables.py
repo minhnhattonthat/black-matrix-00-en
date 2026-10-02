@@ -42,6 +42,54 @@ def test_insert_zero_fills_and_enforces_width():
     assert False, "expected ValueError"
 
 
+BATTLE = dat.unpack((ORIG / "BATTLE.DAT").read_bytes())
+UNIT_NAMES = {e["jp"] for e in tables.extract_fixed(SUB2, "S") if e["width"] == 18}
+
+
+def test_battle_names_are_found_in_most_files_and_listed_once():
+    total = sum(len(tables.battle_names(b)) for b in BATTLE if b[:4] == tables.BATTLE_MAGIC)
+    assert total > 900
+    names = tables.battle_name_list(BATTLE)
+    assert 60 <= len(names) <= 80 and len(names) == len(set(names))
+    assert "グリシナ" in names                      # グリシナ: a boss not in SYSTEM table 2
+    assert len(UNIT_NAMES & set(names)) > 40                        # most are shared with the unit table
+
+
+def test_battle_insert_round_trip_and_translation():
+    pasca = {"パスカ": "Pasca"}                                 # パスカ
+    b = BATTLE[180]
+    assert tables.insert_battle(b, {}) == b
+    out = tables.insert_battle(b, pasca)
+    offs = [o for o in tables.battle_names(b) if b[o:o + 16].startswith("\u30d1\u30b9\u30ab".encode("cp932") + bytes(1))]
+    assert offs and all(out[o:o + 16] == b"Pasca " + bytes(10) for o in offs)   # odd length padded by encode
+    final = BATTLE[194]                                                        # holds パスカ最終形態, not パスカ
+    assert tables.insert_battle(final, pasca) == final
+    try:
+        tables.insert_battle(b, {"パスカ": "x" * 17})
+    except ValueError:
+        return
+    assert False, "expected ValueError"
+
+
+def test_overlay_round_trip_and_in_place_limit():
+    sub4 = SYSTEM[4]
+    entries = tables.extract_overlay(sub4, "SYSTEM/4")
+    assert 70 <= len(entries) <= 90
+    assert tables.insert_overlay(sub4, entries) == sub4
+    e = next(x for x in entries if x["jp"] == "コンフィグ")   # コンフィグ, 10 bytes
+    e["en"] = "Config"
+    out = tables.insert_overlay(sub4, entries)
+    off = int(e["id"].rsplit("/", 1)[1], 16)
+    assert out[off:off + 11] == b"Config\0\0\0\0\0"
+    e["en"] = "Configuration"
+    try:
+        tables.insert_overlay(sub4, entries)
+    except ValueError as err:
+        assert e["id"] in str(err)
+        return
+    assert False, "expected ValueError"
+
+
 if __name__ == "__main__":
     for name, fn in list(globals().items()):
         if name.startswith("test_"):
