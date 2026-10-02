@@ -5,7 +5,7 @@
   "jp": [
    "これで、よしと・・・"
   ],
-  "en": ""
+  "en": "There, that should do it..."
  },
  {
   "id": "SCENARIO/309/00124",
@@ -13,7 +13,7 @@
   "jp": [
    "ありがとう、ステイ"
   ],
-  "en": ""
+  "en": "Thank you, Stay."
  },
  {
   "id": "SCENARIO/309/0015e",
@@ -21,7 +21,7 @@
   "jp": [
    "ちょっと、まだ動かないでよ！！"
   ],
-  "en": ""
+  "en": "Hey, don't move yet!!"
  },
  {
   "id": "SCENARIO/309/0019e",
@@ -31,7 +31,7 @@
    "この傷、あと少しずれていたら",
    "死んでたかもしれないのよ！！"
   ],
-  "en": ""
+  "en": "You got lucky. A little to one side and this wound could've killed you!!"
  },
  {
   "id": "SCENARIO/309/00238",
@@ -40,7 +40,7 @@
    "ステイ",
    "ごめんなさい、私は・・・"
   ],
-  "en": ""
+  "en": "Stay... I'm sorry, I..."
  },
  {
   "id": "SCENARIO/309/00282",
@@ -49,7 +49,7 @@
    "姉さん、",
    "また教団に戻るつもりなの？"
   ],
-  "en": ""
+  "en": "Neesan, you're planning to go back to the Church again?"
  },
  {
   "id": "SCENARIO/309/002d2",
@@ -57,7 +57,7 @@
   "jp": [
    "・・・ええ"
   ],
-  "en": ""
+  "en": "...Yes."
  },
  {
   "id": "SCENARIO/309/00306",
@@ -67,7 +67,7 @@
    "姉さんは、あたし達を",
    "置いていくつもりなの？"
   ],
-  "en": ""
+  "en": "Kilota's here too, and you're going to leave us behind, Neesan?"
  },
  {
   "id": "SCENARIO/309/0037a",
@@ -75,7 +75,7 @@
   "jp": [
    "・・・ごめんなさい"
   ],
-  "en": ""
+  "en": "...I'm sorry."
  },
  {
   "id": "SCENARIO/309/003cc",
@@ -85,7 +85,7 @@
    "どうして一緒にいてくれないの！",
    "三人しかいない、家族なのよ？"
   ],
-  "en": ""
+  "en": "If you're sorry, why won't you stay with us! We're family, the only three of us left!"
  },
  {
   "id": "SCENARIO/309/0043e",
@@ -94,7 +94,7 @@
    "それなのに",
    "姉さんは、あの人をとるの？"
   ],
-  "en": ""
+  "en": "And still you choose him, Neesan?"
  },
  {
   "id": "SCENARIO/309/00486",
@@ -103,7 +103,7 @@
    "あたし、知ってるのよ",
    "姉さんが、あの人のことを・・"
   ],
-  "en": ""
+  "en": "I know, you know. How you feel about him..."
  },
  {
   "id": "SCENARIO/309/004e2",
@@ -111,7 +111,7 @@
   "jp": [
    "いつか貴方にもわかる日がくるわ"
   ],
-  "en": ""
+  "en": "Someday you'll understand too."
  },
  {
   "id": "SCENARIO/309/0052a",
@@ -119,7 +119,7 @@
   "jp": [
    "そんなのわからなくていいわよ！"
   ],
-  "en": ""
+  "en": "I don't want to understand!"
  },
  {
   "id": "SCENARIO/309/00564",
@@ -128,7 +128,7 @@
    "家族を捨ててまで",
    "あの人のところに行くの？"
   ],
-  "en": ""
+  "en": "You'd throw away your family to go to him?"
  },
  {
   "id": "SCENARIO/309/005b2",
@@ -138,7 +138,7 @@
    "わかっているのに・・・",
    "それなのに、どうしてっ！！"
   ],
-  "en": ""
+  "en": "You know he'll never so much as look your way... So why!!"
  },
  {
   "id": "SCENARIO/309/00632",
@@ -147,7 +147,7 @@
    "ごめんなさい",
    "でも、行かなくては・・・"
   ],
-  "en": ""
+  "en": "I'm sorry. But I have to go..."
  },
  {
   "id": "SCENARIO/309/00682",
@@ -155,7 +155,7 @@
   "jp": [
    "行かないでよ、姉さん！"
   ],
-  "en": ""
+  "en": "Don't go, Neesan!"
  },
  {
   "id": "SCENARIO/309/006ba",
@@ -165,7 +165,7 @@
    "笑うくらいなら",
    "あんな人、忘れちゃってよ！！"
   ],
-  "en": ""
+  "en": "If you're going to smile with that pain in your eyes, just forget him!!"
  },
  {
   "id": "SCENARIO/309/00722",
@@ -175,7 +175,7 @@
    "あたしやキロタと一緒にいよう",
    "その方が姉さんも幸せなはずよ！"
   ],
-  "en": ""
+  "en": "Stay here with me and Kilota. You'd be happier that way, Neesan!"
  },
  {
   "id": "SCENARIO/309/0079e",
@@ -184,7 +184,7 @@
    "あの方は・・・",
    "いつも一人なの"
   ],
-  "en": ""
+  "en": "That man... is always alone."
  },
  {
   "id": "SCENARIO/309/007d0",
@@ -193,7 +193,7 @@
    "何もかも、自分一人で",
    "背負い込んでしまうの"
   ],
-  "en": ""
+  "en": "He shoulders everything by himself."
  },
  {
   "id": "SCENARIO/309/0082c",
@@ -203,7 +203,7 @@
    "貴方には貴方を支えてくれる",
    "たくさんの人達がいるわ"
   ],
-  "en": ""
+  "en": "Stayen, you have so many people to support you."
  },
  {
   "id": "SCENARIO/309/00880",
@@ -212,7 +212,7 @@
    "お姉ちゃんがいなくても",
    "もう大丈夫なはずよ？"
   ],
-  "en": ""
+  "en": "You'll be fine without your big sis now, won't you?"
  },
  {
   "id": "SCENARIO/309/008d6",
@@ -221,7 +221,7 @@
    "そんなことない・・・",
    "あたしなんか、全然ダメよ・・"
   ],
-  "en": ""
+  "en": "That's not true... I'm hopeless..."
  },
  {
   "id": "SCENARIO/309/0091c",
@@ -231,7 +231,7 @@
    "突っ走って・・・",
    "みんなに迷惑かけて・・・"
   ],
-  "en": ""
+  "en": "Always running wild on my own... charging ahead... causing everyone trouble..."
  },
  {
   "id": "SCENARIO/309/0098e",
@@ -241,7 +241,7 @@
    "そんな貴方を優しく受け止めて",
    "くれるのでしょう？"
   ],
-  "en": ""
+  "en": "But the people around you accept you gently all the same, don't they?"
  },
  {
   "id": "SCENARIO/309/00a02",
@@ -250,7 +250,7 @@
    "でも・・・",
    "だけど・・・"
   ],
-  "en": ""
+  "en": "But... Still..."
  },
  {
   "id": "SCENARIO/309/00a46",
@@ -259,7 +259,7 @@
    "ごめんね、ステイ",
    "もう行かなくては・・・"
   ],
-  "en": ""
+  "en": "I'm sorry, Stay. I really must go..."
  },
  {
   "id": "SCENARIO/309/00a9a",
@@ -267,7 +267,7 @@
   "jp": [
    "そんな身体でどこに行くのよ！？"
   ],
-  "en": ""
+  "en": "Where do you think you're going in that state!?"
  },
  {
   "id": "SCENARIO/309/00ae2",
@@ -276,7 +276,7 @@
    "ベイル様の身に",
    "危険が迫っているの"
   ],
-  "en": ""
+  "en": "Bale-sama is in danger."
  },
  {
   "id": "SCENARIO/309/00b18",
@@ -285,7 +285,7 @@
    "それに、私は秘密を知って",
    "しまったから・・・"
   ],
-  "en": ""
+  "en": "And I've learned a secret I shouldn't have..."
  },
  {
   "id": "SCENARIO/309/00b74",
@@ -294,7 +294,7 @@
    "ここにいては、きっと",
    "貴方達にも迷惑がかかります"
   ],
-  "en": ""
+  "en": "If I stay here, I'll surely bring trouble on all of you."
  },
  {
   "id": "SCENARIO/309/00bce",
@@ -303,7 +303,7 @@
    "秘密って",
    "いったい何を・・・"
   ],
-  "en": ""
+  "en": "A secret? What on earth..."
  },
  {
   "id": "SCENARIO/309/00c68",
@@ -311,7 +311,7 @@
   "jp": [
    "今の爆発音は？！"
   ],
-  "en": ""
+  "en": "That explosion!?"
  },
  {
   "id": "SCENARIO/309/00ca2",
@@ -321,7 +321,7 @@
    "絶対に、部屋から一歩も出ちゃ",
    "ダメよ！！！"
   ],
-  "en": ""
+  "en": "Stay right there, Neesan!! Don't take one step out of this room!!!"
  },
  {
   "id": "SCENARIO/309/00d12",
@@ -330,7 +330,7 @@
    "戻ってきたら",
    "その話、あたし達にも聞かせて"
   ],
-  "en": ""
+  "en": "When I get back, tell us the whole story."
  },
  {
   "id": "SCENARIO/309/00d5e",
@@ -340,7 +340,7 @@
    "何か出来ることがあるなら",
    "手伝うわ・・・"
   ],
-  "en": ""
+  "en": "If there's anything we can do, we'll help..."
  },
  {
   "id": "SCENARIO/309/00dbe",
@@ -348,7 +348,7 @@
   "jp": [
    "ステイエン"
   ],
-  "en": ""
+  "en": "Stayen."
  },
  {
   "id": "SCENARIO/309/00df2",
@@ -356,12 +356,12 @@
   "jp": [
    "約束よ、姉さん"
   ],
-  "en": ""
+  "en": "Promise me, Neesan."
  },
  {
   "id": "SCENARIO/309/04954",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/309/04962",
@@ -369,12 +369,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/309/0497a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/309/0498a",
@@ -382,6 +382,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

@@ -2,7 +2,7 @@
  {
   "id": "SCENARIO/305/00270",
   "jp": "構成員・男",
-  "en": ""
+  "en": "Member (Man)"
  },
  {
   "id": "SCENARIO/305/00284",
@@ -11,12 +11,12 @@
    "ヴァルトス様を",
    "よろしく頼む"
   ],
-  "en": ""
+  "en": "Take care of Valtoss-sama for us."
  },
  {
   "id": "SCENARIO/305/002e0",
   "jp": "構成員・女",
-  "en": ""
+  "en": "Member (Woman)"
  },
  {
   "id": "SCENARIO/305/002f4",
@@ -25,12 +25,12 @@
    "ヴァルトス様を",
    "よろしくね"
   ],
-  "en": ""
+  "en": "Look after Valtoss-sama, okay?"
  },
  {
   "id": "SCENARIO/305/00350",
   "jp": "構成員・若者",
-  "en": ""
+  "en": "Member (Youth)"
  },
  {
   "id": "SCENARIO/305/00366",
@@ -40,12 +40,12 @@
    "生死の分かれ目なんて",
    "何が決め手かわからないからな"
   ],
-  "en": ""
+  "en": "Don't slack on weapon upkeep. You never know what'll decide life or death."
  },
  {
   "id": "SCENARIO/305/00418",
   "jp": "ダリア",
-  "en": ""
+  "en": "Dahlia"
  },
  {
   "id": "SCENARIO/305/00428",
@@ -53,12 +53,12 @@
   "jp": [
    "カイン、ちょっといいかい？"
   ],
-  "en": ""
+  "en": "Cain, got a minute?"
  },
  {
   "id": "SCENARIO/305/0044c",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/305/0045c",
@@ -66,12 +66,12 @@
   "jp": [
    "どうしたの？"
   ],
-  "en": ""
+  "en": "What is it?"
  },
  {
   "id": "SCENARIO/305/00474",
   "jp": "ダリア",
-  "en": ""
+  "en": "Dahlia"
  },
  {
   "id": "SCENARIO/305/00484",
@@ -80,7 +80,7 @@
    "たいしたことじゃ、",
    "ないんだけどね・・・"
   ],
-  "en": ""
+  "en": "It's nothing much, but..."
  },
  {
   "id": "SCENARIO/305/004b8",
@@ -90,7 +90,7 @@
    "私の顔を見ては何か考え",
    "こんでるみたいなんだよ"
   ],
-  "en": ""
+  "en": "Lilis keeps looking at my face and getting lost in thought, somehow."
  },
  {
   "id": "SCENARIO/305/0050c",
@@ -98,23 +98,23 @@
   "jp": [
    "何か知っているかい？"
   ],
-  "en": "",
+  "en": "You know anything about it?",
   "spill": false
  },
  {
   "id": "SCENARIO/305/00528",
   "jp": "　なんだろう？",
-  "en": ""
+  "en": "What could it be?"
  },
  {
   "id": "SCENARIO/305/00540",
   "jp": "　リリスに聞いてくるよ",
-  "en": ""
+  "en": "I'll go ask Lilis"
  },
  {
   "id": "SCENARIO/305/00564",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/305/00574",
@@ -122,12 +122,12 @@
   "jp": [
    "なんだろう？"
   ],
-  "en": ""
+  "en": "What could it be?"
  },
  {
   "id": "SCENARIO/305/0058c",
   "jp": "ダリア",
-  "en": ""
+  "en": "Dahlia"
  },
  {
   "id": "SCENARIO/305/0059c",
@@ -136,12 +136,12 @@
    "わからないのならいいよ",
    "ちょっと気になっただけだから"
   ],
-  "en": ""
+  "en": "If you don't know, never mind. It was just bugging me a little."
  },
  {
   "id": "SCENARIO/305/005dc",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/305/005ec",
@@ -149,12 +149,12 @@
   "jp": [
    "うん"
   ],
-  "en": ""
+  "en": "Yeah."
  },
  {
   "id": "SCENARIO/305/00612",
   "jp": "ダリア",
-  "en": ""
+  "en": "Dahlia"
  },
  {
   "id": "SCENARIO/305/00622",
@@ -164,12 +164,12 @@
    "それなら頼むよ",
    "ちょっと今、手が離せなくてね"
   ],
-  "en": ""
+  "en": "Would you? Thanks, then. I've got my hands full right now."
  },
  {
   "id": "SCENARIO/305/00688",
   "jp": "ダリア",
-  "en": ""
+  "en": "Dahlia"
  },
  {
   "id": "SCENARIO/305/00698",
@@ -178,7 +178,7 @@
    "あら、いらっしゃい",
    "いいミルクが入荷したよ"
   ],
-  "en": ""
+  "en": "Oh, welcome. Got some good milk in."
  },
  {
   "id": "SCENARIO/305/006d0",
@@ -186,12 +186,12 @@
   "jp": [
    "飲んでいくよね？"
   ],
-  "en": ""
+  "en": "You'll have some, right?"
  },
  {
   "id": "SCENARIO/305/006ec",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/305/006fc",
@@ -199,12 +199,12 @@
   "jp": [
    "うん、飲む～"
   ],
-  "en": ""
+  "en": "Yeah, I'll have some~"
  },
  {
   "id": "SCENARIO/305/00738",
   "jp": "ウェイター",
-  "en": ""
+  "en": "Waiter"
  },
  {
   "id": "SCENARIO/305/0074c",
@@ -213,7 +213,7 @@
    "シクシク・・・",
    "いらっしゃいませ～～"
   ],
-  "en": ""
+  "en": "Sniff, sniff... Welcome~~"
  },
  {
   "id": "SCENARIO/305/0077c",
@@ -223,12 +223,12 @@
    "ふられてしまいました・・・",
    "おかげで体重も元に戻りましたよ"
   ],
-  "en": ""
+  "en": "My girlfriend, who loved to cook, dumped me... At least my weight's back to normal."
  },
  {
   "id": "SCENARIO/305/00810",
   "jp": "剣士の恋人",
-  "en": ""
+  "en": "Swordsman's Lover"
  },
  {
   "id": "SCENARIO/305/00824",
@@ -238,7 +238,7 @@
    "私の恋人は、サンバルテルミで",
    "異端者に殺されてしまいました"
   ],
-  "en": ""
+  "en": "This sword is his keepsake. My beloved was killed by heretics in San Bartelmi."
  },
  {
   "id": "SCENARIO/305/00888",
@@ -248,7 +248,7 @@
    "私は彼を殺した異端者達を",
    "許しはしません"
   ],
-  "en": ""
+  "en": "Right before our wedding, this... I will never forgive the heretics who killed him."
  },
  {
   "id": "SCENARIO/305/008e0",
@@ -256,12 +256,12 @@
   "jp": [
    "絶対に、許さない・・・"
   ],
-  "en": ""
+  "en": "Never, ever..."
  },
  {
   "id": "SCENARIO/305/00934",
   "jp": "中年",
-  "en": ""
+  "en": "Middle-aged Man"
  },
  {
   "id": "SCENARIO/305/00942",
@@ -271,7 +271,7 @@
    "やめるまで家に入れねぇとまで",
    "言いやがってよぉ・・・"
   ],
-  "en": ""
+  "en": "The wife says quit drinking... Says she won't let me in the house till I do..."
  },
  {
   "id": "SCENARIO/305/009a4",
@@ -281,7 +281,7 @@
    "飲む気分だけでも味わいたくて",
    "ここに通う毎日だ"
   ],
-  "en": ""
+  "en": "Sigh... Can't drink, but I come here every day just to feel like I am."
  },
  {
   "id": "SCENARIO/305/00a4c",
@@ -289,7 +289,7 @@
   "jp": [
    "・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/305/00a68",
@@ -298,7 +298,7 @@
    "禁酒に効くとかで",
    "こんなもの、貰ったんだが"
   ],
-  "en": ""
+  "en": "Someone gave me this, said it helps you stay off the booze."
  },
  {
   "id": "SCENARIO/305/00aa0",
@@ -307,7 +307,7 @@
    "飲めねえ、いら立ちが",
    "安らぐわけでもねぇ"
   ],
-  "en": ""
+  "en": "Can't drink it, and it don't calm my nerves either."
  },
  {
   "id": "SCENARIO/305/00ad4",
@@ -315,12 +315,12 @@
   "jp": [
    "おめぇにやるよ"
   ],
-  "en": ""
+  "en": "You can have it."
  },
  {
   "id": "SCENARIO/305/00b48",
   "jp": "片翼の天使",
-  "en": ""
+  "en": "One-winged Angel"
  },
  {
   "id": "SCENARIO/305/00b5c",
@@ -330,7 +330,7 @@
    "規則に縛られるよりも",
    "風と草と共に歌うのが好き♪"
   ],
-  "en": ""
+  "en": "I'm an angel who wanders free. No rules for me; I sing with the wind and grass~"
  },
  {
   "id": "SCENARIO/305/00bb8",
@@ -339,7 +339,7 @@
    "天使なのに空を飛べない",
    "片翼の天使とは僕のこと"
   ],
-  "en": ""
+  "en": "An angel who can't fly. That's me, the One-winged Angel."
  },
  {
   "id": "SCENARIO/305/00bf4",
@@ -348,12 +348,12 @@
    "僕を惨めで哀れと思うなら",
    "少しくらいチップをはずんでね"
   ],
-  "en": ""
+  "en": "If you think I'm wretched and pitiful, spare a little tip, won't you?"
  },
  {
   "id": "SCENARIO/305/00c8c",
   "jp": "リリス",
-  "en": ""
+  "en": "Lilis"
  },
  {
   "id": "SCENARIO/305/00c9c",
@@ -362,12 +362,12 @@
    "あ、カイン！",
    "さっき、すごかったよ！"
   ],
-  "en": ""
+  "en": "Ah, Cain! It was amazing just now!"
  },
  {
   "id": "SCENARIO/305/00ccc",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/305/00cdc",
@@ -375,12 +375,12 @@
   "jp": [
    "なにがあったの？"
   ],
-  "en": ""
+  "en": "What happened?"
  },
  {
   "id": "SCENARIO/305/00cf8",
   "jp": "リリス",
-  "en": ""
+  "en": "Lilis"
  },
  {
   "id": "SCENARIO/305/00d08",
@@ -388,12 +388,12 @@
   "jp": [
    "ケッコンシキがあったの！"
   ],
-  "en": ""
+  "en": "There was a wedding!"
  },
  {
   "id": "SCENARIO/305/00d2c",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/305/00d3c",
@@ -401,12 +401,12 @@
   "jp": [
    "へー、そうなんだ"
   ],
-  "en": ""
+  "en": "Oh, really?"
  },
  {
   "id": "SCENARIO/305/00d58",
   "jp": "リリス",
-  "en": ""
+  "en": "Lilis"
  },
  {
   "id": "SCENARIO/305/00d68",
@@ -415,12 +415,12 @@
    "それでね！それでね！",
    "絵を描いてあげたの"
   ],
-  "en": ""
+  "en": "And then! And then! Lilis drew them a picture!"
  },
  {
   "id": "SCENARIO/305/00d9c",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/305/00dac",
@@ -428,12 +428,12 @@
   "jp": [
    "そうなんだ"
   ],
-  "en": ""
+  "en": "Is that so."
  },
  {
   "id": "SCENARIO/305/00dc0",
   "jp": "リリス",
-  "en": ""
+  "en": "Lilis"
  },
  {
   "id": "SCENARIO/305/00dd0",
@@ -442,12 +442,12 @@
    "そしたら",
    "お菓子をくれたの！"
   ],
-  "en": ""
+  "en": "And they gave Lilis sweets!"
  },
  {
   "id": "SCENARIO/305/00df8",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/305/00e08",
@@ -455,12 +455,12 @@
   "jp": [
    "よかったね、リリス"
   ],
-  "en": ""
+  "en": "Good for you, Lilis."
  },
  {
   "id": "SCENARIO/305/00e24",
   "jp": "リリス",
-  "en": ""
+  "en": "Lilis"
  },
  {
   "id": "SCENARIO/305/00e34",
@@ -468,12 +468,12 @@
   "jp": [
    "うん！"
   ],
-  "en": ""
+  "en": "Yeah!"
  },
  {
   "id": "SCENARIO/305/00e5c",
   "jp": "リリス",
-  "en": ""
+  "en": "Lilis"
  },
  {
   "id": "SCENARIO/305/00e6c",
@@ -482,7 +482,7 @@
    "リリスは",
    "今日もここでお絵かきなの！"
   ],
-  "en": ""
+  "en": "Lilis is drawing here again today!"
  },
  {
   "id": "SCENARIO/305/00e9c",
@@ -491,12 +491,12 @@
    "でもね、",
    "お外で遊ぶのも好きだよ！"
   ],
-  "en": ""
+  "en": "But Lilis likes playing outside too!"
  },
  {
   "id": "SCENARIO/305/00ef0",
   "jp": "老人",
-  "en": ""
+  "en": "Old Man"
  },
  {
   "id": "SCENARIO/305/00efe",
@@ -504,12 +504,12 @@
   "jp": [
    "今日はいい天気だのう・・・"
   ],
-  "en": ""
+  "en": "Fine weather today..."
  },
  {
   "id": "SCENARIO/305/00f58",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/305/00f66",
@@ -519,7 +519,7 @@
    "こき使われるのが嫌なら",
    "経営側の苦労を味わえだってさ"
   ],
-  "en": ""
+  "en": "Asked my brother. He said if I hate being worked like a dog, try running the place."
  },
  {
   "id": "SCENARIO/305/00fbc",
@@ -527,12 +527,12 @@
   "jp": [
    "ま、なんとかなりそうだよ"
   ],
-  "en": ""
+  "en": "Well, looks like I'll manage."
  },
  {
   "id": "SCENARIO/305/0101c",
   "jp": "老婆の息子",
-  "en": ""
+  "en": "Old Woman's Son"
  },
  {
   "id": "SCENARIO/305/01030",
@@ -542,7 +542,7 @@
    "母の死に目に会えないなんて",
    "親不孝な息子ですよね"
   ],
-  "en": ""
+  "en": "I'm off to visit Mother's grave... Not even there when she died. Some son I am."
  },
  {
   "id": "SCENARIO/305/01090",
@@ -552,12 +552,12 @@
    "お互い意地をはらず、素直に",
    "仲直りすれば良かった・・・"
   ],
-  "en": ""
+  "en": "If I'd known it would end like this, we should've swallowed our pride and made up..."
  },
  {
   "id": "SCENARIO/305/01144",
   "jp": "カップル・男",
-  "en": ""
+  "en": "Couple (Man)"
  },
  {
   "id": "SCENARIO/305/0115a",
@@ -566,7 +566,7 @@
    "ちょっと前に",
    "結婚式があったんだ"
   ],
-  "en": ""
+  "en": "There was a wedding a little while ago."
  },
  {
   "id": "SCENARIO/305/01188",
@@ -574,7 +574,7 @@
   "jp": [
    "え？僕たち？"
   ],
-  "en": ""
+  "en": "Huh? Us?"
  },
  {
   "id": "SCENARIO/305/011a0",
@@ -582,12 +582,12 @@
   "jp": [
    "はははははは・・・"
   ],
-  "en": ""
+  "en": "Ha ha ha ha..."
  },
  {
   "id": "SCENARIO/305/011d4",
   "jp": "カップル・男",
-  "en": ""
+  "en": "Couple (Man)"
  },
  {
   "id": "SCENARIO/305/011ea",
@@ -596,7 +596,7 @@
    "はははははっ！",
    "いや・・・もうなんて言うか！"
   ],
-  "en": ""
+  "en": "Ha ha ha! No... what can I say!"
  },
  {
   "id": "SCENARIO/305/01224",
@@ -604,12 +604,12 @@
   "jp": [
    "実感、わかないなぁ"
   ],
-  "en": ""
+  "en": "It hasn't sunk in yet."
  },
  {
   "id": "SCENARIO/305/0129c",
   "jp": "カップル・女",
-  "en": ""
+  "en": "Couple (Woman)"
  },
  {
   "id": "SCENARIO/305/012b2",
@@ -619,7 +619,7 @@
    "ちょっと前に",
    "結婚式があったの！"
   ],
-  "en": ""
+  "en": "Hey, did you know? There was a wedding a little while ago!"
  },
  {
   "id": "SCENARIO/305/012f4",
@@ -628,7 +628,7 @@
    "花嫁さん、すっごく",
    "きれいだったの！"
   ],
-  "en": ""
+  "en": "The bride was sooo beautiful!"
  },
  {
   "id": "SCENARIO/305/01324",
@@ -636,7 +636,7 @@
   "jp": [
    "え？私たち？"
   ],
-  "en": ""
+  "en": "Huh? Us?"
  },
  {
   "id": "SCENARIO/305/0133c",
@@ -644,12 +644,12 @@
   "jp": [
    "ほほほほほほ・・・"
   ],
-  "en": ""
+  "en": "Ho ho ho ho..."
  },
  {
   "id": "SCENARIO/305/01370",
   "jp": "カップル・女",
-  "en": ""
+  "en": "Couple (Woman)"
  },
  {
   "id": "SCENARIO/305/01386",
@@ -657,7 +657,7 @@
   "jp": [
    "計算がきわどいのよね"
   ],
-  "en": ""
+  "en": "The math is cutting it close, you know."
  },
  {
   "id": "SCENARIO/305/013a4",
@@ -665,12 +665,12 @@
   "jp": [
    "どっちなのかしら・・・？"
   ],
-  "en": ""
+  "en": "Which is it, I wonder...?"
  },
  {
   "id": "SCENARIO/305/01404",
   "jp": "神父",
-  "en": ""
+  "en": "Priest"
  },
  {
   "id": "SCENARIO/305/01412",
@@ -679,7 +679,7 @@
    "＜書＞を読まない子供のために",
    "私が語って聞かせてあげましょう"
   ],
-  "en": ""
+  "en": "For children who do not read the Book, I shall tell it aloud."
  },
  {
   "id": "SCENARIO/305/0145c",
@@ -688,7 +688,7 @@
    "今日は、＜翼ある者の年齢＞に",
    "ついて話をしましょう"
   ],
-  "en": ""
+  "en": "Today, let us speak of the Age of the Winged Ones."
  },
  {
   "id": "SCENARIO/305/0149c",
@@ -696,18 +696,18 @@
   "jp": [
    "貴方も聞きますか？"
   ],
-  "en": "",
+  "en": "Will you listen too?",
   "spill": false
  },
  {
   "id": "SCENARIO/305/014b6",
   "jp": "　はい",
-  "en": ""
+  "en": "Yes"
  },
  {
   "id": "SCENARIO/305/014c4",
   "jp": "　いいえ",
-  "en": ""
+  "en": "No"
  },
  {
   "id": "SCENARIO/305/014d8",
@@ -717,7 +717,7 @@
    "生命力が強く寿命もはるかに",
    "長いです"
   ],
-  "en": ""
+  "en": "The Winged Ones have greater vitality than the wingless, and far longer lives."
  },
  {
   "id": "SCENARIO/305/01524",
@@ -727,7 +727,7 @@
    "よって加齢のスピードが",
    "違います"
   ],
-  "en": ""
+  "en": "The Winged Ones age at different speeds, according to their latent power."
  },
  {
   "id": "SCENARIO/305/01570",
@@ -736,7 +736,7 @@
    "潜在能力が強ければ強いほど",
    "ゆっくりと年をとっていきます"
   ],
-  "en": ""
+  "en": "The greater the latent power, the more slowly they age."
  },
  {
   "id": "SCENARIO/305/015b4",
@@ -746,7 +746,7 @@
    "またたくほどの早さで老い衰え",
    "死んでゆくのでしょうね"
   ],
-  "en": ""
+  "en": "To the Winged Ones, we must seem to age, wither and die in the blink of an eye."
  },
  {
   "id": "SCENARIO/305/0161e",
@@ -755,12 +755,12 @@
    "あなたも毎日＜書＞を読んで、",
    "立派な大人になるんですよ"
   ],
-  "en": ""
+  "en": "You too must read the Book every day and grow into a fine adult."
  },
  {
   "id": "SCENARIO/305/01694",
   "jp": "男の子",
-  "en": ""
+  "en": "Boy"
  },
  {
   "id": "SCENARIO/305/016a4",
@@ -768,7 +768,7 @@
   "jp": [
    "最近、つまんないんだよなー"
   ],
-  "en": ""
+  "en": "Things are so boring lately."
  },
  {
   "id": "SCENARIO/305/016c8",
@@ -778,12 +778,12 @@
    "悪の組織が立ち上がるとか、",
    "スゴイこと起きないかな～"
   ],
-  "en": ""
+  "en": "Like, couldn't something big happen~? An evil organization rising up or something~"
  },
  {
   "id": "SCENARIO/305/0174c",
   "jp": "女の子",
-  "en": ""
+  "en": "Girl"
  },
  {
   "id": "SCENARIO/305/0175c",
@@ -793,7 +793,7 @@
    "少し退屈なくらいの方が",
    "ちょうどいいんだって"
   ],
-  "en": ""
+  "en": "Mama said a little boredom is just right."
  },
  {
   "id": "SCENARIO/305/017ac",
@@ -803,12 +803,12 @@
    "思ったけど、いい歳して",
    "日々に刺激を求められても困るわ"
   ],
-  "en": ""
+  "en": "Grown-ups seemed dull, but at your age, chasing thrills every day is a bother too."
  },
  {
   "id": "SCENARIO/305/0183c",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/305/0184c",
@@ -816,12 +816,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/305/01868",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/305/01878",
@@ -829,12 +829,12 @@
   "jp": [
    "・・・あの"
   ],
-  "en": ""
+  "en": "...Um."
  },
  {
   "id": "SCENARIO/305/0188c",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/305/0189c",
@@ -844,12 +844,12 @@
    "今ちょっと持病の腰痛が・・・",
    "ウッ！！"
   ],
-  "en": ""
+  "en": "D-don't talk to me... My bad back's acting up... Ugh!!"
  },
  {
   "id": "SCENARIO/305/01924",
   "jp": "兵士",
-  "en": ""
+  "en": "Soldier"
  },
  {
   "id": "SCENARIO/305/01932",
@@ -859,7 +859,7 @@
    "困っているようだったから",
    "少し手を貸してやっただけだッ！"
   ],
-  "en": ""
+  "en": "S-sure, I helped, but they looked like they needed it, so I lent a hand. That's all!"
  },
  {
   "id": "SCENARIO/305/01994",
@@ -867,12 +867,12 @@
   "jp": [
    "深い意味など無い・・・"
   ],
-  "en": ""
+  "en": "There's no deeper meaning to it..."
  },
  {
   "id": "SCENARIO/305/019e8",
   "jp": "プラン",
-  "en": ""
+  "en": "Plan"
  },
  {
   "id": "SCENARIO/305/019f8",
@@ -881,12 +881,12 @@
    "今日も元気に",
    "いらっしゃいませ～"
   ],
-  "en": ""
+  "en": "Welcome, welcome, bright and cheery as always~"
  },
  {
   "id": "SCENARIO/305/01a40",
   "jp": "フライ",
-  "en": ""
+  "en": "Fly"
  },
  {
   "id": "SCENARIO/305/01a50",
@@ -896,7 +896,7 @@
    "僧兵さんがいろいろお手伝い",
    "してくれるんだよ～"
   ],
-  "en": ""
+  "en": "Lately the monk soldier who comes to keep watch has been helping out with all sorts~"
  },
  {
   "id": "SCENARIO/305/01aa4",
@@ -905,12 +905,12 @@
    "僕達としては、ありがたいけれど",
    "いいのかな～？"
   ],
-  "en": ""
+  "en": "We're grateful, but is that really okay~?"
  },
  {
   "id": "SCENARIO/305/05614",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/305/05622",
@@ -918,12 +918,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/305/0563a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/305/0564a",
@@ -931,6 +931,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

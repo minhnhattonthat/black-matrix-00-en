@@ -2,7 +2,7 @@
  {
   "id": "SCENARIO/313/00270",
   "jp": "構成員・男",
-  "en": ""
+  "en": "Member (Man)"
  },
  {
   "id": "SCENARIO/313/00284",
@@ -12,12 +12,12 @@
    "エンブリオンに襲われている",
    "らしい・・・"
   ],
-  "en": ""
+  "en": "Church facilities everywhere are being attacked by Embryon, they say..."
  },
  {
   "id": "SCENARIO/313/00304",
   "jp": "構成員・女",
-  "en": ""
+  "en": "Member (Woman)"
  },
  {
   "id": "SCENARIO/313/00318",
@@ -27,12 +27,12 @@
    "襲われた教団施設の数が",
    "多すぎるわ・・・"
   ],
-  "en": ""
+  "en": "We're rushing to gather intel, but there are just too many facilities hit..."
  },
  {
   "id": "SCENARIO/313/003a0",
   "jp": "構成員・若者",
-  "en": ""
+  "en": "Member (Youth)"
  },
  {
   "id": "SCENARIO/313/003b6",
@@ -41,12 +41,12 @@
    "あわただしいことに",
    "なってきたな・・・"
   ],
-  "en": ""
+  "en": "Things are getting hectic..."
  },
  {
   "id": "SCENARIO/313/0041c",
   "jp": "ダリア",
-  "en": ""
+  "en": "Dahlia"
  },
  {
   "id": "SCENARIO/313/0042c",
@@ -54,7 +54,7 @@
   "jp": [
    "急ぐんだろう？"
   ],
-  "en": ""
+  "en": "You're in a hurry, aren't you?"
  },
  {
   "id": "SCENARIO/313/00444",
@@ -63,12 +63,12 @@
    "ちゃんと弔ってあげるから",
    "行っておいで"
   ],
-  "en": ""
+  "en": "I'll see she's laid to rest properly. Go on."
  },
  {
   "id": "SCENARIO/313/004e4",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/313/004f4",
@@ -76,12 +76,12 @@
   "jp": [
    "・・・あの"
   ],
-  "en": ""
+  "en": "...Um."
  },
  {
   "id": "SCENARIO/313/00508",
   "jp": "ウェイター",
-  "en": ""
+  "en": "Waiter"
  },
  {
   "id": "SCENARIO/313/0051c",
@@ -90,7 +90,7 @@
    "えっ",
    "ダリアさんの現役時代？"
   ],
-  "en": ""
+  "en": "Eh? Dahlia-san's active days?"
  },
  {
   "id": "SCENARIO/313/00544",
@@ -99,7 +99,7 @@
    "ええ、",
    "それは、もう・・・・・"
   ],
-  "en": ""
+  "en": "Oh yes, they were... well..."
  },
  {
   "id": "SCENARIO/313/00570",
@@ -108,7 +108,7 @@
    "とても、",
    "言葉では言い表せませんが"
   ],
-  "en": ""
+  "en": "Quite beyond words, really."
  },
  {
   "id": "SCENARIO/313/005a0",
@@ -117,7 +117,7 @@
    "あ、こう見えても、",
    "私の現役時代も・・・"
   ],
-  "en": ""
+  "en": "Ah, I may not look it, but in my own active days..."
  },
  {
   "id": "SCENARIO/313/005d4",
@@ -125,7 +125,7 @@
   "jp": [
    "・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/313/005ec",
@@ -133,7 +133,7 @@
   "jp": [
    "その目は、信用してませんね"
   ],
-  "en": ""
+  "en": "That look says you don't believe me."
  },
  {
   "id": "SCENARIO/313/00610",
@@ -142,7 +142,7 @@
    "まあ、良いですよ",
    "昔のことは・・・・"
   ],
-  "en": ""
+  "en": "Well, that's fine. It's all in the past..."
  },
  {
   "id": "SCENARIO/313/00640",
@@ -150,7 +150,7 @@
   "jp": [
    "・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/313/00658",
@@ -160,7 +160,7 @@
    "私が現役時代に",
    "使っていたモノですが"
   ],
-  "en": ""
+  "en": "Here, please take this. It's what I used back in my active days."
  },
  {
   "id": "SCENARIO/313/006a4",
@@ -169,12 +169,12 @@
    "さび付かせておくのは",
    "もったいない業物ですから"
   ],
-  "en": ""
+  "en": "Too fine a blade to let rust."
  },
  {
   "id": "SCENARIO/313/00708",
   "jp": "ウェイター",
-  "en": ""
+  "en": "Waiter"
  },
  {
   "id": "SCENARIO/313/0071c",
@@ -183,7 +183,7 @@
    "シクシク・・・",
    "いらっしゃいませ～～"
   ],
-  "en": ""
+  "en": "Sniff, sniff... Welcome~~"
  },
  {
   "id": "SCENARIO/313/0074c",
@@ -192,12 +192,12 @@
    "姉弟感動の再会が・・うぅッ",
    "こんなのなしですよ・・・"
   ],
-  "en": ""
+  "en": "A tearful reunion of siblings, and then... ugh! This isn't fair..."
  },
  {
   "id": "SCENARIO/313/007c4",
   "jp": "剣士の恋人",
-  "en": ""
+  "en": "Swordsman's Lover"
  },
  {
   "id": "SCENARIO/313/007d8",
@@ -206,7 +206,7 @@
    "彼はよく、この酒場の",
    "この場所にいたそうです・・・"
   ],
-  "en": ""
+  "en": "They say he often sat right here in this tavern..."
  },
  {
   "id": "SCENARIO/313/00818",
@@ -215,7 +215,7 @@
    "どうしたら、この悲しみは",
    "癒えるというのでしょう？"
   ],
-  "en": ""
+  "en": "How will this grief ever heal?"
  },
  {
   "id": "SCENARIO/313/00858",
@@ -225,12 +225,12 @@
    "殺しても、殺しても・・・",
    "殺し足りないほど憎い・・・"
   ],
-  "en": ""
+  "en": "I could kill his killers with this sword, over and over... and never have enough..."
  },
  {
   "id": "SCENARIO/313/008ec",
   "jp": "中年",
-  "en": ""
+  "en": "Middle-aged Man"
  },
  {
   "id": "SCENARIO/313/008fa",
@@ -240,7 +240,7 @@
    "やめるまで家に入れねぇとまで",
    "言いやがってよぉ・・・"
   ],
-  "en": ""
+  "en": "The wife says quit drinking... Says she won't let me in the house till I do..."
  },
  {
   "id": "SCENARIO/313/0095c",
@@ -250,12 +250,12 @@
    "飲む気分だけでも味わいたくて",
    "ここに通う毎日だ"
   ],
-  "en": ""
+  "en": "Sigh... Can't drink, but I come here every day just to feel like I am."
  },
  {
   "id": "SCENARIO/313/009e8",
   "jp": "片翼の天使",
-  "en": ""
+  "en": "One-winged Angel"
  },
  {
   "id": "SCENARIO/313/009fc",
@@ -265,7 +265,7 @@
    "規則に縛られるよりも",
    "風と草と共に歌うのが好き♪"
   ],
-  "en": ""
+  "en": "I'm an angel who wanders free. No rules for me; I sing with the wind and grass~"
  },
  {
   "id": "SCENARIO/313/00a58",
@@ -275,7 +275,7 @@
    "今日は泣いても、",
    "明日は笑って・・・"
   ],
-  "en": ""
+  "en": "Even in sorrow, stand up. Cry today, but smile tomorrow..."
  },
  {
   "id": "SCENARIO/313/00aa4",
@@ -285,12 +285,12 @@
    "なんとなく忘れていられる",
    "だけでしかないんだ"
   ],
-  "en": ""
+  "en": "The ache in your chest never goes away. You just manage to forget it, for a while."
  },
  {
   "id": "SCENARIO/313/00b30",
   "jp": "老人",
-  "en": ""
+  "en": "Old Man"
  },
  {
   "id": "SCENARIO/313/00b3e",
@@ -298,12 +298,12 @@
   "jp": [
    "今日はいい天気だのう・・・"
   ],
-  "en": ""
+  "en": "Fine weather today..."
  },
  {
   "id": "SCENARIO/313/00b98",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/313/00ba6",
@@ -313,7 +313,7 @@
    "こき使われるのが嫌なら",
    "経営側の苦労を味わえだってさ"
   ],
-  "en": ""
+  "en": "Asked my brother. He said if I hate being worked like a dog, try running the place."
  },
  {
   "id": "SCENARIO/313/00bfc",
@@ -321,12 +321,12 @@
   "jp": [
    "ま、なんとかなりそうだよ"
   ],
-  "en": ""
+  "en": "Well, looks like I'll manage."
  },
  {
   "id": "SCENARIO/313/00c5c",
   "jp": "老婆の息子",
-  "en": ""
+  "en": "Old Woman's Son"
  },
  {
   "id": "SCENARIO/313/00c70",
@@ -336,7 +336,7 @@
    "いなくなってからじゃ、",
    "何もしてあげられないんですよね"
   ],
-  "en": ""
+  "en": "Off to Mother's grave again... Once they're gone, you can't do a thing for them."
  },
  {
   "id": "SCENARIO/313/00cd4",
@@ -346,12 +346,12 @@
    "お互い意地をはらず、素直に",
    "仲直りすれば良かった・・・"
   ],
-  "en": ""
+  "en": "If I'd known it would end like this, we should've swallowed our pride and made up..."
  },
  {
   "id": "SCENARIO/313/00d68",
   "jp": "カップル・男",
-  "en": ""
+  "en": "Couple (Man)"
  },
  {
   "id": "SCENARIO/313/00d7e",
@@ -359,12 +359,12 @@
   "jp": [
    "もうすぐで僕も父親になるんだ"
   ],
-  "en": ""
+  "en": "I'm going to be a father soon."
  },
  {
   "id": "SCENARIO/313/00dd8",
   "jp": "神父",
-  "en": ""
+  "en": "Priest"
  },
  {
   "id": "SCENARIO/313/00de6",
@@ -373,7 +373,7 @@
    "＜書＞を読まない子供のために",
    "私が語って聞かせてあげましょう"
   ],
-  "en": ""
+  "en": "For children who do not read the Book, I shall tell it aloud."
  },
  {
   "id": "SCENARIO/313/00e30",
@@ -382,7 +382,7 @@
    "今日は、＜翼ある者の年齢＞に",
    "ついて話をしましょう"
   ],
-  "en": ""
+  "en": "Today, let us speak of the Age of the Winged Ones."
  },
  {
   "id": "SCENARIO/313/00e70",
@@ -390,18 +390,18 @@
   "jp": [
    "貴方も聞きますか？"
   ],
-  "en": "",
+  "en": "Will you listen too?",
   "spill": false
  },
  {
   "id": "SCENARIO/313/00e8a",
   "jp": "　はい",
-  "en": ""
+  "en": "Yes"
  },
  {
   "id": "SCENARIO/313/00e98",
   "jp": "　いいえ",
-  "en": ""
+  "en": "No"
  },
  {
   "id": "SCENARIO/313/00eac",
@@ -411,7 +411,7 @@
    "生命力が強く寿命もはるかに",
    "長いです"
   ],
-  "en": ""
+  "en": "The Winged Ones have greater vitality than the wingless, and far longer lives."
  },
  {
   "id": "SCENARIO/313/00ef8",
@@ -421,7 +421,7 @@
    "よって加齢のスピードが",
    "違います"
   ],
-  "en": ""
+  "en": "The Winged Ones age at different speeds, according to their latent power."
  },
  {
   "id": "SCENARIO/313/00f44",
@@ -430,7 +430,7 @@
    "潜在能力が強ければ強いほど",
    "ゆっくりと年をとっていきます"
   ],
-  "en": ""
+  "en": "The greater the latent power, the more slowly they age."
  },
  {
   "id": "SCENARIO/313/00f88",
@@ -440,7 +440,7 @@
    "またたくほどの早さで老い衰え",
    "死んでゆくのでしょうね"
   ],
-  "en": ""
+  "en": "To the Winged Ones, we must seem to age, wither and die in the blink of an eye."
  },
  {
   "id": "SCENARIO/313/00ff2",
@@ -449,12 +449,12 @@
    "あなたも毎日＜書＞を読んで、",
    "立派な大人になるんですよ"
   ],
-  "en": ""
+  "en": "You too must read the Book every day and grow into a fine adult."
  },
  {
   "id": "SCENARIO/313/01068",
   "jp": "男の子",
-  "en": ""
+  "en": "Boy"
  },
  {
   "id": "SCENARIO/313/01078",
@@ -462,7 +462,7 @@
   "jp": [
    "最近、つまんないんだよなー"
   ],
-  "en": ""
+  "en": "Things are so boring lately."
  },
  {
   "id": "SCENARIO/313/0109c",
@@ -472,12 +472,12 @@
    "悪の組織が立ち上がるとか、",
    "スゴイこと起きないかな～"
   ],
-  "en": ""
+  "en": "Like, couldn't something big happen~? An evil organization rising up or something~"
  },
  {
   "id": "SCENARIO/313/01120",
   "jp": "女の子",
-  "en": ""
+  "en": "Girl"
  },
  {
   "id": "SCENARIO/313/01130",
@@ -487,7 +487,7 @@
    "少し退屈なくらいの方が",
    "ちょうどいいんだって"
   ],
-  "en": ""
+  "en": "Mama said a little boredom is just right."
  },
  {
   "id": "SCENARIO/313/01180",
@@ -497,12 +497,12 @@
    "思ったけど、いい歳して",
    "日々に刺激を求められても困るわ"
   ],
-  "en": ""
+  "en": "Grown-ups seemed dull, but at your age, chasing thrills every day is a bother too."
  },
  {
   "id": "SCENARIO/313/01210",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/313/01220",
@@ -510,12 +510,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/313/0123c",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/313/0124c",
@@ -523,12 +523,12 @@
   "jp": [
    "・・・あの"
   ],
-  "en": ""
+  "en": "...Um."
  },
  {
   "id": "SCENARIO/313/01260",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/313/01270",
@@ -538,12 +538,12 @@
    "今ちょっと持病の腰痛が・・・",
    "ウッ！！"
   ],
-  "en": ""
+  "en": "D-don't talk to me... My bad back's acting up... Ugh!!"
  },
  {
   "id": "SCENARIO/313/012f8",
   "jp": "兵士",
-  "en": ""
+  "en": "Soldier"
  },
  {
   "id": "SCENARIO/313/01306",
@@ -553,7 +553,7 @@
    "いつまでも、ここの見張りを",
    "続けているわけではない・・・"
   ],
-  "en": ""
+  "en": "I'm in the demon-hunting squad. I won't be standing watch here forever..."
  },
  {
   "id": "SCENARIO/313/01368",
@@ -563,12 +563,12 @@
    "嬉しいはずなのに・・変だな、",
    "少しも気分が晴れないんだ"
   ],
-  "en": ""
+  "en": "I rejoin the main unit soon! I should be glad... Strange. I don't feel it at all."
  },
  {
   "id": "SCENARIO/313/013fc",
   "jp": "プラン",
-  "en": ""
+  "en": "Plan"
  },
  {
   "id": "SCENARIO/313/0140c",
@@ -577,12 +577,12 @@
    "今日も元気に",
    "いらっしゃいませ～"
   ],
-  "en": ""
+  "en": "Welcome, welcome, bright and cheery as always~"
  },
  {
   "id": "SCENARIO/313/01454",
   "jp": "フライ",
-  "en": ""
+  "en": "Fly"
  },
  {
   "id": "SCENARIO/313/01464",
@@ -592,7 +592,7 @@
    "僧兵さんがいろいろお手伝い",
    "してくれるんだよ～"
   ],
-  "en": ""
+  "en": "Lately the monk soldier who comes to keep watch has been helping out with all sorts~"
  },
  {
   "id": "SCENARIO/313/014b8",
@@ -601,12 +601,12 @@
    "いっそ、僧兵なんてやめて",
    "団員になっちゃえばいいのにね～"
   ],
-  "en": ""
+  "en": "Might as well quit being a monk soldier and join the troupe, right~?"
  },
  {
   "id": "SCENARIO/313/05024",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/313/05032",
@@ -614,12 +614,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/313/0504a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/313/0505a",
@@ -627,6 +627,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

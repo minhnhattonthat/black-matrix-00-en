@@ -221,3 +221,8 @@ Correction: Luca uses アタシ (script 250) and 捜したわよ (056): Luca is 
 | 虚像 | phantom image | |
 | 共苦 | shared suffering | |
 | 懺悔の書 | confession | Abel's name for Johannes's diary |
+| クレイドルの丘 | Cradle Hill | |
+| 天使長 | the Archangel | |
+| 真紅のトゲ | the Crimson Thorn | |
+| 魔槍 | demon spear | Rubiel's weapon |
+| ギギッ / ギァッ / ギヤァ | Gigik / Gyah / Gyaa | Embryon cries |

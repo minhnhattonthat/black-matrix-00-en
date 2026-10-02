@@ -5,7 +5,7 @@
   "jp": [
    "聞こえる、ベイル？"
   ],
-  "en": ""
+  "en": "Can you hear me, Bale?"
  },
  {
   "id": "SCENARIO/314/00158",
@@ -13,7 +13,7 @@
   "jp": [
    "外への扉は僕が開けておいた"
   ],
-  "en": ""
+  "en": "I've left the door to the outside open."
  },
  {
   "id": "SCENARIO/314/00192",
@@ -23,7 +23,7 @@
    "キミの意志が、",
    "キミを解放させるカギになる"
   ],
-  "en": ""
+  "en": "The rest is up to your power... your will. That is the key to your release."
  },
  {
   "id": "SCENARIO/314/001e8",
@@ -33,7 +33,7 @@
    "妬み、渇望、不安、恐れ、",
    "ため込み、そして怠惰・・・"
   ],
-  "en": ""
+  "en": "Wrath, pride, vanity, deceit, greed, envy, craving, unease, fear, hoarding, sloth..."
  },
  {
   "id": "SCENARIO/314/00254",
@@ -42,7 +42,7 @@
    "あらゆる内なる負と向き合い",
    "それを乗り越えた時、"
   ],
-  "en": ""
+  "en": "When you face every darkness within you and overcome it,"
  },
  {
   "id": "SCENARIO/314/00298",
@@ -51,7 +51,7 @@
    "キミは凍結刑から解放され",
    "真に羽ばたこうとする者になれる"
   ],
-  "en": ""
+  "en": "you will be freed from the freezing and become one who truly seeks to take wing."
  },
  {
   "id": "SCENARIO/314/002f2",
@@ -61,12 +61,12 @@
    "真に羽ばたこうとする者の姿を",
    "僕に見せてくれ・・・"
   ],
-  "en": ""
+  "en": "Now, show me the radiance of that noble soul... one who truly seeks to take wing..."
  },
  {
   "id": "SCENARIO/314/03e7c",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/314/03e8a",
@@ -74,12 +74,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/314/03ea2",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/314/03eb2",
@@ -87,6 +87,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
