@@ -6,7 +6,7 @@
    "えへへ～お花さんいっぱい♪",
    "ルカ喜んでくれるかな？"
   ],
-  "en": ""
+  "en": "Ehehe~ So many flowers! I wonder if Luca will be happy?"
  },
  {
   "id": "SCENARIO/281/00148",
@@ -15,7 +15,7 @@
    "リリスちゃんが頑張ったんだ",
    "きっと喜んでくれるよ"
   ],
-  "en": ""
+  "en": "You worked hard for them, Lilis-chan. I'm sure she'll be happy."
  },
  {
   "id": "SCENARIO/281/001a2",
@@ -24,7 +24,7 @@
    "えへへ",
    "ルカ早く元気になるといいね"
   ],
-  "en": ""
+  "en": "Ehehe. I hope Luca gets better soon."
  },
  {
   "id": "SCENARIO/281/001ee",
@@ -32,7 +32,7 @@
   "jp": [
    "ああ、そうだね・・・"
   ],
-  "en": ""
+  "en": "Yeah... I hope so too..."
  },
  {
   "id": "SCENARIO/281/00222",
@@ -42,7 +42,7 @@
    "リリスちゃんも道に迷ったり",
    "しないよな？"
   ],
-  "en": ""
+  "en": "Right, now we've come this far, you won't get lost from here, will you, Lilis-chan?"
  },
  {
   "id": "SCENARIO/281/0028e",
@@ -50,7 +50,7 @@
   "jp": [
    "うん、大丈夫だよ"
   ],
-  "en": ""
+  "en": "Mm-hm, I'll be fine."
  },
  {
   "id": "SCENARIO/281/002b8",
@@ -59,7 +59,7 @@
    "それじゃあ、リリスちゃんは",
    "早くその花をルカに届けてやりな"
   ],
-  "en": ""
+  "en": "Then hurry and take those flowers to Luca, Lilis-chan."
  },
  {
   "id": "SCENARIO/281/0031e",
@@ -68,7 +68,7 @@
    "あれ？ソリュウもお花持ってる",
    "のに、ルカにあげないの？"
   ],
-  "en": ""
+  "en": "Huh? You have flowers too, Soryu. Aren't you giving them to Luca?"
  },
  {
   "id": "SCENARIO/281/0037e",
@@ -77,7 +77,7 @@
    "あ～、俺はさ、",
    "別の人に持って行くんだ"
   ],
-  "en": ""
+  "en": "Ah~ Me, I'm... taking mine to someone else."
  },
  {
   "id": "SCENARIO/281/003c0",
@@ -85,7 +85,7 @@
   "jp": [
    "・・・？"
   ],
-  "en": ""
+  "en": "...?"
  },
  {
   "id": "SCENARIO/281/003f2",
@@ -94,7 +94,7 @@
    "シリアさんとかこういう花とか",
    "好きかな～なんて、あはは"
   ],
-  "en": ""
+  "en": "I just thought, maybe Syria-san likes this kind of flower... Ahaha."
  },
  {
   "id": "SCENARIO/281/00452",
@@ -102,7 +102,7 @@
   "jp": [
    "いや、深い意味はないんだ！！"
   ],
-  "en": ""
+  "en": "No, I don't mean anything by it!!"
  },
  {
   "id": "SCENARIO/281/00496",
@@ -112,7 +112,7 @@
    "笑ってくれたら嬉しいかな～",
    "なんて・・・あはは"
   ],
-  "en": ""
+  "en": "It's just, I'd be glad if Syria-san smiled a little, that's all... Ahaha."
  },
  {
   "id": "SCENARIO/281/0050e",
@@ -120,12 +120,12 @@
   "jp": [
    "頑張ってね、ソリュウ"
   ],
-  "en": ""
+  "en": "Good luck, Soryu."
  },
  {
   "id": "SCENARIO/281/04078",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/281/04086",
@@ -133,12 +133,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/281/0409e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/281/040ae",
@@ -146,6 +146,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

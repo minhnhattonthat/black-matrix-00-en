@@ -5,7 +5,7 @@
   "jp": [
    "落ち着くんだよザイオン"
   ],
-  "en": ""
+  "en": "Calm yourself, Zion."
  },
  {
   "id": "SCENARIO/283/00156",
@@ -13,7 +13,7 @@
   "jp": [
    "落ち着いてなどいられるか！！"
   ],
-  "en": ""
+  "en": "How can I be calm!!"
  },
  {
   "id": "SCENARIO/283/0018c",
@@ -23,7 +23,7 @@
    "知っていたなら何故教えてくれ",
    "なかったんだ！？"
   ],
-  "en": ""
+  "en": "Elder, did you know? If you knew, why didn't you tell me!?"
  },
  {
   "id": "SCENARIO/283/00206",
@@ -31,7 +31,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/283/00242",
@@ -41,7 +41,7 @@
    "リリスの血と髄でルカが助かる",
    "らしい"
   ],
-  "en": ""
+  "en": "If this goes on, Luca dies!! And they say Lilis's blood and marrow would save her!"
  },
  {
   "id": "SCENARIO/283/002a6",
@@ -50,7 +50,7 @@
    "しかし、今のまま放って",
    "おいたらルカは死んじまうんだ！"
   ],
-  "en": ""
+  "en": "But if we leave things as they are, Luca is going to die!"
  },
  {
   "id": "SCENARIO/283/003d2",
@@ -58,7 +58,7 @@
   "jp": [
    "！！？"
   ],
-  "en": ""
+  "en": "!!?"
  },
  {
   "id": "SCENARIO/283/004d4",
@@ -66,7 +66,7 @@
   "jp": [
    "誰だ！！？"
   ],
-  "en": ""
+  "en": "Who's there!!?"
  },
  {
   "id": "SCENARIO/283/005ee",
@@ -75,7 +75,7 @@
    "なんだこれは？",
    "なんでこんなところに花が？"
   ],
-  "en": ""
+  "en": "What's this? Why are there flowers here?"
  },
  {
   "id": "SCENARIO/283/006e4",
@@ -84,7 +84,7 @@
    "まぁ、ザイオンさんったら",
    "ダメじゃないですか！！"
   ],
-  "en": ""
+  "en": "Oh my, Zion-san, you mustn't do that!!"
  },
  {
   "id": "SCENARIO/283/00736",
@@ -93,7 +93,7 @@
    "それはリリスがルカさんのために",
    "摘んできた花なんです"
   ],
-  "en": ""
+  "en": "Those are flowers Lilis picked for Luca-san."
  },
  {
   "id": "SCENARIO/283/007b4",
@@ -101,7 +101,7 @@
   "jp": [
    "この花を・・・リリスが！？"
   ],
-  "en": ""
+  "en": "These flowers... Lilis did!?"
  },
  {
   "id": "SCENARIO/283/007f6",
@@ -110,7 +110,7 @@
    "ええ、ソリュウさんからそう",
    "聞いていますが・・・"
   ],
-  "en": ""
+  "en": "Yes, that's what I heard from Soryu-san..."
  },
  {
   "id": "SCENARIO/283/0084a",
@@ -119,7 +119,7 @@
    "どうしたんですかザイオンさん",
    "なんだか顔色が・・・"
   ],
-  "en": ""
+  "en": "What's wrong, Zion-san? You look pale..."
  },
  {
   "id": "SCENARIO/283/008a6",
@@ -127,7 +127,7 @@
   "jp": [
    "さっきのは・・・まさか！！？"
   ],
-  "en": ""
+  "en": "Just now... don't tell me...!!?"
  },
  {
   "id": "SCENARIO/283/008ea",
@@ -135,7 +135,7 @@
   "jp": [
    "リリス！！"
   ],
-  "en": ""
+  "en": "Lilis!!"
  },
  {
   "id": "SCENARIO/283/00966",
@@ -143,7 +143,7 @@
   "jp": [
    "ザ、ザイオンさん！？"
   ],
-  "en": ""
+  "en": "Z-Zion-san!?"
  },
  {
   "id": "SCENARIO/283/0099a",
@@ -151,12 +151,12 @@
   "jp": [
    "いったい、何が・・・？"
   ],
-  "en": ""
+  "en": "What on earth is...?"
  },
  {
   "id": "SCENARIO/283/04510",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/283/0451e",
@@ -164,12 +164,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/283/04536",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/283/04546",
@@ -177,6 +177,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

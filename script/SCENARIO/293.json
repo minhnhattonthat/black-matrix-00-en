@@ -6,7 +6,7 @@
    "カイン・・・",
    "カイン・・・・・"
   ],
-  "en": ""
+  "en": "Cain... Cain....."
  },
  {
   "id": "SCENARIO/293/000d0",
@@ -14,7 +14,7 @@
   "jp": [
    "ボクは、いったい・・・"
   ],
-  "en": ""
+  "en": "What... happened to me..."
  },
  {
   "id": "SCENARIO/293/00122",
@@ -22,7 +22,7 @@
   "jp": [
    "目を、開けなさい"
   ],
-  "en": ""
+  "en": "Open your eyes."
  },
  {
   "id": "SCENARIO/293/00144",
@@ -30,7 +30,7 @@
   "jp": [
    "その声は、ヨハネ・・・？"
   ],
-  "en": ""
+  "en": "That voice... Johannes...?"
  },
  {
   "id": "SCENARIO/293/0019a",
@@ -39,7 +39,7 @@
    "巣立ちの時がきた",
    "もうお前に、私は必要ない・・・"
   ],
-  "en": ""
+  "en": "The time has come to leave the nest. You no longer need me..."
  },
  {
   "id": "SCENARIO/293/001e0",
@@ -47,7 +47,7 @@
   "jp": [
    "え？"
   ],
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "SCENARIO/293/00222",
@@ -55,7 +55,7 @@
   "jp": [
    "なぁ、カイン・・・"
   ],
-  "en": ""
+  "en": "Listen, Cain..."
  },
  {
   "id": "SCENARIO/293/00248",
@@ -65,7 +65,7 @@
    "相手が何者であるか、自分が何者",
    "であるかにこだわるあまり、"
   ],
-  "en": ""
+  "en": "People dwell too much on form. So fixated on what others are, and what they are,"
  },
  {
   "id": "SCENARIO/293/002b4",
@@ -75,7 +75,7 @@
    "自分に何が出来るかを",
    "考えられなくなってしまう"
   ],
-  "en": ""
+  "en": "they neglect themselves, and lose sight of what it is they can do."
  },
  {
   "id": "SCENARIO/293/00318",
@@ -83,7 +83,7 @@
   "jp": [
    "ヨハネ・・・？"
   ],
-  "en": ""
+  "en": "Johannes...?"
  },
  {
   "id": "SCENARIO/293/00362",
@@ -91,7 +91,7 @@
   "jp": [
    "カイン、忘れるな・・・"
   ],
-  "en": ""
+  "en": "Cain, do not forget..."
  },
  {
   "id": "SCENARIO/293/0038c",
@@ -100,7 +100,7 @@
    "誰に踊らされるわけでもなく",
    "翼は踊る"
   ],
-  "en": ""
+  "en": "The wings dance, at no one's bidding."
  },
  {
   "id": "SCENARIO/293/003c4",
@@ -109,7 +109,7 @@
    "人はか弱くとも",
    "自らの足で歩く力を持っている"
   ],
-  "en": ""
+  "en": "People may be frail, but they have the strength to walk on their own feet."
  },
  {
   "id": "SCENARIO/293/00404",
@@ -118,12 +118,12 @@
    "進みなさい、カイン",
    "そして、未来を・・・・"
   ],
-  "en": ""
+  "en": "Go forward, Cain. And the future...."
  },
  {
   "id": "SCENARIO/293/03fb8",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/293/03fc6",
@@ -131,12 +131,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/293/03fde",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/293/03fee",
@@ -144,6 +144,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

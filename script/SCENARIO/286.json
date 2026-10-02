@@ -6,7 +6,7 @@
    "不注意だったですまされる",
    "問題じゃありません！！"
   ],
-  "en": ""
+  "en": "This isn't something you can wave off as carelessness!!"
  },
  {
   "id": "SCENARIO/286/0014c",
@@ -15,7 +15,7 @@
    "あの子はルカさんのことを",
    "慕っていたんですよ！？"
   ],
-  "en": ""
+  "en": "That child adored Luca-san, you know!?"
  },
  {
   "id": "SCENARIO/286/00190",
@@ -25,7 +25,7 @@
    "あの子がどんなに苦しむのか",
    "貴方にも分かっていたはずです！"
   ],
-  "en": ""
+  "en": "You must have known how much it would hurt her to be told something like that!"
  },
  {
   "id": "SCENARIO/286/0020a",
@@ -33,7 +33,7 @@
   "jp": [
    "それなのに・・・"
   ],
-  "en": ""
+  "en": "And yet..."
  },
  {
   "id": "SCENARIO/286/00242",
@@ -41,7 +41,7 @@
   "jp": [
    "・・・・・・・・・・"
   ],
-  "en": ""
+  "en": ".........."
  },
  {
   "id": "SCENARIO/286/0027e",
@@ -50,7 +50,7 @@
    "リリスが・・・",
    "リリスが可哀想です"
   ],
-  "en": ""
+  "en": "Lilis... Poor Lilis..."
  },
  {
   "id": "SCENARIO/286/00374",
@@ -59,7 +59,7 @@
    "ザイオンを責めるのも",
    "それぐらいにしてやりな"
   ],
-  "en": ""
+  "en": "That's enough blaming Zion."
  },
  {
   "id": "SCENARIO/286/00420",
@@ -67,7 +67,7 @@
   "jp": [
    "ルカさん・・・"
   ],
-  "en": ""
+  "en": "Luca-san..."
  },
  {
   "id": "SCENARIO/286/00456",
@@ -77,7 +77,7 @@
    "ザイオンはアタシのために",
    "必死だった"
   ],
-  "en": ""
+  "en": "It's all my fault. Zion was desperate, for my sake."
  },
  {
   "id": "SCENARIO/286/004a8",
@@ -85,7 +85,7 @@
   "jp": [
    "ただ、それだけだよ・・・"
   ],
-  "en": ""
+  "en": "That's all there is to it..."
  },
  {
   "id": "SCENARIO/286/00508",
@@ -93,7 +93,7 @@
   "jp": [
    "ルカ、もう動いても大丈夫なの？"
   ],
-  "en": ""
+  "en": "Luca, is it all right for you to be up already?"
  },
  {
   "id": "SCENARIO/286/0054e",
@@ -102,7 +102,7 @@
    "じっとしてるわけにも",
    "いかないでしょ？"
   ],
-  "en": ""
+  "en": "I can't just lie there, can I?"
  },
  {
   "id": "SCENARIO/286/00596",
@@ -111,7 +111,7 @@
    "なにより、",
    "アタシにも責任があるんだから"
   ],
-  "en": ""
+  "en": "Besides, I bear some of the blame too."
  },
  {
   "id": "SCENARIO/286/005ea",
@@ -119,7 +119,7 @@
   "jp": [
    "でも・・・"
   ],
-  "en": ""
+  "en": "But..."
  },
  {
   "id": "SCENARIO/286/0061e",
@@ -128,7 +128,7 @@
    "今一番辛い想いをしてるのは",
    "リリスでしょ？"
   ],
-  "en": ""
+  "en": "The one hurting most right now is Lilis, isn't she?"
  },
  {
   "id": "SCENARIO/286/0065c",
@@ -138,7 +138,7 @@
    "早まった行動でもされたら",
    "困るでしょ？"
   ],
-  "en": ""
+  "en": "We have to go get her, fast. We can't have her doing anything rash, can we?"
  },
  {
   "id": "SCENARIO/286/006fc",
@@ -147,7 +147,7 @@
    "早まったマネなんて・・・",
    "そんな！！？"
   ],
-  "en": ""
+  "en": "Anything rash... You can't mean...!!?"
  },
  {
   "id": "SCENARIO/286/0074e",
@@ -157,7 +157,7 @@
    "今、エクサルとソリュウが",
    "捜しに行ってるみたいだから"
   ],
-  "en": ""
+  "en": "Calm down, Syria. Exal and Soryu are out looking for her now, it seems."
  },
  {
   "id": "SCENARIO/286/007ba",
@@ -167,7 +167,7 @@
    "今頃リリスを見つけて戻ってくる",
    "所かもしれないわよ？"
   ],
-  "en": ""
+  "en": "For all we know, they've already found Lilis and are on their way back."
  },
  {
   "id": "SCENARIO/286/00870",
@@ -175,7 +175,7 @@
   "jp": [
    "ボクらも、リリスを迎えに行こう"
   ],
-  "en": ""
+  "en": "Let's go get Lilis too."
  },
  {
   "id": "SCENARIO/286/008b6",
@@ -185,7 +185,7 @@
    "俺が行ったところで",
    "リリスを怯えさせるだけだ"
   ],
-  "en": ""
+  "en": "...I'm staying. If I go, I'll only frighten Lilis."
  },
  {
   "id": "SCENARIO/286/0091e",
@@ -194,7 +194,7 @@
    "ダメだよ",
    "ザイオンも一緒に行くんだからね"
   ],
-  "en": ""
+  "en": "No. You're coming with us, Zion."
  },
  {
   "id": "SCENARIO/286/0095c",
@@ -203,7 +203,7 @@
    "行って、ちゃんと謝って",
    "誤解を解かなきゃダメだよ"
   ],
-  "en": ""
+  "en": "You have to go, apologize properly, and clear up the misunderstanding."
  },
  {
   "id": "SCENARIO/286/009b6",
@@ -213,7 +213,7 @@
    "俺は何度もリリスを殺そうと",
    "思っていた・・・"
   ],
-  "en": ""
+  "en": "It is no misunderstanding. I thought of killing Lilis, more than once..."
  },
  {
   "id": "SCENARIO/286/00a28",
@@ -221,7 +221,7 @@
   "jp": [
    "ザイオン・・・・・"
   ],
-  "en": ""
+  "en": "Zion....."
  },
  {
   "id": "SCENARIO/286/00a7c",
@@ -231,7 +231,7 @@
    "全て踏みとどまっているの",
    "だろう？"
   ],
-  "en": ""
+  "en": "You thought of it many times, and every time you held back. Did you not?"
  },
  {
   "id": "SCENARIO/286/00ae6",
@@ -239,7 +239,7 @@
   "jp": [
    "！！？"
   ],
-  "en": ""
+  "en": "!!?"
  },
  {
   "id": "SCENARIO/286/00b08",
@@ -249,7 +249,7 @@
    "そのために、周囲の心を傷つけて",
    "しまうのはどうかと思うぞ？"
   ],
-  "en": ""
+  "en": "A clean conscience is well and good, but is it worth wounding the hearts around you?"
  },
  {
   "id": "SCENARIO/286/00b8a",
@@ -257,7 +257,7 @@
   "jp": [
    "俺は・・・・・・"
   ],
-  "en": ""
+  "en": "I......"
  },
  {
   "id": "SCENARIO/286/00bdc",
@@ -267,7 +267,7 @@
    "思っているのは、みんな",
    "わかってるよ"
   ],
-  "en": ""
+  "en": "Everyone knows how much you care about Luca, Zion."
  },
  {
   "id": "SCENARIO/286/00c34",
@@ -277,7 +277,7 @@
    "嘘までついて、ルカを守ろうと",
    "したんだ・・・"
   ],
-  "en": ""
+  "en": "You even lied that you were a demon maddened by the Thirst, just to protect her..."
  },
  {
   "id": "SCENARIO/286/00cae",
@@ -285,7 +285,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/286/00d04",
@@ -295,7 +295,7 @@
    "不安を全部一人で抱え込んじゃう",
    "から、暴走するのよ"
   ],
-  "en": ""
+  "en": "Exactly. You bottle it all up and never talk to anyone. That's why you snap."
  },
  {
   "id": "SCENARIO/286/00d76",
@@ -305,7 +305,7 @@
    "何でも話してくれたって",
    "いいじゃない"
   ],
-  "en": ""
+  "en": "You could trust us a bit more. It's fine to tell us anything, you know."
  },
  {
   "id": "SCENARIO/286/00e84",
@@ -314,7 +314,7 @@
    "・・・お姉ちゃん",
    "悪魔のこと嫌いじゃなかったの？"
   ],
-  "en": ""
+  "en": "...Big sis, didn't you hate demons?"
  },
  {
   "id": "SCENARIO/286/00efc",
@@ -323,7 +323,7 @@
    "うるさいわね",
    "人は成長するものなのよ！"
   ],
-  "en": ""
+  "en": "Oh, hush. People grow, you know!"
  },
  {
   "id": "SCENARIO/286/0100e",
@@ -332,7 +332,7 @@
    "とにかく、行かないって言うなら",
    "引っ張ってでも連れて行くわ！"
   ],
-  "en": ""
+  "en": "Anyway, if you say you're not going, I'll drag you there if I have to!"
  },
  {
   "id": "SCENARIO/286/010a8",
@@ -341,7 +341,7 @@
    "お、おい・・・",
    "人の腕をつかむな"
   ],
-  "en": ""
+  "en": "H-hey... Don't grab people's arms."
  },
  {
   "id": "SCENARIO/286/010f2",
@@ -351,7 +351,7 @@
    "少しでも悪いって思うなら",
    "誠意ある態度を示しなさい！"
   ],
-  "en": ""
+  "en": "Before you dig your heels in, if you feel even a little sorry, show some sincerity!"
  },
  {
   "id": "SCENARIO/286/01158",
@@ -361,7 +361,7 @@
    "自分がつけた傷から目を",
    "背けようとしてるのと同じよ！"
   ],
-  "en": ""
+  "en": "You're just posing right now! It's the same as looking away from the wound you made!"
  },
  {
   "id": "SCENARIO/286/011d2",
@@ -371,7 +371,7 @@
    "目を背けるなって言ったのは",
    "アンタじゃない！！"
   ],
-  "en": ""
+  "en": "You're the one who said never to look away from the pain right in front of you!!"
  },
  {
   "id": "SCENARIO/286/01246",
@@ -379,7 +379,7 @@
   "jp": [
    "！"
   ],
-  "en": ""
+  "en": "!"
  },
  {
   "id": "SCENARIO/286/0128c",
@@ -389,7 +389,7 @@
    "リリスのためにも",
    "ザイオンは行かなきゃダメだよ"
   ],
-  "en": ""
+  "en": "Let's go, Zion. For Lilis's sake too, you have to go."
  },
  {
   "id": "SCENARIO/286/012f6",
@@ -397,12 +397,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/286/04e44",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/286/04e52",
@@ -410,12 +410,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/286/04e6a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/286/04e7a",
@@ -423,6 +423,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

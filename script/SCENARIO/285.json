@@ -6,7 +6,7 @@
    "くそっ！",
    "見失っちまったか・・・"
   ],
-  "en": ""
+  "en": "Damn! We lost her..."
  },
  {
   "id": "SCENARIO/285/0013c",
@@ -15,7 +15,7 @@
    "おーい、リリスちゃーん！",
    "いたら返事してくれー！！"
   ],
-  "en": ""
+  "en": "Heeey, Lilis-chaaan! If you're there, answer me!!"
  },
  {
   "id": "SCENARIO/285/0019a",
@@ -25,7 +25,7 @@
    "俺はこっちを",
    "ソリュウはそっちを頼む"
   ],
-  "en": ""
+  "en": "Let's split up and search. I'll take this way. Soryu, you take that way."
  },
  {
   "id": "SCENARIO/285/00202",
@@ -33,7 +33,7 @@
   "jp": [
    "わかった！"
   ],
-  "en": ""
+  "en": "Got it!"
  },
  {
   "id": "SCENARIO/285/00272",
@@ -41,12 +41,12 @@
   "jp": [
    "リリス・・・・"
   ],
-  "en": ""
+  "en": "Lilis...."
  },
  {
   "id": "SCENARIO/285/03dec",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/285/03dfa",
@@ -54,12 +54,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/285/03e12",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/285/03e22",
@@ -67,6 +67,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

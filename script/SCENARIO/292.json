@@ -6,7 +6,7 @@
    "もう終わりだよ",
    "キミではボクに勝てない・・・"
   ],
-  "en": ""
+  "en": "It's over. You can't beat me..."
  },
  {
   "id": "SCENARIO/292/0017a",
@@ -15,7 +15,7 @@
    "まだだ！",
    "まだ終わりではない！"
   ],
-  "en": ""
+  "en": "Not yet! It's not over yet!"
  },
  {
   "id": "SCENARIO/292/001ac",
@@ -24,7 +24,7 @@
    "貴様を殺すまでは・・・",
    "俺は、終われない！！！"
   ],
-  "en": ""
+  "en": "Until I kill you... I can't let it end!!"
  },
  {
   "id": "SCENARIO/292/002ca",
@@ -33,7 +33,7 @@
    "あの傷で動けるなんて、",
    "限界がないっていうの！？"
   ],
-  "en": ""
+  "en": "Still moving with those wounds... Does he have no limit!?"
  },
  {
   "id": "SCENARIO/292/00318",
@@ -42,7 +42,7 @@
    "身体の方はもうとっくに限界を",
    "越えているはずだよ"
   ],
-  "en": ""
+  "en": "His body passed its limit long ago."
  },
  {
   "id": "SCENARIO/292/0035c",
@@ -51,7 +51,7 @@
    "想いがあの人の身体を支えて",
    "いるんだ"
   ],
-  "en": ""
+  "en": "It's sheer will that's holding that man's body up."
  },
  {
   "id": "SCENARIO/292/003a2",
@@ -59,7 +59,7 @@
   "jp": [
    "でも、もう・・・"
   ],
-  "en": ""
+  "en": "But, soon..."
  },
  {
   "id": "SCENARIO/292/004b6",
@@ -69,7 +69,7 @@
    "こんなところで俺は死なん！",
    "絶対にアイツの仇を・・・！！"
   ],
-  "en": ""
+  "en": "..Damn! Damn it!! I won't die in a place like this! I swear I'll avenge her...!!"
  },
  {
   "id": "SCENARIO/292/0052e",
@@ -77,7 +77,7 @@
   "jp": [
    "それ以上、動いたら・・・"
   ],
-  "en": ""
+  "en": "If you move any more than that..."
  },
  {
   "id": "SCENARIO/292/0056e",
@@ -86,7 +86,7 @@
    "俺と戦え、カイン",
    "次こそは、必ず貴様を・・・"
   ],
-  "en": ""
+  "en": "Fight me, Cain. Next time, I swear, I'll..."
  },
  {
   "id": "SCENARIO/292/005be",
@@ -94,18 +94,18 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": "",
+  "en": ".........",
   "spill": false
  },
  {
   "id": "SCENARIO/292/005d8",
   "jp": "　わかった、戦おう",
-  "en": ""
+  "en": "Fine, let's fight."
  },
  {
   "id": "SCENARIO/292/005f4",
   "jp": "　もうやめよう",
-  "en": ""
+  "en": "Let's stop this."
  },
  {
   "id": "SCENARIO/292/00620",
@@ -113,7 +113,7 @@
   "jp": [
    "わかった、戦おう"
   ],
-  "en": ""
+  "en": "Fine, let's fight."
  },
  {
   "id": "SCENARIO/292/00664",
@@ -122,7 +122,7 @@
    "もうやめよう",
    "そんな身体じゃ戦いなんて無理だ"
   ],
-  "en": ""
+  "en": "Let's stop this. You can't fight in that state."
  },
  {
   "id": "SCENARIO/292/006ba",
@@ -131,7 +131,7 @@
    "くくくくっ・・・",
    "今更おじけづいたのか！？"
   ],
-  "en": ""
+  "en": "Kukukuku... Lost your nerve at this late hour!?"
  },
  {
   "id": "SCENARIO/292/00706",
@@ -141,7 +141,7 @@
    "俺は命ある限り、",
    "お前を殺そうとつけ狙う！"
   ],
-  "en": ""
+  "en": "Fight, Cain!! As long as I live, I will hunt you down to kill you!"
  },
  {
   "id": "SCENARIO/292/00758",
@@ -151,7 +151,7 @@
    "お前の仲間達も血を流すことに",
    "なるぞ！！"
   ],
-  "en": ""
+  "en": "Leave me be, and your friends will bleed for it too!!"
  },
  {
   "id": "SCENARIO/292/007c2",
@@ -159,7 +159,7 @@
   "jp": [
    "！？"
   ],
-  "en": ""
+  "en": "!?"
  },
  {
   "id": "SCENARIO/292/007ee",
@@ -167,7 +167,7 @@
   "jp": [
    "終わらせたいのなら、俺と戦え"
   ],
-  "en": ""
+  "en": "If you want it to end, fight me."
  },
  {
   "id": "SCENARIO/292/00832",
@@ -175,7 +175,7 @@
   "jp": [
    "・・・わかった、戦おう"
   ],
-  "en": ""
+  "en": "...Fine, let's fight."
  },
  {
   "id": "SCENARIO/292/00910",
@@ -183,7 +183,7 @@
   "jp": [
    "カイン！？"
   ],
-  "en": ""
+  "en": "Cain!?"
  },
  {
   "id": "SCENARIO/292/00960",
@@ -192,7 +192,7 @@
    "大丈夫",
    "負けたりなんかしないから"
   ],
-  "en": ""
+  "en": "It's okay. I'm not going to lose."
  },
  {
   "id": "SCENARIO/292/0099c",
@@ -200,7 +200,7 @@
   "jp": [
    "しかし・・・・"
   ],
-  "en": ""
+  "en": "But...."
  },
  {
   "id": "SCENARIO/292/009d2",
@@ -209,7 +209,7 @@
    "ボクがまねいたことなんだ",
    "ボクがケリをつけてくる"
   ],
-  "en": ""
+  "en": "I brought this on. I'll be the one to finish it."
  },
  {
   "id": "SCENARIO/292/00ad2",
@@ -218,7 +218,7 @@
    "くっくっくっくっ・・・",
    "いい覚悟だ"
   ],
-  "en": ""
+  "en": "Kukukuku... Well resolved."
  },
  {
   "id": "SCENARIO/292/00bde",
@@ -226,7 +226,7 @@
   "jp": [
    "カイン・・・・・・"
   ],
-  "en": ""
+  "en": "Cain......"
  },
  {
   "id": "SCENARIO/292/00c72",
@@ -236,7 +236,7 @@
    "いくらなんでも、この状態じゃ",
    "負けようがないって"
   ],
-  "en": ""
+  "en": "You worry too much, Johannes-san~ There's no way Cain loses to a guy in that state."
  },
  {
   "id": "SCENARIO/292/00cfa",
@@ -245,7 +245,7 @@
    "しかし、何かがひっかかる",
    "何かが・・・・"
   ],
-  "en": ""
+  "en": "And yet, something bothers me. Something...."
  },
  {
   "id": "SCENARIO/292/00d40",
@@ -254,7 +254,7 @@
    "死に瀕してあの余裕・・・",
    "いったい何があるというのだ？"
   ],
-  "en": ""
+  "en": "(Such composure at death's door... What could he be holding?)"
  },
  {
   "id": "SCENARIO/292/00da2",
@@ -264,7 +264,7 @@
    "あの傷じゃ、放っておいても",
    "後数時間ってとこだぜ？"
   ],
-  "en": ""
+  "en": "He talks tough, but with those wounds he's got a few hours left, even untouched."
  },
  {
   "id": "SCENARIO/292/00e12",
@@ -274,7 +274,7 @@
    "相打ちでも狙わなきゃ、",
    "アイツにカインを倒すのは無理だ"
   ],
-  "en": ""
+  "en": "Forget trading stabs. Unless he goes for a double kill, he can't take Cain down."
  },
  {
   "id": "SCENARIO/292/00e96",
@@ -282,7 +282,7 @@
   "jp": [
    "っ！？"
   ],
-  "en": ""
+  "en": "!?"
  },
  {
   "id": "SCENARIO/292/00ed4",
@@ -291,7 +291,7 @@
    "カイン、その男から離れろ！！",
    "その男はっ！！！"
   ],
-  "en": ""
+  "en": "Cain, get away from that man!! That man is...!!"
  },
  {
   "id": "SCENARIO/292/01060",
@@ -299,7 +299,7 @@
   "jp": [
    "もう・・遅い！"
   ],
-  "en": ""
+  "en": "Too.. late!"
  },
  {
   "id": "SCENARIO/292/01100",
@@ -307,7 +307,7 @@
   "jp": [
    "うわっ！！？"
   ],
-  "en": ""
+  "en": "Whoa!!?"
  },
  {
   "id": "SCENARIO/292/01136",
@@ -317,7 +317,7 @@
    "間もなく、俺も貴様も",
    "跡形もなく吹き飛ぶ・・・"
   ],
-  "en": ""
+  "en": "I've made the Pain Ring go critical. Soon, you and I both will be blown to nothing..."
  },
  {
   "id": "SCENARIO/292/011aa",
@@ -325,7 +325,7 @@
   "jp": [
    "！！？"
   ],
-  "en": ""
+  "en": "!!?"
  },
  {
   "id": "SCENARIO/292/011da",
@@ -334,7 +334,7 @@
    "俺の勝ちだ、カイン",
    "共に吹き飛べ！！！！"
   ],
-  "en": ""
+  "en": "I win, Cain. Now blow away with me!!!"
  },
  {
   "id": "SCENARIO/292/0124e",
@@ -342,7 +342,7 @@
   "jp": [
    "うわぁぁぁぁぁぁ！！！"
   ],
-  "en": ""
+  "en": "Uwaaaaaah!!"
  },
  {
   "id": "SCENARIO/292/0136c",
@@ -350,7 +350,7 @@
   "jp": [
    "カイン！！！！"
   ],
-  "en": ""
+  "en": "Cain!!"
  },
  {
   "id": "SCENARIO/292/0145c",
@@ -358,12 +358,12 @@
   "jp": [
    "ふははははははははっ！！！"
   ],
-  "en": ""
+  "en": "Fuhahahahahahaha!!"
  },
  {
   "id": "SCENARIO/292/05054",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/292/05062",
@@ -371,12 +371,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/292/0507a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/292/0508a",
@@ -384,6 +384,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

@@ -6,7 +6,7 @@
    "エクサル！",
    "いったい何があったの？！"
   ],
-  "en": ""
+  "en": "Exal! What on earth happened!?"
  },
  {
   "id": "SCENARIO/289/0016e",
@@ -15,7 +15,7 @@
    "天使兵が現れたんだ",
    "エクサルはそいつらに・・・"
   ],
-  "en": ""
+  "en": "Angel soldiers appeared. They did this to Exal..."
  },
  {
   "id": "SCENARIO/289/001d8",
@@ -23,7 +23,7 @@
   "jp": [
    "なんだって！！？"
   ],
-  "en": ""
+  "en": "What!!?"
  },
  {
   "id": "SCENARIO/289/00224",
@@ -32,7 +32,7 @@
    "あいつら・・たぶん",
    "レッド・ムフロンの部下だ"
   ],
-  "en": ""
+  "en": "Those guys.. they're probably Red Mouflon's men."
  },
  {
   "id": "SCENARIO/289/0028c",
@@ -41,7 +41,7 @@
    "レッド・ムフロン？",
    "どうしてあいつがここに？"
   ],
-  "en": ""
+  "en": "Red Mouflon? Why would he be here?"
  },
  {
   "id": "SCENARIO/289/002e2",
@@ -50,7 +50,7 @@
    "わりぃ・・・",
    "奴らにリリスを連れてかれた"
   ],
-  "en": ""
+  "en": "Sorry... They took Lilis."
  },
  {
   "id": "SCENARIO/289/00348",
@@ -58,7 +58,7 @@
   "jp": [
    "っ！？"
   ],
-  "en": ""
+  "en": "!?"
  },
  {
   "id": "SCENARIO/289/00376",
@@ -68,7 +68,7 @@
    "俺、ついてたのに・・・",
    "側に、いたのに・・・"
   ],
-  "en": ""
+  "en": "I'm sorry... I was with her... I was right there with her..."
  },
  {
   "id": "SCENARIO/289/003f0",
@@ -76,7 +76,7 @@
   "jp": [
    "お前はそこで休んでいろ"
   ],
-  "en": ""
+  "en": "You stay there and rest."
  },
  {
   "id": "SCENARIO/289/0042e",
@@ -84,7 +84,7 @@
   "jp": [
    "ザイオン？"
   ],
-  "en": ""
+  "en": "Zion?"
  },
  {
   "id": "SCENARIO/289/00462",
@@ -92,7 +92,7 @@
   "jp": [
    "必ず、連れ戻してくる"
   ],
-  "en": ""
+  "en": "I will bring her back. Without fail."
  },
  {
   "id": "SCENARIO/289/0049e",
@@ -100,7 +100,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/289/004ca",
@@ -109,7 +109,7 @@
    "ザイオン・・俺は、",
    "お前を許せない"
   ],
-  "en": ""
+  "en": "Zion.. I can't forgive you."
  },
  {
   "id": "SCENARIO/289/00508",
@@ -118,7 +118,7 @@
    "許しを請うつもりはない",
    "だが、けじめは自分でつける"
   ],
-  "en": ""
+  "en": "I don't intend to ask forgiveness. But I will set this right myself."
  },
  {
   "id": "SCENARIO/289/00566",
@@ -126,7 +126,7 @@
   "jp": [
    "・・・・・・・っ"
   ],
-  "en": ""
+  "en": "......."
  },
  {
   "id": "SCENARIO/289/00596",
@@ -134,12 +134,12 @@
   "jp": [
    "・・・リリスを、頼む！"
   ],
-  "en": ""
+  "en": "...Lilis. I'm counting on you!"
  },
  {
   "id": "SCENARIO/289/04124",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/289/04132",
@@ -147,12 +147,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/289/0414a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/289/0415a",
@@ -160,6 +160,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

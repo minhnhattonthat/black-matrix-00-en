@@ -205,3 +205,6 @@ Correction: Luca uses アタシ (script 250) and 捜したわよ (056): Luca is 
 | アンチ | Anti | the ring that denies |
 | 全召喚型ペインリング | all summon-type Pain Rings | |
 | 仮宿 | temporary lodgings | epilogue |
+| セイルズ・ペレンデール | Seils Perendale | first Embryon case |
+| 『弱虫ピリポの冒険』 | "The Adventures of Timid Philip" | Kilota's picture book |
+| 翼は踊る | The wings dance | title motif |
