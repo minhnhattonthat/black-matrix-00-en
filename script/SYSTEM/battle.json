@@ -2,409 +2,409 @@
  {
   "id": "BATTLE/000",
   "jp": "グリシナ",
-  "en": "",
+  "en": "Grisina",
   "width": 16
  },
  {
   "id": "BATTLE/001",
   "jp": "見習い僧兵",
-  "en": "",
+  "en": "Novice Monk",
   "width": 16
  },
  {
   "id": "BATTLE/002",
   "jp": "ベイル",
-  "en": "",
+  "en": "Bale",
   "width": 16
  },
  {
   "id": "BATTLE/003",
   "jp": "リプサリス",
-  "en": "",
+  "en": "Rhipsalis",
   "width": 16
  },
  {
   "id": "BATTLE/004",
   "jp": "見習い神官兵",
-  "en": "",
+  "en": "Novice Priest",
   "width": 16
  },
  {
   "id": "BATTLE/005",
   "jp": "ステイエン",
-  "en": "",
+  "en": "Stayen",
   "width": 16
  },
  {
   "id": "BATTLE/006",
   "jp": "エンブリオン",
-  "en": "",
+  "en": "Embryon",
   "width": 16
  },
  {
   "id": "BATTLE/007",
   "jp": "僧兵",
-  "en": "",
+  "en": "Monk Soldier",
   "width": 16
  },
  {
   "id": "BATTLE/008",
   "jp": "司祭",
-  "en": "",
+  "en": "Bishop",
   "width": 16
  },
  {
   "id": "BATTLE/009",
   "jp": "神父",
-  "en": "",
+  "en": "Priest",
   "width": 16
  },
  {
   "id": "BATTLE/010",
   "jp": "教団騎士",
-  "en": "",
+  "en": "Church Knight",
   "width": 16
  },
  {
   "id": "BATTLE/011",
   "jp": "護法兵",
-  "en": "",
+  "en": "Law Guard",
   "width": 16
  },
  {
   "id": "BATTLE/012",
   "jp": "神官兵",
-  "en": "",
+  "en": "Priest Soldier",
   "width": 16
  },
  {
   "id": "BATTLE/013",
   "jp": "教団員",
-  "en": "",
+  "en": "Church Member",
   "width": 16
  },
  {
   "id": "BATTLE/014",
   "jp": "中位僧兵",
-  "en": "",
+  "en": "Monk Sergeant",
   "width": 16
  },
  {
   "id": "BATTLE/015",
   "jp": "パンク兵",
-  "en": "",
+  "en": "Punk Soldier",
   "width": 16
  },
  {
   "id": "BATTLE/016",
   "jp": "レッドムフロン",
-  "en": "",
+  "en": "Red Mouflon",
   "width": 16
  },
  {
   "id": "BATTLE/017",
   "jp": "パスカ",
-  "en": "",
+  "en": "Pasca",
   "width": 16
  },
  {
   "id": "BATTLE/018",
   "jp": "アラギ",
-  "en": "",
+  "en": "Aragi",
   "width": 16
  },
  {
   "id": "BATTLE/019",
   "jp": "悪魔兵幹部",
-  "en": "",
+  "en": "Demon Officer",
   "width": 16
  },
  {
   "id": "BATTLE/020",
   "jp": "悪魔兵",
-  "en": "",
+  "en": "Demon Soldier",
   "width": 16
  },
  {
   "id": "BATTLE/021",
   "jp": "はぐれ悪魔",
-  "en": "",
+  "en": "Stray Demon",
   "width": 16
  },
  {
   "id": "BATTLE/022",
   "jp": "カイン",
-  "en": "",
+  "en": "Cain",
   "width": 16
  },
  {
   "id": "BATTLE/023",
   "jp": "ヨハネ",
-  "en": "",
+  "en": "Johannes",
   "width": 16
  },
  {
   "id": "BATTLE/024",
   "jp": "アベル",
-  "en": "",
+  "en": "Abel",
   "width": 16
  },
  {
   "id": "BATTLE/025",
   "jp": "クレイス",
-  "en": "",
+  "en": "Kreis",
   "width": 16
  },
  {
   "id": "BATTLE/026",
   "jp": "天使兵",
-  "en": "",
+  "en": "Angel Soldier",
   "width": 16
  },
  {
   "id": "BATTLE/027",
   "jp": "準護法兵",
-  "en": "",
+  "en": "Jr. Law Guard",
   "width": 16
  },
  {
   "id": "BATTLE/028",
   "jp": "パスカ最終形態",
-  "en": "",
+  "en": "Pasca Final",
   "width": 16
  },
  {
   "id": "BATTLE/029",
   "jp": "テリオス",
-  "en": "",
+  "en": "Terios",
   "width": 16
  },
  {
   "id": "BATTLE/030",
   "jp": "護法天使兵",
-  "en": "",
+  "en": "Law Angel",
   "width": 16
  },
  {
   "id": "BATTLE/031",
   "jp": "高位天使兵",
-  "en": "",
+  "en": "High Angel",
   "width": 16
  },
  {
   "id": "BATTLE/032",
   "jp": "パスカ発生装置",
-  "en": "",
+  "en": "Pasca Spawner",
   "width": 16
  },
  {
   "id": "BATTLE/033",
   "jp": "ラスボス本体",
-  "en": "",
+  "en": "Final Boss",
   "width": 16
  },
  {
   "id": "BATTLE/034",
   "jp": "ラスボスの手",
-  "en": "",
+  "en": "Boss Hand",
   "width": 16
  },
  {
   "id": "BATTLE/035",
   "jp": "不審な悪魔",
-  "en": "",
+  "en": "Odd Demon",
   "width": 16
  },
  {
   "id": "BATTLE/036",
   "jp": "ルカ",
-  "en": "",
+  "en": "Luca",
   "width": 16
  },
  {
   "id": "BATTLE/037",
   "jp": "謎の助っ人",
-  "en": "",
+  "en": "Mystery Ally",
   "width": 16
  },
  {
   "id": "BATTLE/038",
   "jp": "エクサル",
-  "en": "",
+  "en": "Exal",
   "width": 16
  },
  {
   "id": "BATTLE/039",
   "jp": "ザイオン",
-  "en": "",
+  "en": "Zion",
   "width": 16
  },
  {
   "id": "BATTLE/040",
   "jp": "不気味な悪魔",
-  "en": "",
+  "en": "Eerie Demon",
   "width": 16
  },
  {
   "id": "BATTLE/041",
   "jp": "シリア",
-  "en": "",
+  "en": "Syria",
   "width": 16
  },
  {
   "id": "BATTLE/042",
   "jp": "不気味な天使",
-  "en": "",
+  "en": "Eerie Angel",
   "width": 16
  },
  {
   "id": "BATTLE/043",
   "jp": "見習い天使兵",
-  "en": "",
+  "en": "Novice Angel",
   "width": 16
  },
  {
   "id": "BATTLE/044",
   "jp": "ヴァルトス",
-  "en": "",
+  "en": "Valtoss",
   "width": 16
  },
  {
   "id": "BATTLE/045",
   "jp": "暗黒術者",
-  "en": "",
+  "en": "Dark Mage",
   "width": 16
  },
  {
   "id": "BATTLE/046",
   "jp": "レア",
-  "en": "",
+  "en": "Rea",
   "width": 16
  },
  {
   "id": "BATTLE/047",
   "jp": "パンク指揮官",
-  "en": "",
+  "en": "Punk Commander",
   "width": 16
  },
  {
   "id": "BATTLE/048",
   "jp": "ルビエル",
-  "en": "",
+  "en": "Rubiel",
   "width": 16
  },
  {
   "id": "BATTLE/049",
   "jp": "護法天使長",
-  "en": "",
+  "en": "Law Archangel",
   "width": 16
  },
  {
   "id": "BATTLE/050",
   "jp": "クローンアラギ",
-  "en": "",
+  "en": "Clone Aragi",
   "width": 16
  },
  {
   "id": "BATTLE/051",
   "jp": "「大食」の核神",
-  "en": "",
+  "en": "Core: Gluttony",
   "width": 16
  },
  {
   "id": "BATTLE/052",
   "jp": "「怠惰」の核神",
-  "en": "",
+  "en": "Core: Sloth",
   "width": 16
  },
  {
   "id": "BATTLE/053",
   "jp": "「噴怒」の核神",
-  "en": "",
+  "en": "Core: Wrath",
   "width": 16
  },
  {
   "id": "BATTLE/054",
   "jp": "「色情」の核神",
-  "en": "",
+  "en": "Core: Lust",
   "width": 16
  },
  {
   "id": "BATTLE/055",
   "jp": "「高慢」の核神",
-  "en": "",
+  "en": "Core: Pride",
   "width": 16
  },
  {
   "id": "BATTLE/056",
   "jp": "「強欲」の核神",
-  "en": "",
+  "en": "Core: Greed",
   "width": 16
  },
  {
   "id": "BATTLE/057",
   "jp": "「嫉妬」の核神",
-  "en": "",
+  "en": "Core: Envy",
   "width": 16
  },
  {
   "id": "BATTLE/058",
   "jp": "ファントムコア",
-  "en": "",
+  "en": "Phantom Core",
   "width": 16
  },
  {
   "id": "BATTLE/059",
   "jp": "アラギの刻印",
-  "en": "",
+  "en": "Aragi's Mark",
   "width": 16
  },
  {
   "id": "BATTLE/060",
   "jp": "アベルの刻印",
-  "en": "",
+  "en": "Abel's Mark",
   "width": 16
  },
  {
   "id": "BATTLE/061",
   "jp": "クッタ",
-  "en": "",
+  "en": "Kutta",
   "width": 16
  },
  {
   "id": "BATTLE/062",
   "jp": "ゴロツキ",
-  "en": "",
+  "en": "Thug",
   "width": 16
  },
  {
   "id": "BATTLE/063",
   "jp": "ナラズモノ",
-  "en": "",
+  "en": "Ruffian",
   "width": 16
  },
  {
   "id": "BATTLE/064",
   "jp": "世界樹の根",
-  "en": "",
+  "en": "Tree Root",
   "width": 16
  },
  {
   "id": "BATTLE/065",
   "jp": "高位僧兵",
-  "en": "",
+  "en": "Monk Captain",
   "width": 16
  },
  {
   "id": "BATTLE/066",
   "jp": "守護天使",
-  "en": "",
+  "en": "Guardian Angel",
   "width": 16
  },
  {
   "id": "BATTLE/067",
   "jp": "天兵騎士",
-  "en": "",
+  "en": "Angel Knight",
   "width": 16
  }
 ]

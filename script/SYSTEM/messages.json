@@ -2,32 +2,32 @@
  {
   "id": "SYSTEM/10/00000",
   "jp": "この画面を終了します",
-  "en": ""
+  "en": "Closes this screen."
  },
  {
   "id": "SYSTEM/10/00018",
   "jp": "振動機能の有無を設定します",
-  "en": ""
+  "en": "Turns vibration on or off."
  },
  {
   "id": "SYSTEM/10/00034",
   "jp": "効果音の有無を設定します",
-  "en": ""
+  "en": "Turns sound effects on or off."
  },
  {
   "id": "SYSTEM/10/00050",
   "jp": "音声の有無を設定します",
-  "en": ""
+  "en": "Turns voices on or off."
  },
  {
   "id": "SYSTEM/10/00068",
   "jp": "音声出力のタイプを設定します",
-  "en": ""
+  "en": "Sets the audio output type."
  },
  {
   "id": "SYSTEM/10/00088",
   "jp": "音量を変更します",
-  "en": ""
+  "en": "Changes the volume."
  },
  {
   "id": "SYSTEM/10/0009c",
@@ -37,576 +37,576 @@
  {
   "id": "SYSTEM/10/000a0",
   "jp": "メッセージ速度を変更します",
-  "en": ""
+  "en": "Changes the message speed."
  },
  {
   "id": "SYSTEM/10/00178",
   "jp": "メモリーカードを選択して下さい",
-  "en": ""
+  "en": "Select a memory card."
  },
  {
   "id": "SYSTEM/10/0019c",
   "jp": "メモリーカードをチェックしています",
-  "en": ""
+  "en": "Checking the memory card."
  },
  {
   "id": "SYSTEM/10/001c4",
   "jp": "メモリーカードが",
-  "en": ""
+  "en": "The memory card"
  },
  {
   "id": "SYSTEM/10/001dc",
   "jp": "メモリーカードを",
-  "en": ""
+  "en": "The memory card"
  },
  {
   "id": "SYSTEM/10/001f4",
   "jp": "ＬＯＡＤを行いますか？",
-  "en": ""
+  "en": "LOAD this data?"
  },
  {
   "id": "SYSTEM/10/00210",
   "jp": "ＬＯＡＤしています",
-  "en": ""
+  "en": "Loading..."
  },
  {
   "id": "SYSTEM/10/00228",
   "jp": "ＬＯＡＤに成功しました",
-  "en": ""
+  "en": "LOAD complete."
  },
  {
   "id": "SYSTEM/10/00244",
   "jp": "ＬＯＡＤに失敗しました",
-  "en": ""
+  "en": "LOAD failed."
  },
  {
   "id": "SYSTEM/10/00260",
   "jp": "ＳＡＶＥデータを新しく作りますか？",
-  "en": ""
+  "en": "Create new SAVE data?"
  },
  {
   "id": "SYSTEM/10/00288",
   "jp": "ＳＡＶＥしています",
-  "en": ""
+  "en": "Saving..."
  },
  {
   "id": "SYSTEM/10/002a0",
   "jp": "ＳＡＶＥに成功しました",
-  "en": ""
+  "en": "SAVE complete."
  },
  {
   "id": "SYSTEM/10/002bc",
   "jp": "ＳＡＶＥに失敗しました",
-  "en": ""
+  "en": "SAVE failed."
  },
  {
   "id": "SYSTEM/10/002d8",
   "jp": "ＳＡＶＥデータを上書きしますか？",
-  "en": ""
+  "en": "Overwrite this SAVE data?"
  },
  {
   "id": "SYSTEM/10/00300",
   "jp": "初期化を行いますか？",
-  "en": ""
+  "en": "Format the memory card?"
  },
  {
   "id": "SYSTEM/10/0031c",
   "jp": "初期化中です",
-  "en": ""
+  "en": "Formatting..."
  },
  {
   "id": "SYSTEM/10/00330",
   "jp": "初期化に成功しました",
-  "en": ""
+  "en": "Format complete."
  },
  {
   "id": "SYSTEM/10/0034c",
   "jp": "初期化に失敗しました",
-  "en": ""
+  "en": "Format failed."
  },
  {
   "id": "SYSTEM/10/00368",
   "jp": "ＢＭ００のＳＡＶＥデータがありません",
-  "en": ""
+  "en": "No BM00 SAVE data found."
  },
  {
   "id": "SYSTEM/10/00394",
   "jp": "ＢＭ００以外のデータは",
-  "en": ""
+  "en": "Data from other games"
  },
  {
   "id": "SYSTEM/10/003b0",
   "jp": "このデータは破損しているので",
-  "en": ""
+  "en": "This data is corrupted, so"
  },
  {
   "id": "SYSTEM/10/003d4",
   "jp": "このデータはバージョンが違うので",
-  "en": ""
+  "en": "This data is a different version, so"
  },
  {
   "id": "SYSTEM/10/00400",
   "jp": "メモリーカードの空きブロックが足りません",
-  "en": ""
+  "en": "Not enough free blocks on the memory card."
  },
  {
   "id": "SYSTEM/10/00430",
   "jp": "ＢＭ００以外のデータには",
-  "en": ""
+  "en": "Data from other games"
  },
  {
   "id": "SYSTEM/10/00450",
   "jp": "メモリーカードを抜き差ししないで下さい",
-  "en": ""
+  "en": "Do not remove or insert the memory card."
  },
  {
   "id": "SYSTEM/10/0047c",
   "jp": "メモリーカード差込口１に差さっていません",
-  "en": ""
+  "en": "No memory card in slot 1."
  },
  {
   "id": "SYSTEM/10/004ac",
   "jp": "メモリーカード差込口２に差さっていません",
-  "en": ""
+  "en": "No memory card in slot 2."
  },
  {
   "id": "SYSTEM/10/004dc",
   "jp": "初期化されていません",
-  "en": ""
+  "en": "is not formatted."
  },
  {
   "id": "SYSTEM/10/004f8",
   "jp": "認識できません",
-  "en": ""
+  "en": "cannot be recognized."
  },
  {
   "id": "SYSTEM/10/0050c",
   "jp": "上書きできません",
-  "en": ""
+  "en": "cannot be overwritten."
  },
  {
   "id": "SYSTEM/10/00524",
   "jp": "使用できません",
-  "en": ""
+  "en": "cannot be used."
  },
  {
   "id": "SYSTEM/10/00538",
   "jp": "　メモリーカード差込口１",
-  "en": ""
+  "en": "Memory card slot 1"
  },
  {
   "id": "SYSTEM/10/00554",
   "jp": "　はい",
-  "en": ""
+  "en": "Yes"
  },
  {
   "id": "SYSTEM/10/0055c",
   "jp": "　メモリーカード差込口２",
-  "en": ""
+  "en": "Memory card slot 2"
  },
  {
   "id": "SYSTEM/10/00578",
   "jp": "　いいえ",
-  "en": ""
+  "en": "No"
  },
  {
   "id": "SYSTEM/10/006b4",
   "jp": "翼は踊る",
-  "en": ""
+  "en": "The Wings Dance"
  },
  {
   "id": "SYSTEM/10/006c0",
   "jp": "覚醒",
-  "en": ""
+  "en": "Awakening"
  },
  {
   "id": "SYSTEM/10/006c8",
   "jp": "裏切りの刃",
-  "en": ""
+  "en": "Blade of Betrayal"
  },
  {
   "id": "SYSTEM/10/006d4",
   "jp": "地下世界",
-  "en": ""
+  "en": "The Underground World"
  },
  {
   "id": "SYSTEM/10/006e0",
   "jp": "サンバルテルミの悲劇",
-  "en": ""
+  "en": "Tragedy at San Bartelmi"
  },
  {
   "id": "SYSTEM/10/006f8",
   "jp": "砕ける心",
-  "en": ""
+  "en": "Shattered Heart"
  },
  {
   "id": "SYSTEM/10/00704",
   "jp": "それぞれの決意",
-  "en": ""
+  "en": "Each Their Own Resolve"
  },
  {
   "id": "SYSTEM/10/00714",
   "jp": "少女の祈り",
-  "en": ""
+  "en": "A Girl's Prayer"
  },
  {
   "id": "SYSTEM/10/00720",
   "jp": "大陸にて",
-  "en": ""
+  "en": "On the Mainland"
  },
  {
   "id": "SYSTEM/10/0072c",
   "jp": "全ての始まり",
-  "en": ""
+  "en": "Where It All Began"
  },
  {
   "id": "SYSTEM/10/0073c",
   "jp": "それぞれの明日へ",
-  "en": ""
+  "en": "Toward Each Tomorrow"
  },
  {
   "id": "SYSTEM/10/00750",
   "jp": "彼女は微笑む",
-  "en": ""
+  "en": "She Smiles"
  },
  {
   "id": "SYSTEM/10/00760",
   "jp": "旅立ち",
-  "en": ""
+  "en": "Departure"
  },
  {
   "id": "SYSTEM/10/00768",
   "jp": "キミといつまでも",
-  "en": ""
+  "en": "With You, Always"
  },
  {
   "id": "SYSTEM/10/0077c",
   "jp": "一緒に帰ろう",
-  "en": ""
+  "en": "Let's Go Home Together"
  },
  {
   "id": "SYSTEM/10/0078c",
   "jp": "全ての痛みを越えろ",
-  "en": ""
+  "en": "Overcome All Pain"
  },
  {
   "id": "SYSTEM/10/007a0",
   "jp": "砕かれた希望",
-  "en": ""
+  "en": "Shattered Hope"
  },
  {
   "id": "SYSTEM/10/007b0",
   "jp": "ハラカラの闇",
-  "en": ""
+  "en": "Darkness of Kin"
  },
  {
   "id": "SYSTEM/10/007c0",
   "jp": "最後に笑う者",
-  "en": ""
+  "en": "Who Laughs Last"
  },
  {
   "id": "SYSTEM/10/007d0",
   "jp": "ホワイトフェイス",
-  "en": ""
+  "en": "Whiteface"
  },
  {
   "id": "SYSTEM/10/007e4",
   "jp": "永劫の律を守る者",
-  "en": ""
+  "en": "Keeper of the Eternal Law"
  },
  {
   "id": "SYSTEM/10/007f8",
   "jp": "白き死の運び手",
-  "en": ""
+  "en": "Bearer of White Death"
  },
  {
   "id": "SYSTEM/10/00808",
   "jp": "理念の灯火",
-  "en": ""
+  "en": "The Light of an Ideal"
  },
  {
   "id": "SYSTEM/10/00814",
   "jp": "残響する赤い叫び",
-  "en": ""
+  "en": "Echoing Red Scream"
  },
  {
   "id": "SYSTEM/10/00828",
   "jp": "死を呼ぶ黒き翼",
-  "en": ""
+  "en": "Black Wings That Call Death"
  },
  {
   "id": "SYSTEM/10/00838",
   "jp": "その目を塞ぐ恐怖",
-  "en": ""
+  "en": "The Fear That Blinds"
  },
  {
   "id": "SYSTEM/10/0084c",
   "jp": "あざ笑うアラギ",
-  "en": ""
+  "en": "Aragi Sneers"
  },
  {
   "id": "SYSTEM/10/0085c",
   "jp": "烈火のごとく",
-  "en": ""
+  "en": "Like a Raging Fire"
  },
  {
   "id": "SYSTEM/10/0086c",
   "jp": "闇にうごめく玩具",
-  "en": ""
+  "en": "Toys Squirming in the Dark"
  },
  {
   "id": "SYSTEM/10/00880",
   "jp": "赤い牙の再撃",
-  "en": ""
+  "en": "The Red Fang Strikes Again"
  },
  {
   "id": "SYSTEM/10/00890",
   "jp": "惨劇の広場",
-  "en": ""
+  "en": "Square of Carnage"
  },
  {
   "id": "SYSTEM/10/0089c",
   "jp": "アラギ",
-  "en": ""
+  "en": "Aragi"
  },
  {
   "id": "SYSTEM/10/008a4",
   "jp": "嘆きの赤い牙",
-  "en": ""
+  "en": "The Grieving Red Fang"
  },
  {
   "id": "SYSTEM/10/008b4",
   "jp": "消えない傷痕",
-  "en": ""
+  "en": "Scars That Never Fade"
  },
  {
   "id": "SYSTEM/10/008c4",
   "jp": "渦巻く運命",
-  "en": ""
+  "en": "Whirling Fate"
  },
  {
   "id": "SYSTEM/10/008d0",
   "jp": "強行突破",
-  "en": ""
+  "en": "Breakthrough"
  },
  {
   "id": "SYSTEM/10/008dc",
   "jp": "廃棄された実験体",
-  "en": ""
+  "en": "Discarded Test Subjects"
  },
  {
   "id": "SYSTEM/10/008f0",
   "jp": "強剣士クレイス",
-  "en": ""
+  "en": "Kreis the Mighty Blade"
  },
  {
   "id": "SYSTEM/10/00900",
   "jp": "悪魔のささやき",
-  "en": ""
+  "en": "The Demon's Whisper"
  },
  {
   "id": "SYSTEM/10/00910",
   "jp": "異形の化身",
-  "en": ""
+  "en": "Misshapen Incarnation"
  },
  {
   "id": "SYSTEM/10/0091c",
   "jp": "強襲",
-  "en": ""
+  "en": "Assault"
  },
  {
   "id": "SYSTEM/10/00924",
   "jp": "黒き翼のアベル",
-  "en": ""
+  "en": "Black-Winged Abel"
  },
  {
   "id": "SYSTEM/10/00934",
   "jp": "闇にうごめく者",
-  "en": ""
+  "en": "Those Who Squirm in the Dark"
  },
  {
   "id": "SYSTEM/10/00944",
   "jp": "悪魔討伐部隊",
-  "en": ""
+  "en": "Demon-Hunting Squad"
  },
  {
   "id": "SYSTEM/10/00954",
   "jp": "乙女の一徹",
-  "en": ""
+  "en": "A Maiden's Resolve"
  },
  {
   "id": "SYSTEM/10/00960",
   "jp": "前略サーカスにて",
-  "en": ""
+  "en": "Greetings from the Circus"
  },
  {
   "id": "SYSTEM/10/00974",
   "jp": "偽翼のカイン",
-  "en": ""
+  "en": "Cain of the False Wings"
  },
  {
   "id": "SYSTEM/10/00984",
   "jp": "死の天使グリシナ",
-  "en": ""
+  "en": "Grisina, Angel of Death"
  },
  {
   "id": "SYSTEM/10/00998",
   "jp": "招かれざる訪問者",
-  "en": ""
+  "en": "Uninvited Visitors"
  },
  {
   "id": "SYSTEM/10/009ac",
   "jp": "クッタにトドメを",
-  "en": ""
+  "en": "Finish Kutta"
  },
  {
   "id": "SYSTEM/10/009c0",
   "jp": "ダーナの試練",
-  "en": ""
+  "en": "Dana's Trial"
  },
  {
   "id": "SYSTEM/10/009d0",
   "jp": "クッタを倒せ！",
-  "en": ""
+  "en": "Defeat Kutta!"
  },
  {
   "id": "SYSTEM/10/009e0",
   "jp": "問答無用",
-  "en": ""
+  "en": "No Questions Asked"
  },
  {
   "id": "SYSTEM/10/009ec",
   "jp": "最後の休息",
-  "en": ""
+  "en": "The Last Rest"
  },
  {
   "id": "SYSTEM/10/009f8",
   "jp": "キボートスへ",
-  "en": ""
+  "en": "To Kibotos"
  },
  {
   "id": "SYSTEM/10/00a08",
   "jp": "カルディアの眠る場所",
-  "en": ""
+  "en": "Where Cardia Sleeps"
  },
  {
   "id": "SYSTEM/10/00a20",
   "jp": "悲しみを乗り越え",
-  "en": ""
+  "en": "Beyond the Sorrow"
  },
  {
   "id": "SYSTEM/10/00a34",
   "jp": "動き出した狂気",
-  "en": ""
+  "en": "Madness Set in Motion"
  },
  {
   "id": "SYSTEM/10/00a44",
   "jp": "裏切り者ヴァルトス",
-  "en": ""
+  "en": "Valtoss the Traitor"
  },
  {
   "id": "SYSTEM/10/00a58",
   "jp": "リリスはお出かけ中。",
-  "en": ""
+  "en": "Lilis Is Out."
  },
  {
   "id": "SYSTEM/10/00a70",
   "jp": "優しさでは癒えない傷",
-  "en": ""
+  "en": "Wounds Kindness Cannot Heal"
  },
  {
   "id": "SYSTEM/10/00a88",
   "jp": "ひとときの休息",
-  "en": ""
+  "en": "A Moment's Rest"
  },
  {
   "id": "SYSTEM/10/00a98",
   "jp": "悪魔の住む街",
-  "en": ""
+  "en": "The Town Where Demons Live"
  },
  {
   "id": "SYSTEM/10/00aa8",
   "jp": "マティアの元へ急げ！",
-  "en": ""
+  "en": "Hurry to Matia!"
  },
  {
   "id": "SYSTEM/10/00ac0",
   "jp": "みんなの心を一つに",
-  "en": ""
+  "en": "All Hearts as One"
  },
  {
   "id": "SYSTEM/10/00ad4",
   "jp": "嵐の前の静けさ",
-  "en": ""
+  "en": "The Calm Before the Storm"
  },
  {
   "id": "SYSTEM/10/00ae4",
   "jp": "ヨハネはどこに？",
-  "en": ""
+  "en": "Where Is Johannes?"
  },
  {
   "id": "SYSTEM/10/00af8",
   "jp": "ステイエンへの手紙",
-  "en": ""
+  "en": "A Letter to Stayen"
  },
  {
   "id": "SYSTEM/10/00b0c",
   "jp": "飛び出したエクサル",
-  "en": ""
+  "en": "Exal Runs Off"
  },
  {
   "id": "SYSTEM/10/00b20",
   "jp": "つかの間の幸せ",
-  "en": ""
+  "en": "Fleeting Happiness"
  },
  {
   "id": "SYSTEM/10/00b30",
   "jp": "誰がための剣",
-  "en": ""
+  "en": "A Sword for Whom?"
  },
  {
   "id": "SYSTEM/10/00b40",
   "jp": "書き残された想い",
-  "en": ""
+  "en": "Feelings Left in Writing"
  },
  {
   "id": "SYSTEM/10/00b54",
   "jp": "シリアの覚悟",
-  "en": ""
+  "en": "Syria's Resolve"
  },
  {
   "id": "SYSTEM/10/00b64",
   "jp": "託された想い",
-  "en": ""
+  "en": "Entrusted Feelings"
  },
  {
   "id": "SYSTEM/10/00b74",
   "jp": "四翼の天使シリア",
-  "en": ""
+  "en": "Syria, Four-Winged Angel"
  },
  {
   "id": "SYSTEM/10/00b88",
   "jp": "不吉なうわさ",
-  "en": ""
+  "en": "An Ominous Rumor"
  },
  {
   "id": "SYSTEM/10/00b98",
   "jp": "インセストを求めて",
-  "en": ""
+  "en": "In Search of the Incest"
  },
  {
   "id": "SYSTEM/10/00bac",
   "jp": "エクサル探してます。",
-  "en": ""
+  "en": "Looking for Exal."
  },
  {
   "id": "SYSTEM/10/00bc4",
   "jp": "書の配給日",
-  "en": ""
+  "en": "Book Distribution Day"
  },
  {
   "id": "SYSTEM/10/00bd0",
   "jp": "ヴェローナの街",
-  "en": ""
+  "en": "The City of Verona"
  }
 ]

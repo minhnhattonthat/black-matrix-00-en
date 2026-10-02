@@ -2,535 +2,535 @@
  {
   "id": "SYSTEM/4/00000",
   "jp": "出撃",
-  "en": "",
+  "en": "Go!",
   "width": 4
  },
  {
   "id": "SYSTEM/4/00008",
   "jp": "コンフィグ",
-  "en": "",
+  "en": "Config",
   "width": 10
  },
  {
   "id": "SYSTEM/4/00014",
   "jp": "ロード",
-  "en": "",
+  "en": "Load",
   "width": 6
  },
  {
   "id": "SYSTEM/4/0001c",
   "jp": "セーブ",
-  "en": "",
+  "en": "Save",
   "width": 6
  },
  {
   "id": "SYSTEM/4/00024",
   "jp": "リスト",
-  "en": "",
+  "en": "List",
   "width": 6
  },
  {
   "id": "SYSTEM/4/0002c",
   "jp": "条件",
-  "en": "",
+  "en": "Aim",
   "width": 4
  },
  {
   "id": "SYSTEM/4/00034",
   "jp": "編成",
-  "en": "",
+  "en": "Set",
   "width": 4
  },
  {
   "id": "SYSTEM/4/0003c",
   "jp": "撤退",
-  "en": "",
+  "en": "Run",
   "width": 4
  },
  {
   "id": "SYSTEM/4/00044",
   "jp": "リトライ",
-  "en": "",
+  "en": "Retry",
   "width": 8
  },
  {
   "id": "SYSTEM/4/00050",
   "jp": "ターン",
-  "en": "",
+  "en": "Turn",
   "width": 6
  },
  {
   "id": "SYSTEM/4/00058",
   "jp": "終了",
-  "en": "",
+  "en": "End",
   "width": 4
  },
  {
   "id": "SYSTEM/4/00060",
   "jp": "待機型変更",
-  "en": "",
+  "en": "Stance",
   "width": 10
  },
  {
   "id": "SYSTEM/4/0006c",
   "jp": "アイテム",
-  "en": "",
+  "en": "Item",
   "width": 8
  },
  {
   "id": "SYSTEM/4/00078",
   "jp": "ユニット",
-  "en": "",
+  "en": "Unit",
   "width": 8
  },
  {
   "id": "SYSTEM/4/00084",
   "jp": "道　具",
-  "en": "",
+  "en": "Items",
   "width": 6
  },
  {
   "id": "SYSTEM/4/0008c",
   "jp": "特　殊",
-  "en": "",
+  "en": "Spec.",
   "width": 6
  },
  {
   "id": "SYSTEM/4/00094",
   "jp": "攻　撃",
-  "en": "",
+  "en": "Attck",
   "width": 6
  },
  {
   "id": "SYSTEM/4/0009c",
   "jp": "移　動",
-  "en": "",
+  "en": "Move",
   "width": 6
  },
  {
   "id": "SYSTEM/4/000a4",
   "jp": "リング",
-  "en": "",
+  "en": "Ring",
   "width": 6
  },
  {
   "id": "SYSTEM/4/000ac",
   "jp": "スキル",
-  "en": "",
+  "en": "Skill",
   "width": 6
  },
  {
   "id": "SYSTEM/4/000b4",
   "jp": "敵軍確認モード",
-  "en": "",
+  "en": "Enemy Check",
   "width": 14
  },
  {
   "id": "SYSTEM/4/000c4",
   "jp": "自軍確認モード",
-  "en": "",
+  "en": "Ally Check",
   "width": 14
  },
  {
   "id": "SYSTEM/4/000d4",
   "jp": "チェッカ",
-  "en": "",
+  "en": "Checker",
   "width": 8
  },
  {
   "id": "SYSTEM/4/000e0",
   "jp": "復活",
-  "en": "",
+  "en": "Rev",
   "width": 4
  },
  {
   "id": "SYSTEM/4/000f0",
   "jp": "ガード",
-  "en": "",
+  "en": "Guard",
   "width": 6
  },
  {
   "id": "SYSTEM/4/000f8",
   "jp": "異常系",
-  "en": "",
+  "en": "Ailmt",
   "width": 6
  },
  {
   "id": "SYSTEM/4/00100",
   "jp": "体力系",
-  "en": "",
+  "en": "Vital",
   "width": 6
  },
  {
   "id": "SYSTEM/4/00884",
   "jp": "撤　退",
-  "en": "",
+  "en": "Fled",
   "width": 6
  },
  {
   "id": "SYSTEM/4/0088c",
   "jp": "死　亡",
-  "en": "",
+  "en": "Dead",
   "width": 6
  },
  {
   "id": "SYSTEM/4/00894",
   "jp": "瀕　死",
-  "en": "",
+  "en": "Dying",
   "width": 6
  },
  {
   "id": "SYSTEM/4/0089c",
   "jp": "通　常",
-  "en": "",
+  "en": "Norml",
   "width": 6
  },
  {
   "id": "SYSTEM/4/008a4",
   "jp": "ＺＯＣ消失",
-  "en": "",
+  "en": "ZOC Lost",
   "width": 10
  },
  {
   "id": "SYSTEM/4/008b0",
   "jp": "ＭＡＧダウン",
-  "en": "",
+  "en": "MAG Down",
   "width": 12
  },
  {
   "id": "SYSTEM/4/008c0",
   "jp": "ＡＴＫダウン",
-  "en": "",
+  "en": "ATK Down",
   "width": 12
  },
  {
   "id": "SYSTEM/4/008d0",
   "jp": "リズムブレイク",
-  "en": "",
+  "en": "Rhythm Break",
   "width": 14
  },
  {
   "id": "SYSTEM/4/008e0",
   "jp": "睡　眠",
-  "en": "",
+  "en": "Sleep",
   "width": 6
  },
  {
   "id": "SYSTEM/4/008ec",
   "jp": "麻　痺",
-  "en": "",
+  "en": "Numb",
   "width": 6
  },
  {
   "id": "SYSTEM/4/008f4",
   "jp": "リング封印",
-  "en": "",
+  "en": "Ring Seal",
   "width": 10
  },
  {
   "id": "SYSTEM/4/00900",
   "jp": "混　乱",
-  "en": "",
+  "en": "Daze",
   "width": 6
  },
  {
   "id": "SYSTEM/4/00908",
   "jp": "暗　闇",
-  "en": "",
+  "en": "Dark",
   "width": 6
  },
  {
   "id": "SYSTEM/4/00910",
   "jp": "ＰＰ凍結",
-  "en": "",
+  "en": "PP Frz",
   "width": 8
  },
  {
   "id": "SYSTEM/4/0091c",
   "jp": "石　化",
-  "en": "",
+  "en": "Stone",
   "width": 6
  },
  {
   "id": "SYSTEM/4/00924",
   "jp": "異常なし",
-  "en": "",
+  "en": "Healthy",
   "width": 8
  },
  {
   "id": "SYSTEM/4/00930",
   "jp": "全効果ガード",
-  "en": "",
+  "en": "Guard All",
   "width": 12
  },
  {
   "id": "SYSTEM/4/00940",
   "jp": "特殊系ガード",
-  "en": "",
+  "en": "Guard Spec",
   "width": 12
  },
  {
   "id": "SYSTEM/4/00950",
   "jp": "物理系ガード",
-  "en": "",
+  "en": "Guard Phys",
   "width": 12
  },
  {
   "id": "SYSTEM/4/00960",
   "jp": "効果なし",
-  "en": "",
+  "en": "No Eff.",
   "width": 8
  },
  {
   "id": "SYSTEM/4/0096c",
   "jp": "ＺＯＣ拡張",
-  "en": "",
+  "en": "ZOC Wide",
   "width": 10
  },
  {
   "id": "SYSTEM/4/00978",
   "jp": "復　活",
-  "en": "",
+  "en": "Reviv",
   "width": 6
  },
  {
   "id": "SYSTEM/4/00bb0",
   "jp": "出撃人数が不足しています",
-  "en": "",
+  "en": "Too few units deployed",
   "width": 24
  },
  {
   "id": "SYSTEM/4/00bcc",
   "jp": "出撃枠を残して戦闘を開始しますか？",
-  "en": "",
+  "en": "Start battle with empty slots?",
   "width": 34
  },
  {
   "id": "SYSTEM/4/00bf0",
   "jp": "編成を終了して戦闘を開始しますか？",
-  "en": "",
+  "en": "Finish setup and start battle?",
   "width": 34
  },
  {
   "id": "SYSTEM/4/00c14",
   "jp": "自軍フェイズを終了しますか？",
-  "en": "",
+  "en": "End your phase?",
   "width": 28
  },
  {
   "id": "SYSTEM/4/00c34",
   "jp": "待機型変更モードを終了しますか？",
-  "en": "",
+  "en": "Leave stance change mode?",
   "width": 32
  },
  {
   "id": "SYSTEM/4/00c58",
   "jp": "チェッカモードを終了しますか？",
-  "en": "",
+  "en": "Leave checker mode?",
   "width": 30
  },
  {
   "id": "SYSTEM/4/00c78",
   "jp": "撤退しますか？",
-  "en": "",
+  "en": "Retreat?",
   "width": 14
  },
  {
   "id": "SYSTEM/4/00c88",
   "jp": "リトライしますか？",
-  "en": "",
+  "en": "Retry?",
   "width": 18
  },
  {
   "id": "SYSTEM/4/00d30",
   "jp": "ターン",
-  "en": "",
+  "en": "Turn",
   "width": 6
  },
  {
   "id": "SYSTEM/4/00d38",
   "jp": "ターン制限：",
-  "en": "",
+  "en": "Turn limit:",
   "width": 12
  },
  {
   "id": "SYSTEM/4/00d48",
   "jp": "敗北条件：",
-  "en": "",
+  "en": "Defeat:",
   "width": 10
  },
  {
   "id": "SYSTEM/4/00d54",
   "jp": "勝利条件：",
-  "en": "",
+  "en": "Victory:",
   "width": 10
  },
  {
   "id": "SYSTEM/4/00d60",
   "jp": "コアを破壊せよ",
-  "en": "",
+  "en": "Destroy core",
   "width": 14
  },
  {
   "id": "SYSTEM/4/00d70",
   "jp": "不審な悪魔を攻撃せよ",
-  "en": "",
+  "en": "Hit the odd demon",
   "width": 20
  },
  {
   "id": "SYSTEM/4/00d88",
   "jp": "敵の猛攻を凌げ",
-  "en": "",
+  "en": "Hold the line",
   "width": 14
  },
  {
   "id": "SYSTEM/4/00d98",
   "jp": "ベイルを倒せ",
-  "en": "",
+  "en": "Defeat Bale",
   "width": 12
  },
  {
   "id": "SYSTEM/4/00da8",
   "jp": "アラギを倒せ",
-  "en": "",
+  "en": "Beat Aragi",
   "width": 12
  },
  {
   "id": "SYSTEM/4/00db8",
   "jp": "ルカを守れ",
-  "en": "",
+  "en": "Save Luca",
   "width": 10
  },
  {
   "id": "SYSTEM/4/00dc4",
   "jp": "ターゲットを倒せ",
-  "en": "",
+  "en": "Defeat target",
   "width": 16
  },
  {
   "id": "SYSTEM/4/00dd8",
   "jp": "敵を殲滅せよ",
-  "en": "",
+  "en": "Rout foes",
   "width": 12
  },
  {
   "id": "SYSTEM/4/00dec",
   "jp": "メインユニットの戦闘不能",
-  "en": "",
+  "en": "Main unit incapacitated",
   "width": 24
  },
  {
   "id": "SYSTEM/4/00e08",
   "jp": "味方の全滅",
-  "en": "",
+  "en": "Team lost",
   "width": 10
  },
  {
   "id": "SYSTEM/4/00fec",
   "jp": "先制",
-  "en": "",
+  "en": "1st",
   "width": 4
  },
  {
   "id": "SYSTEM/4/00ff4",
   "jp": "回避",
-  "en": "",
+  "en": "Evd",
   "width": 4
  },
  {
   "id": "SYSTEM/4/00ffc",
   "jp": "反撃",
-  "en": "",
+  "en": "Ctr",
   "width": 4
  },
  {
   "id": "SYSTEM/4/01004",
   "jp": "防御",
-  "en": "",
+  "en": "Def",
   "width": 4
  },
  {
   "id": "SYSTEM/4/0100c",
   "jp": "移　動",
-  "en": "",
+  "en": "Move",
   "width": 6
  },
  {
   "id": "SYSTEM/4/01014",
   "jp": "攻　撃",
-  "en": "",
+  "en": "Attck",
   "width": 6
  },
  {
   "id": "SYSTEM/4/0101c",
   "jp": "特　殊",
-  "en": "",
+  "en": "Spec.",
   "width": 6
  },
  {
   "id": "SYSTEM/4/01024",
   "jp": "道　具",
-  "en": "",
+  "en": "Items",
   "width": 6
  },
  {
   "id": "SYSTEM/4/01690",
   "jp": "エヴァブレイド",
-  "en": "",
+  "en": "Eva Blade",
   "width": 14
  },
  {
   "id": "SYSTEM/4/016a0",
   "jp": "ダンデズロウ",
-  "en": "",
+  "en": "Dandezrow",
   "width": 12
  },
  {
   "id": "SYSTEM/4/016b0",
   "jp": "エクソデス",
-  "en": "",
+  "en": "Exodeath",
   "width": 10
  },
  {
   "id": "SYSTEM/4/016bc",
   "jp": "ディレイト",
-  "en": "",
+  "en": "Delete",
   "width": 10
  },
  {
   "id": "SYSTEM/4/016c8",
   "jp": "リベリオン",
-  "en": "",
+  "en": "Rebellion",
   "width": 10
  },
  {
   "id": "SYSTEM/4/016d4",
   "jp": "レヴィアロウズ",
-  "en": "",
+  "en": "Leviarrows",
   "width": 14
  },
  {
   "id": "SYSTEM/4/016e4",
   "jp": "ユピテルベイン",
-  "en": "",
+  "en": "Jupiter Bane",
   "width": 14
  },
  {
   "id": "SYSTEM/4/016f4",
   "jp": "ヴェスパダイン",
-  "en": "",
+  "en": "Vespadyne",
   "width": 14
  },
  {
   "id": "SYSTEM/4/01704",
   "jp": "ヘル・フレイズ",
-  "en": "",
+  "en": "Hell Phrase",
   "width": 14
  },
  {
   "id": "SYSTEM/4/01714",
   "jp": "コンフェション",
-  "en": "",
+  "en": "Confession",
   "width": 14
  },
  {
