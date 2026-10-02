@@ -40,9 +40,10 @@ hw_cell:
 .area 0x80060A8C - 0x8006087C
 
 hw_lookup:
-    sltiu t8, v0, 0x80
+    lhu   v1, 0xE(a2)          ; second displaced instruction; also fills the load
+    sltiu t8, v0, 0x80         ;   delay of the lbu in the hook's delay slot
     bne   t8, zero, @@ascii
-    lhu   v1, 0xE(a2)          ; delay slot: second displaced instruction
+    nop
     j     0x80034504
     nop
 @@ascii:
