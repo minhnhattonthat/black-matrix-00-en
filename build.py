@@ -2,7 +2,7 @@
 import json, shutil, subprocess, sys
 from pathlib import Path
 
-import dat, script
+import dat, halfwidth, script
 
 ROOT = Path(__file__).parent
 ROM = ROOT / "rom" / "Black-Matrix 00 (Japan) (Disc 1).bin"
@@ -45,6 +45,7 @@ def patch():
         for wide in script.too_wide(entries):
             print("warning: wider than the window:", wide)
     (EXTRACTED / "SCENARIO.DAT").write_bytes(dat.pack(files))
+    halfwidth.assemble(ORIG / "SLPS_035.73", EXTRACTED / "SLPS_035.73")
 
 
 def make_iso() -> Path:
