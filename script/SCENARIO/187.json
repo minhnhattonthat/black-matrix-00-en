@@ -2,7 +2,7 @@
  {
   "id": "SCENARIO/187/00270",
   "jp": "構成員・男",
-  "en": ""
+  "en": "Member (Man)"
  },
  {
   "id": "SCENARIO/187/00284",
@@ -11,12 +11,12 @@
    "ヨハネ・・・？",
    "ここには来ていないぞ"
   ],
-  "en": ""
+  "en": "Johannes...? He hasn't been here."
  },
  {
   "id": "SCENARIO/187/002e8",
   "jp": "構成員・女",
-  "en": ""
+  "en": "Member (Woman)"
  },
  {
   "id": "SCENARIO/187/002fc",
@@ -25,12 +25,12 @@
    "ヨハネさんがいない？",
    "ごめんね、私も見ていないわ"
   ],
-  "en": ""
+  "en": "Johannes-san is missing? Sorry, I haven't seen him either."
  },
  {
   "id": "SCENARIO/187/0036c",
   "jp": "構成員・若者",
-  "en": ""
+  "en": "Member (Youth)"
  },
  {
   "id": "SCENARIO/187/00382",
@@ -39,12 +39,12 @@
    "灰色の翼の天使のことか？",
    "今日は見ていないぞ"
   ],
-  "en": ""
+  "en": "The grey-winged angel? Haven't seen him today."
  },
  {
   "id": "SCENARIO/187/003f0",
   "jp": "ダリア",
-  "en": ""
+  "en": "Dahlia"
  },
  {
   "id": "SCENARIO/187/00400",
@@ -54,7 +54,7 @@
    "走っていったらしいけど、",
    "ヨハネさんの情報はないね"
   ],
-  "en": ""
+  "en": "Stayen apparently ran off toward the circus, but no word on Johannes-san."
  },
  {
   "id": "SCENARIO/187/00460",
@@ -63,12 +63,12 @@
    "あんな大けがしているのに・・・",
    "ホント、困った人だよ"
   ],
-  "en": ""
+  "en": "With a wound that bad, too... Honestly, that man's a handful."
  },
  {
   "id": "SCENARIO/187/004bc",
   "jp": "ウェイター",
-  "en": ""
+  "en": "Waiter"
  },
  {
   "id": "SCENARIO/187/004d0",
@@ -78,7 +78,7 @@
    "ヨハネさんなら、まだ",
    "帰ってきていないですよ"
   ],
-  "en": ""
+  "en": "Welcome~ Johannes-san hasn't come back yet."
  },
  {
   "id": "SCENARIO/187/00520",
@@ -88,12 +88,12 @@
    "あの傷で外に出ちゃうなんて",
    "ある意味スゴイ人ですよね"
   ],
-  "en": ""
+  "en": "Sneaking past Dahlia-san's watch, wounded like that... In a way, the man's amazing."
  },
  {
   "id": "SCENARIO/187/005b4",
   "jp": "剣士",
-  "en": ""
+  "en": "Swordsman"
  },
  {
   "id": "SCENARIO/187/005c2",
@@ -102,7 +102,7 @@
    "灰色の翼の天使？",
    "今日は見てないぜ"
   ],
-  "en": ""
+  "en": "Grey-winged angel? Haven't seen him today."
  },
  {
   "id": "SCENARIO/187/005f0",
@@ -112,12 +112,12 @@
    "そんな天使がいたような・・・",
    "ま、どうでもいいか"
   ],
-  "en": ""
+  "en": "Come to think of it, the heretics' party had an angel like that too... Eh, whatever."
  },
  {
   "id": "SCENARIO/187/00680",
   "jp": "中年",
-  "en": ""
+  "en": "Middle-aged Man"
  },
  {
   "id": "SCENARIO/187/0068e",
@@ -126,12 +126,12 @@
    "灰色の翼の天使だと？",
    "そういや、今日は見てねぇな"
   ],
-  "en": ""
+  "en": "Grey-winged angel, you say? Now you mention it, haven't seen him today."
  },
  {
   "id": "SCENARIO/187/00700",
   "jp": "片翼の天使",
-  "en": ""
+  "en": "One-winged Angel"
  },
  {
   "id": "SCENARIO/187/00714",
@@ -141,12 +141,12 @@
    "そういえば、今日は",
    "見かけていなかったね"
   ],
-  "en": ""
+  "en": "Grey-winged angel? Come to think of it, I haven't seen him today."
  },
  {
   "id": "SCENARIO/187/00790",
   "jp": "リリス",
-  "en": ""
+  "en": "Lilis"
  },
  {
   "id": "SCENARIO/187/007a0",
@@ -155,12 +155,12 @@
    "ううー・・・",
    "万が一って、どんな時？"
   ],
-  "en": ""
+  "en": "Uuh... 'Just in case'... what kind of case is that?"
  },
  {
   "id": "SCENARIO/187/007ec",
   "jp": "老人",
-  "en": ""
+  "en": "Old Man"
  },
  {
   "id": "SCENARIO/187/007fa",
@@ -169,7 +169,7 @@
    "今日はいい天気だのう・・・",
    "んん、灰色の翼の天使？"
   ],
-  "en": ""
+  "en": "Fine weather today... Hm? A grey-winged angel?"
  },
  {
   "id": "SCENARIO/187/00838",
@@ -178,12 +178,12 @@
    "何を言っておる",
    "天使の翼は白じゃぞ？"
   ],
-  "en": ""
+  "en": "What are you on about? An angel's wings are white."
  },
  {
   "id": "SCENARIO/187/0089c",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/187/008aa",
@@ -193,7 +193,7 @@
    "やっぱり常設店より",
    "時々開いてる店とか・・・"
   ],
-  "en": ""
+  "en": "A shop selling rare goods... Not a fixed store, one that only opens now and then..."
  },
  {
   "id": "SCENARIO/187/00904",
@@ -202,12 +202,12 @@
    "趣味でやるだけなら、",
    "そういう店とか、格好いいよな"
   ],
-  "en": ""
+  "en": "If it's just a hobby, a shop like that would be pretty cool."
  },
  {
   "id": "SCENARIO/187/00980",
   "jp": "老婆",
-  "en": ""
+  "en": "Old Woman"
  },
  {
   "id": "SCENARIO/187/0098e",
@@ -217,12 +217,12 @@
    "灰色の翼の天使かい？",
    "残念ながら見ておらんよ"
   ],
-  "en": ""
+  "en": "Keh keh keh keh! A grey-winged angel? Sorry to say, I've not seen one."
  },
  {
   "id": "SCENARIO/187/00a0c",
   "jp": "カップル・男",
-  "en": ""
+  "en": "Couple (Man)"
  },
  {
   "id": "SCENARIO/187/00a22",
@@ -231,12 +231,12 @@
    "灰色の翼の天使？",
    "見ていないよ"
   ],
-  "en": ""
+  "en": "Grey-winged angel? Haven't seen him."
  },
  {
   "id": "SCENARIO/187/00a80",
   "jp": "カップル・女",
-  "en": ""
+  "en": "Couple (Woman)"
  },
  {
   "id": "SCENARIO/187/00a96",
@@ -245,12 +245,12 @@
    "灰色の翼の天使？",
    "見ていないわよ"
   ],
-  "en": ""
+  "en": "Grey-winged angel? I haven't seen him."
  },
  {
   "id": "SCENARIO/187/00af8",
   "jp": "神父",
-  "en": ""
+  "en": "Priest"
  },
  {
   "id": "SCENARIO/187/00b06",
@@ -259,7 +259,7 @@
    "＜書＞を読まない子供のために",
    "私が語って聞かせてあげましょう"
   ],
-  "en": ""
+  "en": "For the children who do not read the Book, I shall tell the tale myself."
  },
  {
   "id": "SCENARIO/187/00b50",
@@ -268,7 +268,7 @@
    "今日は、＜翼ある者＞について",
    "さらにくわしい話をしましょう"
   ],
-  "en": ""
+  "en": "Today, let us speak in more detail about the winged."
  },
  {
   "id": "SCENARIO/187/00b98",
@@ -276,18 +276,18 @@
   "jp": [
    "貴方も聞きますか？"
   ],
-  "en": "",
+  "en": "Will you listen as well?",
   "spill": false
  },
  {
   "id": "SCENARIO/187/00bb2",
   "jp": "　はい",
-  "en": ""
+  "en": "Yes"
  },
  {
   "id": "SCENARIO/187/00bc0",
   "jp": "　いいえ",
-  "en": ""
+  "en": "No"
  },
  {
   "id": "SCENARIO/187/00bd4",
@@ -297,7 +297,7 @@
    "男か女か、はたまた両性体の",
    "どれかになります"
   ],
-  "en": ""
+  "en": "Angels are born sexless, and as they grow become male, female, or else dual-sexed."
  },
  {
   "id": "SCENARIO/187/00c30",
@@ -307,7 +307,7 @@
    "未分化の状態を＜中性体＞と",
    "言います"
   ],
-  "en": ""
+  "en": "The undifferentiated state of childhood, neither male nor female, is called neuter."
  },
  {
   "id": "SCENARIO/187/00c7c",
@@ -317,7 +317,7 @@
    "男か女か、はたまた両性体の",
    "どれかになっているそうです"
   ],
-  "en": ""
+  "en": "By the time the sense of self awakens, they have become male, female, or dual-sexed."
  },
  {
   "id": "SCENARIO/187/00ce0",
@@ -327,7 +327,7 @@
    "＜中性体＞だった天使は",
    "研究所に連行されて・・・"
   ],
-  "en": ""
+  "en": "Rumor has it that angels still neuter past childhood are taken to the laboratory..."
  },
  {
   "id": "SCENARIO/187/00d3c",
@@ -337,7 +337,7 @@
    "めずらしい力や体質の者は、",
    "すぐ研究対象になりますからね"
   ],
-  "en": ""
+  "en": "Angel or human, anyone with a rare power or body soon becomes a research subject."
  },
  {
   "id": "SCENARIO/187/00d9c",
@@ -347,7 +347,7 @@
    "普通の翼なき者に生まれた",
    "ことを神に感謝しましょう"
   ],
-  "en": ""
+  "en": "Ah, how dreadful... Let us thank God we were born ordinary, wingless folk."
  },
  {
   "id": "SCENARIO/187/00e20",
@@ -355,7 +355,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/187/00e3c",
@@ -364,7 +364,7 @@
    "長々と話し込んで",
    "しまいましたね"
   ],
-  "en": ""
+  "en": "I have gone on at some length, haven't I."
  },
  {
   "id": "SCENARIO/187/00e68",
@@ -374,7 +374,7 @@
    "あなたに、",
    "神のご加護があらん事を・・・"
   ],
-  "en": ""
+  "en": "Instead of sweets, I'll give you this. May God's blessing be upon you..."
  },
  {
   "id": "SCENARIO/187/00ef6",
@@ -383,12 +383,12 @@
    "あなたも毎日＜書＞を読んで、",
    "立派な大人になるんですよ"
   ],
-  "en": ""
+  "en": "You too, read the Book every day and grow into a fine adult."
  },
  {
   "id": "SCENARIO/187/00f6c",
   "jp": "男の子",
-  "en": ""
+  "en": "Boy"
  },
  {
   "id": "SCENARIO/187/00f7c",
@@ -396,7 +396,7 @@
   "jp": [
    "サーカスなんてつまんねーよ"
   ],
-  "en": ""
+  "en": "Circuses are boring."
  },
  {
   "id": "SCENARIO/187/00fa0",
@@ -406,12 +406,12 @@
    "やってることはほとんど毎回",
    "同じなんだぜ？"
   ],
-  "en": ""
+  "en": "I've come loads of times, and it's pretty much the same act every single time."
  },
  {
   "id": "SCENARIO/187/01024",
   "jp": "女の子",
-  "en": ""
+  "en": "Girl"
  },
  {
   "id": "SCENARIO/187/01034",
@@ -420,7 +420,7 @@
    "文句ばっかり言ってるけど",
    "何度も熱心に通い詰めているのよ"
   ],
-  "en": ""
+  "en": "All he does is complain, but he keeps coming back here, time after time."
  },
  {
   "id": "SCENARIO/187/01078",
@@ -430,12 +430,12 @@
    "男の子ってどうしてこう",
    "素直になれないのかしら？"
   ],
-  "en": ""
+  "en": "If he likes it, why not just say so? Why can't boys ever be honest?"
  },
  {
   "id": "SCENARIO/187/01108",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/187/01118",
@@ -443,12 +443,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/187/01134",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/187/01144",
@@ -456,12 +456,12 @@
   "jp": [
    "あの、ヨハネを知りませんか？"
   ],
-  "en": ""
+  "en": "Um, have you seen Johannes?"
  },
  {
   "id": "SCENARIO/187/0116c",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/187/0117c",
@@ -470,12 +470,12 @@
    "ああ、あの灰色の翼の・・・",
    "今日は見かけていないよ"
   ],
-  "en": ""
+  "en": "Ah, the one with the grey wings... Haven't seen him today."
  },
  {
   "id": "SCENARIO/187/011f0",
   "jp": "兵士",
-  "en": ""
+  "en": "Soldier"
  },
  {
   "id": "SCENARIO/187/011fe",
@@ -485,7 +485,7 @@
    "駆け抜けていった少女・・・",
    "ステイエンに似ていたが"
   ],
-  "en": ""
+  "en": "A girl tore through here at full tilt just now... Looked like Stayen, but"
  },
  {
   "id": "SCENARIO/187/0125c",
@@ -493,12 +493,12 @@
   "jp": [
    "他人のそら似だろうか？"
   ],
-  "en": ""
+  "en": "Someone who just resembles her, maybe?"
  },
  {
   "id": "SCENARIO/187/012b0",
   "jp": "プラン",
-  "en": ""
+  "en": "Plan"
  },
  {
   "id": "SCENARIO/187/012c0",
@@ -507,12 +507,12 @@
    "ヨハネさん？",
    "今日は見ていないわよ"
   ],
-  "en": ""
+  "en": "Johannes-san? Haven't seen him today."
  },
  {
   "id": "SCENARIO/187/0130c",
   "jp": "フライ",
-  "en": ""
+  "en": "Fly"
  },
  {
   "id": "SCENARIO/187/0131c",
@@ -522,7 +522,7 @@
    "慌てて走っていくのを",
    "見かけたけれど・・・"
   ],
-  "en": ""
+  "en": "If it's the ex-monk-soldier lady, I saw her dash off in a hurry, but..."
  },
  {
   "id": "SCENARIO/187/01370",
@@ -531,7 +531,7 @@
    "うーん、役に立てなくて",
    "ごめんね～"
   ],
-  "en": ""
+  "en": "Hmm, sorry I couldn't be more help~"
  },
  {
   "id": "SCENARIO/187/013c8",
@@ -540,12 +540,12 @@
    "あんなに心配してたのに・・・",
    "絶対にヨハネを捕まえてやる！"
   ],
-  "en": ""
+  "en": "After all that worrying... I'm definitely gonna catch Johannes!"
  },
  {
   "id": "SCENARIO/187/04f1c",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/187/04f2a",
@@ -553,12 +553,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/187/04f42",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/187/04f52",
@@ -566,6 +566,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

@@ -6,7 +6,7 @@
    "手紙に指示されている場所は",
    "ここみたいだけど・・・"
   ],
-  "en": ""
+  "en": "The place the letter named seems to be here, but..."
  },
  {
   "id": "SCENARIO/190/001cc",
@@ -15,7 +15,7 @@
    "・・・おい、",
    "誰か倒れてるぜ！！"
   ],
-  "en": ""
+  "en": "...Hey, someone's collapsed over there!!"
  },
  {
   "id": "SCENARIO/190/00208",
@@ -23,7 +23,7 @@
   "jp": [
    "うう・・・"
   ],
-  "en": ""
+  "en": "Uuh..."
  },
  {
   "id": "SCENARIO/190/0031a",
@@ -32,7 +32,7 @@
    "気を確かに・・・",
    "今、手当をしますから"
   ],
-  "en": ""
+  "en": "Stay with me... I'll tend to you right away."
  },
  {
   "id": "SCENARIO/190/00362",
@@ -40,7 +40,7 @@
   "jp": [
    "あら、この人は・・・"
   ],
-  "en": ""
+  "en": "Oh my, this person is..."
  },
  {
   "id": "SCENARIO/190/003c2",
@@ -50,7 +50,7 @@
    "教団の人だよ、",
    "リリス会ったことあるもん"
   ],
-  "en": ""
+  "en": "This lady is from the Church. Lilis has met her before."
  },
  {
   "id": "SCENARIO/190/004c6",
@@ -59,7 +59,7 @@
    "ここで何かあったのは",
    "確かみたいね"
   ],
-  "en": ""
+  "en": "Something certainly happened here."
  },
  {
   "id": "SCENARIO/190/0056a",
@@ -69,7 +69,7 @@
    "これは教団の連中に",
    "間違いないな"
   ],
-  "en": ""
+  "en": "Several sets of footprints left behind. These are the Church's people, no mistake."
  },
  {
   "id": "SCENARIO/190/00618",
@@ -79,7 +79,7 @@
    "異端者として、教団に",
    "捕らえられてしまいました"
   ],
-  "en": ""
+  "en": "...That child.. has been captured by the Church, as a heretic."
  },
  {
   "id": "SCENARIO/190/00670",
@@ -88,7 +88,7 @@
    "私が・・・",
    "あの子を呼び出したばかりに・・"
   ],
-  "en": ""
+  "en": "Because I... I called her out here.."
  },
  {
   "id": "SCENARIO/190/006e6",
@@ -96,7 +96,7 @@
   "jp": [
    "ステイエンを呼び出した？"
   ],
-  "en": ""
+  "en": "You called Stayen out?"
  },
  {
   "id": "SCENARIO/190/0071e",
@@ -106,7 +106,7 @@
    "ステイエンに渡された手紙の",
    "差出人はアンタなのか？"
   ],
-  "en": ""
+  "en": "Then the letter Stayen got... you're the one who sent it?"
  },
  {
   "id": "SCENARIO/190/0077c",
@@ -114,7 +114,7 @@
   "jp": [
    "・・・はい"
   ],
-  "en": ""
+  "en": "...Yes."
  },
  {
   "id": "SCENARIO/190/007c0",
@@ -123,7 +123,7 @@
    "いったい",
    "ここで何があったんですか？"
   ],
-  "en": ""
+  "en": "What on earth happened here?"
  },
  {
   "id": "SCENARIO/190/00800",
@@ -131,7 +131,7 @@
   "jp": [
    "全ては私のせいです"
   ],
-  "en": ""
+  "en": "It is all my fault."
  },
  {
   "id": "SCENARIO/190/00824",
@@ -140,7 +140,7 @@
    "私達の弟が危険な実験に",
    "使われると知り、"
   ],
-  "en": ""
+  "en": "I learned our little brother was to be used in a dangerous experiment,"
  },
  {
   "id": "SCENARIO/190/00860",
@@ -150,7 +150,7 @@
    "ステイエンをここに",
    "呼び出したのですが"
   ],
-  "en": ""
+  "en": "and to tell her so, I called Stayen here. But"
  },
  {
   "id": "SCENARIO/190/008b0",
@@ -159,7 +159,7 @@
    "しかし、それは",
    "ステイエンをおびき出すための"
   ],
-  "en": ""
+  "en": "it was all a trap to lure Stayen out,"
  },
  {
   "id": "SCENARIO/190/008f0",
@@ -168,7 +168,7 @@
    "天使グリシナが仕組んだ",
    "罠でした・・・"
   ],
-  "en": ""
+  "en": "laid by the angel Grisina..."
  },
  {
   "id": "SCENARIO/190/0093a",
@@ -178,7 +178,7 @@
    "あの子が捕らわれるのに、",
    "手を貸してしまったのです"
   ],
-  "en": ""
+  "en": "I was being watched, and in the end I helped them capture that child."
  },
  {
   "id": "SCENARIO/190/009b6",
@@ -187,7 +187,7 @@
    "・・・あの",
    "ステイエンはいったいどこに？"
   ],
-  "en": ""
+  "en": "...Um. Where is Stayen now?"
  },
  {
   "id": "SCENARIO/190/009fc",
@@ -196,7 +196,7 @@
    "＜レニアム坂広場＞に",
    "連行されてしまいました"
   ],
-  "en": ""
+  "en": "She was taken away to Leniam Plaza."
  },
  {
   "id": "SCENARIO/190/00a4a",
@@ -205,7 +205,7 @@
    "全ては私の浅はかな行いが",
    "招いた結果です"
   ],
-  "en": ""
+  "en": "All of this is the result of my own foolish actions."
  },
  {
   "id": "SCENARIO/190/00a96",
@@ -214,7 +214,7 @@
    "あの子を",
    "助けに行かなくては・・・"
   ],
-  "en": ""
+  "en": "I have to go and save that child..."
  },
  {
   "id": "SCENARIO/190/00af4",
@@ -223,7 +223,7 @@
    "ちょっと待った！",
    "アンタは教団の一員なんだろ？"
   ],
-  "en": ""
+  "en": "Hold on a sec! You're a member of the Church, aren't you?"
  },
  {
   "id": "SCENARIO/190/00b38",
@@ -232,7 +232,7 @@
    "異端者を助けたりして",
    "大丈夫なのか？"
   ],
-  "en": ""
+  "en": "Is it safe for you to go rescuing a heretic?"
  },
  {
   "id": "SCENARIO/190/00b78",
@@ -241,7 +241,7 @@
    "でも、あの子を",
    "死なせるわけには・・・"
   ],
-  "en": ""
+  "en": "But I can't just let that child die..."
  },
  {
   "id": "SCENARIO/190/00bdc",
@@ -250,7 +250,7 @@
    "大丈夫、ステイエンのことなら",
    "ボクたちに任せて"
   ],
-  "en": ""
+  "en": "It's okay. Leave Stayen to us."
  },
  {
   "id": "SCENARIO/190/00c28",
@@ -258,7 +258,7 @@
   "jp": [
    "しかし・・・"
   ],
-  "en": ""
+  "en": "But..."
  },
  {
   "id": "SCENARIO/190/00c70",
@@ -267,7 +267,7 @@
    "チッ・・・",
    "安直すぎる考えだな"
   ],
-  "en": ""
+  "en": "Tch... Far too simple-minded."
  },
  {
   "id": "SCENARIO/190/00ccc",
@@ -275,7 +275,7 @@
   "jp": [
    "・・・そうね"
   ],
-  "en": ""
+  "en": "...True."
  },
  {
   "id": "SCENARIO/190/00cfa",
@@ -285,7 +285,7 @@
    "全てが教団の手の込んだ罠って",
    "こともありえるわよ？"
   ],
-  "en": ""
+  "en": "This woman included, the whole thing could be an elaborate Church trap, you know?"
  },
  {
   "id": "SCENARIO/190/00d78",
@@ -294,7 +294,7 @@
    "でも、ステイエンに何かあった",
    "のは確かだよ"
   ],
-  "en": ""
+  "en": "But something's definitely happened to Stayen."
  },
  {
   "id": "SCENARIO/190/00dc0",
@@ -304,7 +304,7 @@
    "それを回避できなかったのは",
    "あいつ自身の責任だ"
   ],
-  "en": ""
+  "en": "Captured or deceived, failing to avoid it was her own responsibility."
  },
  {
   "id": "SCENARIO/190/00e20",
@@ -314,7 +314,7 @@
    "それに振り回されなければ",
    "ならない？"
   ],
-  "en": ""
+  "en": "Why should we have to be dragged around by it?"
  },
  {
   "id": "SCENARIO/190/00e82",
@@ -322,7 +322,7 @@
   "jp": [
    "そ・・それは"
   ],
-  "en": ""
+  "en": "Th... that's..."
  },
  {
   "id": "SCENARIO/190/00f74",
@@ -331,7 +331,7 @@
    "この先誰が死のうとも、",
    "お前が責任を感じることはない"
   ],
-  "en": ""
+  "en": "No matter who dies from here on, you need not feel responsible."
  },
  {
   "id": "SCENARIO/190/00fbc",
@@ -340,7 +340,7 @@
    "皆、誰に強制されるでもなく",
    "自分の意志で動いている"
   ],
-  "en": ""
+  "en": "No one is forced. We all act of our own will."
  },
  {
   "id": "SCENARIO/190/010fa",
@@ -348,7 +348,7 @@
   "jp": [
    "い・・いやだっ！！"
   ],
-  "en": ""
+  "en": "N... no!!"
  },
  {
   "id": "SCENARIO/190/01120",
@@ -357,7 +357,7 @@
    "ステイエンを死なせたくない！",
    "絶対に助けるんだっ！"
   ],
-  "en": ""
+  "en": "I don't want Stayen to die! We're going to save her, no matter what!"
  },
  {
   "id": "SCENARIO/190/01190",
@@ -367,7 +367,7 @@
    "ステイエンが死ぬって決まった",
    "ワケじゃないぞ"
   ],
-  "en": ""
+  "en": "H-hey now, Cain. It's not like Stayen's dying is a sure thing."
  },
  {
   "id": "SCENARIO/190/011fe",
@@ -375,7 +375,7 @@
   "jp": [
    "でも・・・でもっ・・・"
   ],
-  "en": ""
+  "en": "But... but..."
  },
  {
   "id": "SCENARIO/190/01250",
@@ -385,7 +385,7 @@
    "俺たちは、",
    "教団と敵対しているんだぞ！"
   ],
-  "en": ""
+  "en": "You lot are too soft! We're at war with the Church, you know!"
  },
  {
   "id": "SCENARIO/190/012ba",
@@ -395,7 +395,7 @@
    "この女がウソをついているとは",
    "考えないのか？！"
   ],
-  "en": ""
+  "en": "What good is acting on feeling? Hasn't it occurred to you this woman might be lying?!"
  },
  {
   "id": "SCENARIO/190/01348",
@@ -405,7 +405,7 @@
    "教団に身を置く者にも",
    "さまざまな事情があります"
   ],
-  "en": ""
+  "en": "Those in the Church, like this lady and myself, each have their own circumstances."
  },
  {
   "id": "SCENARIO/190/013a4",
@@ -415,7 +415,7 @@
    "信用できないと断じるのは",
    "間違っています"
   ],
-  "en": ""
+  "en": "To judge someone untrustworthy simply for belonging to the Church is a mistake."
  },
  {
   "id": "SCENARIO/190/01424",
@@ -423,7 +423,7 @@
   "jp": [
    "あの、貴方はもしや・・"
   ],
-  "en": ""
+  "en": "Um, could you be..."
  },
  {
   "id": "SCENARIO/190/01462",
@@ -433,7 +433,7 @@
    "プロデヴォン教団に",
    "身を置いていました"
   ],
-  "en": ""
+  "en": "Yes. I too once belonged to the Prodevon Church."
  },
  {
   "id": "SCENARIO/190/014be",
@@ -441,7 +441,7 @@
   "jp": [
    "シリアと申します"
   ],
-  "en": ""
+  "en": "My name is Syria."
  },
  {
   "id": "SCENARIO/190/014e8",
@@ -449,7 +449,7 @@
   "jp": [
    "！！！！！！！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/190/01522",
@@ -457,7 +457,7 @@
   "jp": [
    "あの・・・何か？"
   ],
-  "en": ""
+  "en": "Um... is something wrong?"
  },
  {
   "id": "SCENARIO/190/0155a",
@@ -465,7 +465,7 @@
   "jp": [
    "いえ・・・"
   ],
-  "en": ""
+  "en": "No..."
  },
  {
   "id": "SCENARIO/190/01580",
@@ -473,7 +473,7 @@
   "jp": [
    "この方がベイル様の・・・"
   ],
-  "en": ""
+  "en": "So this is the one Bale-sama..."
  },
  {
   "id": "SCENARIO/190/015d4",
@@ -482,7 +482,7 @@
    "時間が惜しい、みんな",
    "とっとと行こうぜ！"
   ],
-  "en": ""
+  "en": "Time's wasting, everyone. Let's get moving!"
  },
  {
   "id": "SCENARIO/190/01638",
@@ -491,7 +491,7 @@
    "行くならお前らだけで行け、",
    "つきあいきれん・・・"
   ],
-  "en": ""
+  "en": "If you're going, go by yourselves. I've had enough of this..."
  },
  {
   "id": "SCENARIO/190/016a4",
@@ -499,7 +499,7 @@
   "jp": [
    "ザイオン！！"
   ],
-  "en": ""
+  "en": "Zion!!"
  },
  {
   "id": "SCENARIO/190/016ec",
@@ -507,7 +507,7 @@
   "jp": [
    "いいじゃないザイオン、"
   ],
-  "en": ""
+  "en": "Oh, come on, Zion."
  },
  {
   "id": "SCENARIO/190/0172a",
@@ -516,7 +516,7 @@
    "あんな小うるさい小娘でも",
    "いないと物足りないのよね"
   ],
-  "en": ""
+  "en": "Even that mouthy little brat... it's not the same without her around."
  },
  {
   "id": "SCENARIO/190/01786",
@@ -524,7 +524,7 @@
   "jp": [
    "ルカ・・・"
   ],
-  "en": ""
+  "en": "Luca..."
  },
  {
   "id": "SCENARIO/190/017cc",
@@ -534,7 +534,7 @@
    "ルカが行くってのに、",
    "１人留守番は出来ないだろ？"
   ],
-  "en": ""
+  "en": "Settled, then! If Luca's going, you can't stay behind alone, right?"
  },
  {
   "id": "SCENARIO/190/01836",
@@ -542,7 +542,7 @@
   "jp": [
    "チッ・・・"
   ],
-  "en": ""
+  "en": "Tch..."
  },
  {
   "id": "SCENARIO/190/0187c",
@@ -552,7 +552,7 @@
    "レニアム坂広場で待つ",
    "グリシナのそばには"
   ],
-  "en": ""
+  "en": "Please wait! At Grisina's side, waiting in Leniam Plaza,"
  },
  {
   "id": "SCENARIO/190/018cc",
@@ -561,7 +561,7 @@
    "おそらく、十審将の１人",
    "レッド・ムフロン様が居ます！"
   ],
-  "en": ""
+  "en": "there will most likely be one of the Ten Tribunal Generals, Red Mouflon-sama!"
  },
  {
   "id": "SCENARIO/190/0191c",
@@ -569,7 +569,7 @@
   "jp": [
    "お願いです・・・"
   ],
-  "en": ""
+  "en": "Please..."
  },
  {
   "id": "SCENARIO/190/01940",
@@ -579,7 +579,7 @@
    "ステイエンのことは諦めて",
    "すぐに引き返して下さい！！"
   ],
-  "en": ""
+  "en": "If it means fighting Red Mouflon-sama, give up on Stayen and turn back at once!!"
  },
  {
   "id": "SCENARIO/190/019be",
@@ -589,7 +589,7 @@
    "ありがとう、俺たちの心配まで",
    "してくれるんだな"
   ],
-  "en": ""
+  "en": "Cardia-san.. Thanks. You're even worrying about us."
  },
  {
   "id": "SCENARIO/190/01a18",
@@ -598,7 +598,7 @@
    "俺たちのこと、妹をたぶらかした",
    "アヤシイ奴らって思わないのか？"
   ],
-  "en": ""
+  "en": "You don't think we're some shady bunch who led your sister astray?"
  },
  {
   "id": "SCENARIO/190/01a82",
@@ -608,7 +608,7 @@
    "信用して身を寄せている皆さん",
    "です、疑うなんて・・・"
   ],
-  "en": ""
+  "en": "No... My headstrong sister trusts you, lives among you. How could I doubt you..."
  },
  {
   "id": "SCENARIO/190/01af0",
@@ -617,7 +617,7 @@
    "へへっ、そんな風に言われると",
    "なんだか照れちまうな"
   ],
-  "en": ""
+  "en": "Heh heh. Hearing it put like that kinda makes me blush."
  },
  {
   "id": "SCENARIO/190/01b60",
@@ -627,7 +627,7 @@
    "例え十審将が待っていようと",
    "ボクたちは引き下がらない"
   ],
-  "en": ""
+  "en": "Cardia-san. Even if a Tribunal General is waiting, we won't back down."
  },
  {
   "id": "SCENARIO/190/01bbc",
@@ -635,7 +635,7 @@
   "jp": [
    "絶対大丈夫とは言えないけれど"
   ],
-  "en": ""
+  "en": "I can't promise it'll be okay for sure,"
  },
  {
   "id": "SCENARIO/190/01bec",
@@ -644,7 +644,7 @@
    "このままステイエンと会えなく",
    "なるなんて、嫌だから・・・"
   ],
-  "en": ""
+  "en": "but I couldn't stand never seeing Stayen again..."
  },
  {
   "id": "SCENARIO/190/01c40",
@@ -652,7 +652,7 @@
   "jp": [
    "みなさん・・・"
   ],
-  "en": ""
+  "en": "Everyone..."
  },
  {
   "id": "SCENARIO/190/01c68",
@@ -661,7 +661,7 @@
    "ボク達にできることを",
    "せいいっぱいやってきます"
   ],
-  "en": ""
+  "en": "We'll go and do everything we can."
  },
  {
   "id": "SCENARIO/190/01cb4",
@@ -669,7 +669,7 @@
   "jp": [
    "ありがとう・・・"
   ],
-  "en": ""
+  "en": "Thank you..."
  },
  {
   "id": "SCENARIO/190/01cd8",
@@ -678,12 +678,12 @@
    "あの子達を・・・",
    "どうかよろしくお願いします"
   ],
-  "en": ""
+  "en": "Those children... Please, I beg you, look after them."
  },
  {
   "id": "SCENARIO/190/05874",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/190/05882",
@@ -691,12 +691,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/190/0589a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/190/058aa",
@@ -704,6 +704,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

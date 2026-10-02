@@ -7,7 +7,7 @@
    "あそこに居るのはステイエンと",
    "・・・誰だろう？"
   ],
-  "en": ""
+  "en": "Huh? That's Stayen over there, with... who's that?"
  },
  {
   "id": "SCENARIO/185/00260",
@@ -16,7 +16,7 @@
    "・・・それじゃ",
    "確かに手紙は渡しましたよ"
   ],
-  "en": ""
+  "en": "...Well then. The letter's been delivered, make no mistake."
  },
  {
   "id": "SCENARIO/185/002dc",
@@ -25,7 +25,7 @@
    "ちょっと待ってよ！！",
    "こんなもの渡されても！！"
   ],
-  "en": ""
+  "en": "Wait a second!! What am I supposed to do with this!!"
  },
  {
   "id": "SCENARIO/185/00378",
@@ -33,7 +33,7 @@
   "jp": [
    "なんなのよ、今さら・・・"
   ],
-  "en": ""
+  "en": "What is this, after all this time..."
  },
  {
   "id": "SCENARIO/185/003e8",
@@ -41,7 +41,7 @@
   "jp": [
    "どうしたのステイエン？"
   ],
-  "en": ""
+  "en": "What's wrong, Stayen?"
  },
  {
   "id": "SCENARIO/185/00474",
@@ -49,7 +49,7 @@
   "jp": [
    "！！！！！！！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/185/004a0",
@@ -58,7 +58,7 @@
    "カイン",
    "いつから居たの？"
   ],
-  "en": ""
+  "en": "Cain. How long have you been there?"
  },
  {
   "id": "SCENARIO/185/004e2",
@@ -67,7 +67,7 @@
    "手紙をもらったの？",
    "誰から？"
   ],
-  "en": ""
+  "en": "You got a letter? From who?"
  },
  {
   "id": "SCENARIO/185/0052a",
@@ -77,12 +77,12 @@
    "今は何も言えない",
    "少しの間、一人にさせて"
   ],
-  "en": ""
+  "en": "...Sorry. I can't say anything right now. Leave me alone for a little while."
  },
  {
   "id": "SCENARIO/185/040e4",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/185/040f2",
@@ -90,12 +90,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/185/0410a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/185/0411a",
@@ -103,6 +103,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

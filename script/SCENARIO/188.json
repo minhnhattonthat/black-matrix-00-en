@@ -5,7 +5,7 @@
   "jp": [
    "おかえりなさい"
   ],
-  "en": ""
+  "en": "Welcome back."
  },
  {
   "id": "SCENARIO/188/00154",
@@ -13,7 +13,7 @@
   "jp": [
    "・・・・・・ただいま"
   ],
-  "en": ""
+  "en": "......I'm home."
  },
  {
   "id": "SCENARIO/188/00192",
@@ -22,7 +22,7 @@
    "その様子じゃ",
    "見つからなかったみたいだね"
   ],
-  "en": ""
+  "en": "From the look of you, you didn't find him."
  },
  {
   "id": "SCENARIO/188/001d8",
@@ -31,7 +31,7 @@
    "・・・うん",
    "ザイオン達の方はどうだった？"
   ],
-  "en": ""
+  "en": "...No. How about Zion and the others?"
  },
  {
   "id": "SCENARIO/188/00244",
@@ -39,7 +39,7 @@
   "jp": [
    "ヤツなら見つからなかったぞ"
   ],
-  "en": ""
+  "en": "Didn't find him."
  },
  {
   "id": "SCENARIO/188/00298",
@@ -48,7 +48,7 @@
    "へぇ、ぶつくさ言ってた割には",
    "ちゃんと捜してたんだな"
   ],
-  "en": ""
+  "en": "Huh, for all your grumbling, you actually looked properly."
  },
  {
   "id": "SCENARIO/188/002f6",
@@ -58,7 +58,7 @@
    "アラギを捜し出す方が重要なんだ",
    "二度と手伝わんからな"
   ],
-  "en": ""
+  "en": "Shut up... Finding Aragi matters more to us. I'm never helping again."
  },
  {
   "id": "SCENARIO/188/0036e",
@@ -66,7 +66,7 @@
   "jp": [
    "へぇへ"
   ],
-  "en": ""
+  "en": "Yeah, yeah."
  },
  {
   "id": "SCENARIO/188/00428",
@@ -75,7 +75,7 @@
    "はぁ・・・ヨハネは",
    "どこに行ったんだろう"
   ],
-  "en": ""
+  "en": "Sigh... Where could Johannes have gone?"
  },
  {
   "id": "SCENARIO/188/0048c",
@@ -85,7 +85,7 @@
    "さっき出かけたっきり",
    "見かけないね"
   ],
-  "en": ""
+  "en": "Come to think of it, Stayen went out earlier and I haven't seen her since."
  },
  {
   "id": "SCENARIO/188/004ee",
@@ -94,7 +94,7 @@
    "あんた達どこに行ったか",
    "知らないかい？"
   ],
-  "en": ""
+  "en": "You lot know where she went?"
  },
  {
   "id": "SCENARIO/188/00550",
@@ -102,7 +102,7 @@
   "jp": [
    "見てないわよ"
   ],
-  "en": ""
+  "en": "Haven't seen her."
  },
  {
   "id": "SCENARIO/188/00598",
@@ -112,7 +112,7 @@
    "捜してる時も、",
    "ステイエンは居なかったよな"
   ],
-  "en": ""
+  "en": "Now you mention it, Stayen wasn't around while we hunted for Johannes-san either."
  },
  {
   "id": "SCENARIO/188/00618",
@@ -121,7 +121,7 @@
    "チッ・・・",
    "どいつもこいつも"
   ],
-  "en": ""
+  "en": "Tch... Every last one of them."
  },
  {
   "id": "SCENARIO/188/00678",
@@ -131,7 +131,7 @@
    "伝言とか置き手紙とか、",
    "残ってないかな？"
   ],
-  "en": ""
+  "en": "If she went somewhere, maybe she left a message or a note?"
  },
  {
   "id": "SCENARIO/188/006f8",
@@ -139,7 +139,7 @@
   "jp": [
    "・・・あのね"
   ],
-  "en": ""
+  "en": "...Um."
  },
  {
   "id": "SCENARIO/188/0072e",
@@ -147,7 +147,7 @@
   "jp": [
    "どうしたのリリス？"
   ],
-  "en": ""
+  "en": "What is it, Lilis?"
  },
  {
   "id": "SCENARIO/188/0075c",
@@ -156,7 +156,7 @@
    "・・・これ、",
    "ステイエンがみんなに渡してって"
   ],
-  "en": ""
+  "en": "...This. Stayen said to give it to everyone."
  },
  {
   "id": "SCENARIO/188/007b2",
@@ -166,12 +166,12 @@
    "もしかしてステイエンが",
    "受け取っていた手紙？"
   ],
-  "en": ""
+  "en": "This is... Could it be the letter Stayen got?"
  },
  {
   "id": "SCENARIO/188/043a0",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/188/043ae",
@@ -179,12 +179,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/188/043c6",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/188/043d6",
@@ -192,6 +192,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

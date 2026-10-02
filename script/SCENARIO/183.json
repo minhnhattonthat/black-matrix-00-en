@@ -6,7 +6,7 @@
    "ヨハネ・・・",
    "死んじゃイヤだ・・・"
   ],
-  "en": ""
+  "en": "Johannes... Don't die..."
  },
  {
   "id": "SCENARIO/183/001ac",
@@ -15,7 +15,7 @@
    "カイン・・・",
    "カイン"
   ],
-  "en": ""
+  "en": "Cain... Cain."
  },
  {
   "id": "SCENARIO/183/00210",
@@ -24,7 +24,7 @@
    "うぅ・・・ヨハネ",
    "行っちゃイヤ・・"
   ],
-  "en": ""
+  "en": "Uuh... Johannes, don't go.."
  },
  {
   "id": "SCENARIO/183/00278",
@@ -33,7 +33,7 @@
    "私はここに居るよ",
    "カイン"
   ],
-  "en": ""
+  "en": "I am right here, Cain."
  },
  {
   "id": "SCENARIO/183/003a2",
@@ -41,7 +41,7 @@
   "jp": [
    "・・・えっ"
   ],
-  "en": ""
+  "en": "...Huh?"
  },
  {
   "id": "SCENARIO/183/003c0",
@@ -49,7 +49,7 @@
   "jp": [
    "・・・ヨハネ！！"
   ],
-  "en": ""
+  "en": "...Johannes!!"
  },
  {
   "id": "SCENARIO/183/003f8",
@@ -58,7 +58,7 @@
    "・・・どうやら私は",
    "死に損なってしまったようだな"
   ],
-  "en": ""
+  "en": "...It seems I have failed to die."
  },
  {
   "id": "SCENARIO/183/00452",
@@ -67,7 +67,7 @@
    "良かった・・",
    "目が覚めたんだね"
   ],
-  "en": ""
+  "en": "Thank goodness.. You're awake."
  },
  {
   "id": "SCENARIO/183/0048c",
@@ -76,7 +76,7 @@
    "・・・カイン",
    "どこにもケガはないか？"
   ],
-  "en": ""
+  "en": "...Cain. You are not hurt anywhere?"
  },
  {
   "id": "SCENARIO/183/004da",
@@ -84,7 +84,7 @@
   "jp": [
    "平気だよ"
   ],
-  "en": ""
+  "en": "I'm fine."
  },
  {
   "id": "SCENARIO/183/004f4",
@@ -92,7 +92,7 @@
   "jp": [
    "みんなも、元気"
   ],
-  "en": ""
+  "en": "Everyone else is fine too."
  },
  {
   "id": "SCENARIO/183/0051c",
@@ -100,7 +100,7 @@
   "jp": [
    "それは良かった"
   ],
-  "en": ""
+  "en": "That is good."
  },
  {
   "id": "SCENARIO/183/0053c",
@@ -108,7 +108,7 @@
   "jp": [
    "それで、マティアは？"
   ],
-  "en": ""
+  "en": "And Matia?"
  },
  {
   "id": "SCENARIO/183/0057a",
@@ -116,7 +116,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/183/005a8",
@@ -124,7 +124,7 @@
   "jp": [
    "・・・そうか"
   ],
-  "en": ""
+  "en": "...I see."
  },
  {
   "id": "SCENARIO/183/005c8",
@@ -132,7 +132,7 @@
   "jp": [
    "うまくいかなかったのか・・・"
   ],
-  "en": ""
+  "en": "It did not go well, then..."
  },
  {
   "id": "SCENARIO/183/0060e",
@@ -141,7 +141,7 @@
    "ごめんなさい、ヨハネ",
    "ボクは・・・"
   ],
-  "en": ""
+  "en": "I'm sorry, Johannes. I..."
  },
  {
   "id": "SCENARIO/183/00644",
@@ -150,7 +150,7 @@
    "ボクは・・・",
    "ずっと、考えていた"
   ],
-  "en": ""
+  "en": "I... I've been thinking about it this whole time."
  },
  {
   "id": "SCENARIO/183/00686",
@@ -159,7 +159,7 @@
    "ヨハネが目を覚ましたら",
    "ちゃんと謝ろうって！！！"
   ],
-  "en": ""
+  "en": "That when you woke up, I'd apologize properly!!!"
  },
  {
   "id": "SCENARIO/183/006d4",
@@ -167,7 +167,7 @@
   "jp": [
    "カイン・・・"
   ],
-  "en": ""
+  "en": "Cain..."
  },
  {
   "id": "SCENARIO/183/0070a",
@@ -176,7 +176,7 @@
    "でも、ヨハネ",
    "ずっと起きないから・・・"
   ],
-  "en": ""
+  "en": "But you... you just wouldn't wake up..."
  },
  {
   "id": "SCENARIO/183/00752",
@@ -186,7 +186,7 @@
    "このまま、ヨハネがいなくなって",
    "しまうんじゃないかって・・・"
   ],
-  "en": ""
+  "en": "I was scared... That you'd slip away, just like that..."
  },
  {
   "id": "SCENARIO/183/007ca",
@@ -194,7 +194,7 @@
   "jp": [
    "ボクは怖くて・・・"
   ],
-  "en": ""
+  "en": "I was so scared..."
  },
  {
   "id": "SCENARIO/183/00814",
@@ -203,7 +203,7 @@
    "お前が必要としてくれる限り",
    "私はそばに居るよ・・・"
   ],
-  "en": ""
+  "en": "As long as you need me, I will be at your side..."
  },
  {
   "id": "SCENARIO/183/00878",
@@ -212,7 +212,7 @@
    "しかし、いつか私が",
    "必要でなくなったその時は・・"
   ],
-  "en": ""
+  "en": "But one day, when you no longer need me.."
  },
  {
   "id": "SCENARIO/183/008d2",
@@ -222,7 +222,7 @@
    "消えてしまうみたいなこと",
    "言わないで！"
   ],
-  "en": ""
+  "en": "Don't talk like you're going to vanish, not at a time like this!"
  },
  {
   "id": "SCENARIO/183/00932",
@@ -230,7 +230,7 @@
   "jp": [
    "・・・すまない"
   ],
-  "en": ""
+  "en": "...Forgive me."
  },
  {
   "id": "SCENARIO/183/00962",
@@ -239,7 +239,7 @@
    "でも、覚えておくんだよ",
    "カイン"
   ],
-  "en": ""
+  "en": "But remember this, Cain."
  },
  {
   "id": "SCENARIO/183/00994",
@@ -247,7 +247,7 @@
   "jp": [
    "子供はいつか巣立つものだ"
   ],
-  "en": ""
+  "en": "Children leave the nest one day."
  },
  {
   "id": "SCENARIO/183/009c0",
@@ -256,7 +256,7 @@
    "いつの日かお前も",
    "私から離れなくてはならない"
   ],
-  "en": ""
+  "en": "Someday you, too, will have to leave my side."
  },
  {
   "id": "SCENARIO/183/00a16",
@@ -265,7 +265,7 @@
    "ボクが大人になったら・・・",
    "ヨハネとはもう会えなくなるの？"
   ],
-  "en": ""
+  "en": "When I grow up... I won't be able to see you anymore?"
  },
  {
   "id": "SCENARIO/183/00a6c",
@@ -273,7 +273,7 @@
   "jp": [
    "私はキミに自立して欲しい"
   ],
-  "en": ""
+  "en": "I want you to stand on your own."
  },
  {
   "id": "SCENARIO/183/00a98",
@@ -283,7 +283,7 @@
    "自分の目で物を見て",
    "自分の頭で考えて欲しい"
   ],
-  "en": ""
+  "en": "To walk on your own feet, see with your own eyes, think with your own head."
  },
  {
   "id": "SCENARIO/183/00ae8",
@@ -293,7 +293,7 @@
    "困ったときの相談役くらいは",
    "引き受けるがね"
   ],
-  "en": ""
+  "en": "Naturally, I will still serve as counsel when you are in trouble."
  },
  {
   "id": "SCENARIO/183/00b38",
@@ -301,7 +301,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/183/00b6e",
@@ -311,7 +311,7 @@
    "泣き虫カインを卒業",
    "しなければならんな"
   ],
-  "en": ""
+  "en": "For that, you must first graduate from being Cain the crybaby."
  },
  {
   "id": "SCENARIO/183/00bce",
@@ -319,7 +319,7 @@
   "jp": [
    "な、泣いてなんかないよ！"
   ],
-  "en": ""
+  "en": "I-I'm not crying!"
  },
  {
   "id": "SCENARIO/183/00c00",
@@ -327,7 +327,7 @@
   "jp": [
    "フフフッ、目が赤い・・・"
   ],
-  "en": ""
+  "en": "Heh heh. Your eyes are red..."
  },
  {
   "id": "SCENARIO/183/00c42",
@@ -335,7 +335,7 @@
   "jp": [
    "！！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/183/00c72",
@@ -344,7 +344,7 @@
    "カインはすぐに顔に出る",
    "これも直した方が良さそうだ"
   ],
-  "en": ""
+  "en": "It shows on your face right away, Cain. We had best fix that as well."
  },
  {
   "id": "SCENARIO/183/00cce",
@@ -352,7 +352,7 @@
   "jp": [
    "ううううう・・・"
   ],
-  "en": ""
+  "en": "Uuuuuugh..."
  },
  {
   "id": "SCENARIO/183/00d06",
@@ -361,7 +361,7 @@
    "ヨハネのバカ！",
    "ヨハネなんてもう知らない！！"
   ],
-  "en": ""
+  "en": "Johannes, you idiot! I'm done with you!!"
  },
  {
   "id": "SCENARIO/183/00d66",
@@ -369,7 +369,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/183/00db8",
@@ -378,7 +378,7 @@
    "あ～あ、ヨハネさん",
    "カインに見捨てられちまったぜ？"
   ],
-  "en": ""
+  "en": "Aw man, Johannes-san. Looks like Cain's given up on you, huh?"
  },
  {
   "id": "SCENARIO/183/00e1c",
@@ -386,7 +386,7 @@
   "jp": [
    "どうやら、そのようだな"
   ],
-  "en": ""
+  "en": "So it would seem."
  },
  {
   "id": "SCENARIO/183/00e6c",
@@ -396,7 +396,7 @@
    "そんなに可愛いんならあんたも",
    "素直にかまってやればいいのに"
   ],
-  "en": ""
+  "en": "...Good grief. If he's that dear to you, just dote on him and be done with it."
  },
  {
   "id": "SCENARIO/183/00ecc",
@@ -404,7 +404,7 @@
   "jp": [
    "今のはちょっと意地悪だったよ"
   ],
-  "en": ""
+  "en": "That was a bit mean just now."
  },
  {
   "id": "SCENARIO/183/00f12",
@@ -412,7 +412,7 @@
   "jp": [
    "フフッ"
   ],
-  "en": ""
+  "en": "Heh."
  },
  {
   "id": "SCENARIO/183/00f54",
@@ -422,7 +422,7 @@
    "意外とアイツこういうの根に持つ",
    "タイプだからなぁ"
   ],
-  "en": ""
+  "en": "Yeah~ Surprisingly, that guy's the type to hold a grudge over stuff like this."
  },
  {
   "id": "SCENARIO/183/00fa8",
@@ -430,7 +430,7 @@
   "jp": [
    "この前だってさ～・・・"
   ],
-  "en": ""
+  "en": "Just the other day~..."
  },
  {
   "id": "SCENARIO/183/00fd8",
@@ -440,7 +440,7 @@
    "まだこんな所にいたのか？",
    "ヴァルトス様が・・・"
   ],
-  "en": ""
+  "en": "Exal! You're still hanging around here? Valtoss-sama is..."
  },
  {
   "id": "SCENARIO/183/0103e",
@@ -449,7 +449,7 @@
    "わかってるって！！",
    "すぐに行くよ！！"
   ],
-  "en": ""
+  "en": "I know, I know!! I'm coming!!"
  },
  {
   "id": "SCENARIO/183/01080",
@@ -459,7 +459,7 @@
    "確かサイファーパンクの",
    "リーダーの名前だったか？"
   ],
-  "en": ""
+  "en": "Valtoss... That was the name of Cypherpunk's leader, was it not?"
  },
  {
   "id": "SCENARIO/183/010ee",
@@ -469,7 +469,7 @@
    "姿を見せないんだけどさ、",
    "近々帰って来るそうなんだ"
   ],
-  "en": ""
+  "en": "Yeah. He hardly ever shows his face, but word is he's coming back soon."
  },
  {
   "id": "SCENARIO/183/0114c",
@@ -479,7 +479,7 @@
    "俺はちょっと本業の方に戻るよ",
    "後はよろしく"
   ],
-  "en": ""
+  "en": "Gotta prep for that, so I'm heading back to my real job for a bit. Rest is on you."
  },
  {
   "id": "SCENARIO/183/011ac",
@@ -487,7 +487,7 @@
   "jp": [
    "ああ"
   ],
-  "en": ""
+  "en": "Mm."
  },
  {
   "id": "SCENARIO/183/011cc",
@@ -497,7 +497,7 @@
    "ひねくれた子供に育っても",
    "知らないぜ？"
   ],
-  "en": ""
+  "en": "Don't pick on Cain too much. Don't blame me if he grows up all twisted, got it?"
  },
  {
   "id": "SCENARIO/183/0123e",
@@ -505,7 +505,7 @@
   "jp": [
    "フフ、分かった"
   ],
-  "en": ""
+  "en": "Heh heh. Understood."
  },
  {
   "id": "SCENARIO/183/01276",
@@ -514,7 +514,7 @@
    "おばちゃんも",
    "ヨハネさんの面倒よろしくな"
   ],
-  "en": ""
+  "en": "Auntie, you look after Johannes-san too."
  },
  {
   "id": "SCENARIO/183/012c2",
@@ -524,7 +524,7 @@
    "こんな状態で外に出したら",
    "カインが怒るぜ？"
   ],
-  "en": ""
+  "en": "He's got that wandering habit. Let him out in this state and Cain'll be furious."
  },
  {
   "id": "SCENARIO/183/01340",
@@ -532,7 +532,7 @@
   "jp": [
    "誰がおばちゃんだって？"
   ],
-  "en": ""
+  "en": "Who are you calling Auntie?"
  },
  {
   "id": "SCENARIO/183/01370",
@@ -542,7 +542,7 @@
    "怒るとせっかくの美人が",
    "台無しだぜ？"
   ],
-  "en": ""
+  "en": "Ahahaha! Get angry and you'll ruin that pretty face, you know?"
  },
  {
   "id": "SCENARIO/183/013ce",
@@ -550,7 +550,7 @@
   "jp": [
    "！？"
   ],
-  "en": ""
+  "en": "!?"
  },
  {
   "id": "SCENARIO/183/013fa",
@@ -558,7 +558,7 @@
   "jp": [
    "それじゃあ、行ってきます！！！"
   ],
-  "en": ""
+  "en": "Well then, I'm off!!"
  },
  {
   "id": "SCENARIO/183/0144a",
@@ -567,7 +567,7 @@
    "こら、エクサル！！！",
    "待ちなさーい！！！"
   ],
-  "en": ""
+  "en": "Hey, Exal!! Get back here!!"
  },
  {
   "id": "SCENARIO/183/0152c",
@@ -576,7 +576,7 @@
    "・・・まったく",
    "甘えグセが抜けてないんだから"
   ],
-  "en": ""
+  "en": "...Honestly. That boy still hasn't outgrown his clingy ways."
  },
  {
   "id": "SCENARIO/183/015a0",
@@ -585,7 +585,7 @@
    "まんざらでもなさそうに",
    "見えるがな"
   ],
-  "en": ""
+  "en": "You do not seem to mind much."
  },
  {
   "id": "SCENARIO/183/015ee",
@@ -593,7 +593,7 @@
   "jp": [
    "手のかかる子ほど可愛いものさ"
   ],
-  "en": ""
+  "en": "The more trouble a child gives you, the dearer they are."
  },
  {
   "id": "SCENARIO/183/0161c",
@@ -602,7 +602,7 @@
    "いつか巣立つものなら",
    "なおさら今が愛おしいよ"
   ],
-  "en": ""
+  "en": "If they're bound to leave the nest someday, that makes now all the more precious."
  },
  {
   "id": "SCENARIO/183/01664",
@@ -611,7 +611,7 @@
    "ああ、いつか必ず",
    "カインも私の手元を去る"
   ],
-  "en": ""
+  "en": "Yes. Someday, Cain too will surely leave my side."
  },
  {
   "id": "SCENARIO/183/016b6",
@@ -620,12 +620,12 @@
    "その時までに",
    "私は・・・・・・"
   ],
-  "en": ""
+  "en": "And before that time comes, I......"
  },
  {
   "id": "SCENARIO/183/05234",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/183/05242",
@@ -633,12 +633,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/183/0525a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/183/0526a",
@@ -646,6 +646,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

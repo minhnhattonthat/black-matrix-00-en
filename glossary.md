@@ -162,3 +162,9 @@ Fly uses 僕 in script 031: gender ambiguous, keep pronoun-free.
 | 異端審問 | the Inquisition | |
 
 Grisina presents female but self-identifies as a man (195): pronoun-free.
+| 副官 | adjutant | |
+| 熾天使 | Seraph | Bale's rank |
+| 異端審査官 | Inquisitor | |
+| 両性体 | dual-sexed | |
+| レニアム坂広場 | Leniam Plaza | |
+| 研究所 | the laboratory | |

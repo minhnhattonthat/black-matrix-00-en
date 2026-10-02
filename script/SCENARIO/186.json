@@ -6,7 +6,7 @@
    "・・・あれ？",
    "ヨハネがいない"
   ],
-  "en": ""
+  "en": "...Huh? Johannes is gone."
  },
  {
   "id": "SCENARIO/186/00170",
@@ -14,7 +14,7 @@
   "jp": [
    "トイレかな？"
   ],
-  "en": ""
+  "en": "Bathroom, maybe?"
  },
  {
   "id": "SCENARIO/186/001b8",
@@ -22,7 +22,7 @@
   "jp": [
    "ああ、おかえりカイン"
   ],
-  "en": ""
+  "en": "Oh, welcome back, Cain."
  },
  {
   "id": "SCENARIO/186/001e8",
@@ -31,7 +31,7 @@
    "ダリアさん",
    "ヨハネ知りませんか？"
   ],
-  "en": ""
+  "en": "Dahlia-san, have you seen Johannes?"
  },
  {
   "id": "SCENARIO/186/00232",
@@ -41,7 +41,7 @@
    "ちょっと目を離したすきに",
    "いなくなっちまったんだよ"
   ],
-  "en": ""
+  "en": "...Well, about that. I took my eyes off him for a second and he up and vanished."
  },
  {
   "id": "SCENARIO/186/002a2",
@@ -49,7 +49,7 @@
   "jp": [
    "えぇぇぇぇ！！？"
   ],
-  "en": ""
+  "en": "Whaaaaaat!?"
  },
  {
   "id": "SCENARIO/186/00392",
@@ -58,7 +58,7 @@
    "でっかい悲鳴上げて",
    "どうしたんだよカイン？"
   ],
-  "en": ""
+  "en": "What's with the big scream, Cain?"
  },
  {
   "id": "SCENARIO/186/003f8",
@@ -66,7 +66,7 @@
   "jp": [
    "ヨハネがいないんだ！"
   ],
-  "en": ""
+  "en": "Johannes is gone!"
  },
  {
   "id": "SCENARIO/186/00436",
@@ -74,7 +74,7 @@
   "jp": [
    "ゲッ、またかよ～"
   ],
-  "en": ""
+  "en": "Ugh, not again~"
  },
  {
   "id": "SCENARIO/186/00480",
@@ -83,7 +83,7 @@
    "アンタ達、ヨハネさんを捜しに",
    "行ってくれないかい？"
   ],
-  "en": ""
+  "en": "Could you lot go look for Johannes-san?"
  },
  {
   "id": "SCENARIO/186/004c8",
@@ -93,7 +93,7 @@
    "のに、いま無理をしたら",
    "大変なことになるよ"
   ],
-  "en": ""
+  "en": "His wounds are finally starting to heal. If he overdoes it now, it'll be bad news."
  },
  {
   "id": "SCENARIO/186/00552",
@@ -102,7 +102,7 @@
    "わかった",
    "行こうぜカイン！"
   ],
-  "en": ""
+  "en": "Got it. Let's go, Cain!"
  },
  {
   "id": "SCENARIO/186/005b0",
@@ -110,7 +110,7 @@
   "jp": [
    "うん！！"
   ],
-  "en": ""
+  "en": "Yeah!!"
  },
  {
   "id": "SCENARIO/186/005f4",
@@ -118,7 +118,7 @@
   "jp": [
    "わたしも手伝いますわ！！"
   ],
-  "en": ""
+  "en": "I'll help too!!"
  },
  {
   "id": "SCENARIO/186/00736",
@@ -127,7 +127,7 @@
    "ルカ達も手が空いてるなら",
    "ヨハネさんを捜してくれないか？"
   ],
-  "en": ""
+  "en": "Luca, if you guys are free, could you look for Johannes-san too?"
  },
  {
   "id": "SCENARIO/186/007a0",
@@ -136,7 +136,7 @@
    "情報収集のついでなら",
    "かまわないよ"
   ],
-  "en": ""
+  "en": "If it's on the way while we gather information, I don't mind."
  },
  {
   "id": "SCENARIO/186/00800",
@@ -146,7 +146,7 @@
    "本人の意志だろう？いちいち",
    "捜しに行く必要があるのか？"
   ],
-  "en": ""
+  "en": "...Hmph. He walked out on his own, didn't he? Why bother going to look for him?"
  },
  {
   "id": "SCENARIO/186/00890",
@@ -155,7 +155,7 @@
    "ヨハネはケガをしてるんだよ？",
    "心配じゃないの？"
   ],
-  "en": ""
+  "en": "Johannes is hurt, you know? Aren't you worried?"
  },
  {
   "id": "SCENARIO/186/008ea",
@@ -164,7 +164,7 @@
    "チッ・・・これだから",
    "仲間ってのは厄介なんだ"
   ],
-  "en": ""
+  "en": "Tch... This is why comrades are such a pain."
  },
  {
   "id": "SCENARIO/186/0092c",
@@ -172,7 +172,7 @@
   "jp": [
    "身軽に行動が取れなくなっちまう"
   ],
-  "en": ""
+  "en": "Can't move freely with them around."
  },
  {
   "id": "SCENARIO/186/00984",
@@ -180,7 +180,7 @@
   "jp": [
    "お前、なんだよその言い方！"
   ],
-  "en": ""
+  "en": "Hey, what kind of thing is that to say!"
  },
  {
   "id": "SCENARIO/186/00a1c",
@@ -189,7 +189,7 @@
    "いいから、早く行こう！",
    "エクサル！"
   ],
-  "en": ""
+  "en": "Forget it, let's hurry! Exal!"
  },
  {
   "id": "SCENARIO/186/00ab8",
@@ -198,7 +198,7 @@
    "やれやれ、ヨハネさんも",
    "あの子達も困ったもんだ"
   ],
-  "en": ""
+  "en": "Good grief. Johannes-san and those kids both. What a handful."
  },
  {
   "id": "SCENARIO/186/00b72",
@@ -207,7 +207,7 @@
    "おや？リリスちゃんは",
    "シリアについて行かないのかい？"
   ],
-  "en": ""
+  "en": "Oh? Lilis-chan, you're not going with Syria?"
  },
  {
   "id": "SCENARIO/186/00bf0",
@@ -216,7 +216,7 @@
    "リリス、今お絵かきの最中だから",
    "ダメなの"
   ],
-  "en": ""
+  "en": "Lilis is in the middle of drawing, so she can't."
  },
  {
   "id": "SCENARIO/186/00c42",
@@ -225,7 +225,7 @@
    "へぇ・・・うまいもんだねぇ",
    "誰を描いているんだい？"
   ],
-  "en": ""
+  "en": "Huh... you're pretty good. Who are you drawing?"
  },
  {
   "id": "SCENARIO/186/00ca0",
@@ -234,7 +234,7 @@
    "えへへ～",
    "まだ秘密なの"
   ],
-  "en": ""
+  "en": "Ehehe~ It's still a secret."
  },
  {
   "id": "SCENARIO/186/00ccc",
@@ -243,7 +243,7 @@
    "出来たらダリアおばちゃんにも",
    "見せてあげるね♪"
   ],
-  "en": ""
+  "en": "When it's done, Lilis will show Auntie Dahlia too!"
  },
  {
   "id": "SCENARIO/186/00d26",
@@ -251,7 +251,7 @@
   "jp": [
    "・・・おば"
   ],
-  "en": ""
+  "en": "...Aun..."
  },
  {
   "id": "SCENARIO/186/00d4c",
@@ -260,7 +260,7 @@
    "えへへ",
    "楽しみにまっててね♪"
   ],
-  "en": ""
+  "en": "Ehehe. Look forward to it!"
  },
  {
   "id": "SCENARIO/186/00d92",
@@ -268,7 +268,7 @@
   "jp": [
    "そうさせてもらうよ"
   ],
-  "en": ""
+  "en": "I'll do that."
  },
  {
   "id": "SCENARIO/186/00dd6",
@@ -276,7 +276,7 @@
   "jp": [
    "ふんふんふ～ん♪"
   ],
-  "en": ""
+  "en": "Hmm hm hmm~"
  },
  {
   "id": "SCENARIO/186/00e80",
@@ -284,7 +284,7 @@
   "jp": [
    "みんなは！？"
   ],
-  "en": ""
+  "en": "Where is everyone!?"
  },
  {
   "id": "SCENARIO/186/00ea8",
@@ -292,7 +292,7 @@
   "jp": [
    "ヨハネさんを捜しに行ってるの"
   ],
-  "en": ""
+  "en": "They went looking for Johannes-san."
  },
  {
   "id": "SCENARIO/186/00eee",
@@ -300,7 +300,7 @@
   "jp": [
    "そう・・・"
   ],
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "SCENARIO/186/00f14",
@@ -308,7 +308,7 @@
   "jp": [
    "・・・どうしたの？"
   ],
-  "en": ""
+  "en": "...What's wrong?"
  },
  {
   "id": "SCENARIO/186/00f40",
@@ -316,7 +316,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/186/00f72",
@@ -325,7 +325,7 @@
    "リリスちゃん",
    "あのね、お願い頼めるかな？"
   ],
-  "en": ""
+  "en": "Lilis-chan. Um, can I ask you a favor?"
  },
  {
   "id": "SCENARIO/186/00fc6",
@@ -333,7 +333,7 @@
   "jp": [
    "リリスに？"
   ],
-  "en": ""
+  "en": "Of Lilis?"
  },
  {
   "id": "SCENARIO/186/00fec",
@@ -341,7 +341,7 @@
   "jp": [
    "・・・そう"
   ],
-  "en": ""
+  "en": "...That's right."
  },
  {
   "id": "SCENARIO/186/01008",
@@ -350,7 +350,7 @@
    "もしもあたしが",
    "戻って来なかったら"
   ],
-  "en": ""
+  "en": "If I don't come back,"
  },
  {
   "id": "SCENARIO/186/01040",
@@ -359,7 +359,7 @@
    "みんなにこの手紙を",
    "渡して欲しいの"
   ],
-  "en": ""
+  "en": "I want you to give everyone this letter."
  },
  {
   "id": "SCENARIO/186/0108e",
@@ -368,7 +368,7 @@
    "リリスはいいけど・・・",
    "どこかに出かけるの？"
   ],
-  "en": ""
+  "en": "Lilis doesn't mind, but... are you going somewhere?"
  },
  {
   "id": "SCENARIO/186/010e6",
@@ -376,7 +376,7 @@
   "jp": [
    "・・・うん"
   ],
-  "en": ""
+  "en": "...Yeah."
  },
  {
   "id": "SCENARIO/186/01104",
@@ -384,7 +384,7 @@
   "jp": [
    "お願い出来るかな？"
   ],
-  "en": ""
+  "en": "Can I count on you?"
  },
  {
   "id": "SCENARIO/186/0113e",
@@ -393,7 +393,7 @@
    "うん！",
    "リリスにまかせて！"
   ],
-  "en": ""
+  "en": "Yeah! Leave it to Lilis!"
  },
  {
   "id": "SCENARIO/186/01182",
@@ -401,7 +401,7 @@
   "jp": [
    "・・・お願いね"
   ],
-  "en": ""
+  "en": "...Please."
  },
  {
   "id": "SCENARIO/186/011ba",
@@ -410,7 +410,7 @@
    "ああ！",
    "行っちゃう前に見て見て！"
   ],
-  "en": ""
+  "en": "Oh! Before you go, look, look!"
  },
  {
   "id": "SCENARIO/186/011f0",
@@ -418,7 +418,7 @@
   "jp": [
    "リリス、絵を描いたの！"
   ],
-  "en": ""
+  "en": "Lilis drew a picture!"
  },
  {
   "id": "SCENARIO/186/01220",
@@ -427,7 +427,7 @@
    "へぇー・・・",
    "何を描いたの？"
   ],
-  "en": ""
+  "en": "Oh... What did you draw?"
  },
  {
   "id": "SCENARIO/186/01266",
@@ -435,7 +435,7 @@
   "jp": [
    "！！！！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/186/0128c",
@@ -443,7 +443,7 @@
   "jp": [
    "・・・これ、もしかして？"
   ],
-  "en": ""
+  "en": "...Is this, maybe?"
  },
  {
   "id": "SCENARIO/186/012c0",
@@ -452,7 +452,7 @@
    "キロタだよ！",
    "リリスね、キロタを描いたの！"
   ],
-  "en": ""
+  "en": "It's Kilota! Lilis drew Kilota!"
  },
  {
   "id": "SCENARIO/186/01316",
@@ -460,7 +460,7 @@
   "jp": [
    "キロタ・・・"
   ],
-  "en": ""
+  "en": "Kilota..."
  },
  {
   "id": "SCENARIO/186/0134a",
@@ -469,7 +469,7 @@
    "えへへ～",
    "リリスお絵かき上手でしょ？"
   ],
-  "en": ""
+  "en": "Ehehe~ Lilis is good at drawing, right?"
  },
  {
   "id": "SCENARIO/186/0138c",
@@ -478,7 +478,7 @@
    "・・・うん",
    "とっても上手よリリスちゃん"
   ],
-  "en": ""
+  "en": "...Yeah. You're really good, Lilis-chan."
  },
  {
   "id": "SCENARIO/186/013c8",
@@ -487,7 +487,7 @@
    "・・・そう",
    "キロタはこんな感じよ"
   ],
-  "en": ""
+  "en": "...That's right. That's just how Kilota looks."
  },
  {
   "id": "SCENARIO/186/01412",
@@ -496,7 +496,7 @@
    "・・・どうしたの？",
    "どこか痛いの？"
   ],
-  "en": ""
+  "en": "...What's wrong? Does something hurt?"
  },
  {
   "id": "SCENARIO/186/0145e",
@@ -504,7 +504,7 @@
   "jp": [
    "大丈夫よ"
   ],
-  "en": ""
+  "en": "I'm fine."
  },
  {
   "id": "SCENARIO/186/01478",
@@ -513,7 +513,7 @@
    "ちょっと出かけるけど",
    "すぐに戻ってくるから"
   ],
-  "en": ""
+  "en": "I'm going out for a bit, but I'll be right back."
  },
  {
   "id": "SCENARIO/186/014b8",
@@ -522,7 +522,7 @@
    "でも、もし私が帰らなかったら",
    "その手紙をお願いね"
   ],
-  "en": ""
+  "en": "But if I don't come home, that letter, okay?"
  },
  {
   "id": "SCENARIO/186/01512",
@@ -530,7 +530,7 @@
   "jp": [
    "うん！"
   ],
-  "en": ""
+  "en": "Yeah!"
  },
  {
   "id": "SCENARIO/186/01620",
@@ -538,7 +538,7 @@
   "jp": [
    "お前・・死ぬのか？"
   ],
-  "en": ""
+  "en": "You.. are you dying?"
  },
  {
   "id": "SCENARIO/186/0164e",
@@ -546,7 +546,7 @@
   "jp": [
    "うん、だから・・・"
   ],
-  "en": ""
+  "en": "Yes, so..."
  },
  {
   "id": "SCENARIO/186/0167c",
@@ -555,7 +555,7 @@
    "わたしの命",
    "あなたにあげるね・・"
   ],
-  "en": ""
+  "en": "I'll give you... my life.."
  },
  {
   "id": "SCENARIO/186/017b4",
@@ -564,7 +564,7 @@
    "チッ・・・・",
    "くたばっちまったか・・"
   ],
-  "en": ""
+  "en": "Tch.... Kicked the bucket, did she.."
  },
  {
   "id": "SCENARIO/186/017f6",
@@ -572,7 +572,7 @@
   "jp": [
    "どうか、安らかに・・・"
   ],
-  "en": ""
+  "en": "Rest in peace..."
  },
  {
   "id": "SCENARIO/186/01836",
@@ -582,7 +582,7 @@
    "せっかくインセストを見つけても",
    "死に損ないばっかじゃねぇかよ"
   ],
-  "en": ""
+  "en": "Damn Church and its rough handling. Finally find Incests, and they're all half-dead."
  },
  {
   "id": "SCENARIO/186/018b2",
@@ -591,7 +591,7 @@
    "まともに生きていたのは",
    "てめぇーくらいか・・"
   ],
-  "en": ""
+  "en": "Only one living a proper life was you, huh.."
  },
  {
   "id": "SCENARIO/186/0191e",
@@ -599,7 +599,7 @@
   "jp": [
    "・・・・・・・"
   ],
-  "en": ""
+  "en": "......."
  },
  {
   "id": "SCENARIO/186/01948",
@@ -608,7 +608,7 @@
    "インセスト捜し",
    "手伝ってくれるんだろう？"
   ],
-  "en": ""
+  "en": "You're gonna help me hunt for Incests, right?"
  },
  {
   "id": "SCENARIO/186/01984",
@@ -617,7 +617,7 @@
    "他に、いないのか？",
    "こういう死に損ないとは違うヤツ"
   ],
-  "en": ""
+  "en": "Aren't there any others? Ones that aren't half-dead like this."
  },
  {
   "id": "SCENARIO/186/019f6",
@@ -625,7 +625,7 @@
   "jp": [
    "わたしの力では・・・"
   ],
-  "en": ""
+  "en": "With my power..."
  },
  {
   "id": "SCENARIO/186/01a24",
@@ -633,7 +633,7 @@
   "jp": [
    "ぐぁぁぁぁっ！"
   ],
-  "en": ""
+  "en": "Gwaaaah!"
  },
  {
   "id": "SCENARIO/186/01a66",
@@ -641,7 +641,7 @@
   "jp": [
    "・・・またかよ"
   ],
-  "en": ""
+  "en": "...Again?"
  },
  {
   "id": "SCENARIO/186/01baa",
@@ -649,7 +649,7 @@
   "jp": [
    "や、やめて・・・"
   ],
-  "en": ""
+  "en": "S-stop..."
  },
  {
   "id": "SCENARIO/186/01c62",
@@ -657,7 +657,7 @@
   "jp": [
    "ぐはっ！"
   ],
-  "en": ""
+  "en": "Guhah!"
  },
  {
   "id": "SCENARIO/186/01d02",
@@ -665,7 +665,7 @@
   "jp": [
    "死ね・・死ね・・"
   ],
-  "en": ""
+  "en": "Die.. die.."
  },
  {
   "id": "SCENARIO/186/01dae",
@@ -673,7 +673,7 @@
   "jp": [
    "・・・おい、アベル"
   ],
-  "en": ""
+  "en": "...Hey, Abel."
  },
  {
   "id": "SCENARIO/186/01dde",
@@ -681,7 +681,7 @@
   "jp": [
    "死ね、死ね、死ねっ"
   ],
-  "en": ""
+  "en": "Die, die, die!"
  },
  {
   "id": "SCENARIO/186/01ec8",
@@ -689,7 +689,7 @@
   "jp": [
    "もう死んでるぜ、そいつ？"
   ],
-  "en": ""
+  "en": "That guy's already dead, y'know?"
  },
  {
   "id": "SCENARIO/186/01f1a",
@@ -697,7 +697,7 @@
   "jp": [
    "死ね、死ね、死ね・・・"
   ],
-  "en": ""
+  "en": "Die, die, die..."
  },
  {
   "id": "SCENARIO/186/01fda",
@@ -705,7 +705,7 @@
   "jp": [
    "おい・・・"
   ],
-  "en": ""
+  "en": "Hey..."
  },
  {
   "id": "SCENARIO/186/01ff8",
@@ -715,7 +715,7 @@
    "前みたいに、砕けた骨が",
    "コブシに突き刺さって・・"
   ],
-  "en": ""
+  "en": "Keep punching like that and, like last time, the broken bones'll jab into your fist.."
  },
  {
   "id": "SCENARIO/186/02088",
@@ -724,7 +724,7 @@
    "あはは・・・",
    "あははははっ！"
   ],
-  "en": ""
+  "en": "Ahaha... Ahahahaha!"
  },
  {
   "id": "SCENARIO/186/020ec",
@@ -732,7 +732,7 @@
   "jp": [
    "！"
   ],
-  "en": ""
+  "en": "!"
  },
  {
   "id": "SCENARIO/186/02118",
@@ -741,7 +741,7 @@
    "オイッ！",
    "てめぇー！！！"
   ],
-  "en": ""
+  "en": "Hey! You little...!!"
  },
  {
   "id": "SCENARIO/186/02204",
@@ -749,7 +749,7 @@
   "jp": [
    "・・・・・・・"
   ],
-  "en": ""
+  "en": "......."
  },
  {
   "id": "SCENARIO/186/0223c",
@@ -758,7 +758,7 @@
    "チッ・・・・",
    "いい加減にしろよ"
   ],
-  "en": ""
+  "en": "Tch.... Knock it off already."
  },
  {
   "id": "SCENARIO/186/02270",
@@ -767,7 +767,7 @@
    "自分のコブシが壊れるまで",
    "殴り続けるなんて・・・"
   ],
-  "en": ""
+  "en": "Punching till your own fist breaks..."
  },
  {
   "id": "SCENARIO/186/022ee",
@@ -775,7 +775,7 @@
   "jp": [
    "お前・・相当イカレてるぜ？"
   ],
-  "en": ""
+  "en": "You.. you're seriously cracked, you know that?"
  },
  {
   "id": "SCENARIO/186/023b8",
@@ -783,7 +783,7 @@
   "jp": [
    "気安くオレに触るな"
   ],
-  "en": ""
+  "en": "Keep your hands off me."
  },
  {
   "id": "SCENARIO/186/023f4",
@@ -793,7 +793,7 @@
    "相変わらずしつけのなってない",
    "ガキだな・・・"
   ],
-  "en": ""
+  "en": "Tch... Same ill-mannered brat as ever..."
  },
  {
   "id": "SCENARIO/186/0244c",
@@ -801,7 +801,7 @@
   "jp": [
    "カインが・・・悪いんだ"
   ],
-  "en": ""
+  "en": "It's Cain's... fault."
  },
  {
   "id": "SCENARIO/186/02474",
@@ -810,7 +810,7 @@
    "それに、ヨハネ・・・",
    "アイツのせいでオレ達は・・・"
   ],
-  "en": ""
+  "en": "And Johannes... Because of him, we..."
  },
  {
   "id": "SCENARIO/186/0250a",
@@ -818,7 +818,7 @@
   "jp": [
    "！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/186/02528",
@@ -826,7 +826,7 @@
   "jp": [
    "ヨハネが・・・消えた？"
   ],
-  "en": ""
+  "en": "Johannes... vanished?"
  },
  {
   "id": "SCENARIO/186/02572",
@@ -835,7 +835,7 @@
    "んぁ？",
    "また、何か聞こえたのかよ？"
   ],
-  "en": ""
+  "en": "Hm? You hear something again?"
  },
  {
   "id": "SCENARIO/186/025be",
@@ -843,7 +843,7 @@
   "jp": [
    "お前には関係ない"
   ],
-  "en": ""
+  "en": "None of your business."
  },
  {
   "id": "SCENARIO/186/0261a",
@@ -851,7 +851,7 @@
   "jp": [
    "おい、どこにいくつもりだ？"
   ],
-  "en": ""
+  "en": "Hey, where do you think you're going?"
  },
  {
   "id": "SCENARIO/186/0265e",
@@ -861,7 +861,7 @@
    "今、あいつは簡単に自分を",
    "見失う・・・"
   ],
-  "en": ""
+  "en": "With Matia and Johannes both gone, he'll lose himself in no time..."
  },
  {
   "id": "SCENARIO/186/026ca",
@@ -869,7 +869,7 @@
   "jp": [
    "だから・・"
   ],
-  "en": ""
+  "en": "So.."
  },
  {
   "id": "SCENARIO/186/02702",
@@ -878,7 +878,7 @@
    "相変わらず",
    "カインにご執心か・・・・"
   ],
-  "en": ""
+  "en": "Still hung up on Cain, same as ever...."
  },
  {
   "id": "SCENARIO/186/0274a",
@@ -888,12 +888,12 @@
    "坊主もイカレた野郎に",
    "好かれちまったもんだよな！"
   ],
-  "en": ""
+  "en": "HYAA-HAHAHA! Poor kiddo, having a lunatic like you sweet on him!"
  },
  {
   "id": "SCENARIO/186/062ec",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/186/062fa",
@@ -901,12 +901,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/186/06312",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/186/06322",
@@ -914,6 +914,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

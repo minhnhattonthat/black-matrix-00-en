@@ -2,7 +2,7 @@
  {
   "id": "SCENARIO/184/0029c",
   "jp": "構成員・男",
-  "en": ""
+  "en": "Member (Man)"
  },
  {
   "id": "SCENARIO/184/002b0",
@@ -11,12 +11,12 @@
    "本部からの支給品だ",
    "心して活用せよ"
   ],
-  "en": ""
+  "en": "Supplies from headquarters. Use them well."
  },
  {
   "id": "SCENARIO/184/00304",
   "jp": "構成員・男",
-  "en": ""
+  "en": "Member (Man)"
  },
  {
   "id": "SCENARIO/184/00318",
@@ -25,7 +25,7 @@
    "こら！",
    "ここは子供の遊び場じゃないぞ！"
   ],
-  "en": ""
+  "en": "Hey! This is no playground for children!"
  },
  {
   "id": "SCENARIO/184/0034c",
@@ -33,12 +33,12 @@
   "jp": [
    "用がすんだら早く帰りなさい"
   ],
-  "en": ""
+  "en": "If your business is done, go on home."
  },
  {
   "id": "SCENARIO/184/003ac",
   "jp": "構成員・女",
-  "en": ""
+  "en": "Member (Woman)"
  },
  {
   "id": "SCENARIO/184/003c0",
@@ -46,7 +46,7 @@
   "jp": [
    "あら、貴方は・・・"
   ],
-  "en": ""
+  "en": "Oh, it's you..."
  },
  {
   "id": "SCENARIO/184/003dc",
@@ -55,12 +55,12 @@
    "心配かけるなとは言わないけど",
    "無茶もほどほどにね"
   ],
-  "en": ""
+  "en": "I won't tell you not to worry us, but go easy on the recklessness, all right?"
  },
  {
   "id": "SCENARIO/184/0044c",
   "jp": "構成員・若者",
-  "en": ""
+  "en": "Member (Youth)"
  },
  {
   "id": "SCENARIO/184/00462",
@@ -70,12 +70,12 @@
    "生死の分かれ目なんて",
    "何が決め手かわからないからな"
   ],
-  "en": ""
+  "en": "Don't slack on weapon upkeep. You never know what'll decide life or death."
  },
  {
   "id": "SCENARIO/184/00508",
   "jp": "ダリア",
-  "en": ""
+  "en": "Dahlia"
  },
  {
   "id": "SCENARIO/184/00518",
@@ -84,7 +84,7 @@
    "あら、",
    "いらっしゃい"
   ],
-  "en": ""
+  "en": "Oh, welcome."
  },
  {
   "id": "SCENARIO/184/00538",
@@ -94,12 +94,12 @@
    "ステイエンが呼び出されて",
    "いたみたいだねぇ"
   ],
-  "en": ""
+  "en": "Nothing special to report... though it seems Stayen got called out somewhere."
  },
  {
   "id": "SCENARIO/184/00594",
   "jp": "ダリア",
-  "en": ""
+  "en": "Dahlia"
  },
  {
   "id": "SCENARIO/184/005a4",
@@ -107,7 +107,7 @@
   "jp": [
    "ステイエンが手紙を？"
   ],
-  "en": ""
+  "en": "Stayen got a letter?"
  },
  {
   "id": "SCENARIO/184/005c4",
@@ -117,12 +117,12 @@
    "恋文の一つや二つもらってても",
    "おかしくないと思うよ"
   ],
-  "en": ""
+  "en": "Well, she's at that age... Wouldn't be strange if she got a love letter or two."
  },
  {
   "id": "SCENARIO/184/00644",
   "jp": "ウェイター",
-  "en": ""
+  "en": "Waiter"
  },
  {
   "id": "SCENARIO/184/00658",
@@ -132,7 +132,7 @@
    "実は、僕にも念願の",
    "彼女ができまして・・・"
   ],
-  "en": ""
+  "en": "Ahahaha! Actually, I finally got myself the girlfriend I always wanted..."
  },
  {
   "id": "SCENARIO/184/006a0",
@@ -142,12 +142,12 @@
    "おかげで僕は、体重が増える",
    "一方ですよ"
   ],
-  "en": ""
+  "en": "She loves to cook. Thanks to her, my weight just keeps going up and up."
  },
  {
   "id": "SCENARIO/184/00720",
   "jp": "剣士",
-  "en": ""
+  "en": "Swordsman"
  },
  {
   "id": "SCENARIO/184/0072e",
@@ -157,7 +157,7 @@
    "たくさんの仲間が死んだけど",
    "なんとか生き延びてきたよ"
   ],
-  "en": ""
+  "en": "Ramstein Cathedral... Lots of comrades died there, but somehow I made it out alive."
  },
  {
   "id": "SCENARIO/184/0078c",
@@ -167,12 +167,12 @@
    "やっぱり待っている人がいると",
    "死ぬに死ねなくなるよな"
   ],
-  "en": ""
+  "en": "See, I've got a fiancee back home. With someone waiting, you just can't go and die."
  },
  {
   "id": "SCENARIO/184/00824",
   "jp": "中年",
-  "en": ""
+  "en": "Middle-aged Man"
  },
  {
   "id": "SCENARIO/184/00832",
@@ -182,12 +182,12 @@
    "飲んだところで、",
    "少しも酔えやしねぇんだ"
   ],
-  "en": ""
+  "en": "I'm swearing off booze... However much I drink, I can't get the least bit drunk."
  },
  {
   "id": "SCENARIO/184/008d8",
   "jp": "片翼の天使",
-  "en": ""
+  "en": "One-winged Angel"
  },
  {
   "id": "SCENARIO/184/008ec",
@@ -197,7 +197,7 @@
    "規則に縛られるよりも",
    "風と草と共に歌うのが好き♪"
   ],
-  "en": ""
+  "en": "I'm an angel wandering free. I'd sooner sing with wind and grass than live by rules~"
  },
  {
   "id": "SCENARIO/184/00948",
@@ -207,7 +207,7 @@
    "日を拒んだ永久の地下の暗闇で",
    "今でもひっそり咲いている"
   ],
-  "en": ""
+  "en": "The fair Luona flower still blooms in secret, in the eternal dark that shuns the sun."
  },
  {
   "id": "SCENARIO/184/009a0",
@@ -217,12 +217,12 @@
    "どんな傷でもたちまち癒す",
    "奇跡の花、その名はルオナ"
   ],
-  "en": ""
+  "en": "White of heart, crimson petals that mend any wound at once. Miracle flower, Luona."
  },
  {
   "id": "SCENARIO/184/00a28",
   "jp": "片翼の天使",
-  "en": ""
+  "en": "One-winged Angel"
  },
  {
   "id": "SCENARIO/184/00a3c",
@@ -232,7 +232,7 @@
    "日を拒んだ永久の地下の暗闇で",
    "今でもひっそり咲いている"
   ],
-  "en": ""
+  "en": "The fair Luona flower still blooms in secret, in the eternal dark that shuns the sun."
  },
  {
   "id": "SCENARIO/184/00a94",
@@ -242,7 +242,7 @@
    "どんな傷でもたちまち癒す",
    "奇跡の花、その名はルオナ"
   ],
-  "en": ""
+  "en": "White of heart, crimson petals that mend any wound at once. Miracle flower, Luona."
  },
  {
   "id": "SCENARIO/184/00af4",
@@ -252,7 +252,7 @@
    "嘘の中にも小さな真実が潜み",
    "詩の中にも真実は隠されている"
   ],
-  "en": ""
+  "en": "Dreams are dreams, songs are songs. Truths lurk in lies; truth hides in verse too."
  },
  {
   "id": "SCENARIO/184/00b4c",
@@ -260,7 +260,7 @@
   "jp": [
    "ここで君に質問"
   ],
-  "en": ""
+  "en": "Now, a question for you."
  },
  {
   "id": "SCENARIO/184/00b64",
@@ -268,18 +268,18 @@
   "jp": [
    "美しきルオナの花の色は？"
   ],
-  "en": "",
+  "en": "What color is the fair Luona flower?",
   "spill": false
  },
  {
   "id": "SCENARIO/184/00b84",
   "jp": "　紅い",
-  "en": ""
+  "en": "Crimson"
  },
  {
   "id": "SCENARIO/184/00b94",
   "jp": "　白い",
-  "en": ""
+  "en": "White"
  },
  {
   "id": "SCENARIO/184/00ba8",
@@ -288,7 +288,7 @@
    "そう、ルオナの花は、",
    "血の色によく似た紅い花だよ"
   ],
-  "en": ""
+  "en": "Yes. The Luona flower is a crimson flower, much the color of blood."
  },
  {
   "id": "SCENARIO/184/00be4",
@@ -297,7 +297,7 @@
    "キミに僕の詩が届いたから",
    "この詩を君に贈ろう"
   ],
-  "en": ""
+  "en": "Since my verse reached you, this poem is my gift to you."
  },
  {
   "id": "SCENARIO/184/00c1c",
@@ -307,7 +307,7 @@
    "深い深い地下へとつづく",
    "闇色の翼が築いた暗黒の回廊"
   ],
-  "en": ""
+  "en": "You know the answer. Deep, deep below, a dark corridor built by night-black wings."
  },
  {
   "id": "SCENARIO/184/00c7c",
@@ -317,7 +317,7 @@
    "その花を僕にも見せて欲しいな",
    "美しきルオナの花を"
   ],
-  "en": ""
+  "en": "If you find it, I'd love for you to show it to me too. The fair Luona flower."
  },
  {
   "id": "SCENARIO/184/00cf2",
@@ -327,12 +327,12 @@
    "届かぬなら、僕の贈る詩は",
    "ここまでだよ・・・"
   ],
-  "en": ""
+  "en": "My verse doesn't reach you. And if it can't reach, then my gift of verse ends here..."
  },
  {
   "id": "SCENARIO/184/00d60",
   "jp": "片翼の天使",
-  "en": ""
+  "en": "One-winged Angel"
  },
  {
   "id": "SCENARIO/184/00d74",
@@ -342,7 +342,7 @@
    "規則に縛られるよりも",
    "風と草と共に歌うのが好き♪"
   ],
-  "en": ""
+  "en": "I'm an angel wandering free. I'd sooner sing with wind and grass than live by rules~"
  },
  {
   "id": "SCENARIO/184/00dd0",
@@ -351,12 +351,12 @@
    "ルオナの花は塗り薬の材料",
    "まちがっても食べちゃだめだよ"
   ],
-  "en": ""
+  "en": "The Luona flower is an ingredient for salve. Whatever you do, don't eat it."
  },
  {
   "id": "SCENARIO/184/00e50",
   "jp": "リリス",
-  "en": ""
+  "en": "Lilis"
  },
  {
   "id": "SCENARIO/184/00e60",
@@ -365,12 +365,12 @@
    "えへへ～",
    "リリスはお絵かき中なの"
   ],
-  "en": ""
+  "en": "Ehehe~ Lilis is busy drawing right now."
  },
  {
   "id": "SCENARIO/184/00ec8",
   "jp": "老人",
-  "en": ""
+  "en": "Old Man"
  },
  {
   "id": "SCENARIO/184/00ed6",
@@ -378,7 +378,7 @@
   "jp": [
    "ルオナの花かね？"
   ],
-  "en": ""
+  "en": "The Luona flower, you say?"
  },
  {
   "id": "SCENARIO/184/00ef0",
@@ -387,7 +387,7 @@
    "神秘の薬草と呼ばれるものじゃな",
    "日の光を嫌う花でなぁ"
   ],
-  "en": ""
+  "en": "That's what they call the mystic herb. A flower that hates the light of day."
  },
  {
   "id": "SCENARIO/184/00f30",
@@ -397,12 +397,12 @@
    "今ではもう取り尽くされて",
    "無くなってしまったわい"
   ],
-  "en": ""
+  "en": "Was easy to come by in the old days, but it's all been picked clean now. None left."
  },
  {
   "id": "SCENARIO/184/00fa4",
   "jp": "老人",
-  "en": ""
+  "en": "Old Man"
  },
  {
   "id": "SCENARIO/184/00fb2",
@@ -410,12 +410,12 @@
   "jp": [
    "今日はいい天気だのう・・・"
   ],
-  "en": ""
+  "en": "Fine weather today..."
  },
  {
   "id": "SCENARIO/184/01014",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/184/01022",
@@ -425,7 +425,7 @@
    "やっぱり常設店より",
    "時々開いてる店とか・・・"
   ],
-  "en": ""
+  "en": "A shop selling rare goods... Not a fixed store, one that only opens now and then..."
  },
  {
   "id": "SCENARIO/184/0107c",
@@ -434,12 +434,12 @@
    "趣味でやるだけなら、",
    "そういう店とか、格好いいよな"
   ],
-  "en": ""
+  "en": "If it's just a hobby, a shop like that would be pretty cool."
  },
  {
   "id": "SCENARIO/184/01118",
   "jp": "老婆",
-  "en": ""
+  "en": "Old Woman"
  },
  {
   "id": "SCENARIO/184/01126",
@@ -448,7 +448,7 @@
    "ケケケケケッ",
    "ルオナの花とな？"
   ],
-  "en": ""
+  "en": "Keh keh keh keh! The Luona flower, you say?"
  },
  {
   "id": "SCENARIO/184/01150",
@@ -457,7 +457,7 @@
    "今ではもうお目にかかれなくなっ",
    "ちまったからねぇ"
   ],
-  "en": ""
+  "en": "You won't lay eyes on one anymore these days."
  },
  {
   "id": "SCENARIO/184/0118c",
@@ -466,12 +466,12 @@
    "あの花が咲いていられるのは",
    "詩人達の歌う詩の中だけじゃよ"
   ],
-  "en": ""
+  "en": "The only place that flower still blooms is in the songs the poets sing."
  },
  {
   "id": "SCENARIO/184/011e4",
   "jp": "老婆",
-  "en": ""
+  "en": "Old Woman"
  },
  {
   "id": "SCENARIO/184/011f2",
@@ -481,7 +481,7 @@
    "さすがに、お迎えが近いと",
    "心細くなるもんじゃのう・・・"
   ],
-  "en": ""
+  "en": "Keh keh keh keh! When your time draws near, you do get lonesome, I'll grant..."
  },
  {
   "id": "SCENARIO/184/01244",
@@ -490,7 +490,7 @@
    "最近、ケンカ別れした息子の",
    "夢ばかり見てしまってのう・・・"
   ],
-  "en": ""
+  "en": "Lately I keep dreaming of my son, the one I fell out with..."
  },
  {
   "id": "SCENARIO/184/0128c",
@@ -500,12 +500,12 @@
    "ルオナの花を探しに行ったり・・",
    "今となってはなつかしいよ"
   ],
-  "en": ""
+  "en": "Going off to look for Luona flowers when he fell ill with fever.. Fond memories now."
  },
  {
   "id": "SCENARIO/184/01328",
   "jp": "カップル・男",
-  "en": ""
+  "en": "Couple (Man)"
  },
  {
   "id": "SCENARIO/184/0133e",
@@ -514,7 +514,7 @@
    "僕の彼女、太ったことを",
    "気にしているみたいなんだ"
   ],
-  "en": ""
+  "en": "My girlfriend seems worried that she's put on weight."
  },
  {
   "id": "SCENARIO/184/0137c",
@@ -523,12 +523,12 @@
    "言われてみれば",
    "ちょっとお腹まわりが・・・？"
   ],
-  "en": ""
+  "en": "Now that she mentions it, around the belly there's a bit of a...?"
  },
  {
   "id": "SCENARIO/184/013e8",
   "jp": "カップル・女",
-  "en": ""
+  "en": "Couple (Woman)"
  },
  {
   "id": "SCENARIO/184/013fe",
@@ -537,7 +537,7 @@
    "最近、甘い物より酸っぱい物が",
    "食べたくてしかたがないの！"
   ],
-  "en": ""
+  "en": "Lately I just can't stop craving sour things instead of sweets!"
  },
  {
   "id": "SCENARIO/184/01444",
@@ -547,12 +547,12 @@
    "甘い物がいらなくなるなんて",
    "ちょうどいいわね！"
   ],
-  "en": ""
+  "en": "I'd just put on a little weight, so losing my sweet tooth is perfect timing!"
  },
  {
   "id": "SCENARIO/184/014d0",
   "jp": "神父",
-  "en": ""
+  "en": "Priest"
  },
  {
   "id": "SCENARIO/184/014de",
@@ -561,7 +561,7 @@
    "＜書＞を読まない子供のために",
    "私が語って聞かせてあげましょう"
   ],
-  "en": ""
+  "en": "For the children who do not read the Book, I shall tell the tale myself."
  },
  {
   "id": "SCENARIO/184/01528",
@@ -570,7 +570,7 @@
    "今日は、＜翼ある者とない者＞",
    "その違いについて話をしましょう"
   ],
-  "en": ""
+  "en": "Today, let us talk about the winged and the wingless, and what sets them apart."
  },
  {
   "id": "SCENARIO/184/01570",
@@ -578,18 +578,18 @@
   "jp": [
    "貴方も聞きますか？"
   ],
-  "en": "",
+  "en": "Will you listen as well?",
   "spill": false
  },
  {
   "id": "SCENARIO/184/0158a",
   "jp": "　はい",
-  "en": ""
+  "en": "Yes"
  },
  {
   "id": "SCENARIO/184/01598",
   "jp": "　いいえ",
-  "en": ""
+  "en": "No"
  },
  {
   "id": "SCENARIO/184/015ac",
@@ -599,7 +599,7 @@
    "子孫を残すのに結合を必要と",
    "しません"
   ],
-  "en": ""
+  "en": "As you know, the winged have no need of union to leave descendants."
  },
  {
   "id": "SCENARIO/184/015f8",
@@ -609,7 +609,7 @@
    "子供を産む者達のことを指し、",
    "両性体もまた女性と呼ばれます"
   ],
-  "en": ""
+  "en": "To angels, 'woman' means one who bears young, so the dual-sexed count as women too."
  },
  {
   "id": "SCENARIO/184/01660",
@@ -619,7 +619,7 @@
    "ましたが、本来は天使は男と女、",
    "両方の性を持つ者なのです"
   ],
-  "en": ""
+  "en": "It is rare now, but originally angels possessed both sexes, male and female alike."
  },
  {
   "id": "SCENARIO/184/016ce",
@@ -628,12 +628,12 @@
    "あなたも毎日＜書＞を読んで、",
    "立派な大人になるんですよ"
   ],
-  "en": ""
+  "en": "You too, read the Book every day and grow into a fine adult."
  },
  {
   "id": "SCENARIO/184/01764",
   "jp": "シリア",
-  "en": ""
+  "en": "Syria"
  },
  {
   "id": "SCENARIO/184/01774",
@@ -643,12 +643,12 @@
    "探しているのですが、どこも",
    "品切れで困りましたわ・・・"
   ],
-  "en": ""
+  "en": "I've been seeking a potent remedy for Johannes-san, but every shop is sold out..."
  },
  {
   "id": "SCENARIO/184/01800",
   "jp": "シリア",
-  "en": ""
+  "en": "Syria"
  },
  {
   "id": "SCENARIO/184/01810",
@@ -656,12 +656,12 @@
   "jp": [
    "『ルオナの花』ですか？"
   ],
-  "en": ""
+  "en": "The 'Luona flower,' you say?"
  },
  {
   "id": "SCENARIO/184/01830",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/184/01840",
@@ -669,12 +669,12 @@
   "jp": [
    "何か知らない？"
   ],
-  "en": ""
+  "en": "Know anything about it?"
  },
  {
   "id": "SCENARIO/184/01858",
   "jp": "シリア",
-  "en": ""
+  "en": "Syria"
  },
  {
   "id": "SCENARIO/184/01868",
@@ -684,7 +684,7 @@
    "塗り薬として使えばどんな",
    "傷でもたちまち治るとか・・・"
   ],
-  "en": ""
+  "en": "As I recall, it blooms crimson, and as a salve it heals any wound in an instant..."
  },
  {
   "id": "SCENARIO/184/018c4",
@@ -693,12 +693,12 @@
    "しかし、今ではもうどこにも",
    "無いと聞きます・・・"
   ],
-  "en": ""
+  "en": "But I hear there are none left anywhere now..."
  },
  {
   "id": "SCENARIO/184/01900",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/184/01910",
@@ -706,12 +706,12 @@
   "jp": [
    "そうなんだ・・・"
   ],
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "SCENARIO/184/0192c",
   "jp": "シリア",
-  "en": ""
+  "en": "Syria"
  },
  {
   "id": "SCENARIO/184/0193c",
@@ -720,12 +720,12 @@
    "そんなに落ち込まないで",
    "カインさん"
   ],
-  "en": ""
+  "en": "Don't be so downhearted, Cain-san."
  },
  {
   "id": "SCENARIO/184/0196c",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/184/0197c",
@@ -733,12 +733,12 @@
   "jp": [
    "うん・・・ありがとう"
   ],
-  "en": ""
+  "en": "Yeah... thanks."
  },
  {
   "id": "SCENARIO/184/019b0",
   "jp": "シリア",
-  "en": ""
+  "en": "Syria"
  },
  {
   "id": "SCENARIO/184/019c0",
@@ -747,12 +747,12 @@
    "はやく、ヨハネさんの傷が治ると",
    "良いのですけれど・・・"
   ],
-  "en": ""
+  "en": "I do hope Johannes-san's wounds heal soon..."
  },
  {
   "id": "SCENARIO/184/01a3c",
   "jp": "ステイエン",
-  "en": ""
+  "en": "Stayen"
  },
  {
   "id": "SCENARIO/184/01a50",
@@ -760,12 +760,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/184/01a8c",
   "jp": "ステイエン",
-  "en": ""
+  "en": "Stayen"
  },
  {
   "id": "SCENARIO/184/01aa0",
@@ -774,7 +774,7 @@
    "なんなのよ、",
    "今さらこんな手紙・・・"
   ],
-  "en": ""
+  "en": "What is this... a letter like this, after all this time..."
  },
  {
   "id": "SCENARIO/184/01ad0",
@@ -782,12 +782,12 @@
   "jp": [
    "あたしは、どうすれば・・・"
   ],
-  "en": ""
+  "en": "What am I supposed to do..."
  },
  {
   "id": "SCENARIO/184/01b18",
   "jp": "男の子",
-  "en": ""
+  "en": "Boy"
  },
  {
   "id": "SCENARIO/184/01b28",
@@ -795,7 +795,7 @@
   "jp": [
    "サーカスなんてつまんねーよ"
   ],
-  "en": ""
+  "en": "Circuses are boring."
  },
  {
   "id": "SCENARIO/184/01b4c",
@@ -805,12 +805,12 @@
    "やってることはほとんど毎回",
    "同じなんだぜ？"
   ],
-  "en": ""
+  "en": "I've come loads of times, and it's pretty much the same act every single time."
  },
  {
   "id": "SCENARIO/184/01bd0",
   "jp": "女の子",
-  "en": ""
+  "en": "Girl"
  },
  {
   "id": "SCENARIO/184/01be0",
@@ -819,7 +819,7 @@
    "文句ばっかり言ってるけど",
    "何度も熱心に通い詰めているのよ"
   ],
-  "en": ""
+  "en": "All he does is complain, but he keeps coming back here, time after time."
  },
  {
   "id": "SCENARIO/184/01c24",
@@ -829,12 +829,12 @@
    "男の子ってどうしてこう",
    "素直になれないのかしら？"
   ],
-  "en": ""
+  "en": "If he likes it, why not just say so? Why can't boys ever be honest?"
  },
  {
   "id": "SCENARIO/184/01cb4",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/184/01cc4",
@@ -842,12 +842,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/184/01ce0",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/184/01cf0",
@@ -855,12 +855,12 @@
   "jp": [
    "・・・あの"
   ],
-  "en": ""
+  "en": "...Um."
  },
  {
   "id": "SCENARIO/184/01d04",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/184/01d14",
@@ -870,12 +870,12 @@
    "今ちょっと持病の腰痛が・・・",
    "ウッ！！"
   ],
-  "en": ""
+  "en": "D-don't talk to me... My bad back's acting up again... Ugh!!"
  },
  {
   "id": "SCENARIO/184/01d9c",
   "jp": "兵士",
-  "en": ""
+  "en": "Soldier"
  },
  {
   "id": "SCENARIO/184/01daa",
@@ -884,7 +884,7 @@
    "何のために強くなりたいのか",
    "なんて、考えたこともなかった"
   ],
-  "en": ""
+  "en": "I'd never once thought about what I wanted to get stronger for."
  },
  {
   "id": "SCENARIO/184/01df0",
@@ -893,7 +893,7 @@
    "恋愛は自分を弱くする・・・",
    "だから、いけないことだと・・・"
   ],
-  "en": ""
+  "en": "Love makes you weak... So it was forbidden, they said..."
  },
  {
   "id": "SCENARIO/184/01e38",
@@ -902,12 +902,12 @@
    "でも俺は、強くなって",
    "何をしたかったんだろう？"
   ],
-  "en": ""
+  "en": "But what did I want to do, once I got strong?"
  },
  {
   "id": "SCENARIO/184/01ea8",
   "jp": "プラン",
-  "en": ""
+  "en": "Plan"
  },
  {
   "id": "SCENARIO/184/01eb8",
@@ -916,12 +916,12 @@
    "今日も元気に",
    "いらっしゃいませ～"
   ],
-  "en": ""
+  "en": "Bright and cheery as ever, welcome~"
  },
  {
   "id": "SCENARIO/184/01f20",
   "jp": "フライ",
-  "en": ""
+  "en": "Fly"
  },
  {
   "id": "SCENARIO/184/01f30",
@@ -929,12 +929,12 @@
   "jp": [
    "神秘の薬草？"
   ],
-  "en": ""
+  "en": "The mystic herb?"
  },
  {
   "id": "SCENARIO/184/01f48",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/184/01f58",
@@ -942,12 +942,12 @@
   "jp": [
    "何か知らない？"
   ],
-  "en": ""
+  "en": "Know anything about it?"
  },
  {
   "id": "SCENARIO/184/01f70",
   "jp": "フライ",
-  "en": ""
+  "en": "Fly"
  },
  {
   "id": "SCENARIO/184/01f80",
@@ -955,12 +955,12 @@
   "jp": [
    "ルオナの花のことかな～"
   ],
-  "en": ""
+  "en": "You probably mean the Luona flower~"
  },
  {
   "id": "SCENARIO/184/01fa0",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/184/01fb0",
@@ -968,12 +968,12 @@
   "jp": [
    "ルオナの花？"
   ],
-  "en": ""
+  "en": "The Luona flower?"
  },
  {
   "id": "SCENARIO/184/01fc8",
   "jp": "フライ",
-  "en": ""
+  "en": "Fly"
  },
  {
   "id": "SCENARIO/184/01fd8",
@@ -983,12 +983,12 @@
    "すごい薬草になるんだって～",
    "じいちゃんが昔教えてくれたよ～"
   ],
-  "en": ""
+  "en": "Yeah, it makes an amazing medicine, they say~ Grandpa told me about it ages ago~"
  },
  {
   "id": "SCENARIO/184/0203c",
   "jp": "フライ",
-  "en": ""
+  "en": "Fly"
  },
  {
   "id": "SCENARIO/184/0204c",
@@ -997,7 +997,7 @@
    "いらっしゃいませ～",
    "今日も頑張るの？"
   ],
-  "en": ""
+  "en": "Welcome~ Gonna work hard today?"
  },
  {
   "id": "SCENARIO/184/020a0",
@@ -1007,12 +1007,12 @@
    "こんな時、ボクに",
    "出来ることって何だろう？"
   ],
-  "en": ""
+  "en": "Johannes is hurt and can't move. At a time like this, what is there I can do?"
  },
  {
   "id": "SCENARIO/184/05c10",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/184/05c1e",
@@ -1020,12 +1020,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/184/05c36",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/184/05c46",
@@ -1033,6 +1033,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
