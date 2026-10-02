@@ -151,3 +151,8 @@ Fly uses 僕 in script 031: gender ambiguous, keep pronoun-free.
 | ＜百人斬りのザイオン＞ | Zion the Hundred-Slayer | |
 | ＜冷血のルカ＞ | Cold-Blooded Luca | |
 | お兄様 (Syria → Bale) | Brother | |
+| 中性体 | neuter | angel sexes |
+| 翼ある者 | the Winged Ones | |
+| 彼の者 | that One | creation myth |
+| 仮臥す者 | the one who lies in brief slumber | creation myth |
+| NPC labels | Waiter, Swordsman, Middle-aged Man, Old Man, Old Woman, Couple (Man/Woman), Priest, Boy, Girl, Clown, Soldier | |

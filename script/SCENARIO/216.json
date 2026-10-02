@@ -5,7 +5,7 @@
   "jp": [
    "ザイオン！！"
   ],
-  "en": ""
+  "en": "Zion!!"
  },
  {
   "id": "SCENARIO/216/00130",
@@ -13,7 +13,7 @@
   "jp": [
    "・・・何をしに来た？"
   ],
-  "en": ""
+  "en": "...What did you come here for?"
  },
  {
   "id": "SCENARIO/216/00192",
@@ -21,7 +21,7 @@
   "jp": [
    "・・・あの"
   ],
-  "en": ""
+  "en": "...Um"
  },
  {
   "id": "SCENARIO/216/001b8",
@@ -29,7 +29,7 @@
   "jp": [
    "お前にもう用はない"
   ],
-  "en": ""
+  "en": "I have no more business with you."
  },
  {
   "id": "SCENARIO/216/00216",
@@ -37,7 +37,7 @@
   "jp": [
    "ザイオン、話だけでも聞いて"
   ],
-  "en": ""
+  "en": "Zion, at least hear me out."
  },
  {
   "id": "SCENARIO/216/0025a",
@@ -47,7 +47,7 @@
    "お前みたいな奴・・・",
    "見ているとイライラする"
   ],
-  "en": ""
+  "en": "There's nothing to talk about! Someone like you... just looking at you irritates me."
  },
  {
   "id": "SCENARIO/216/002ca",
@@ -55,7 +55,7 @@
   "jp": [
    "！？"
   ],
-  "en": ""
+  "en": "!?"
  },
  {
   "id": "SCENARIO/216/002e8",
@@ -65,7 +65,7 @@
    "信じれば信じた分だけ",
    "裏切られた時にきついだけだ"
   ],
-  "en": ""
+  "en": "Don't trust people so easily. The more you trust, the harder the betrayal hits."
  },
  {
   "id": "SCENARIO/216/0034c",
@@ -74,7 +74,7 @@
    "そんなことも",
    "わからないのか？"
   ],
-  "en": ""
+  "en": "Can't you even understand that?"
  },
  {
   "id": "SCENARIO/216/00396",
@@ -82,7 +82,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/216/003d2",
@@ -90,7 +90,7 @@
   "jp": [
    "わかったら俺に構うな"
   ],
-  "en": ""
+  "en": "If you get it, leave me alone."
  },
  {
   "id": "SCENARIO/216/003f8",
@@ -99,7 +99,7 @@
    "お前はだまされ",
    "裏切られたんだ"
   ],
-  "en": ""
+  "en": "You were deceived and betrayed."
  },
  {
   "id": "SCENARIO/216/0043a",
@@ -109,7 +109,7 @@
    "黒羽根とオトモダチごっこなんて",
    "やめておくんだな"
   ],
-  "en": ""
+  "en": "If you get it, then from now on, quit playing at being friends with black-wings."
  },
  {
   "id": "SCENARIO/216/004b2",
@@ -117,7 +117,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/216/004d8",
@@ -126,7 +126,7 @@
    "ザイオンも、アベルと",
    "同じようなことを言っていた"
   ],
-  "en": ""
+  "en": "Zion said the same kind of thing Abel did."
  },
  {
   "id": "SCENARIO/216/0051c",
@@ -134,7 +134,7 @@
   "jp": [
    "本当にそうなの？"
   ],
-  "en": ""
+  "en": "Is it really true?"
  },
  {
   "id": "SCENARIO/216/00540",
@@ -142,12 +142,12 @@
   "jp": [
    "アベルの言葉が真実なの？"
   ],
-  "en": ""
+  "en": "Are Abel's words the truth?"
  },
  {
   "id": "SCENARIO/216/040b0",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/216/040be",
@@ -155,12 +155,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/216/040d6",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/216/040e6",
@@ -168,6 +168,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

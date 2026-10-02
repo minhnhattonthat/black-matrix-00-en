@@ -5,7 +5,7 @@
   "jp": [
    "おや、おかえりエクサル"
   ],
-  "en": ""
+  "en": "Oh, welcome back, Exal."
  },
  {
   "id": "SCENARIO/208/00154",
@@ -15,7 +15,7 @@
    "ルカを捜しに出かけた",
    "みんなは戻ってる？"
   ],
-  "en": ""
+  "en": "Auntie, is everyone back from looking for Luca?"
  },
  {
   "id": "SCENARIO/208/001b6",
@@ -23,7 +23,7 @@
   "jp": [
    "いや、まだだよ"
   ],
-  "en": ""
+  "en": "No, not yet."
  },
  {
   "id": "SCENARIO/208/001ee",
@@ -32,7 +32,7 @@
    "ザイオンとリリスが２人",
    "２階でお留守番してるけどね"
   ],
-  "en": ""
+  "en": "Zion and Lilis are upstairs minding the place, just the two of them."
  },
  {
   "id": "SCENARIO/208/0024a",
@@ -40,7 +40,7 @@
   "jp": [
    "・・・ふ～ん"
   ],
-  "en": ""
+  "en": "...Hmm."
  },
  {
   "id": "SCENARIO/208/00292",
@@ -50,7 +50,7 @@
    "ずいぶん静かだな",
    "ちょっと様子を見てくるよ"
   ],
-  "en": ""
+  "en": "Awful quiet for that, though. I'll go take a look."
  },
  {
   "id": "SCENARIO/208/003b8",
@@ -60,7 +60,7 @@
    "ちょうどリリスくらいになって",
    "いたんだよな・・・"
   ],
-  "en": ""
+  "en": "If she'd lived, she'd be just about Lilis's age by now..."
  },
  {
   "id": "SCENARIO/208/0041c",
@@ -70,7 +70,7 @@
    "助けることも、守ることも",
    "出来る・・・か"
   ],
-  "en": ""
+  "en": "As long as she's alive, you can save her, protect her... huh."
  },
  {
   "id": "SCENARIO/208/00470",
@@ -79,7 +79,7 @@
    "あの時、悪魔さえ",
    "現れなければ、あいつも・・"
   ],
-  "en": ""
+  "en": "If only that demon hadn't shown up back then, she'd.."
  },
  {
   "id": "SCENARIO/208/004c6",
@@ -88,7 +88,7 @@
    "リリス・・？",
    "どこに居る？"
   ],
-  "en": ""
+  "en": "Lilis..? Where are you?"
  },
  {
   "id": "SCENARIO/208/00502",
@@ -97,7 +97,7 @@
    "あれ、そこに居るのは",
    "・・・ザイオン？"
   ],
-  "en": ""
+  "en": "Huh, is that... Zion over there?"
  },
  {
   "id": "SCENARIO/208/005b2",
@@ -107,7 +107,7 @@
    "あそこにいるのはリリス、",
    "それに・・・"
   ],
-  "en": ""
+  "en": "Huh? That's Lilis over there, and..."
  },
  {
   "id": "SCENARIO/208/005f8",
@@ -115,7 +115,7 @@
   "jp": [
    "ザイオン？"
   ],
-  "en": ""
+  "en": "Zion?"
  },
  {
   "id": "SCENARIO/208/006cc",
@@ -123,7 +123,7 @@
   "jp": [
    "エ・・エクサル"
   ],
-  "en": ""
+  "en": "E-Exal"
  },
  {
   "id": "SCENARIO/208/00702",
@@ -131,7 +131,7 @@
   "jp": [
    "ザイオン・・・お前"
   ],
-  "en": ""
+  "en": "Zion... you"
  },
  {
   "id": "SCENARIO/208/00730",
@@ -140,12 +140,12 @@
    "いま、何を",
    "しようとした・・・！！"
   ],
-  "en": ""
+  "en": "What were you about to do, just now...!!"
  },
  {
   "id": "SCENARIO/208/042e0",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/208/042ee",
@@ -153,12 +153,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/208/04306",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/208/04316",
@@ -166,6 +166,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

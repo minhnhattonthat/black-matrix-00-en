@@ -2,7 +2,7 @@
  {
   "id": "SCENARIO/217/00040",
   "jp": "ここまでをセーブしますか？",
-  "en": ""
+  "en": "Save your progress so far?"
  },
  {
   "id": "SCENARIO/217/001c4",
@@ -11,7 +11,7 @@
    "天地創世のときより、",
    "世界は混沌をはらんでいた"
   ],
-  "en": ""
+  "en": "Since the creation of heaven and earth, the world has carried chaos in its womb."
  },
  {
   "id": "SCENARIO/217/00222",
@@ -21,7 +21,7 @@
    "光と闇",
    "力を持つ者と持たざる者"
   ],
-  "en": ""
+  "en": "White wings and black wings. Light and dark. Those with power and those without."
  },
  {
   "id": "SCENARIO/217/00282",
@@ -31,7 +31,7 @@
    "憎み合い、奪い合い、殺し合う",
    "計画された世界"
   ],
-  "en": ""
+  "en": "Every opposing factor hating, plundering, killing one another: a world designed so."
  },
  {
   "id": "SCENARIO/217/002fa",
@@ -40,7 +40,7 @@
    "互いを削り合う緋色の日々が続き",
    "ひととき勝利を収めた者は"
   ],
-  "en": ""
+  "en": "Crimson days of grinding each other down wore on, and those who won a passing victory"
  },
  {
   "id": "SCENARIO/217/00362",
@@ -50,7 +50,7 @@
    "彼（か）の者との約束通り、",
    "成熟の時を迎えた"
   ],
-  "en": ""
+  "en": "named themselves angels and, as promised to that One, came into their ripeness."
  },
  {
   "id": "SCENARIO/217/003d2",
@@ -60,7 +60,7 @@
    "羽根は地に墜ちて返らず",
    "世界樹とともに減じ始めた"
   ],
-  "en": ""
+  "en": "But wings chafed and torn fell to earth, never to return, waning with the World Tree."
  },
  {
   "id": "SCENARIO/217/00452",
@@ -69,7 +69,7 @@
    "そしてまた、",
    "約束の時来る"
   ],
-  "en": ""
+  "en": "And once more, the promised time comes."
  },
  {
   "id": "SCENARIO/217/0049a",
@@ -78,7 +78,7 @@
    "儚（はかな）くもろい",
    "翼すら持たぬ者達よ"
   ],
-  "en": ""
+  "en": "O fragile, brittle ones, who have not even wings,"
  },
  {
   "id": "SCENARIO/217/004f2",
@@ -86,7 +86,7 @@
   "jp": [
    "未来を託すにはあまりに未成熟"
   ],
-  "en": ""
+  "en": "far too unripe to be entrusted with the future."
  },
  {
   "id": "SCENARIO/217/0053a",
@@ -95,7 +95,7 @@
    "しかし、",
    "能わずとも・・為さねばならぬ"
   ],
-  "en": ""
+  "en": "And yet, though it be beyond you... it must be done."
  },
  {
   "id": "SCENARIO/217/0058e",
@@ -105,7 +105,7 @@
    "美しさも醜さも",
    "痛いほどにあふれるこの世界"
   ],
-  "en": ""
+  "en": "A world brimming, painfully, with beauty and ugliness alike, for young souls to meet."
  },
  {
   "id": "SCENARIO/217/005fe",
@@ -114,7 +114,7 @@
    "仮臥（かりぶ）す者の",
    "目覚めの時は近い"
   ],
-  "en": ""
+  "en": "The waking of the one who lies in brief slumber is near."
  },
  {
   "id": "SCENARIO/217/00652",
@@ -122,7 +122,7 @@
   "jp": [
    "それまでにカイン"
   ],
-  "en": ""
+  "en": "Before then, Cain,"
  },
  {
   "id": "SCENARIO/217/0068e",
@@ -130,12 +130,12 @@
   "jp": [
    "お前は・・・？"
   ],
-  "en": ""
+  "en": "You are...?"
  },
  {
   "id": "SCENARIO/217/04248",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/217/04256",
@@ -143,12 +143,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/217/0426e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/217/0427e",
@@ -156,6 +156,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

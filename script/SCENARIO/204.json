@@ -2,7 +2,7 @@
  {
   "id": "SCENARIO/204/00270",
   "jp": "構成員・男",
-  "en": ""
+  "en": "Member (Man)"
  },
  {
   "id": "SCENARIO/204/00284",
@@ -11,7 +11,7 @@
    "こら！",
    "ここは子供の遊び場じゃないぞ！"
   ],
-  "en": ""
+  "en": "Hey! This isn't a playground for kids!"
  },
  {
   "id": "SCENARIO/204/002b8",
@@ -19,12 +19,12 @@
   "jp": [
    "用がすんだら早く帰りなさい"
   ],
-  "en": ""
+  "en": "Finish your business and go home."
  },
  {
   "id": "SCENARIO/204/0033c",
   "jp": "構成員・女",
-  "en": ""
+  "en": "Member (Woman)"
  },
  {
   "id": "SCENARIO/204/00350",
@@ -33,12 +33,12 @@
    "本部からの支給品よ",
    "上手く使いなさい"
   ],
-  "en": ""
+  "en": "Supplies from headquarters. Use them well."
  },
  {
   "id": "SCENARIO/204/003a4",
   "jp": "構成員・女",
-  "en": ""
+  "en": "Member (Woman)"
  },
  {
   "id": "SCENARIO/204/003b8",
@@ -46,7 +46,7 @@
   "jp": [
    "あら、貴方は・・・"
   ],
-  "en": ""
+  "en": "Oh, you're..."
  },
  {
   "id": "SCENARIO/204/003d4",
@@ -55,12 +55,12 @@
    "いい子だから遊びたいのなら",
    "外で遊んでね"
   ],
-  "en": ""
+  "en": "Be a good boy and play outside if you want to play, okay?"
  },
  {
   "id": "SCENARIO/204/00440",
   "jp": "構成員・若者",
-  "en": ""
+  "en": "Member (Youth)"
  },
  {
   "id": "SCENARIO/204/00456",
@@ -70,12 +70,12 @@
    "生死の分かれ目なんて",
    "何が決め手かわからないからな"
   ],
-  "en": ""
+  "en": "Don't slack on weapon upkeep. You never know what'll decide life or death."
  },
  {
   "id": "SCENARIO/204/004fc",
   "jp": "ヴァルトス",
-  "en": ""
+  "en": "Valtoss"
  },
  {
   "id": "SCENARIO/204/00510",
@@ -85,7 +85,7 @@
    "スマンけど、",
    "オラも忙しい身やけん・・・"
   ],
-  "en": ""
+  "en": "Uh, aw... Sorry, but I'm a mighty busy feller m'self..."
  },
  {
   "id": "SCENARIO/204/00558",
@@ -94,12 +94,12 @@
    "何かあった時は、",
    "ダリアに助言ばこうとよか"
   ],
-  "en": ""
+  "en": "If somethin' comes up, go ask Dahlia fer advice, that'll do ya."
  },
  {
   "id": "SCENARIO/204/00590",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/204/005a0",
@@ -108,12 +108,12 @@
    "ヴァルトスさん",
    "なんか、言葉が・・・・・"
   ],
-  "en": ""
+  "en": "Valtoss-san... the way you're talking....."
  },
  {
   "id": "SCENARIO/204/005d4",
   "jp": "ヴァルトス",
-  "en": ""
+  "en": "Valtoss"
  },
  {
   "id": "SCENARIO/204/005e8",
@@ -121,7 +121,7 @@
   "jp": [
    "・・・・・・・・・・"
   ],
-  "en": ""
+  "en": ".........."
  },
  {
   "id": "SCENARIO/204/00608",
@@ -130,12 +130,12 @@
    "あ・・あぁ・・・",
    "その・・なんだ・・・"
   ],
-  "en": ""
+  "en": "Ah... ahh... That... well..."
  },
  {
   "id": "SCENARIO/204/0063c",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/204/0064c",
@@ -145,12 +145,12 @@
    "　ヴァルトスさん",
    "　すごい冷やアセだ・・・・・）"
   ],
-  "en": ""
+  "en": "(What's wrong with him? Valtoss-san's broken out in a cold sweat.....)"
  },
  {
   "id": "SCENARIO/204/006a0",
   "jp": "ヴァルトス",
-  "en": ""
+  "en": "Valtoss"
  },
  {
   "id": "SCENARIO/204/006b4",
@@ -158,7 +158,7 @@
   "jp": [
    "・・・・・・ッフ"
   ],
-  "en": ""
+  "en": "......Hmph."
  },
  {
   "id": "SCENARIO/204/006d0",
@@ -167,7 +167,7 @@
    "すまないが、",
    "私も多忙な身だ・・・"
   ],
-  "en": ""
+  "en": "Forgive me, but I am a busy man..."
  },
  {
   "id": "SCENARIO/204/00700",
@@ -176,12 +176,12 @@
    "何かあった時は、",
    "ダリアに助言をこうといい・・"
   ],
-  "en": ""
+  "en": "Should anything arise, you would do well to seek Dahlia's advice.."
  },
  {
   "id": "SCENARIO/204/00750",
   "jp": "ヴァルトス",
-  "en": ""
+  "en": "Valtoss"
  },
  {
   "id": "SCENARIO/204/00764",
@@ -190,7 +190,7 @@
    "すまないが、",
    "私も多忙な身だ・・・"
   ],
-  "en": ""
+  "en": "Forgive me, but I am a busy man..."
  },
  {
   "id": "SCENARIO/204/00794",
@@ -199,12 +199,12 @@
    "何かあった時は、",
    "ダリアに助言をこうといい・・"
   ],
-  "en": ""
+  "en": "Should anything arise, you would do well to seek Dahlia's advice.."
  },
  {
   "id": "SCENARIO/204/00814",
   "jp": "ダリア",
-  "en": ""
+  "en": "Dahlia"
  },
  {
   "id": "SCENARIO/204/00824",
@@ -213,7 +213,7 @@
    "あら、",
    "いらっしゃい"
   ],
-  "en": ""
+  "en": "Oh, welcome."
  },
  {
   "id": "SCENARIO/204/00844",
@@ -223,12 +223,12 @@
    "そういえば、リリスちゃんが",
    "絵のモデルを捜していたねぇ"
   ],
-  "en": ""
+  "en": "Nothing much to tell... Oh, right, Lilis-chan was looking for a model for a picture."
  },
  {
   "id": "SCENARIO/204/008cc",
   "jp": "ダリア",
-  "en": ""
+  "en": "Dahlia"
  },
  {
   "id": "SCENARIO/204/008dc",
@@ -238,12 +238,12 @@
    "リリスならあそこで絵を",
    "描いているよ"
   ],
-  "en": ""
+  "en": "Lilis? Lilis is over there drawing."
  },
  {
   "id": "SCENARIO/204/0093c",
   "jp": "ダリア",
-  "en": ""
+  "en": "Dahlia"
  },
  {
   "id": "SCENARIO/204/0094c",
@@ -252,7 +252,7 @@
    "あら、",
    "いらっしゃい"
   ],
-  "en": ""
+  "en": "Oh, welcome."
  },
  {
   "id": "SCENARIO/204/0096c",
@@ -261,12 +261,12 @@
    "特に情報はないよ",
    "いたって平和そのものさ"
   ],
-  "en": ""
+  "en": "Nothing to tell. It's peace and quiet itself."
  },
  {
   "id": "SCENARIO/204/009e4",
   "jp": "ウェイター",
-  "en": ""
+  "en": "Waiter"
  },
  {
   "id": "SCENARIO/204/009f8",
@@ -276,7 +276,7 @@
    "実は、僕にも念願の",
    "彼女ができまして・・・"
   ],
-  "en": ""
+  "en": "Ahahaha! Actually, I finally got the girlfriend I always wanted..."
  },
  {
   "id": "SCENARIO/204/00a40",
@@ -286,12 +286,12 @@
    "おかげで僕は、体重が増える",
    "一方ですよ"
   ],
-  "en": ""
+  "en": "She loves to cook. Thanks to her, my weight just keeps going up."
  },
  {
   "id": "SCENARIO/204/00ac0",
   "jp": "ウェイター",
-  "en": ""
+  "en": "Waiter"
  },
  {
   "id": "SCENARIO/204/00ad4",
@@ -301,7 +301,7 @@
    "絵本のモデルを",
    "頼まれたんですけど・・・"
   ],
-  "en": ""
+  "en": "Lilis-chan, you know, asked me to model for her picture book..."
  },
  {
   "id": "SCENARIO/204/00b20",
@@ -310,7 +310,7 @@
    "この姿みたとたんに",
    "断られました"
   ],
-  "en": ""
+  "en": "One look at how I look now and she turned me down."
  },
  {
   "id": "SCENARIO/204/00b4c",
@@ -319,12 +319,12 @@
    "やっぱり、やせなきゃ",
    "だめですね"
   ],
-  "en": ""
+  "en": "I really do have to lose weight, don't I."
  },
  {
   "id": "SCENARIO/204/00b78",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/204/00b88",
@@ -332,12 +332,12 @@
   "jp": [
    "リリスはどこに？"
   ],
-  "en": ""
+  "en": "Where's Lilis?"
  },
  {
   "id": "SCENARIO/204/00ba4",
   "jp": "ウェイター",
-  "en": ""
+  "en": "Waiter"
  },
  {
   "id": "SCENARIO/204/00bb8",
@@ -346,12 +346,12 @@
    "サーカスに行くと",
    "言ってましたかねぇ？"
   ],
-  "en": ""
+  "en": "She said she was going to the circus, I think?"
  },
  {
   "id": "SCENARIO/204/00bf4",
   "jp": "ウェイター",
-  "en": ""
+  "en": "Waiter"
  },
  {
   "id": "SCENARIO/204/00c08",
@@ -359,7 +359,7 @@
   "jp": [
    "いらっしゃいませ～"
   ],
-  "en": ""
+  "en": "Welcome~"
  },
  {
   "id": "SCENARIO/204/00c24",
@@ -369,12 +369,12 @@
    "子供にお酒なんてすすめたら",
    "ダリアさんにシメられます"
   ],
-  "en": ""
+  "en": "Drinks are for grown-ups. If I offered a kid a drink, Dahlia-san would wring my neck."
  },
  {
   "id": "SCENARIO/204/00cc0",
   "jp": "剣士",
-  "en": ""
+  "en": "Swordsman"
  },
  {
   "id": "SCENARIO/204/00cce",
@@ -384,7 +384,7 @@
    "行く先々で異端者の襲撃を受けて",
    "毎日が危険でいっぱいだよ"
   ],
-  "en": ""
+  "en": "Fine, I became a monk soldier, but heretics attack wherever I go. Danger every day."
  },
  {
   "id": "SCENARIO/204/00d34",
@@ -394,12 +394,12 @@
    "心配かけっぱなしだけど・・・",
    "必ずアイツを幸せにしてやるんだ"
   ],
-  "en": ""
+  "en": "I keep worrying the one I left back home... but I'll make her happy, no matter what."
  },
  {
   "id": "SCENARIO/204/00dd0",
   "jp": "中年",
-  "en": ""
+  "en": "Middle-aged Man"
  },
  {
   "id": "SCENARIO/204/00dde",
@@ -409,12 +409,12 @@
    "飲んだところで、",
    "少しも酔えやしねぇんだ"
   ],
-  "en": ""
+  "en": "I'm giving up booze... No matter how much I drink, I can't get the least bit drunk."
  },
  {
   "id": "SCENARIO/204/00e64",
   "jp": "片翼の天使",
-  "en": ""
+  "en": "One-winged Angel"
  },
  {
   "id": "SCENARIO/204/00e78",
@@ -424,7 +424,7 @@
    "規則に縛られるよりも",
    "風と草と共に歌うのが好き♪"
   ],
-  "en": ""
+  "en": "I'm a free-roaming angel. Rather than rules, I like singing with the wind and grass."
  },
  {
   "id": "SCENARIO/204/00ed4",
@@ -434,12 +434,12 @@
    "必要なのは、少し軽い財布に",
    "はき慣れた靴とこのオルガン"
   ],
-  "en": ""
+  "en": "The Book's just dead weight. All I need: a light wallet, worn-in shoes, this organ."
  },
  {
   "id": "SCENARIO/204/00f8c",
   "jp": "老人",
-  "en": ""
+  "en": "Old Man"
  },
  {
   "id": "SCENARIO/204/00f9a",
@@ -448,7 +448,7 @@
    "いつもあそこで立っている",
    "ばあさんはな・・・"
   ],
-  "en": ""
+  "en": "That old woman who's always standing over there..."
  },
  {
   "id": "SCENARIO/204/00fd4",
@@ -457,12 +457,12 @@
    "あの場所で、ケンカ別れした",
    "息子の帰りを待っているんじゃよ"
   ],
-  "en": ""
+  "en": "She's waiting in that spot for her son to come home. They parted after a quarrel."
  },
  {
   "id": "SCENARIO/204/01044",
   "jp": "老人",
-  "en": ""
+  "en": "Old Man"
  },
  {
   "id": "SCENARIO/204/01052",
@@ -470,12 +470,12 @@
   "jp": [
    "・・・悪いことしたかの～"
   ],
-  "en": ""
+  "en": "...I wonder if I did wrong~"
  },
  {
   "id": "SCENARIO/204/01074",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/204/01084",
@@ -483,12 +483,12 @@
   "jp": [
    "悪いことって？"
   ],
-  "en": ""
+  "en": "Did wrong how?"
  },
  {
   "id": "SCENARIO/204/0109c",
   "jp": "老人",
-  "en": ""
+  "en": "Old Man"
  },
  {
   "id": "SCENARIO/204/010aa",
@@ -498,7 +498,7 @@
    "絵のモデルになってくれと",
    "頼まれたんじゃ"
   ],
-  "en": ""
+  "en": "A little girl came along and asked me to model for a picture."
  },
  {
   "id": "SCENARIO/204/010f0",
@@ -508,7 +508,7 @@
    "姿勢をとっておったら",
    "眠くなってきてのぉ"
   ],
-  "en": ""
+  "en": "I held the pose she asked for, and I got to feeling sleepy..."
  },
  {
   "id": "SCENARIO/204/0113c",
@@ -518,12 +518,12 @@
    "泣きながら、",
    "行ってしまったのじゃ・・・"
   ],
-  "en": ""
+  "en": "When I came to, the girl had gone off in tears..."
  },
  {
   "id": "SCENARIO/204/0118c",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/204/0119c",
@@ -531,12 +531,12 @@
   "jp": [
    "どんなポーズを頼まれたの？"
   ],
-  "en": ""
+  "en": "What pose did she ask for?"
  },
  {
   "id": "SCENARIO/204/011c0",
   "jp": "老人",
-  "en": ""
+  "en": "Old Man"
  },
  {
   "id": "SCENARIO/204/011ce",
@@ -544,7 +544,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/204/011e4",
@@ -552,12 +552,12 @@
   "jp": [
    "死にそうな姿勢じゃ"
   ],
-  "en": ""
+  "en": "Lying like I was about to die."
  },
  {
   "id": "SCENARIO/204/01200",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/204/01210",
@@ -565,12 +565,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/204/01244",
   "jp": "老人",
-  "en": ""
+  "en": "Old Man"
  },
  {
   "id": "SCENARIO/204/01252",
@@ -578,12 +578,12 @@
   "jp": [
    "今日はいい天気だのう・・・"
   ],
-  "en": ""
+  "en": "Fine weather today, isn't it..."
  },
  {
   "id": "SCENARIO/204/012b4",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/204/012c2",
@@ -593,7 +593,7 @@
    "やっぱり常設店より",
    "時々開いてる店とか・・・"
   ],
-  "en": ""
+  "en": "A shop selling rare things... Not a permanent one, but one only open now and then..."
  },
  {
   "id": "SCENARIO/204/0131c",
@@ -602,12 +602,12 @@
    "趣味でやるだけなら、",
    "そういう店とか、格好いいよな"
   ],
-  "en": ""
+  "en": "If it's just a hobby, a shop like that is pretty cool, you know."
  },
  {
   "id": "SCENARIO/204/01398",
   "jp": "老婆",
-  "en": ""
+  "en": "Old Woman"
  },
  {
   "id": "SCENARIO/204/013a6",
@@ -617,7 +617,7 @@
    "さすがに、お迎えが近いと",
    "心細くなるもんじゃのう・・・"
   ],
-  "en": ""
+  "en": "Keh keh keh keh. With the end drawing near, one does get lonely..."
  },
  {
   "id": "SCENARIO/204/013f8",
@@ -626,7 +626,7 @@
    "最近、ケンカ別れした息子の",
    "夢ばかり見てしまってのう・・・"
   ],
-  "en": ""
+  "en": "Lately I keep dreaming of the son I quarreled with..."
  },
  {
   "id": "SCENARIO/204/01440",
@@ -636,12 +636,12 @@
    "ルオナの花を探しに行ったり・・",
    "今となってはなつかしいよ"
   ],
-  "en": ""
+  "en": "Going off to find a Luona flower when he fell ill with fever.. Fond memories now."
  },
  {
   "id": "SCENARIO/204/014f4",
   "jp": "カップル・男",
-  "en": ""
+  "en": "Couple (Man)"
  },
  {
   "id": "SCENARIO/204/0150a",
@@ -651,7 +651,7 @@
    "彼女を絵のモデルにしたいって",
    "言うんだ"
   ],
-  "en": ""
+  "en": "A little girl came by and said she wanted my girlfriend to model for a picture."
  },
  {
   "id": "SCENARIO/204/01554",
@@ -661,7 +661,7 @@
    "僕にもモデルになれって",
    "彼女がいうんだ"
   ],
-  "en": ""
+  "en": "If it were just her, fine, but my girlfriend said I had to model too."
  },
  {
   "id": "SCENARIO/204/015a8",
@@ -671,7 +671,7 @@
    "その女の子、とんでもないこと",
    "を言い出したんだ"
   ],
-  "en": ""
+  "en": "I figured I had no choice, but then the little girl said something outrageous."
  },
  {
   "id": "SCENARIO/204/01600",
@@ -680,12 +680,12 @@
    "恥ずかしすぎて、",
    "断っちゃったよ・・・"
   ],
-  "en": ""
+  "en": "Too embarrassing. I turned her down..."
  },
  {
   "id": "SCENARIO/204/01634",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/204/01644",
@@ -693,12 +693,12 @@
   "jp": [
    "とんでもないことって？"
   ],
-  "en": ""
+  "en": "Something outrageous, like what?"
  },
  {
   "id": "SCENARIO/204/01664",
   "jp": "カップル・男",
-  "en": ""
+  "en": "Couple (Man)"
  },
  {
   "id": "SCENARIO/204/0167a",
@@ -706,7 +706,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/204/01690",
@@ -714,12 +714,12 @@
   "jp": [
    "チューしてるとこ描くって・・・"
   ],
-  "en": ""
+  "en": "She'd draw us kissing..."
  },
  {
   "id": "SCENARIO/204/016b8",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/204/016c8",
@@ -727,12 +727,12 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/204/016f8",
   "jp": "カップル・男",
-  "en": ""
+  "en": "Couple (Man)"
  },
  {
   "id": "SCENARIO/204/0170e",
@@ -740,12 +740,12 @@
   "jp": [
    "来ないらしいんだ"
   ],
-  "en": ""
+  "en": "Seems she isn't coming."
  },
  {
   "id": "SCENARIO/204/01784",
   "jp": "カップル・女",
-  "en": ""
+  "en": "Couple (Woman)"
  },
  {
   "id": "SCENARIO/204/0179a",
@@ -755,7 +755,7 @@
    "絵のモデルになってくれって",
    "言われたわ"
   ],
-  "en": ""
+  "en": "A cute little girl came and asked me to model for a picture."
  },
  {
   "id": "SCENARIO/204/017e4",
@@ -765,7 +765,7 @@
    "彼も一緒に描いてもらおうと",
    "思ったんだけど・・・"
   ],
-  "en": ""
+  "en": "I was so happy, I thought I'd have him drawn with me too, but..."
  },
  {
   "id": "SCENARIO/204/01840",
@@ -775,12 +775,12 @@
    "断っちゃったのよ",
    "ほんとに自信ないんだから・・・"
   ],
-  "en": ""
+  "en": "He got all embarrassed and refused. Honestly, he has no confidence at all..."
  },
  {
   "id": "SCENARIO/204/018b0",
   "jp": "カップル・女",
-  "en": ""
+  "en": "Couple (Woman)"
  },
  {
   "id": "SCENARIO/204/018c6",
@@ -789,12 +789,12 @@
    "困ったわ・・・",
    "来てないのよね、最近"
   ],
-  "en": ""
+  "en": "What a shame... She hasn't come lately."
  },
  {
   "id": "SCENARIO/204/01934",
   "jp": "神父",
-  "en": ""
+  "en": "Priest"
  },
  {
   "id": "SCENARIO/204/01942",
@@ -803,7 +803,7 @@
    "＜書＞を読まない子供のために",
    "私が語って聞かせてあげましょう"
   ],
-  "en": ""
+  "en": "For children who do not read the Book, I shall tell its stories aloud."
  },
  {
   "id": "SCENARIO/204/0198c",
@@ -812,7 +812,7 @@
    "今日は、＜翼ある者＞について",
    "さらにくわしい話をしましょう"
   ],
-  "en": ""
+  "en": "Today, let us speak in more detail about the Winged Ones."
  },
  {
   "id": "SCENARIO/204/019d4",
@@ -820,18 +820,18 @@
   "jp": [
    "貴方も聞きますか？"
   ],
-  "en": "",
+  "en": "Will you listen as well?",
   "spill": false
  },
  {
   "id": "SCENARIO/204/019ee",
   "jp": "　はい",
-  "en": ""
+  "en": "Yes"
  },
  {
   "id": "SCENARIO/204/019fc",
   "jp": "　いいえ",
-  "en": ""
+  "en": "No"
  },
  {
   "id": "SCENARIO/204/01a10",
@@ -841,7 +841,7 @@
    "男か女か、はたまた両性体の",
    "どれかになります"
   ],
-  "en": ""
+  "en": "Angels are born sexless, and as they grow become male, female, or else both."
  },
  {
   "id": "SCENARIO/204/01a6c",
@@ -851,7 +851,7 @@
    "未分化の状態を＜中性体＞と",
    "言います"
   ],
-  "en": ""
+  "en": "The undifferentiated childhood state, neither male nor female, is called neuter."
  },
  {
   "id": "SCENARIO/204/01ab8",
@@ -861,7 +861,7 @@
    "男か女か、はたまた両性体の",
    "どれかになっているそうです"
   ],
-  "en": ""
+  "en": "By the time the self awakens, they are properly male, female, or both, so they say."
  },
  {
   "id": "SCENARIO/204/01b1c",
@@ -871,7 +871,7 @@
    "＜中性体＞だった天使は",
    "研究所に連行されて・・・"
   ],
-  "en": ""
+  "en": "Rumor has it angels still neuter past childhood are taken away to the laboratory..."
  },
  {
   "id": "SCENARIO/204/01b78",
@@ -881,7 +881,7 @@
    "めずらしい力や体質の者は、",
    "すぐ研究対象になりますからね"
   ],
-  "en": ""
+  "en": "Angel or Man, anyone with a rare power or constitution soon becomes a test subject."
  },
  {
   "id": "SCENARIO/204/01bd8",
@@ -891,7 +891,7 @@
    "普通の翼なき者に生まれた",
    "ことを神に感謝しましょう"
   ],
-  "en": ""
+  "en": "Ah, how dreadful... Let us thank God we were born ordinary wingless folk."
  },
  {
   "id": "SCENARIO/204/01c3a",
@@ -900,12 +900,12 @@
    "あなたも毎日＜書＞を読んで、",
    "立派な大人になるんですよ"
   ],
-  "en": ""
+  "en": "You read the Book every day too, and grow into a fine adult."
  },
  {
   "id": "SCENARIO/204/01cb0",
   "jp": "男の子",
-  "en": ""
+  "en": "Boy"
  },
  {
   "id": "SCENARIO/204/01cc0",
@@ -913,7 +913,7 @@
   "jp": [
    "サーカスなんてつまんねーよ"
   ],
-  "en": ""
+  "en": "The circus is so boring."
  },
  {
   "id": "SCENARIO/204/01ce4",
@@ -923,12 +923,12 @@
    "やってることはほとんど毎回",
    "同じなんだぜ？"
   ],
-  "en": ""
+  "en": "I've come tons of times, and they do almost the same stuff every single time, y'know?"
  },
  {
   "id": "SCENARIO/204/01d68",
   "jp": "女の子",
-  "en": ""
+  "en": "Girl"
  },
  {
   "id": "SCENARIO/204/01d78",
@@ -937,7 +937,7 @@
    "文句ばっかり言ってるけど",
    "何度も熱心に通い詰めているのよ"
   ],
-  "en": ""
+  "en": "He does nothing but complain, but he keeps coming back again and again."
  },
  {
   "id": "SCENARIO/204/01dbc",
@@ -947,12 +947,12 @@
    "男の子ってどうしてこう",
    "素直になれないのかしら？"
   ],
-  "en": ""
+  "en": "If you like it, just say so. Why can't boys ever be honest about things?"
  },
  {
   "id": "SCENARIO/204/01e6c",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/204/01e7c",
@@ -960,12 +960,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/204/01e98",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/204/01ea8",
@@ -973,12 +973,12 @@
   "jp": [
    "・・・あの"
   ],
-  "en": ""
+  "en": "...Um"
  },
  {
   "id": "SCENARIO/204/01ebc",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/204/01ecc",
@@ -986,12 +986,12 @@
   "jp": [
    "・・・さっきなんだけどさ"
   ],
-  "en": ""
+  "en": "...About earlier, see"
  },
  {
   "id": "SCENARIO/204/01ef0",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/204/01f00",
@@ -999,12 +999,12 @@
   "jp": [
    "！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/204/01f10",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/204/01f20",
@@ -1013,7 +1013,7 @@
    "小さな女の子がさ",
    "モデルになってくれとかいうんだ"
   ],
-  "en": ""
+  "en": "A little girl, she asked me to be her model, or something."
  },
  {
   "id": "SCENARIO/204/01f5c",
@@ -1023,7 +1023,7 @@
    "しゃべっちゃだめなんだ・・・",
    "しゃべりたかったけど・・・"
   ],
-  "en": ""
+  "en": "But I'm a clown, see. I'm not allowed to talk... I wanted to, though..."
  },
  {
   "id": "SCENARIO/204/01fb8",
@@ -1032,12 +1032,12 @@
    "ずっとだまってたら",
    "悲しい顔して、行っちゃったよ"
   ],
-  "en": ""
+  "en": "I kept quiet the whole time, and she left looking so sad."
  },
  {
   "id": "SCENARIO/204/01ff4",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/204/02004",
@@ -1045,12 +1045,12 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/204/0201c",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/204/0202c",
@@ -1058,12 +1058,12 @@
   "jp": [
    "なんか、悲しいよなぁ"
   ],
-  "en": ""
+  "en": "Kind of sad, isn't it."
  },
  {
   "id": "SCENARIO/204/02064",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/204/02074",
@@ -1071,12 +1071,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/204/02090",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/204/020a0",
@@ -1084,12 +1084,12 @@
   "jp": [
    "・・・あの"
   ],
-  "en": ""
+  "en": "...Um"
  },
  {
   "id": "SCENARIO/204/020b4",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/204/020c4",
@@ -1099,12 +1099,12 @@
    "今ちょっと持病の腰痛が・・・",
    "ウッ！！"
   ],
-  "en": ""
+  "en": "D-don't talk to me... My bad back is acting up right now... Urgh!!"
  },
  {
   "id": "SCENARIO/204/02154",
   "jp": "兵士",
-  "en": ""
+  "en": "Soldier"
  },
  {
   "id": "SCENARIO/204/02162",
@@ -1113,7 +1113,7 @@
    "あの子の名前は",
    "プランと言うのか・・・"
   ],
-  "en": ""
+  "en": "So that girl's name is Plan..."
  },
  {
   "id": "SCENARIO/204/02194",
@@ -1122,12 +1122,12 @@
    "い、いや、なんでもないぞ！",
    "ただの・・・独り言だ"
   ],
-  "en": ""
+  "en": "N-no, it's nothing! Just... talking to myself."
  },
  {
   "id": "SCENARIO/204/02204",
   "jp": "プラン",
-  "en": ""
+  "en": "Plan"
  },
  {
   "id": "SCENARIO/204/02214",
@@ -1136,12 +1136,12 @@
    "今日も元気に",
    "いらっしゃいませ～"
   ],
-  "en": ""
+  "en": "Welcome, bright and cheery as ever~"
  },
  {
   "id": "SCENARIO/204/0227c",
   "jp": "フライ",
-  "en": ""
+  "en": "Fly"
  },
  {
   "id": "SCENARIO/204/0228c",
@@ -1151,7 +1151,7 @@
    "絵のモデルになってほしいって",
    "言ってきたんだ～"
   ],
-  "en": ""
+  "en": "A teeny little girl came by~ and asked me to model for a picture~"
  },
  {
   "id": "SCENARIO/204/022e4",
@@ -1161,7 +1161,7 @@
    "宙返りとかしたら、女の子が",
    "もっと！ってせがむんだ～"
   ],
-  "en": ""
+  "en": "I got so happy~ I did somersaults and stuff, and she begged for more!~"
  },
  {
   "id": "SCENARIO/204/02344",
@@ -1170,7 +1170,7 @@
    "調子にのってクルクルやってたら",
    "女の子、目を回しちゃってさ～"
   ],
-  "en": ""
+  "en": "I got carried away spinning round and round, and the girl got dizzy~"
  },
  {
   "id": "SCENARIO/204/0238c",
@@ -1179,12 +1179,12 @@
    "フラフラしながら、",
    "街の方に行っちゃったよ～"
   ],
-  "en": ""
+  "en": "She wobbled off toward town~"
  },
  {
   "id": "SCENARIO/204/023dc",
   "jp": "フライ",
-  "en": ""
+  "en": "Fly"
  },
  {
   "id": "SCENARIO/204/023ec",
@@ -1193,12 +1193,12 @@
    "いらっしゃいませ～",
    "今日も頑張るの？"
   ],
-  "en": ""
+  "en": "Welcome~ Giving it your all today too?"
  },
  {
   "id": "SCENARIO/204/02460",
   "jp": "エクサル",
-  "en": ""
+  "en": "Exal"
  },
  {
   "id": "SCENARIO/204/02472",
@@ -1208,12 +1208,12 @@
    "むつかしい顔してたけど",
    "カイン、お前何か知ってるか？"
   ],
-  "en": ""
+  "en": "Lilis had kind of a troubled look on her face. Cain, you know anything about it?"
  },
  {
   "id": "SCENARIO/204/024f0",
   "jp": "エクサル",
-  "en": ""
+  "en": "Exal"
  },
  {
   "id": "SCENARIO/204/02502",
@@ -1223,12 +1223,12 @@
    "教えてくれって言われたんだけど",
    "なにかあったのかなぁ？"
   ],
-  "en": ""
+  "en": "Lilis just asked me to teach her how to use the Notebook. Did something happen?"
  },
  {
   "id": "SCENARIO/204/02568",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/204/02578",
@@ -1236,12 +1236,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/204/025a8",
   "jp": "エクサル",
-  "en": ""
+  "en": "Exal"
  },
  {
   "id": "SCENARIO/204/025ba",
@@ -1250,7 +1250,7 @@
    "酔うってどんな気分",
    "なんだろうなぁ？"
   ],
-  "en": ""
+  "en": "What does getting drunk feel like, I wonder?"
  },
  {
   "id": "SCENARIO/204/025ec",
@@ -1258,12 +1258,12 @@
   "jp": [
    "ミルクじゃ酔えないもんなぁ"
   ],
-  "en": ""
+  "en": "Can't get drunk on milk, after all."
  },
  {
   "id": "SCENARIO/204/0614c",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/204/0615a",
@@ -1271,12 +1271,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/204/06172",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/204/06182",
@@ -1284,6 +1284,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

@@ -5,7 +5,7 @@
   "jp": [
    "ただいま・・・"
   ],
-  "en": ""
+  "en": "I'm back..."
  },
  {
   "id": "SCENARIO/214/00180",
@@ -13,7 +13,7 @@
   "jp": [
    "カインさん！"
   ],
-  "en": ""
+  "en": "Cain-san!"
  },
  {
   "id": "SCENARIO/214/001b4",
@@ -21,7 +21,7 @@
   "jp": [
    "今の音は何？！"
   ],
-  "en": ""
+  "en": "What was that noise?!"
  },
  {
   "id": "SCENARIO/214/001dc",
@@ -30,7 +30,7 @@
    "大変なんです！",
    "エクサルさんとザイオンさんが！"
   ],
-  "en": ""
+  "en": "It's terrible! Exal-san and Zion-san are...!"
  },
  {
   "id": "SCENARIO/214/00236",
@@ -38,7 +38,7 @@
   "jp": [
    "二人がどうしたの？"
   ],
-  "en": ""
+  "en": "What about them?"
  },
  {
   "id": "SCENARIO/214/00272",
@@ -47,12 +47,12 @@
    "わたしにも何がなんだか",
    "とにかく二人を止めて下さい！"
   ],
-  "en": ""
+  "en": "I don't understand it myself. Just please, stop them!"
  },
  {
   "id": "SCENARIO/214/03de8",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/214/03df6",
@@ -60,12 +60,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/214/03e0e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/214/03e1e",
@@ -73,6 +73,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
