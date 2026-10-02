@@ -6,7 +6,7 @@
    "うーん・・・",
    "ここにもないの"
   ],
-  "en": ""
+  "en": "Hmm... Not here either."
  },
  {
   "id": "SCENARIO/279/00284",
@@ -16,7 +16,7 @@
    "みんなはいないのかい？",
    "一人で出歩いちゃ危ないよ"
   ],
-  "en": ""
+  "en": "Lilis-chan, is that you? Where's everyone else? It's dangerous to wander alone."
  },
  {
   "id": "SCENARIO/279/0033a",
@@ -26,7 +26,7 @@
    "ここ、お花咲いているところって",
    "ないの？"
   ],
-  "en": ""
+  "en": "...Soryu. Is there anywhere around here where flowers bloom?"
  },
  {
   "id": "SCENARIO/279/0039e",
@@ -34,7 +34,7 @@
   "jp": [
    "花？"
   ],
-  "en": ""
+  "en": "Flowers?"
  },
  {
   "id": "SCENARIO/279/003ca",
@@ -44,7 +44,7 @@
    "リリスはルカが大好きだけど",
    "何も出来ることがないの"
   ],
-  "en": ""
+  "en": "You see, Luca collapsed. Lilis loves Luca, but there's nothing Lilis can do."
  },
  {
   "id": "SCENARIO/279/0043a",
@@ -54,7 +54,7 @@
    "持っていったら、ルカが元気に",
    "なるかなって思ったの"
   ],
-  "en": ""
+  "en": "So I thought, if I brought her some pretty flowers, maybe Luca would get better."
  },
  {
   "id": "SCENARIO/279/004b6",
@@ -63,7 +63,7 @@
    "そっか～、グス、",
    "リリスちゃんは良い子だな～"
   ],
-  "en": ""
+  "en": "Aww~ Sniff. Lilis-chan, you're such a good kid~"
  },
  {
   "id": "SCENARIO/279/00506",
@@ -72,7 +72,7 @@
    "よし、俺がとっておきの場所に",
    "案内してやるよ"
   ],
-  "en": ""
+  "en": "All right. I'll take you to a special spot of mine."
  },
  {
   "id": "SCENARIO/279/0055e",
@@ -80,7 +80,7 @@
   "jp": [
    "とっておきの場所？？？"
   ],
-  "en": ""
+  "en": "A special spot???"
  },
  {
   "id": "SCENARIO/279/0059e",
@@ -90,7 +90,7 @@
    "地下世界にしか咲かない",
    "真っ白な花が咲く場所があるんだ"
   ],
-  "en": ""
+  "en": "A short walk from here, pure white flowers grow, ones that only bloom down here."
  },
  {
   "id": "SCENARIO/279/0061a",
@@ -98,7 +98,7 @@
   "jp": [
    "地下世界でしか咲かない花！？"
   ],
-  "en": ""
+  "en": "Flowers that only bloom in the underground world!?"
  },
  {
   "id": "SCENARIO/279/00650",
@@ -107,7 +107,7 @@
    "ルカの好きな花なんだけど・・",
    "一緒にとりに行こうか？"
   ],
-  "en": ""
+  "en": "They're Luca's favorite flowers.. Want to go pick some together?"
  },
  {
   "id": "SCENARIO/279/006ae",
@@ -116,12 +116,12 @@
    "うんうん！",
    "リリス一緒に行く！"
   ],
-  "en": ""
+  "en": "Yeah, yeah! Lilis will go too!"
  },
  {
   "id": "SCENARIO/279/04224",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/279/04232",
@@ -129,12 +129,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/279/0424a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/279/0425a",
@@ -142,6 +142,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

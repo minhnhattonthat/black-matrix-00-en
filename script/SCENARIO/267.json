@@ -6,7 +6,7 @@
    "ふふふ",
    "待たせてしまって悪かったねぇ"
   ],
-  "en": ""
+  "en": "Heh heh heh. Sorry to have kept you waiting."
  },
  {
   "id": "SCENARIO/267/00130",
@@ -15,7 +15,7 @@
    "・・・あの",
    "傷の方はもう大丈夫なんですか？"
   ],
-  "en": ""
+  "en": "...Um, is your wound all right now?"
  },
  {
   "id": "SCENARIO/267/00186",
@@ -25,7 +25,7 @@
    "年老いても羽根を持つ身じゃ",
    "すぐに傷もふさがりおる"
   ],
-  "en": ""
+  "en": "No need to worry. Old as I am, I still have my wings. A wound like that soon closes."
  },
  {
   "id": "SCENARIO/267/001ee",
@@ -34,7 +34,7 @@
    "・・・して、",
    "何の話を聞きたいのかね？"
   ],
-  "en": ""
+  "en": "...Now then, what is it you wish to hear about?"
  },
  {
   "id": "SCENARIO/267/00250",
@@ -42,7 +42,7 @@
   "jp": [
    "ペインリングについて聞きたい"
   ],
-  "en": ""
+  "en": "I want to ask about the Pain Rings."
  },
  {
   "id": "SCENARIO/267/00296",
@@ -51,7 +51,7 @@
    "ペインリングについて、",
    "何が聞きたいのじゃね？"
   ],
-  "en": ""
+  "en": "And what is it you wish to know about the Pain Rings?"
  },
  {
   "id": "SCENARIO/267/002e0",
@@ -61,7 +61,7 @@
    "使い方は知っているが",
    "あれがなんなのか我々は知らない"
   ],
-  "en": ""
+  "en": "First, what is a Pain Ring? We know how to use them, but not what they are."
  },
  {
   "id": "SCENARIO/267/0035e",
@@ -70,7 +70,7 @@
    "ペインとは＜核神＞の意",
    "ペインリングは偽りの器じゃ"
   ],
-  "en": ""
+  "en": "Pain means God Core. A Pain Ring is a false vessel."
  },
  {
   "id": "SCENARIO/267/003a4",
@@ -80,7 +80,7 @@
    "れるものなら、意志を引き起こす",
    "もの、それが＜核神＞"
   ],
-  "en": ""
+  "en": "If will gives rise to action, then that which gives rise to will is the God Core."
  },
  {
   "id": "SCENARIO/267/0040c",
@@ -90,7 +90,7 @@
    "＜核神＞をおさめる偽りの器こそ",
    "ペインリングの正体じゃ"
   ],
-  "en": ""
+  "en": "A false vessel to hold the God Core, the essence of a person: that is a Pain Ring."
  },
  {
   "id": "SCENARIO/267/0047c",
@@ -99,7 +99,7 @@
    "言い換えれば、肉体に代わる",
    "魂の器といったところか"
   ],
-  "en": ""
+  "en": "In other words, a vessel for the soul, in place of the flesh."
  },
  {
   "id": "SCENARIO/267/004cc",
@@ -107,7 +107,7 @@
   "jp": [
    "その通りじゃ"
   ],
-  "en": ""
+  "en": "Just so."
  },
  {
   "id": "SCENARIO/267/004f4",
@@ -115,7 +115,7 @@
   "jp": [
    "しかし、何故そのようなものが？"
   ],
-  "en": ""
+  "en": "But why make such a thing?"
  },
  {
   "id": "SCENARIO/267/0052c",
@@ -124,7 +124,7 @@
    "永久に存在出来ない肉体に代わり",
    "魂を残すためじゃよ"
   ],
-  "en": ""
+  "en": "To preserve the soul in place of a body that cannot last forever."
  },
  {
   "id": "SCENARIO/267/00574",
@@ -133,7 +133,7 @@
    "そしてそれは、＜倒立樹計画＞",
    "を成功させるためのものじゃ"
   ],
-  "en": ""
+  "en": "And that was for the sake of making the Inverted Tree Plan succeed."
  },
  {
   "id": "SCENARIO/267/005e8",
@@ -141,7 +141,7 @@
   "jp": [
    "＜倒立樹計画＞？"
   ],
-  "en": ""
+  "en": "The Inverted Tree Plan?"
  },
  {
   "id": "SCENARIO/267/00614",
@@ -151,7 +151,7 @@
    "膨大なエネルギーを無尽蔵に得る",
    "ことを可能とするもの"
   ],
-  "en": ""
+  "en": "The Inverted Tree is modeled on the World Tree. It can draw boundless energy."
  },
  {
   "id": "SCENARIO/267/00680",
@@ -161,7 +161,7 @@
    "高次元から膨大なエネルギーを",
    "この世界に供給している"
   ],
-  "en": ""
+  "en": "The World Tree not only holds up the world; it feeds it vast energy from on high."
  },
  {
   "id": "SCENARIO/267/006ec",
@@ -171,7 +171,7 @@
    "雨を降らせるのも、川を干上がら",
    "せるのも全てが思いのまま・・・"
   ],
-  "en": ""
+  "en": "Complete the Inverted Tree, and calling rain or drying rivers is all at one's whim..."
  },
  {
   "id": "SCENARIO/267/0075c",
@@ -180,7 +180,7 @@
    "全ての事象を思い通りに管理する",
    "ための機関の創設"
   ],
-  "en": ""
+  "en": "The founding of an organ to manage every phenomenon as one sees fit."
  },
  {
   "id": "SCENARIO/267/007a0",
@@ -188,12 +188,12 @@
   "jp": [
    "それが＜倒立樹計画＞なのじゃ"
   ],
-  "en": ""
+  "en": "That is the Inverted Tree Plan."
  },
  {
   "id": "SCENARIO/267/04360",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/267/0436e",
@@ -201,12 +201,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/267/04386",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/267/04396",
@@ -214,6 +214,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

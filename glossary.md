@@ -195,3 +195,9 @@ Correction: Luca uses アタシ (script 250) and 捜したわよ (056): Luca is 
 | 族長補佐 | Chief's Aide | |
 | 地下世界 | the underground world | |
 | ババ様 | this old granny | Unda, self |
+| ＜核神＞ | God Core | |
+| ＜統轄者＞ / ＜大母＞ / ＜救世主＞ | the Ruler / the Great Mother / the Savior | First Plan lore |
+| ＜第一次倒立樹計画＞ | the First Inverted Tree Plan | |
+| 禁忌の地 | the Forbidden Land | |
+| ＜グレイヘンの哀歌＞ / ＜グレイヘンの亡骸＞ | Greyhen's Lament / Greyhen's Remains | |
+| コウモリ羽 | bat-wings | Luca's insult |

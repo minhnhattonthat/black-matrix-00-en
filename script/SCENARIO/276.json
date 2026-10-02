@@ -5,7 +5,7 @@
   "jp": [
    "手当・・・して下さったのですね"
   ],
-  "en": ""
+  "en": "You... treated my wounds, didn't you."
  },
  {
   "id": "SCENARIO/276/00116",
@@ -13,7 +13,7 @@
   "jp": [
    "起きても大丈夫？"
   ],
-  "en": ""
+  "en": "Are you okay to sit up?"
  },
  {
   "id": "SCENARIO/276/00140",
@@ -21,7 +21,7 @@
   "jp": [
    "ええ、お気遣いなく"
   ],
-  "en": ""
+  "en": "Yes, don't trouble yourself."
  },
  {
   "id": "SCENARIO/276/0017a",
@@ -30,7 +30,7 @@
    "すぐに良くなるって",
    "だから・・・"
   ],
-  "en": ""
+  "en": "They said you'll get better soon. So..."
  },
  {
   "id": "SCENARIO/276/001c6",
@@ -40,7 +40,7 @@
    "でも、優しい嘘はいりません",
    "全部わかっていますから"
   ],
-  "en": ""
+  "en": "Thank you. But I don't need kind lies. I understand everything."
  },
  {
   "id": "SCENARIO/276/0023a",
@@ -48,7 +48,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/276/0026e",
@@ -57,7 +57,7 @@
    "キミは、どうしてアベルと",
    "一緒に居たの？"
   ],
-  "en": ""
+  "en": "Why were you with Abel?"
  },
  {
   "id": "SCENARIO/276/002c2",
@@ -67,7 +67,7 @@
    "教団施設からアベル様によって",
    "連れ出されたインセスト達です"
   ],
-  "en": ""
+  "en": "Everyone with Abel-sama is an Incest he brought out of the Church's facility."
  },
  {
   "id": "SCENARIO/276/00346",
@@ -76,7 +76,7 @@
    "それって、さらわれたって",
    "いうこと？"
   ],
-  "en": ""
+  "en": "You mean... he kidnapped you?"
  },
  {
   "id": "SCENARIO/276/00388",
@@ -86,7 +86,7 @@
    "あの方についてゆくことを",
    "決めました"
   ],
-  "en": ""
+  "en": "But we decided to follow him of our own will."
  },
  {
   "id": "SCENARIO/276/003f6",
@@ -94,7 +94,7 @@
   "jp": [
    "どうしてアベルに・・・"
   ],
-  "en": ""
+  "en": "Why Abel..."
  },
  {
   "id": "SCENARIO/276/00428",
@@ -103,7 +103,7 @@
    "あの方がわたしにとって",
    "偽りのない真実だったからです"
   ],
-  "en": ""
+  "en": "Because to me, he was a truth without falsehood."
  },
  {
   "id": "SCENARIO/276/0048c",
@@ -113,7 +113,7 @@
    "でも、この世界には優しさだけで",
    "は癒せない傷もあるのです"
   ],
-  "en": ""
+  "en": "You're a kind person. But some wounds in this world can't be healed by kindness."
  },
  {
   "id": "SCENARIO/276/004fa",
@@ -123,7 +123,7 @@
    "痛くても少しの偽りもない言葉を",
    "語るあの方こそが、わたしの真実"
   ],
-  "en": ""
+  "en": "Not you and your soft dreams. He whose words hurt but hold no lie: he is my truth."
  },
  {
   "id": "SCENARIO/276/0057e",
@@ -132,7 +132,7 @@
    "真実？",
    "キミの言う真実って何なの？"
   ],
-  "en": ""
+  "en": "Truth? What is this truth you speak of?"
  },
  {
   "id": "SCENARIO/276/005bc",
@@ -140,7 +140,7 @@
   "jp": [
    "それは・・・"
   ],
-  "en": ""
+  "en": "It's..."
  },
  {
   "id": "SCENARIO/276/005fe",
@@ -148,7 +148,7 @@
   "jp": [
    "うっ！？"
   ],
-  "en": ""
+  "en": "Ugh!?"
  },
  {
   "id": "SCENARIO/276/0062e",
@@ -157,7 +157,7 @@
    "ど、どうしたの？",
    "具合が悪くなったの！？"
   ],
-  "en": ""
+  "en": "Wh-what's wrong? Are you feeling worse!?"
  },
  {
   "id": "SCENARIO/276/00682",
@@ -165,7 +165,7 @@
   "jp": [
    "いえ、違います・・・"
   ],
-  "en": ""
+  "en": "No, it's not that..."
  },
  {
   "id": "SCENARIO/276/006b0",
@@ -173,7 +173,7 @@
   "jp": [
    "この感じは・・・"
   ],
-  "en": ""
+  "en": "This feeling..."
  },
  {
   "id": "SCENARIO/276/00728",
@@ -181,12 +181,12 @@
   "jp": [
    "ど、どこに行くの！？"
   ],
-  "en": ""
+  "en": "Wh-where are you going!?"
  },
  {
   "id": "SCENARIO/276/042ac",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/276/042ba",
@@ -194,12 +194,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/276/042d2",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/276/042e2",
@@ -207,6 +207,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

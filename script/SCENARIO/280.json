@@ -2,7 +2,7 @@
  {
   "id": "SCENARIO/280/00270",
   "jp": "ウンダ",
-  "en": ""
+  "en": "Unda"
  },
  {
   "id": "SCENARIO/280/00280",
@@ -10,13 +10,13 @@
   "jp": [
    "マスターいつになるんだ～"
   ],
-  "en": "",
+  "en": "Master, how much longer~",
   "spill": false
  },
  {
   "id": "SCENARIO/280/002b8",
   "jp": "自警団長",
-  "en": ""
+  "en": "Watch Captain"
  },
  {
   "id": "SCENARIO/280/002ca",
@@ -24,7 +24,7 @@
   "jp": [
    "ウンダ様は現存する最古の悪魔"
   ],
-  "en": ""
+  "en": "Unda-sama is the oldest demon alive."
  },
  {
   "id": "SCENARIO/280/002f0",
@@ -34,7 +34,7 @@
    "皆、どこかでウンダ様の血を",
    "ひいてると言っても過言ではない"
   ],
-  "en": ""
+  "en": "It's no exaggeration to say most demons alive carry Unda-sama's blood somewhere."
  },
  {
   "id": "SCENARIO/280/00350",
@@ -44,12 +44,12 @@
    "可愛い我が子や孫達のような",
    "ものなのだろう・・"
   ],
-  "en": ""
+  "en": "To Unda-sama, all demons must be like her own dear children and grandchildren.."
  },
  {
   "id": "SCENARIO/280/003e0",
   "jp": "族長補佐",
-  "en": ""
+  "en": "Chief's Aide"
  },
  {
   "id": "SCENARIO/280/003f2",
@@ -58,12 +58,12 @@
    "ウンダ様なら、",
    "ルカの看病をしている"
   ],
-  "en": ""
+  "en": "Unda-sama? She's tending to Luca."
  },
  {
   "id": "SCENARIO/280/00458",
   "jp": "悪魔・少女",
-  "en": ""
+  "en": "Demon (Girl)"
  },
  {
   "id": "SCENARIO/280/0046c",
@@ -72,7 +72,7 @@
    "ルカが倒れたって聞いたけど",
    "大丈夫なの？"
   ],
-  "en": ""
+  "en": "I heard Luca collapsed. Is she okay?"
  },
  {
   "id": "SCENARIO/280/004a0",
@@ -82,12 +82,12 @@
    "強がりで無理ばかりするから、",
    "ちゃんと見ててあげてね"
   ],
-  "en": ""
+  "en": "That girl... she acts tough and always overdoes it, so keep a good eye on her."
  },
  {
   "id": "SCENARIO/280/00524",
   "jp": "女主人",
-  "en": ""
+  "en": "Mistress"
  },
  {
   "id": "SCENARIO/280/00534",
@@ -95,7 +95,7 @@
   "jp": [
    "あら、いらっしゃい"
   ],
-  "en": ""
+  "en": "Oh, welcome."
  },
  {
   "id": "SCENARIO/280/00550",
@@ -105,12 +105,12 @@
    "書き込んでいたけれど・・・",
    "アレ、あんた達あてだろ？"
   ],
-  "en": ""
+  "en": "Soryu was writing in the Notebook... That was meant for you lot, wasn't it?"
  },
  {
   "id": "SCENARIO/280/005c4",
   "jp": "ウェイトレス",
-  "en": ""
+  "en": "Waitress"
  },
  {
   "id": "SCENARIO/280/005da",
@@ -120,7 +120,7 @@
    "気を落とさないで、",
    "ルカならきっと大丈夫よ"
   ],
-  "en": ""
+  "en": "I hear Luca collapsed... Don't let it get you down. Luca will be fine, I'm sure."
  },
  {
   "id": "SCENARIO/280/00634",
@@ -130,7 +130,7 @@
    "どうしても寂しくなったら、",
    "お姉さんを呼んでね？"
   ],
-  "en": ""
+  "en": "If it gets too painful and you just can't bear being lonely, call on big sis, okay?"
  },
  {
   "id": "SCENARIO/280/00694",
@@ -140,12 +140,12 @@
    "優しくなぐさめてあげるわ・・・",
    "何もかも忘れるほどにね"
   ],
-  "en": ""
+  "en": "Hee hee. I'll comfort you ever so gently... until you forget everything."
  },
  {
   "id": "SCENARIO/280/00718",
   "jp": "悪魔・剣士",
-  "en": ""
+  "en": "Demon (Swordsman)"
  },
  {
   "id": "SCENARIO/280/0072c",
@@ -155,7 +155,7 @@
    "教団に忠実な家畜たちにとって",
    "この上なく住みやすい場所だろ？"
   ],
-  "en": ""
+  "en": "Up top is paradise for white-wings and wingless, the Church's tame livestock, no?"
  },
  {
   "id": "SCENARIO/280/00794",
@@ -165,7 +165,7 @@
    "死線をかいくぐって来たなんて、",
    "お前ら・・バカってやつだな？"
   ],
-  "en": ""
+  "en": "Living somewhere like that, yet you've come through hell... You lot are idiots, huh?"
  },
  {
   "id": "SCENARIO/280/007fc",
@@ -174,12 +174,12 @@
    "俺はそういうバカなヤツら・・・",
    "嫌いじゃないぜ？"
   ],
-  "en": ""
+  "en": "Idiots like that... I don't mind them one bit."
  },
  {
   "id": "SCENARIO/280/0086c",
   "jp": "悪魔・中年",
-  "en": ""
+  "en": "Demon (Older Man)"
  },
  {
   "id": "SCENARIO/280/00880",
@@ -189,12 +189,12 @@
    "飲みたいだけ飲んで、",
    "食いたいだけ食って何が悪い？"
   ],
-  "en": ""
+  "en": "Buuurp. What's wrong with drinking all I want and eating all I want?"
  },
  {
   "id": "SCENARIO/280/00904",
   "jp": "片翼の天使",
-  "en": ""
+  "en": "One-winged Angel"
  },
  {
   "id": "SCENARIO/280/00918",
@@ -204,7 +204,7 @@
    "それが＜グレイヘンの哀歌＞",
    "全ての詩人が求める最高の詩"
   ],
-  "en": ""
+  "en": "A divine melody: Greyhen's Lament. The supreme song every poet seeks."
  },
  {
   "id": "SCENARIO/280/00970",
@@ -214,7 +214,7 @@
    "神の歌声を持つ伝説の美しき咎人",
    "だったと口伝で伝わっている・・"
   ],
-  "en": ""
+  "en": "Oral lore has it Greyhen was the fair sinner of legend, with God's singing voice.."
  },
  {
   "id": "SCENARIO/280/009d4",
@@ -224,7 +224,7 @@
    "傷をいやしたと言われてるけど",
    "本当のところは何一つわからない"
   ],
-  "en": ""
+  "en": "They say that voice healed the wounds of the sick, but no one knows what's true."
  },
  {
   "id": "SCENARIO/280/00a34",
@@ -233,12 +233,12 @@
    "美しき咎人・・・グレイヘン",
    "どんな人だったんだろうね"
   ],
-  "en": ""
+  "en": "The fair sinner... Greyhen. What kind of person was she, I wonder."
  },
  {
   "id": "SCENARIO/280/00aa8",
   "jp": "自警団員・男",
-  "en": ""
+  "en": "Watchman"
  },
  {
   "id": "SCENARIO/280/00abe",
@@ -247,7 +247,7 @@
    "どんな原石も、",
    "みがかなければ、ただの石ころだ"
   ],
-  "en": ""
+  "en": "Any rough gem, left unpolished, is just a pebble."
  },
  {
   "id": "SCENARIO/280/00af8",
@@ -257,7 +257,7 @@
    "確かに個人の興味と適性と資質が",
    "合致した時は、そう見えるかもな"
   ],
-  "en": ""
+  "en": "Genius? Talent? When interest, aptitude and nature line up, maybe it looks that way."
  },
  {
   "id": "SCENARIO/280/00b54",
@@ -267,12 +267,12 @@
    "今の自分に甘んじていれば、",
    "すぐに地べたに落とされるものさ"
   ],
-  "en": ""
+  "en": "...But any genius who rests on their laurels will soon be knocked flat on the ground."
  },
  {
   "id": "SCENARIO/280/00bf0",
   "jp": "悪魔・男",
-  "en": ""
+  "en": "Demon (Man)"
  },
  {
   "id": "SCENARIO/280/00c02",
@@ -282,7 +282,7 @@
    "直接言えばいいことまで",
    "雑記帳に書き込むクセがあってな"
   ],
-  "en": ""
+  "en": "Soryu has this habit of writing in the Notebook even things better said to your face."
  },
  {
   "id": "SCENARIO/280/00c54",
@@ -292,12 +292,12 @@
    "ザイオン、アラギ、ルカを",
    "怒らせていたな・・・"
   ],
-  "en": ""
+  "en": "It got Zion, Aragi and Luca pretty angry with him, more than once..."
  },
  {
   "id": "SCENARIO/280/00cdc",
   "jp": "悪魔・女",
-  "en": ""
+  "en": "Demon (Woman)"
  },
  {
   "id": "SCENARIO/280/00cee",
@@ -307,7 +307,7 @@
    "知られていない小さな勢力が",
    "いくつか存在しているわ"
   ],
-  "en": ""
+  "en": "There are several other small factions underground whose names aren't even known."
  },
  {
   "id": "SCENARIO/280/00d4c",
@@ -317,12 +317,12 @@
    "並ぶ勢力を持っているのは、",
    "ここカルヒンくらいでしょうね"
   ],
-  "en": ""
+  "en": "But the only one with power to rival the old guard, Filio and Gelda, is Kalhin here."
  },
  {
   "id": "SCENARIO/280/00de8",
   "jp": "自警団員・女",
-  "en": ""
+  "en": "Watchwoman"
  },
  {
   "id": "SCENARIO/280/00dfe",
@@ -332,7 +332,7 @@
    "あのソリュウが、少しだけ",
    "たくましくなったように見える"
   ],
-  "en": ""
+  "en": "Since you came to the village, that Soryu seems to have toughened up a little."
  },
  {
   "id": "SCENARIO/280/00e5c",
@@ -340,7 +340,7 @@
   "jp": [
    "お前達、何かしたのか？"
   ],
-  "en": ""
+  "en": "Did you do something?"
  },
  {
   "id": "SCENARIO/280/00ea8",
@@ -348,7 +348,7 @@
   "jp": [
    "フン、まあいい"
   ],
-  "en": ""
+  "en": "Hmph. Well, never mind."
  },
  {
   "id": "SCENARIO/280/00ec0",
@@ -357,12 +357,12 @@
    "感謝の気持ちだ",
    "持っていきな"
   ],
-  "en": ""
+  "en": "A token of my thanks. Take it."
  },
  {
   "id": "SCENARIO/280/00f44",
   "jp": "悪魔・男の子",
-  "en": ""
+  "en": "Demon (Boy)"
  },
  {
   "id": "SCENARIO/280/00f5a",
@@ -371,7 +371,7 @@
    "恋だの愛だのってさ～",
    "翼ある者には必要ない感情だよな"
   ],
-  "en": ""
+  "en": "Crushes and love and all that~ Those with wings don't need such feelings."
  },
  {
   "id": "SCENARIO/280/00f9c",
@@ -381,7 +381,7 @@
    "結合しなくても勝手にガキは",
    "出来るってのに・・・"
   ],
-  "en": ""
+  "en": "Romance is just being in heat, right? Kids come along on their own without union..."
  },
  {
   "id": "SCENARIO/280/00ff4",
@@ -391,12 +391,12 @@
    "男のステータスとして、",
    "マイナスにはならないけどな"
   ],
-  "en": ""
+  "en": "Well, having a girlfriend's no minus to a guy's status, I'll give it that."
  },
  {
   "id": "SCENARIO/280/01080",
   "jp": "悪魔・女の子",
-  "en": ""
+  "en": "Demon (Little Girl)"
  },
  {
   "id": "SCENARIO/280/01096",
@@ -406,7 +406,7 @@
    "バカで言ってるんじゃないわ、",
    "ホントのことなんだから"
   ],
-  "en": ""
+  "en": "Love makes a woman beautiful! I'm not being silly, it's the truth."
  },
  {
   "id": "SCENARIO/280/010f4",
@@ -416,7 +416,7 @@
    "あっという間におばさんに",
    "なっちゃうのよ？"
   ],
-  "en": ""
+  "en": "A woman who forgets love turns into an old auntie in the blink of an eye, you know?"
  },
  {
   "id": "SCENARIO/280/01144",
@@ -426,12 +426,12 @@
    "愛と違って恋は単純だから、",
    "相手が格好良ければそれでいいの"
   ],
-  "en": ""
+  "en": "So I fall in love. Unlike true love, a crush is simple: he just has to be handsome."
  },
  {
   "id": "SCENARIO/280/011d8",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/280/011e8",
@@ -439,12 +439,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/280/01204",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/280/01214",
@@ -452,12 +452,12 @@
   "jp": [
    "・・・あの"
   ],
-  "en": ""
+  "en": "...Um."
  },
  {
   "id": "SCENARIO/280/01228",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/280/01238",
@@ -467,12 +467,12 @@
    "理由は簡単さ・・・",
    "そこにお客さんがいるからだよ"
   ],
-  "en": ""
+  "en": "Why am I in the underground world? The reason is simple... There are customers here."
  },
  {
   "id": "SCENARIO/280/012cc",
   "jp": "プラン",
-  "en": ""
+  "en": "Plan"
  },
  {
   "id": "SCENARIO/280/012dc",
@@ -481,12 +481,12 @@
    "今日も元気に",
    "いらっしゃいませ～"
   ],
-  "en": ""
+  "en": "Welcome, bright and cheery as ever~"
  },
  {
   "id": "SCENARIO/280/01324",
   "jp": "フライ",
-  "en": ""
+  "en": "Fly"
  },
  {
   "id": "SCENARIO/280/01334",
@@ -495,7 +495,7 @@
    "いらっしゃいませ～",
    "今日も頑張るの？"
   ],
-  "en": ""
+  "en": "Welcome~ Giving it your all today too?"
  },
  {
   "id": "SCENARIO/280/01380",
@@ -505,12 +505,12 @@
    "リリスはどこだろう？",
    "早く捜さなきゃ"
   ],
-  "en": ""
+  "en": "Walking alone is dangerous... Where could Lilis be? I have to find her, fast."
  },
  {
   "id": "SCENARIO/280/04ee8",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/280/04ef6",
@@ -518,12 +518,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/280/04f0e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/280/04f1e",
@@ -531,6 +531,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

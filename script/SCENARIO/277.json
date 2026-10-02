@@ -5,7 +5,7 @@
   "jp": [
    "そんな身体で走っちゃダメだよ！"
   ],
-  "en": ""
+  "en": "You can't run around in your condition!"
  },
  {
   "id": "SCENARIO/277/00194",
@@ -13,7 +13,7 @@
   "jp": [
    "・・・・いない"
   ],
-  "en": ""
+  "en": "....Not here."
  },
  {
   "id": "SCENARIO/277/001ca",
@@ -22,7 +22,7 @@
    "急に飛び出したりして、",
    "いったいどうしたの？"
   ],
-  "en": ""
+  "en": "Why did you rush out like that all of a sudden?"
  },
  {
   "id": "SCENARIO/277/00240",
@@ -31,7 +31,7 @@
    "・・・確かに感じたんです",
    "あの方が、近くにいた"
   ],
-  "en": ""
+  "en": "...I felt it, I'm sure. He was close by."
  },
  {
   "id": "SCENARIO/277/0029a",
@@ -40,7 +40,7 @@
    "・・・キミは",
    "アベルのところに帰りたいの？"
   ],
-  "en": ""
+  "en": "...Do you want to go back to Abel?"
  },
  {
   "id": "SCENARIO/277/002e0",
@@ -49,7 +49,7 @@
    "あの方にとってわたしはもう・・",
    "必要のない存在です"
   ],
-  "en": ""
+  "en": "To him, I am already... of no use."
  },
  {
   "id": "SCENARIO/277/0033e",
@@ -57,7 +57,7 @@
   "jp": [
    "でも・・・わたしは"
   ],
-  "en": ""
+  "en": "But... I..."
  },
  {
   "id": "SCENARIO/277/00424",
@@ -65,7 +65,7 @@
   "jp": [
    "お前の好きにすればいいだろ？"
   ],
-  "en": ""
+  "en": "Do whatever you like, why don't you?"
  },
  {
   "id": "SCENARIO/277/0045c",
@@ -73,7 +73,7 @@
   "jp": [
    "！？"
   ],
-  "en": ""
+  "en": "!?"
  },
  {
   "id": "SCENARIO/277/004a8",
@@ -81,7 +81,7 @@
   "jp": [
    "アベル様！！"
   ],
-  "en": ""
+  "en": "Abel-sama!!"
  },
  {
   "id": "SCENARIO/277/0051e",
@@ -91,7 +91,7 @@
    "別にお前を連れ戻しに来た",
    "わけじゃない"
   ],
-  "en": ""
+  "en": "...Don't get the wrong idea. I didn't come to take you back."
  },
  {
   "id": "SCENARIO/277/0057e",
@@ -99,7 +99,7 @@
   "jp": [
    "ついてくるなら勝手についてこい"
   ],
-  "en": ""
+  "en": "If you're coming, come on your own."
  },
  {
   "id": "SCENARIO/277/005c6",
@@ -107,7 +107,7 @@
   "jp": [
    "はい"
   ],
-  "en": ""
+  "en": "Yes."
  },
  {
   "id": "SCENARIO/277/00648",
@@ -116,7 +116,7 @@
    "カイン",
    "お前との約束を果たしに来た"
   ],
-  "en": ""
+  "en": "Cain. I came to keep my promise to you."
  },
  {
   "id": "SCENARIO/277/006b4",
@@ -124,7 +124,7 @@
   "jp": [
    "約束？"
   ],
-  "en": ""
+  "en": "Promise?"
  },
  {
   "id": "SCENARIO/277/006e2",
@@ -134,7 +134,7 @@
    "マティアの居場所を教えて",
    "やるって言っただろ？"
   ],
-  "en": ""
+  "en": "I said I'd tell you where Matia is if you beat me, didn't I?"
  },
  {
   "id": "SCENARIO/277/00752",
@@ -142,7 +142,7 @@
   "jp": [
    "！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/277/0077e",
@@ -152,7 +152,7 @@
    "＜グレイヘンの亡骸＞を探せ",
    "俺達はそこにいる"
   ],
-  "en": ""
+  "en": "If you want Matia, look for Greyhen's Remains. That's where we are."
  },
  {
   "id": "SCENARIO/277/007d8",
@@ -160,7 +160,7 @@
   "jp": [
    "じゃあな"
   ],
-  "en": ""
+  "en": "See you."
  },
  {
   "id": "SCENARIO/277/0081a",
@@ -168,7 +168,7 @@
   "jp": [
    "待って、アベル！！"
   ],
-  "en": ""
+  "en": "Wait, Abel!!"
  },
  {
   "id": "SCENARIO/277/0087a",
@@ -177,7 +177,7 @@
    "約束は果たした",
    "もうお前に用はない"
   ],
-  "en": ""
+  "en": "I kept my promise. I've no more business with you."
  },
  {
   "id": "SCENARIO/277/008c6",
@@ -186,7 +186,7 @@
    "キミにはなくても",
    "ボクにはある！！"
   ],
-  "en": ""
+  "en": "You may not, but I do!!"
  },
  {
   "id": "SCENARIO/277/00922",
@@ -196,7 +196,7 @@
    "近づくなら、この村の周囲に",
    "潜ませたパスカをけしかけるぞ"
   ],
-  "en": ""
+  "en": "Stay back. Come any closer and I set the Pasca lurking around this village on you."
  },
  {
   "id": "SCENARIO/277/009c2",
@@ -204,7 +204,7 @@
   "jp": [
    "・・・くっ！！"
   ],
-  "en": ""
+  "en": "...Ngh!!"
  },
  {
   "id": "SCENARIO/277/009f2",
@@ -213,7 +213,7 @@
    "キミはどうしてこんなことを",
    "するんだ！！？"
   ],
-  "en": ""
+  "en": "Why are you doing this!!?"
  },
  {
   "id": "SCENARIO/277/00a46",
@@ -222,7 +222,7 @@
    "マティアをさらって",
    "一体、何をするつもりなんだ！？"
   ],
-  "en": ""
+  "en": "What do you mean to do, kidnapping Matia!?"
  },
  {
   "id": "SCENARIO/277/00aa2",
@@ -230,7 +230,7 @@
   "jp": [
    "お前には関係ない"
   ],
-  "en": ""
+  "en": "None of your business."
  },
  {
   "id": "SCENARIO/277/00ad2",
@@ -240,7 +240,7 @@
    "オレの手で殺されるか",
    "世界と共に滅びるかのどちらかだ"
   ],
-  "en": ""
+  "en": "You have two choices left: die by my hand, or perish along with the world."
  },
  {
   "id": "SCENARIO/277/00b4a",
@@ -249,7 +249,7 @@
    "世界を滅ぼす？",
    "本気でそんなこと言ってるの？"
   ],
-  "en": ""
+  "en": "Destroy the world? Are you serious?"
  },
  {
   "id": "SCENARIO/277/00ba2",
@@ -258,7 +258,7 @@
    "いちいちお前の質問に答える",
    "義務はない"
   ],
-  "en": ""
+  "en": "I'm under no obligation to answer your every question."
  },
  {
   "id": "SCENARIO/277/00c8e",
@@ -266,7 +266,7 @@
   "jp": [
    "行くぞレア"
   ],
-  "en": ""
+  "en": "Let's go, Rea."
  },
  {
   "id": "SCENARIO/277/00cd4",
@@ -274,7 +274,7 @@
   "jp": [
    "はい、アベル様"
   ],
-  "en": ""
+  "en": "Yes, Abel-sama."
  },
  {
   "id": "SCENARIO/277/00da4",
@@ -282,7 +282,7 @@
   "jp": [
    "待て、アベル！！！"
   ],
-  "en": ""
+  "en": "Wait, Abel!!!"
  },
  {
   "id": "SCENARIO/277/00e0a",
@@ -290,7 +290,7 @@
   "jp": [
    "アハハハハハハハッ！！"
   ],
-  "en": ""
+  "en": "Ahahahahahaha!!"
  },
  {
   "id": "SCENARIO/277/00e52",
@@ -298,7 +298,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/277/00f44",
@@ -306,7 +306,7 @@
   "jp": [
    "カイン！！"
   ],
-  "en": ""
+  "en": "Cain!!"
  },
  {
   "id": "SCENARIO/277/00f76",
@@ -315,7 +315,7 @@
    "まったく、どこへ行ったかと",
    "思ったら、こんな所に居たのか"
   ],
-  "en": ""
+  "en": "Honestly, I wondered where you'd gone, and here you are."
  },
  {
   "id": "SCENARIO/277/00ff8",
@@ -323,7 +323,7 @@
   "jp": [
    "今、アベルが来てたんだ"
   ],
-  "en": ""
+  "en": "Abel was just here."
  },
  {
   "id": "SCENARIO/277/01036",
@@ -332,7 +332,7 @@
    "なんだって！？",
    "おいおい、大丈夫だったのかよ"
   ],
-  "en": ""
+  "en": "What!? Hey, hey, are you all right?"
  },
  {
   "id": "SCENARIO/277/01090",
@@ -342,7 +342,7 @@
    "でもあの子は、アベルの元に",
    "帰っていった・・・"
   ],
-  "en": ""
+  "en": "I'm fine. But that girl went back to Abel's side..."
  },
  {
   "id": "SCENARIO/277/010fa",
@@ -350,7 +350,7 @@
   "jp": [
    "そうか・・・"
   ],
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "SCENARIO/277/01126",
@@ -359,7 +359,7 @@
    "そうだ！カイン、",
    "とにかくこっちも大変なんだ！！"
   ],
-  "en": ""
+  "en": "Oh, right! Cain, there's trouble on our end too!!"
  },
  {
   "id": "SCENARIO/277/01182",
@@ -367,7 +367,7 @@
   "jp": [
    "大変って、何かあったの？"
   ],
-  "en": ""
+  "en": "Trouble? What happened?"
  },
  {
   "id": "SCENARIO/277/011c2",
@@ -375,7 +375,7 @@
   "jp": [
    "ルカが倒れた"
   ],
-  "en": ""
+  "en": "Luca collapsed."
  },
  {
   "id": "SCENARIO/277/011f6",
@@ -383,7 +383,7 @@
   "jp": [
    "えっ！？"
   ],
-  "en": ""
+  "en": "What!?"
  },
  {
   "id": "SCENARIO/277/01226",
@@ -392,7 +392,7 @@
    "とにかく来てくれ",
    "説明は向こうでする"
   ],
-  "en": ""
+  "en": "Just come. I'll explain over there."
  },
  {
   "id": "SCENARIO/277/01276",
@@ -400,12 +400,12 @@
   "jp": [
    "わかった！！"
   ],
-  "en": ""
+  "en": "Got it!!"
  },
  {
   "id": "SCENARIO/277/04df4",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/277/04e02",
@@ -413,12 +413,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/277/04e1a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/277/04e2a",
@@ -426,6 +426,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
