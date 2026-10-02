@@ -5,7 +5,7 @@
   "jp": [
    "・・・ボクは・・死んだの？・・"
   ],
-  "en": ""
+  "en": "...Am I.. dead?.."
  },
  {
   "id": "SCENARIO/192/000d8",
@@ -13,7 +13,7 @@
   "jp": [
    "・・・何も見えない"
   ],
-  "en": ""
+  "en": "...I can't see anything."
  },
  {
   "id": "SCENARIO/192/000fc",
@@ -21,7 +21,7 @@
   "jp": [
    "・・・何も聞こえない"
   ],
-  "en": ""
+  "en": "...I can't hear anything."
  },
  {
   "id": "SCENARIO/192/00124",
@@ -29,7 +29,7 @@
   "jp": [
    "・・・もう、なに・・も、"
   ],
-  "en": ""
+  "en": "...I can't.. feel,"
  },
  {
   "id": "SCENARIO/192/00150",
@@ -37,7 +37,7 @@
   "jp": [
    "・・・感じな・・"
   ],
-  "en": ""
+  "en": "...anything any.. more.."
  },
  {
   "id": "SCENARIO/192/001b6",
@@ -45,7 +45,7 @@
   "jp": [
    "・・・死ぬなよ"
   ],
-  "en": ""
+  "en": "...Don't you die."
  },
  {
   "id": "SCENARIO/192/00202",
@@ -53,7 +53,7 @@
   "jp": [
    "・・・だれ？"
   ],
-  "en": ""
+  "en": "...Who's there?"
  },
  {
   "id": "SCENARIO/192/00250",
@@ -62,7 +62,7 @@
    "お前はオレが殺すんだ",
    "勝手に死ぬな"
   ],
-  "en": ""
+  "en": "You're mine to kill. Don't go dying on your own."
  },
  {
   "id": "SCENARIO/192/002b2",
@@ -70,12 +70,12 @@
   "jp": [
    "この声は・・・アベ・・"
   ],
-  "en": ""
+  "en": "That voice... Abe.."
  },
  {
   "id": "SCENARIO/192/03e34",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/192/03e42",
@@ -83,12 +83,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/192/03e5a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/192/03e6a",
@@ -96,6 +96,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

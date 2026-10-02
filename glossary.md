@@ -156,3 +156,9 @@ Fly uses 僕 in script 031: gender ambiguous, keep pronoun-free.
 | 彼の者 | that One | creation myth |
 | 仮臥す者 | the one who lies in brief slumber | creation myth |
 | NPC labels | Waiter, Swordsman, Middle-aged Man, Old Man, Old Woman, Couple (Man/Woman), Priest, Boy, Girl, Clown, Soldier | |
+| 力天使 | Virtue | angelic rank |
+| 神威の剱 | the Sword of Divine Might | |
+| ステイお姉ちゃん / カルディア姉さん / マティアお姉ちゃん | Stay-neesan / Cardia-neesan / Matia-neesan | |
+| 異端審問 | the Inquisition | |
+
+Grisina presents female but self-identifies as a man (195): pronoun-free.

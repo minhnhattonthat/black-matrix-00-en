@@ -6,7 +6,7 @@
    "エクサル以下６名、",
    "入室許可願います！"
   ],
-  "en": ""
+  "en": "Exal and five others, requesting permission to enter!"
  },
  {
   "id": "SCENARIO/199/00144",
@@ -14,7 +14,7 @@
   "jp": [
    "入室を許可する"
   ],
-  "en": ""
+  "en": "Permission granted."
  },
  {
   "id": "SCENARIO/199/0016c",
@@ -22,7 +22,7 @@
   "jp": [
    "し、失礼します！！"
   ],
-  "en": ""
+  "en": "E-excuse us!!"
  },
  {
   "id": "SCENARIO/199/00228",
@@ -30,7 +30,7 @@
   "jp": [
    "・・・・・"
   ],
-  "en": ""
+  "en": "....."
  },
  {
   "id": "SCENARIO/199/0025a",
@@ -40,7 +40,7 @@
    "黙ったままだよ",
    "やっぱり怒ってるのかな・・"
   ],
-  "en": ""
+  "en": "Yikes~ Valtoss-sama isn't saying a word. He really is angry, isn't he.."
  },
  {
   "id": "SCENARIO/199/002ea",
@@ -50,7 +50,7 @@
    "この人がサイファーパンクの",
    "リーダー"
   ],
-  "en": ""
+  "en": "A black-wing... This person is the leader of Cypherpunk."
  },
  {
   "id": "SCENARIO/199/0035c",
@@ -60,7 +60,7 @@
    "先日は危ないところを助けて頂き",
    "ありがとうございました！"
   ],
-  "en": ""
+  "en": "U-um, thank you so much for saving us the other day when we were in danger!"
  },
  {
   "id": "SCENARIO/199/003e6",
@@ -69,7 +69,7 @@
    "その前に、",
    "自己紹介をさせてもらおうか"
   ],
-  "en": ""
+  "en": "Before that, allow me to introduce myself."
  },
  {
   "id": "SCENARIO/199/00436",
@@ -77,7 +77,7 @@
   "jp": [
    "あっ、そ、そうですね"
   ],
-  "en": ""
+  "en": "Ah, r-right."
  },
  {
   "id": "SCENARIO/199/00472",
@@ -86,7 +86,7 @@
    "ボクはカインです",
    "それから・・・"
   ],
-  "en": ""
+  "en": "I'm Cain. And this is..."
  },
  {
   "id": "SCENARIO/199/004ca",
@@ -96,7 +96,7 @@
    "この感じ・・この人、どこかで",
    "会ったことあるような・・"
   ],
-  "en": ""
+  "en": "Huh.. what is this feeling.. It's like I've met this person somewhere before.."
  },
  {
   "id": "SCENARIO/199/00534",
@@ -105,7 +105,7 @@
    "私はヴァルトス",
    "サイファーパンクを統べる者だ"
   ],
-  "en": ""
+  "en": "I am Valtoss. I lead Cypherpunk."
  },
  {
   "id": "SCENARIO/199/0058a",
@@ -114,7 +114,7 @@
    "あっ、えっと、",
    "それから・・"
   ],
-  "en": ""
+  "en": "Ah, um, and then.."
  },
  {
   "id": "SCENARIO/199/005c4",
@@ -122,7 +122,7 @@
   "jp": [
    "キミたちの事は全て聞いている"
   ],
-  "en": ""
+  "en": "I have heard everything about you."
  },
  {
   "id": "SCENARIO/199/0060a",
@@ -130,7 +130,7 @@
   "jp": [
    "えっ・・？"
   ],
-  "en": ""
+  "en": "Huh..?"
  },
  {
   "id": "SCENARIO/199/00630",
@@ -140,7 +140,7 @@
    "事件とそのてんまつも含めて",
    "全て知っていると言ったのだ"
   ],
-  "en": ""
+  "en": "I said I know everything, including every incident you were part of and how it ended."
  },
  {
   "id": "SCENARIO/199/006b2",
@@ -148,7 +148,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/199/006d8",
@@ -158,7 +158,7 @@
    "エクサルはもう少し、報告書の",
    "書き方を改善するべきだな"
   ],
-  "en": ""
+  "en": "Though I will add that Exal should improve the way he writes his reports."
  },
  {
   "id": "SCENARIO/199/00740",
@@ -167,7 +167,7 @@
    "感情的な表現が多く、",
    "事件の要点が掴みづらかった"
   ],
-  "en": ""
+  "en": "Too much emotional language. The key points of the incidents were hard to grasp."
  },
  {
   "id": "SCENARIO/199/007ac",
@@ -175,7 +175,7 @@
   "jp": [
    "・・・はい、スミマセン"
   ],
-  "en": ""
+  "en": "...Yes, sir. Sorry."
  },
  {
   "id": "SCENARIO/199/007ea",
@@ -183,7 +183,7 @@
   "jp": [
    "トホホ、やっぱりお説教だよ・・"
   ],
-  "en": ""
+  "en": "Ugh, it's a lecture after all.."
  },
  {
   "id": "SCENARIO/199/00844",
@@ -191,7 +191,7 @@
   "jp": [
    "あのっ！！"
   ],
-  "en": ""
+  "en": "Excuse me!!"
  },
  {
   "id": "SCENARIO/199/00876",
@@ -199,7 +199,7 @@
   "jp": [
    "・・・？"
   ],
-  "en": ""
+  "en": "...?"
  },
  {
   "id": "SCENARIO/199/008a6",
@@ -208,7 +208,7 @@
    "私たちは、何の用件で",
    "呼ばれたんでしょうか？"
   ],
-  "en": ""
+  "en": "What is it you called us here for?"
  },
  {
   "id": "SCENARIO/199/008e8",
@@ -217,7 +217,7 @@
    "私たち１人１人をつるし上げて",
    "断罪でもするおつもりですか？"
   ],
-  "en": ""
+  "en": "Do you mean to put each of us on trial, one by one, and pass judgment?"
  },
  {
   "id": "SCENARIO/199/00940",
@@ -226,7 +226,7 @@
    "お、おい、",
    "失礼だぞ！"
   ],
-  "en": ""
+  "en": "H-hey, that's rude!"
  },
  {
   "id": "SCENARIO/199/00982",
@@ -234,7 +234,7 @@
   "jp": [
    "ステイエン"
   ],
-  "en": ""
+  "en": "Stayen."
  },
  {
   "id": "SCENARIO/199/009a0",
@@ -243,7 +243,7 @@
    "元、プロデヴォン教団の僧兵で",
    "屈強な剣の使い手"
   ],
-  "en": ""
+  "en": "A former monk soldier of the Prodevon Church, and a formidable swordswoman."
  },
  {
   "id": "SCENARIO/199/00a04",
@@ -252,7 +252,7 @@
    "そして、悪魔討伐隊を束ねる",
    "クレイス隊長の一番弟子"
   ],
-  "en": ""
+  "en": "And the top disciple of Captain Kreis, who leads the demon-hunting squad."
  },
  {
   "id": "SCENARIO/199/00a62",
@@ -260,7 +260,7 @@
   "jp": [
    "・・・！！"
   ],
-  "en": ""
+  "en": "...!!"
  },
  {
   "id": "SCENARIO/199/00a96",
@@ -268,7 +268,7 @@
   "jp": [
    "クレイス様のことまで・・"
   ],
-  "en": ""
+  "en": "He even knows about Kreis-sama.."
  },
  {
   "id": "SCENARIO/199/00ac8",
@@ -277,7 +277,7 @@
    "そう、",
    "私は・・・元教団の人間です"
   ],
-  "en": ""
+  "en": "That's right. I... am a former member of the Church."
  },
  {
   "id": "SCENARIO/199/00b00",
@@ -287,7 +287,7 @@
    "アナタ方サイファーパンクとも",
    "何度も戦ってきました"
   ],
-  "en": ""
+  "en": "In the name of the Inquisition, I fought you Cypherpunks many times."
  },
  {
   "id": "SCENARIO/199/00b64",
@@ -295,7 +295,7 @@
   "jp": [
    "・・・・・"
   ],
-  "en": ""
+  "en": "....."
  },
  {
   "id": "SCENARIO/199/00bf6",
@@ -305,7 +305,7 @@
    "あなた方サイファーパンクに",
    "とって"
   ],
-  "en": ""
+  "en": "To you Cypherpunks, whose way of thinking goes against the Church's doctrine,"
  },
  {
   "id": "SCENARIO/199/00c66",
@@ -314,7 +314,7 @@
    "私が邪魔だというなら、",
    "ハッキリそう言って下さい！"
   ],
-  "en": ""
+  "en": "if I'm in the way, then say so plainly!"
  },
  {
   "id": "SCENARIO/199/00d20",
@@ -323,7 +323,7 @@
    "お前・・そんなことを",
    "考えてたのか・・・"
   ],
-  "en": ""
+  "en": "You.. that's what you were thinking..."
  },
  {
   "id": "SCENARIO/199/00d64",
@@ -332,7 +332,7 @@
    "報告書：",
    "ステイエンに関する所見"
   ],
-  "en": ""
+  "en": "Report: Observations regarding Stayen."
  },
  {
   "id": "SCENARIO/199/00dda",
@@ -340,7 +340,7 @@
   "jp": [
    "・・・？"
   ],
-  "en": ""
+  "en": "...?"
  },
  {
   "id": "SCENARIO/199/00dfc",
@@ -349,7 +349,7 @@
    "気が強い上に腕力もあり",
    "並の男では太刀打ちできない"
   ],
-  "en": ""
+  "en": "Strong-willed and physically powerful. No ordinary man could stand up to her."
  },
  {
   "id": "SCENARIO/199/00e44",
@@ -358,7 +358,7 @@
    "だが、メガネも似合うし",
    "黙ってりゃカワイイと思う"
   ],
-  "en": ""
+  "en": "But glasses suit her, and she's kinda cute when she keeps her mouth shut."
  },
  {
   "id": "SCENARIO/199/00ebc",
@@ -366,7 +366,7 @@
   "jp": [
    "・・・！"
   ],
-  "en": ""
+  "en": "...!"
  },
  {
   "id": "SCENARIO/199/00f34",
@@ -374,7 +374,7 @@
   "jp": [
    "な、ななっ・・！"
   ],
-  "en": ""
+  "en": "Wh-, wha...!"
  },
  {
   "id": "SCENARIO/199/00fac",
@@ -383,7 +383,7 @@
    "エクサルの報告書は",
    "間違っていないようだ"
   ],
-  "en": ""
+  "en": "Exal's report seems to be accurate."
  },
  {
   "id": "SCENARIO/199/010b8",
@@ -392,7 +392,7 @@
    "あっ、ちょ、ちょっと",
    "ヴァルトス様っ！"
   ],
-  "en": ""
+  "en": "Ah, w-wait a moment, Valtoss-sama!"
  },
  {
   "id": "SCENARIO/199/01128",
@@ -400,7 +400,7 @@
   "jp": [
    "エ～ク～サ～ル～っ！！"
   ],
-  "en": ""
+  "en": "E~x~a~l~!!"
  },
  {
   "id": "SCENARIO/199/01194",
@@ -409,7 +409,7 @@
    "ハハハ、",
    "そう怒らないでやってくれ"
   ],
-  "en": ""
+  "en": "Ha ha ha. Don't be too angry with him."
  },
  {
   "id": "SCENARIO/199/011cc",
@@ -418,7 +418,7 @@
    "落ち着いて私の話を",
    "聞いてはくれないか"
   ],
-  "en": ""
+  "en": "Would you calm down and hear me out?"
  },
  {
   "id": "SCENARIO/199/01210",
@@ -427,7 +427,7 @@
    "そ、そうだ！",
    "今は大事な話の途中だぞ！"
   ],
-  "en": ""
+  "en": "Th-that's right! We're in the middle of something important!"
  },
  {
   "id": "SCENARIO/199/0129a",
@@ -436,7 +436,7 @@
    "ハッ！",
    "ヤダ・・あたしったら"
   ],
-  "en": ""
+  "en": "Oh! Goodness.. what am I doing."
  },
  {
   "id": "SCENARIO/199/012e2",
@@ -445,7 +445,7 @@
    "そういえば、黒羽根の２人の",
    "姿が見えないようだが・・・"
   ],
-  "en": ""
+  "en": "Come to think of it, I don't see the two black-wings..."
  },
  {
   "id": "SCENARIO/199/01342",
@@ -453,7 +453,7 @@
   "jp": [
    "２人なら出て行きました"
   ],
-  "en": ""
+  "en": "Those two left."
  },
  {
   "id": "SCENARIO/199/0136c",
@@ -462,7 +462,7 @@
    "私たちとはきっと",
    "ウマが合わないんです"
   ],
-  "en": ""
+  "en": "I'm sure we just don't get along with them."
  },
  {
   "id": "SCENARIO/199/013b0",
@@ -472,7 +472,7 @@
    "黒羽根そのものを",
    "嫌悪しているのではないかな？"
   ],
-  "en": ""
+  "en": "In your case, is it not black-wings themselves you despise, rather than those two?"
  },
  {
   "id": "SCENARIO/199/0142a",
@@ -480,7 +480,7 @@
   "jp": [
    "・・・！！"
   ],
-  "en": ""
+  "en": "...!!"
  },
  {
   "id": "SCENARIO/199/01472",
@@ -489,7 +489,7 @@
    "・・えぇ、",
    "その通りです"
   ],
-  "en": ""
+  "en": "..Yes. That's right."
  },
  {
   "id": "SCENARIO/199/014a0",
@@ -498,7 +498,7 @@
    "弟のことがなければ、",
    "きっと今でも私は教団に居て、"
   ],
-  "en": ""
+  "en": "If not for my little brother, I'm sure I'd still be in the Church even now,"
  },
  {
   "id": "SCENARIO/199/014e8",
@@ -507,7 +507,7 @@
    "悪魔討伐をしていたと",
    "思います・・・"
   ],
-  "en": ""
+  "en": "hunting demons..."
  },
  {
   "id": "SCENARIO/199/01548",
@@ -515,7 +515,7 @@
   "jp": [
    "・・・・・"
   ],
-  "en": ""
+  "en": "....."
  },
  {
   "id": "SCENARIO/199/0158c",
@@ -525,7 +525,7 @@
    "サイファーパンクもすると",
    "聞きました"
   ],
-  "en": ""
+  "en": "But I heard that Cypherpunk hunts demons too."
  },
  {
   "id": "SCENARIO/199/015d8",
@@ -535,7 +535,7 @@
    "あなた方を一方的に",
    "弾圧することもなかった"
   ],
-  "en": ""
+  "en": "That's why the Prodevon Church never cracked down on you one-sidedly."
  },
  {
   "id": "SCENARIO/199/0163c",
@@ -545,7 +545,7 @@
    "俗に言う悪魔という存在だから",
    "討伐していたワケではない"
   ],
-  "en": ""
+  "en": "We did not hunt black-wings because they are what people commonly call demons."
  },
  {
   "id": "SCENARIO/199/0169c",
@@ -555,7 +555,7 @@
    "それ以外に救う方法が",
    "無いからだ"
   ],
-  "en": ""
+  "en": "We did it because there is no other way to save a demon seized by the Thirst."
  },
  {
   "id": "SCENARIO/199/016f4",
@@ -565,7 +565,7 @@
    "それが悪魔なんでしょう？",
    "同じことじゃないんですか？"
   ],
-  "en": ""
+  "en": "So that's what a demon is, isn't it? Isn't it the same thing?"
  },
  {
   "id": "SCENARIO/199/0176e",
@@ -574,7 +574,7 @@
    "君は、",
    "渇きの苦しみを知っているのか？"
   ],
-  "en": ""
+  "en": "Do you know the suffering of the Thirst?"
  },
  {
   "id": "SCENARIO/199/017bc",
@@ -584,12 +584,12 @@
    "呪われた宿命の、",
    "その本当の姿を・・・"
   ],
-  "en": ""
+  "en": "The true face of the cursed fate that only the black-wing race carries..."
  },
  {
   "id": "SCENARIO/199/05398",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/199/053a6",
@@ -597,12 +597,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/199/053be",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/199/053ce",
@@ -610,6 +610,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

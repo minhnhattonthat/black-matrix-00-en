@@ -7,7 +7,7 @@
    "黒羽根の一族にのみ現れる",
    "特有の病だ"
   ],
-  "en": ""
+  "en": "The Thirst is a disease peculiar to the black-wing race, and to them alone."
  },
  {
   "id": "SCENARIO/200/00122",
@@ -17,7 +17,7 @@
    "それら様々な負の感情が",
    "体の奥底からあふれ出し"
   ],
-  "en": ""
+  "en": "Rage, sorrow, fear, bloodlust: all manner of dark emotions well up from deep within,"
  },
  {
   "id": "SCENARIO/200/0019e",
@@ -26,7 +26,7 @@
    "やがて気も狂わんばかりに",
    "精神を喰らい尽くす"
   ],
-  "en": ""
+  "en": "until at last they devour the mind, driving it to the brink of madness."
  },
  {
   "id": "SCENARIO/200/0020c",
@@ -36,7 +36,7 @@
    "破壊衝動に乗っ取られ、",
    "血を見たいと渇望する・・・"
   ],
-  "en": ""
+  "en": "The body, beyond all restraint, is seized by the urge to destroy. It craves blood..."
  },
  {
   "id": "SCENARIO/200/00282",
@@ -45,7 +45,7 @@
    "しかし、正常さを失っても",
    "意識は残ったままなのだ"
   ],
-  "en": ""
+  "en": "Yet even after sanity is lost, consciousness remains."
  },
  {
   "id": "SCENARIO/200/002e2",
@@ -55,7 +55,7 @@
    "どれだけ拒否しようとも、",
    "身体が思う通りにならない"
   ],
-  "en": ""
+  "en": "However much one refuses, deep in the heart, the body will not obey."
  },
  {
   "id": "SCENARIO/200/00352",
@@ -64,7 +64,7 @@
    "どんな屈強な戦士であっても",
    "これに抗うすべは無い・・・"
   ],
-  "en": ""
+  "en": "No matter how strong a warrior, there is no way to resist it..."
  },
  {
   "id": "SCENARIO/200/003c8",
@@ -74,7 +74,7 @@
    "どれほど肉体に苦痛を与え",
    "どれほど心をさいなむのか・・"
   ],
-  "en": ""
+  "en": "How much pain it inflicts on the body, how deeply it torments the heart.."
  },
  {
   "id": "SCENARIO/200/00524",
@@ -82,7 +82,7 @@
   "jp": [
    "ゴホゴホッ！！"
   ],
-  "en": ""
+  "en": "Cough, cough!!"
  },
  {
   "id": "SCENARIO/200/0055a",
@@ -90,7 +90,7 @@
   "jp": [
    "畜生・・・また発作が"
   ],
-  "en": ""
+  "en": "Damn it... Another attack."
  },
  {
   "id": "SCENARIO/200/005e8",
@@ -98,7 +98,7 @@
   "jp": [
    "ルカ！！"
   ],
-  "en": ""
+  "en": "Luca!!"
  },
  {
   "id": "SCENARIO/200/0065a",
@@ -106,7 +106,7 @@
   "jp": [
    "ザイオン"
   ],
-  "en": ""
+  "en": "Zion."
  },
  {
   "id": "SCENARIO/200/0067c",
@@ -115,7 +115,7 @@
    "・・・顔色が悪いぞ",
    "大丈夫か？"
   ],
-  "en": ""
+  "en": "...You look pale. Are you all right?"
  },
  {
   "id": "SCENARIO/200/006c6",
@@ -123,7 +123,7 @@
   "jp": [
    "別に・・どうってことないわよ"
   ],
-  "en": ""
+  "en": "It's nothing.. Nothing to worry about."
  },
  {
   "id": "SCENARIO/200/0070a",
@@ -131,7 +131,7 @@
   "jp": [
    "無理をするな"
   ],
-  "en": ""
+  "en": "Don't push yourself."
  },
  {
   "id": "SCENARIO/200/00728",
@@ -140,7 +140,7 @@
    "長年のつきあいなんだ",
    "見れば分かる"
   ],
-  "en": ""
+  "en": "We've known each other for years. I can tell just by looking."
  },
  {
   "id": "SCENARIO/200/00776",
@@ -149,7 +149,7 @@
    "今、気分が悪いのよ",
    "アタシにかまわないで"
   ],
-  "en": ""
+  "en": "I'm feeling sick right now. Leave me alone."
  },
  {
   "id": "SCENARIO/200/007bc",
@@ -159,7 +159,7 @@
    "ヤツらに気を遣わせないため",
    "なのか？"
   ],
-  "en": ""
+  "en": "...Did you refuse the audience and walk out so they wouldn't have to worry about you?"
  },
  {
   "id": "SCENARIO/200/00820",
@@ -167,7 +167,7 @@
   "jp": [
    "・・・・・"
   ],
-  "en": ""
+  "en": "....."
  },
  {
   "id": "SCENARIO/200/00844",
@@ -175,7 +175,7 @@
   "jp": [
    "ルカ・・"
   ],
-  "en": ""
+  "en": "Luca.."
  },
  {
   "id": "SCENARIO/200/00876",
@@ -184,7 +184,7 @@
    "フン、ずいぶんと",
    "お喋りになったじゃないの"
   ],
-  "en": ""
+  "en": "Hmph. You've gotten awfully talkative."
  },
  {
   "id": "SCENARIO/200/008b4",
@@ -194,7 +194,7 @@
    "変わっちまったんじゃ",
    "ないの？"
   ],
-  "en": ""
+  "en": "Hanging around with that lot has changed you, hasn't it?"
  },
  {
   "id": "SCENARIO/200/0091e",
@@ -202,7 +202,7 @@
   "jp": [
    "・・・・そうかもしれない"
   ],
-  "en": ""
+  "en": "....Maybe it has."
  },
  {
   "id": "SCENARIO/200/0095e",
@@ -210,7 +210,7 @@
   "jp": [
    "・・・？！"
   ],
-  "en": ""
+  "en": "...?!"
  },
  {
   "id": "SCENARIO/200/00992",
@@ -220,7 +220,7 @@
    "思ったことを何でも口にする",
    "あきれた連中だ"
   ],
-  "en": ""
+  "en": "That lot say whatever comes into their heads. A ridiculous bunch."
  },
  {
   "id": "SCENARIO/200/009e0",
@@ -229,7 +229,7 @@
    "だが、言葉にしなければ、",
    "伝わらないこともある"
   ],
-  "en": ""
+  "en": "But some things never get across unless you put them into words."
  },
  {
   "id": "SCENARIO/200/00a2c",
@@ -237,7 +237,7 @@
   "jp": [
    "ヤツらを見ていてそう思った"
   ],
-  "en": ""
+  "en": "Watching them made me think that."
  },
  {
   "id": "SCENARIO/200/00a66",
@@ -246,7 +246,7 @@
    "見ていることしかできない",
    "自分が歯がゆいと・・・"
   ],
-  "en": ""
+  "en": "And how frustrating it is, only being able to watch..."
  },
  {
   "id": "SCENARIO/200/00ab4",
@@ -254,7 +254,7 @@
   "jp": [
    "・・・・・"
   ],
-  "en": ""
+  "en": "....."
  },
  {
   "id": "SCENARIO/200/00ad8",
@@ -263,7 +263,7 @@
    "ルカ、お前の症状はもう、",
    "ひょっとして・・・"
   ],
-  "en": ""
+  "en": "Luca, your symptoms. They couldn't already be..."
  },
  {
   "id": "SCENARIO/200/00b2e",
@@ -273,7 +273,7 @@
    "他人のことなんてどうでもいい",
    "んじゃなかったの？！"
   ],
-  "en": ""
+  "en": "Shut up!! Didn't you say you couldn't care less about other people?!"
  },
  {
   "id": "SCENARIO/200/00b9e",
@@ -282,7 +282,7 @@
    "どうでもいいと思うなら",
    "お前の後を追ったりはしない！"
   ],
-  "en": ""
+  "en": "If I didn't care, I wouldn't have come after you!"
  },
  {
   "id": "SCENARIO/200/00bfe",
@@ -290,7 +290,7 @@
   "jp": [
    "・・・・・"
   ],
-  "en": ""
+  "en": "....."
  },
  {
   "id": "SCENARIO/200/00c1c",
@@ -299,7 +299,7 @@
    "・・・わかったわよ",
    "すぐ戻るから、今は一人にさせて"
   ],
-  "en": ""
+  "en": "...Fine. I'll be back soon, so leave me alone for now."
  },
  {
   "id": "SCENARIO/200/00c7a",
@@ -307,7 +307,7 @@
   "jp": [
    "・・・・・"
   ],
-  "en": ""
+  "en": "....."
  },
  {
   "id": "SCENARIO/200/00ca0",
@@ -315,7 +315,7 @@
   "jp": [
    "ホントよ"
   ],
-  "en": ""
+  "en": "I mean it."
  },
  {
   "id": "SCENARIO/200/00cd2",
@@ -323,7 +323,7 @@
   "jp": [
    "・・・・わかった"
   ],
-  "en": ""
+  "en": "....All right."
  },
  {
   "id": "SCENARIO/200/00d04",
@@ -332,7 +332,7 @@
    "あいつにはもう",
    "隠しきれない・・・"
   ],
-  "en": ""
+  "en": "I can't hide it from him anymore..."
  },
  {
   "id": "SCENARIO/200/00d64",
@@ -340,7 +340,7 @@
   "jp": [
    "ゴホゴホッ、カハッ！！"
   ],
-  "en": ""
+  "en": "Cough, cough, hack!!"
  },
  {
   "id": "SCENARIO/200/00d9a",
@@ -349,7 +349,7 @@
    "畜生、",
    "アタシには、時間がないんだ"
   ],
-  "en": ""
+  "en": "Damn it. I'm running out of time."
  },
  {
   "id": "SCENARIO/200/00df2",
@@ -357,7 +357,7 @@
   "jp": [
    "・・・・！！"
   ],
-  "en": ""
+  "en": "....!!"
  },
  {
   "id": "SCENARIO/200/00e18",
@@ -365,12 +365,12 @@
   "jp": [
    "この気配は！！"
   ],
-  "en": ""
+  "en": "This presence!!"
  },
  {
   "id": "SCENARIO/200/0496c",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/200/0497a",
@@ -378,12 +378,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/200/04992",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/200/049a2",
@@ -391,6 +391,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
