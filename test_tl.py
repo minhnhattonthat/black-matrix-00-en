@@ -17,6 +17,19 @@ def test_apply_merges_en_by_id_and_keeps_the_rest():
     assert unknown == ["S/012/09999"]
 
 
+def test_apply_skips_tabless_lines_instead_of_blanking():
+    with tempfile.TemporaryDirectory() as d:
+        js = Path(d) / "a.json"
+        js.write_text(json.dumps([{"id": "S/1", "jp": "x", "en": "keep me"}]), encoding="utf-8")
+        answers = Path(d) / "a.txt"
+        answers.write_text("S/1\n", encoding="utf-8")
+        unknown = tl.apply(js, answers)
+        data = json.loads(js.read_text(encoding="utf-8"))
+    assert data[0]["en"] == "keep me"
+    assert unknown == ["S/1 (empty)"]
+    assert any("empty" in p for p in tl.check(["S/1\t0\tx"], ["S/1"]))
+
+
 def test_show_lists_only_untranslated_windows_and_strings():
     entries = [{"id": "x/1", "speaker": 3, "jp": ["one", "two"], "en": ""},
                {"id": "x/2", "jp": "menu", "en": ""},

@@ -282,7 +282,12 @@ def insert(b: bytes, entries: list[dict]) -> bytes:
             k = end
             continue
         wait = toks[end] if end < len(toks) and op(toks[end]) == WAIT_OP else None
-        lines = wrap(e["en"])
+        try:
+            lines = wrap(e["en"])
+        except ValueError as err:
+            raise ValueError(f'{e["id"]}: {err}') from None
+        if not lines:
+            raise ValueError(f'{e["id"]}: en is blank; leave it empty to keep the Japanese')
         if wait is None and len(lines) > 3:
             raise ValueError(f'{e["id"]}: {len(lines)} lines, and no wait call follows to spill into')
         for n, line in enumerate(lines):
@@ -311,6 +316,8 @@ def spilled(entries: list[dict]) -> list[str]:
 def too_wide(entries: list[dict]) -> list[str]:
     """IDs with a line wider than the dialogue window after wrapping."""
     limit = WINDOW_CELLS * 2
+    # single strings (menus, labels) are emitted as one line; only windows wrap
     return [e["id"] for e in entries if e["en"]
-            and any(len(encode(line)) > limit for line in wrap(e["en"]))]
+            and any(len(encode(line)) > limit
+                    for line in (wrap(e["en"]) if isinstance(e["jp"], list) else [e["en"]]))]
 

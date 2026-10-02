@@ -30,6 +30,9 @@ def apply(js: Path, answers: Path) -> list[str]:
         if id_ not in by_id:
             unknown.append(id_)
             continue
+        if not en.strip():                 # a tab-less line must not blank an existing translation
+            unknown.append(f"{id_} (empty)")
+            continue
         by_id[id_]["en"] = en.replace("\\n", "\n").strip()
     js.write_text(json.dumps(entries, ensure_ascii=False, indent=1), encoding="utf-8")
     return unknown
@@ -48,6 +51,8 @@ def check(src_lines: list[str], answer_lines: list[str], limit: int = 85) -> lis
         seen[id_] = en
         if id_ not in wanted:
             problems.append(f"unknown id: {id_}")
+        if not en.strip():
+            problems.append(f"empty: {id_}")
         if not en.isascii():
             problems.append(f"non-ascii: {id_}: {en!r}")
         if "\t" in en:

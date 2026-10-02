@@ -270,6 +270,40 @@ def test_jump_into_a_window_raises():
     assert False, "expected ValueError"
 
 
+def test_blank_en_on_a_window_raises():
+    i, b = SCRIPTS[12]
+    entries = script.extract(b, "S")
+    w = _window(entries)
+    w["en"] = " "
+    try:
+        script.insert(b, entries)
+    except ValueError as err:
+        assert w["id"] in str(err)
+        return
+    assert False, "expected ValueError"
+
+
+def test_too_wide_covers_single_strings_which_do_not_wrap():
+    i, b = SCRIPTS[0]
+    entries = script.extract(b, "S")
+    s = next(e for e in entries if isinstance(e["jp"], str))
+    s["en"] = "x" * 20 + " " + "y" * 20
+    assert script.too_wide(entries) == [s["id"]]
+
+
+def test_encode_error_in_a_window_names_the_entry():
+    i, b = SCRIPTS[12]
+    entries = script.extract(b, "S")
+    w = _window(entries)
+    w["en"] = "café au lait"
+    try:
+        script.insert(b, entries)
+    except ValueError as err:
+        assert w["id"] in str(err)
+        return
+    assert False, "expected ValueError"
+
+
 def test_too_wide_reports_lines_over_the_window():
     i, b = SCRIPTS[12]
     entries = script.extract(b, "S")
