@@ -6,7 +6,7 @@
    "あぁ・・・無敵のハズの・・・・",
    "フォーメーションＡが・・・"
   ],
-  "en": ""
+  "en": "Ah... Formation A... was supposed to be invincible..."
  },
  {
   "id": "SCENARIO/230/0035c",
@@ -15,7 +15,7 @@
    "フォーメーションＢにして・・・",
    "おけば・・・・"
   ],
-  "en": ""
+  "en": "If only... we'd used Formation B...."
  },
  {
   "id": "SCENARIO/230/003f4",
@@ -24,7 +24,7 @@
    "おのれぇ！！",
    "このクソ忙しい時に！！"
   ],
-  "en": ""
+  "en": "Curse you!! At a time like this!!"
  },
  {
   "id": "SCENARIO/230/00444",
@@ -33,7 +33,7 @@
    "バケモノの次は異端者か！！",
    "今日は厄日だーーー！！"
   ],
-  "en": ""
+  "en": "First monsters, now heretics!! What a rotten day!!"
  },
  {
   "id": "SCENARIO/230/004a4",
@@ -42,7 +42,7 @@
    "ええい　落ち着け！！",
    "この騒ぎも奴らの仕業だ！！"
   ],
-  "en": ""
+  "en": "Enough, settle down!! This uproar is their doing too!!"
  },
  {
   "id": "SCENARIO/230/004e0",
@@ -51,7 +51,7 @@
    "各員！！",
    "フォーメーションＡで対処！！"
   ],
-  "en": ""
+  "en": "All units!! Respond with Formation A!!"
  },
  {
   "id": "SCENARIO/230/00534",
@@ -61,7 +61,7 @@
    "奇襲する為に起こした騒ぎは",
    "兵の志気を高めただけの様ですね"
   ],
-  "en": ""
+  "en": "Hmph! The commotion you raised for your ambush has only raised my men's morale."
  },
  {
   "id": "SCENARIO/230/00584",
@@ -69,7 +69,7 @@
   "jp": [
    "その作戦　失敗です！"
   ],
-  "en": ""
+  "en": "Your plan has failed!"
  },
  {
   "id": "SCENARIO/230/005c4",
@@ -78,7 +78,7 @@
    "号令ーーーー！",
    "フォーメーションＡ！！"
   ],
-  "en": ""
+  "en": "Attention! Formation A!!"
  },
  {
   "id": "SCENARIO/230/00ab4",
@@ -87,7 +87,7 @@
    "騒ぎに乗じての奇襲ならば・・・",
    "成功するとでも？"
   ],
-  "en": ""
+  "en": "Did you think an ambush under cover of chaos... would succeed?"
  },
  {
   "id": "SCENARIO/230/00af0",
@@ -96,7 +96,7 @@
    "そんなに甘くはないのですよ！！",
    "我々は！！"
   ],
-  "en": ""
+  "en": "We are not so easily taken!!"
  },
  {
   "id": "SCENARIO/230/00be4",
@@ -104,7 +104,7 @@
   "jp": [
    "さぁ　早く行こう！！"
   ],
-  "en": ""
+  "en": "Come on, let's hurry!!"
  },
  {
   "id": "SCENARIO/230/00cb4",
@@ -112,7 +112,7 @@
   "jp": [
    "このままじゃ時間が・・・！！"
   ],
-  "en": "",
+  "en": "At this rate we'll run out of time...!!",
   "spill": false
  },
  {
@@ -122,7 +122,7 @@
    "く・・・",
    "さすが　フォーメーションＡ！！"
   ],
-  "en": ""
+  "en": "Ugh... That's Formation A for you!!"
  },
  {
   "id": "SCENARIO/230/00da4",
@@ -130,12 +130,12 @@
   "jp": [
    "・・・ここは逃げよう！！"
   ],
-  "en": ""
+  "en": "...Let's get out of here!!"
  },
  {
   "id": "SCENARIO/230/048d8",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/230/048e6",
@@ -143,12 +143,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/230/048fe",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/230/0490e",
@@ -156,7 +156,7 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  },
  {
   "id": "SCENARIO/230/04a7c",
@@ -164,7 +164,7 @@
   "jp": [
    "うぅ・・・"
   ],
-  "en": ""
+  "en": "Ugh..."
  },
  {
   "id": "SCENARIO/230/04b38",
@@ -173,7 +173,7 @@
    "すまない・・",
    "離脱する"
   ],
-  "en": ""
+  "en": "Forgive me... I must withdraw."
  },
  {
   "id": "SCENARIO/230/04c04",
@@ -181,7 +181,7 @@
   "jp": [
    "やられたぁぁぁ"
   ],
-  "en": ""
+  "en": "They got meee..."
  },
  {
   "id": "SCENARIO/230/04cc4",
@@ -190,7 +190,7 @@
    "あぁ　もう・・",
    "やってられないわ"
   ],
-  "en": ""
+  "en": "Oh, honestly... I can't take this."
  },
  {
   "id": "SCENARIO/230/04d98",
@@ -198,7 +198,7 @@
   "jp": [
    "ちっ・・・"
   ],
-  "en": ""
+  "en": "Tch..."
  },
  {
   "id": "SCENARIO/230/04e54",
@@ -207,7 +207,7 @@
    "あぁ・・・",
    "こんなはずでは・・"
   ],
-  "en": ""
+  "en": "Ah... It wasn't supposed to go like this..."
  },
  {
   "id": "SCENARIO/230/04f28",
@@ -215,7 +215,7 @@
   "jp": [
    "きゃー　もぉ　きゃー"
   ],
-  "en": ""
+  "en": "Eek! Oh, no! Eek!"
  },
  {
   "id": "SCENARIO/230/04ff0",
@@ -223,7 +223,7 @@
   "jp": [
    "いたいよぉ・・"
   ],
-  "en": ""
+  "en": "It hurts..."
  },
  {
   "id": "SCENARIO/230/050b0",
@@ -231,7 +231,7 @@
   "jp": [
    "す　すいません"
   ],
-  "en": ""
+  "en": "S-sorry..."
  },
  {
   "id": "SCENARIO/230/05170",
@@ -240,7 +240,7 @@
    "すまない・・",
    "離脱する"
   ],
-  "en": ""
+  "en": "Forgive me... I must withdraw."
  },
  {
   "id": "SCENARIO/230/0523c",
@@ -248,7 +248,7 @@
   "jp": [
    "ぐっ　この私が・・・"
   ],
-  "en": ""
+  "en": "Ugh... Not me..."
  },
  {
   "id": "SCENARIO/230/05304",
@@ -256,7 +256,7 @@
   "jp": [
    "うー　いたいよぉ"
   ],
-  "en": ""
+  "en": "Ow... it hurts..."
  },
  {
   "id": "SCENARIO/230/053c8",
@@ -264,7 +264,7 @@
   "jp": [
    "・・限界だな・・"
   ],
-  "en": ""
+  "en": "...That's my limit..."
  },
  {
   "id": "SCENARIO/230/0548c",
@@ -272,7 +272,7 @@
   "jp": [
    "申し訳ありません"
   ],
-  "en": ""
+  "en": "My apologies."
  },
  {
   "id": "SCENARIO/230/05550",
@@ -282,7 +282,7 @@
    "あああああああああああああああ",
    "あああああああああああああああ"
   ],
-  "en": ""
+  "en": "They got meeeeeeeeeeeeeeeeeeeeeeeeee!"
  },
  {
   "id": "SCENARIO/230/05664",
@@ -292,6 +292,6 @@
    "あああああああああああああああ",
    "あああああああああああああああ"
   ],
-  "en": ""
+  "en": "They got meeeeeeeeeeeeeeeeeeeeeeeeee!"
  }
 ]

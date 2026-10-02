@@ -6,7 +6,7 @@
    "みなさん落ち着いて！！",
    "落ち着いて下さい！！"
   ],
-  "en": ""
+  "en": "Everyone, stay calm!! Please, stay calm!!"
  },
  {
   "id": "SCENARIO/228/0013c",
@@ -14,7 +14,7 @@
   "jp": [
    "ギシャァァァァァァァ！！！"
   ],
-  "en": ""
+  "en": "GSHAAAAAAAA!!"
  },
  {
   "id": "SCENARIO/228/00232",
@@ -22,7 +22,7 @@
   "jp": [
    "グァッ！！"
   ],
-  "en": ""
+  "en": "Gwah!!"
  },
  {
   "id": "SCENARIO/228/002d4",
@@ -31,7 +31,7 @@
    "くそう！！",
    "このバケモノめ！！"
   ],
-  "en": ""
+  "en": "Damn it!! You monster!!"
  },
  {
   "id": "SCENARIO/228/00310",
@@ -39,7 +39,7 @@
   "jp": [
    "ギシャァ！"
   ],
-  "en": ""
+  "en": "GSHAA!"
  },
  {
   "id": "SCENARIO/228/003da",
@@ -47,7 +47,7 @@
   "jp": [
    "ぐぁっ！！"
   ],
-  "en": ""
+  "en": "Gaah!!"
  },
  {
   "id": "SCENARIO/228/0047c",
@@ -56,7 +56,7 @@
    "・・・くそ！",
    "なんなんだこいつらは！？"
   ],
-  "en": ""
+  "en": "...Damn! What the hell are these things!?"
  },
  {
   "id": "SCENARIO/228/004c0",
@@ -64,7 +64,7 @@
   "jp": [
    "ギシャァァァァァァァ！！！"
   ],
-  "en": ""
+  "en": "GSHAAAAAAAA!!"
  },
  {
   "id": "SCENARIO/228/00518",
@@ -72,7 +72,7 @@
   "jp": [
    "うわぁっ！！"
   ],
-  "en": ""
+  "en": "Uwaah!!"
  },
  {
   "id": "SCENARIO/228/005aa",
@@ -80,7 +80,7 @@
   "jp": [
    "させませんわ"
   ],
-  "en": ""
+  "en": "I won't allow it."
  },
  {
   "id": "SCENARIO/228/0063a",
@@ -88,7 +88,7 @@
   "jp": [
    "グアッ！！"
   ],
-  "en": ""
+  "en": "Gwah!!"
  },
  {
   "id": "SCENARIO/228/006a6",
@@ -96,7 +96,7 @@
   "jp": [
    "・・・・・・・ふう"
   ],
-  "en": ""
+  "en": ".......Phew."
  },
  {
   "id": "SCENARIO/228/0071c",
@@ -104,7 +104,7 @@
   "jp": [
    "リ、リプサリス様！？"
   ],
-  "en": ""
+  "en": "R-Rhipsalis-sama!?"
  },
  {
   "id": "SCENARIO/228/0079a",
@@ -112,7 +112,7 @@
   "jp": [
    "ケガはありませんね？"
   ],
-  "en": ""
+  "en": "You're not hurt?"
  },
  {
   "id": "SCENARIO/228/007c8",
@@ -120,7 +120,7 @@
   "jp": [
    "は、はい！"
   ],
-  "en": ""
+  "en": "N-not at all!"
  },
  {
   "id": "SCENARIO/228/007fa",
@@ -130,7 +130,7 @@
    "一個体ずつ確実に",
    "この者たちを撃破して下さい"
   ],
-  "en": ""
+  "en": "Angel soldiers, join forces and bring these creatures down surely, one at a time."
  },
  {
   "id": "SCENARIO/228/00854",
@@ -139,7 +139,7 @@
    "残る僧兵の皆さんは",
    "住民達を早く安全な場所へ"
   ],
-  "en": ""
+  "en": "The remaining monk soldiers, get the townsfolk to safety at once."
  },
  {
   "id": "SCENARIO/228/0089c",
@@ -147,7 +147,7 @@
   "jp": [
    "はっ！"
   ],
-  "en": ""
+  "en": "Yes!"
  },
  {
   "id": "SCENARIO/228/00918",
@@ -155,7 +155,7 @@
   "jp": [
    "・・・？"
   ],
-  "en": ""
+  "en": "...?"
  },
  {
   "id": "SCENARIO/228/0095a",
@@ -163,7 +163,7 @@
   "jp": [
    "あの、まだ何か？"
   ],
-  "en": ""
+  "en": "Um, is there something else?"
  },
  {
   "id": "SCENARIO/228/009b0",
@@ -171,7 +171,7 @@
   "jp": [
    "いいえ、気のせいですわ"
   ],
-  "en": ""
+  "en": "No, it's just my imagination."
  },
  {
   "id": "SCENARIO/228/009d8",
@@ -179,7 +179,7 @@
   "jp": [
    "さぁ、先を急いで"
   ],
-  "en": ""
+  "en": "Now, hurry on."
  },
  {
   "id": "SCENARIO/228/00a22",
@@ -187,7 +187,7 @@
   "jp": [
    "了解しました！"
   ],
-  "en": ""
+  "en": "Understood!"
  },
  {
   "id": "SCENARIO/228/00a70",
@@ -196,12 +196,12 @@
    "今感じた揺れは気のせい？",
    "それとも・・・・・"
   ],
-  "en": ""
+  "en": "Was that tremor just now my imagination? Or....."
  },
  {
   "id": "SCENARIO/228/04608",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/228/04616",
@@ -209,12 +209,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/228/0462e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/228/0463e",
@@ -222,6 +222,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

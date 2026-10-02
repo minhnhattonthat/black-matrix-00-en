@@ -6,7 +6,7 @@
    "ここにもう用はない",
    "逃げるぞ！！"
   ],
-  "en": ""
+  "en": "There's nothing left for us here. We're leaving!!"
  },
  {
   "id": "SCENARIO/231/00180",
@@ -15,7 +15,7 @@
    "まだだよ！",
    "今度こそアラギを！！"
   ],
-  "en": ""
+  "en": "Not yet! This time I'll get Aragi!!"
  },
  {
   "id": "SCENARIO/231/00208",
@@ -23,7 +23,7 @@
   "jp": [
    "ハッハッハッハッハッハッハ！！"
   ],
-  "en": ""
+  "en": "Ha ha ha ha ha!!"
  },
  {
   "id": "SCENARIO/231/0025e",
@@ -33,7 +33,7 @@
    "まさかお前に会えるとはな",
    "カイン"
   ],
-  "en": ""
+  "en": "The moment I lose sight of Aragi, who should I run into but you. Cain."
  },
  {
   "id": "SCENARIO/231/002d8",
@@ -41,7 +41,7 @@
   "jp": [
    "お前は・・・"
   ],
-  "en": ""
+  "en": "You're..."
  },
  {
   "id": "SCENARIO/231/0030e",
@@ -49,7 +49,7 @@
   "jp": [
    "問答無用！！"
   ],
-  "en": ""
+  "en": "No more words!!"
  },
  {
   "id": "SCENARIO/231/0032c",
@@ -58,12 +58,12 @@
    "グリシナの仇！",
    "死ねぇぇぇぇぇぇぇぇ！！！！"
   ],
-  "en": ""
+  "en": "For Grisina! Diiiiiiiie!!!"
  },
  {
   "id": "SCENARIO/231/03e98",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/231/03ea6",
@@ -71,12 +71,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/231/03ebe",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/231/03ece",
@@ -84,6 +84,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

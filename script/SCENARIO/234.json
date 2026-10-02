@@ -6,7 +6,7 @@
    "外が騒がしいな",
    "それにこの揺れは・・・"
   ],
-  "en": ""
+  "en": "A commotion outside. And this shaking..."
  },
  {
   "id": "SCENARIO/234/001b8",
@@ -14,7 +14,7 @@
   "jp": [
    "まさか実験に何か不具合でも？"
   ],
-  "en": ""
+  "en": "Has something gone wrong with the experiment?"
  },
  {
   "id": "SCENARIO/234/001f0",
@@ -22,7 +22,7 @@
   "jp": [
    "ベイル様！！"
   ],
-  "en": ""
+  "en": "Bale-sama!!"
  },
  {
   "id": "SCENARIO/234/00210",
@@ -31,7 +31,7 @@
    "早くここから出て下さい！！",
    "ここはもう長くもちません！！"
   ],
-  "en": ""
+  "en": "Please get out of here, quickly!! This place won't hold much longer!!"
  },
  {
   "id": "SCENARIO/234/00296",
@@ -39,7 +39,7 @@
   "jp": [
    "その声はカルディアか？"
   ],
-  "en": ""
+  "en": "That voice... Cardia?"
  },
  {
   "id": "SCENARIO/234/002c8",
@@ -47,7 +47,7 @@
   "jp": [
    "ベイル様、早く！！"
   ],
-  "en": ""
+  "en": "Bale-sama, hurry!!"
  },
  {
   "id": "SCENARIO/234/00340",
@@ -57,7 +57,7 @@
    "期限までは、何があろうと",
    "ここから出ることは許されない"
   ],
-  "en": ""
+  "en": "I am a prisoner here... Until my term is up, I may not leave, no matter what happens."
  },
  {
   "id": "SCENARIO/234/003ac",
@@ -67,7 +67,7 @@
    "異形の者たちがあふれ",
    "大混乱しています！！"
   ],
-  "en": ""
+  "en": "Outside is in chaos, overrun by monstrosities the demon Aragi summoned!!"
  },
  {
   "id": "SCENARIO/234/0045c",
@@ -75,7 +75,7 @@
   "jp": [
    "アラギだと？"
   ],
-  "en": ""
+  "en": "Aragi, you say?"
  },
  {
   "id": "SCENARIO/234/00484",
@@ -85,7 +85,7 @@
    "それに、サンバルテルミを支える",
    "世界樹に異変が！！"
   ],
-  "en": ""
+  "en": "Yes... And something's wrong with the World Tree that supports San Bartelmi!!"
  },
  {
   "id": "SCENARIO/234/004e0",
@@ -93,7 +93,7 @@
   "jp": [
    "ギシャァァァァァァァ！！！"
   ],
-  "en": ""
+  "en": "GSHAAAAAAAA!!"
  },
  {
   "id": "SCENARIO/234/00514",
@@ -101,7 +101,7 @@
   "jp": [
    "キャアッ！！"
   ],
-  "en": ""
+  "en": "Eek!!"
  },
  {
   "id": "SCENARIO/234/0054a",
@@ -109,7 +109,7 @@
   "jp": [
    "！？"
   ],
-  "en": ""
+  "en": "!?"
  },
  {
   "id": "SCENARIO/234/00568",
@@ -117,7 +117,7 @@
   "jp": [
    "ギシャァッ！！！"
   ],
-  "en": ""
+  "en": "GSHAA!!"
  },
  {
   "id": "SCENARIO/234/005c6",
@@ -125,12 +125,12 @@
   "jp": [
    "カルディア！！"
   ],
-  "en": ""
+  "en": "Cardia!!"
  },
  {
   "id": "SCENARIO/234/0410c",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/234/0411a",
@@ -138,12 +138,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/234/04132",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/234/04142",
@@ -151,6 +151,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

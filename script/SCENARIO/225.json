@@ -5,7 +5,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/225/00164",
@@ -15,7 +15,7 @@
    "もうすぐ処刑が",
    "始まりますよ"
   ],
-  "en": ""
+  "en": "So this is where you were. The execution begins shortly."
  },
  {
   "id": "SCENARIO/225/001c6",
@@ -23,7 +23,7 @@
   "jp": [
    "こういう趣向は好かん"
   ],
-  "en": ""
+  "en": "I have no taste for this sort of spectacle."
  },
  {
   "id": "SCENARIO/225/00202",
@@ -33,7 +33,7 @@
    "外の皆さんは早く処刑が見たくて",
    "仕方がないようですわ"
   ],
-  "en": ""
+  "en": "You may dislike it, but the crowd outside can hardly wait to see the execution."
  },
  {
   "id": "SCENARIO/225/00260",
@@ -43,7 +43,7 @@
    "数々の教会を襲った悪魔の断罪",
    "それよりも"
   ],
-  "en": ""
+  "en": "Though for them, it's less the condemning of a demon who raided so many churches..."
  },
  {
   "id": "SCENARIO/225/002bc",
@@ -51,7 +51,7 @@
   "jp": [
    "処刑そのものが楽しみなようです"
   ],
-  "en": ""
+  "en": "...and more the execution itself that they look forward to."
  },
  {
   "id": "SCENARIO/225/002f4",
@@ -61,7 +61,7 @@
    "命のやりとりを知らぬ者の",
    "考えそうなことだ"
   ],
-  "en": ""
+  "en": "Enjoying death? Typical of those who have never staked their own lives in a fight."
  },
  {
   "id": "SCENARIO/225/0035e",
@@ -71,7 +71,7 @@
    "人は安全な場所から、それを",
    "見てみたいと惹かれるのですよ"
   ],
-  "en": ""
+  "en": "Because death frightens them, people are drawn to watch it from a place of safety."
  },
  {
   "id": "SCENARIO/225/003f0",
@@ -81,7 +81,7 @@
    "レッド・ムフロン様の演説が",
    "始まります"
   ],
-  "en": ""
+  "en": "Kreis-sama! Rhipsalis-sama! Red Mouflon-sama's address is beginning."
  },
  {
   "id": "SCENARIO/225/00448",
@@ -89,7 +89,7 @@
   "jp": [
    "お急ぎ下さい"
   ],
-  "en": ""
+  "en": "Please hurry."
  },
  {
   "id": "SCENARIO/225/0047e",
@@ -98,7 +98,7 @@
    "確かこのサンバルテルミに",
    "ベイルが幽閉されていたな"
   ],
-  "en": ""
+  "en": "If I recall, Bale was confined here in San Bartelmi."
  },
  {
   "id": "SCENARIO/225/004cc",
@@ -106,7 +106,7 @@
   "jp": [
    "・・・は？"
   ],
-  "en": ""
+  "en": "...Pardon?"
  },
  {
   "id": "SCENARIO/225/004fe",
@@ -115,7 +115,7 @@
    "後はお前達にまかせる",
    "私は外させてもらおう"
   ],
-  "en": ""
+  "en": "I leave the rest to you. I will excuse myself."
  },
  {
   "id": "SCENARIO/225/00544",
@@ -123,7 +123,7 @@
   "jp": [
    "ク、クレイス様！！？"
   ],
-  "en": ""
+  "en": "K-Kreis-sama!!?"
  },
  {
   "id": "SCENARIO/225/00594",
@@ -131,7 +131,7 @@
   "jp": [
    "仕方がありませんわね"
   ],
-  "en": ""
+  "en": "It can't be helped."
  },
  {
   "id": "SCENARIO/225/005bc",
@@ -141,7 +141,7 @@
    "私から伝えておきます",
    "貴方もお急ぎなさい"
   ],
-  "en": ""
+  "en": "I'll inform Red Mouflon-sama later myself. You hurry along too."
  },
  {
   "id": "SCENARIO/225/00620",
@@ -149,7 +149,7 @@
   "jp": [
    "りょ、了解しました"
   ],
-  "en": ""
+  "en": "U-understood!"
  },
  {
   "id": "SCENARIO/225/00654",
@@ -157,7 +157,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/225/00686",
@@ -166,12 +166,12 @@
    "何事もなく無事に",
    "終われば良いのですが・・・"
   ],
-  "en": ""
+  "en": "I only hope it all ends without incident..."
  },
  {
   "id": "SCENARIO/225/0420c",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/225/0421a",
@@ -179,12 +179,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/225/04232",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/225/04242",
@@ -192,6 +192,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

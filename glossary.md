@@ -185,3 +185,4 @@ Grisina presents female but self-identifies as a man (195): pronoun-free.
 | 十審将裁判 | the Tribunal Generals' trial | |
 
 Correction: Luca uses アタシ (script 250) and 捜したわよ (056): Luca is a woman. The gender list at the top is wrong on this point; check earlier scripts for "he/him" referring to Luca.
+| フォーメーションＡ/Ｂ | Formation A / B | |
