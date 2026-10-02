@@ -43,7 +43,9 @@ def patch():
         entries = json.loads(path.read_text(encoding="utf-8"))
         files[i] = script.insert(files[i], entries)
         for wide in script.too_wide(entries):
-            print("warning: wider than the window:", wide)
+            print("too wide:", wide)
+        for spill in script.spilled(entries):
+            print("spilled:", spill)
     (EXTRACTED / "SCENARIO.DAT").write_bytes(dat.pack(files))
     halfwidth.assemble(ORIG / "SLPS_035.73", EXTRACTED / "SLPS_035.73")
 

@@ -1,328 +1,308 @@
 [
  {
   "id": "SCENARIO/000/00778",
-  "jp": "ゲームをする時は",
-  "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123"
- },
- {
-  "id": "SCENARIO/000/0078c",
-  "jp": "部屋を明るくして",
-  "en": "Keep the room bright!"
- },
- {
-  "id": "SCENARIO/000/007a0",
-  "jp": "テレビから少し離れて遊ぼうね！",
-  "en": "abcdefghijklmnopqrstuvwxyz4567"
+  "speaker": 0,
+  "jp": [
+   "ゲームをする時は",
+   "部屋を明るくして",
+   "テレビから少し離れて遊ぼうね！"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/0080c",
-  "jp": "警告だ",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "警告だ"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/00832",
-  "jp": "ゲームで遊ぶなら",
-  "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123"
- },
- {
-  "id": "SCENARIO/000/00846",
-  "jp": "部屋を明るくして",
-  "en": "Keep the room bright!"
- },
- {
-  "id": "SCENARIO/000/0085a",
-  "jp": "テレビから少し離れておけ",
-  "en": "abcdefghijklmnopqrstuvwxyz4567"
+  "speaker": 0,
+  "jp": [
+   "ゲームで遊ぶなら",
+   "部屋を明るくして",
+   "テレビから少し離れておけ"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/008c0",
-  "jp": "ゲームで遊ぶ時は",
-  "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123"
- },
- {
-  "id": "SCENARIO/000/008d4",
-  "jp": "部屋を明るくして",
-  "en": "Keep the room bright!"
- },
- {
-  "id": "SCENARIO/000/008e8",
-  "jp": "テレビから少し離れて下さいね",
-  "en": "abcdefghijklmnopqrstuvwxyz4567"
+  "speaker": 0,
+  "jp": [
+   "ゲームで遊ぶ時は",
+   "部屋を明るくして",
+   "テレビから少し離れて下さいね"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/00950",
-  "jp": "ゲームで遊ぶと言うなら",
-  "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123"
- },
- {
-  "id": "SCENARIO/000/0096a",
-  "jp": "まず、部屋を明るくすること",
-  "en": "Keep the room bright!"
+  "speaker": 0,
+  "jp": [
+   "ゲームで遊ぶと言うなら",
+   "まず、部屋を明るくすること"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/009a4",
-  "jp": "そして、テレビから少し離れ",
-  "en": "abcdefghijklmnopqrstuvwxyz4567"
- },
- {
-  "id": "SCENARIO/000/009c2",
-  "jp": "一定の距離を保つことを",
-  "en": ""
- },
- {
-  "id": "SCENARIO/000/009dc",
-  "jp": "推奨しておこう",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "そして、テレビから少し離れ",
+   "一定の距離を保つことを",
+   "推奨しておこう"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/00a38",
-  "jp": "警告しておくけど・・",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "警告しておくけど・・"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/00a5e",
-  "jp": "ゲームで遊ぶなら",
-  "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123"
- },
- {
-  "id": "SCENARIO/000/00a72",
-  "jp": "部屋を明るくして",
-  "en": "Keep the room bright!"
- },
- {
-  "id": "SCENARIO/000/00a86",
-  "jp": "テレビから少し離れて遊ぶのよ",
-  "en": "abcdefghijklmnopqrstuvwxyz4567"
+  "speaker": 0,
+  "jp": [
+   "ゲームで遊ぶなら",
+   "部屋を明るくして",
+   "テレビから少し離れて遊ぶのよ"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/00ac2",
-  "jp": "いいわね",
-  "en": ""
- },
- {
-  "id": "SCENARIO/000/00ace",
-  "jp": "ちゃんと守るのよ",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "いいわね",
+   "ちゃんと守るのよ"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/00b2c",
-  "jp": "警告しておく",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "警告しておく"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/00b58",
-  "jp": "ゲームで遊ぶなら",
-  "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123"
- },
- {
-  "id": "SCENARIO/000/00b6c",
-  "jp": "部屋を明るくして",
-  "en": "Keep the room bright!"
- },
- {
-  "id": "SCENARIO/000/00b80",
-  "jp": "テレビから少し離れるようにしろ",
-  "en": "abcdefghijklmnopqrstuvwxyz4567"
+  "speaker": 0,
+  "jp": [
+   "ゲームで遊ぶなら",
+   "部屋を明るくして",
+   "テレビから少し離れるようにしろ"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/00bec",
-  "jp": "ゲームをする時は",
-  "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123"
- },
- {
-  "id": "SCENARIO/000/00c00",
-  "jp": "部屋を明るくして",
-  "en": "Keep the room bright!"
- },
- {
-  "id": "SCENARIO/000/00c14",
-  "jp": "テレビから少し離れて遊ぶんだぜ",
-  "en": "abcdefghijklmnopqrstuvwxyz4567"
+  "speaker": 0,
+  "jp": [
+   "ゲームをする時は",
+   "部屋を明るくして",
+   "テレビから少し離れて遊ぶんだぜ"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/00c52",
-  "jp": "ほどほどに、休憩も忘れるなよ！",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "ほどほどに、休憩も忘れるなよ！"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/00cbc",
-  "jp": "いーい？",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "いーい？"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/00ce4",
-  "jp": "ゲームをする時は",
-  "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123"
- },
- {
-  "id": "SCENARIO/000/00cf8",
-  "jp": "部屋を明るくして",
-  "en": "Keep the room bright!"
- },
- {
-  "id": "SCENARIO/000/00d0c",
-  "jp": "テレビから少し離れて遊ぶのよ！",
-  "en": "abcdefghijklmnopqrstuvwxyz4567"
+  "speaker": 0,
+  "jp": [
+   "ゲームをする時は",
+   "部屋を明るくして",
+   "テレビから少し離れて遊ぶのよ！"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/00d78",
-  "jp": "いいですか？",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "いいですか？"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/00da4",
-  "jp": "ゲームをする時は部屋を",
-  "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123"
- },
- {
-  "id": "SCENARIO/000/00dbe",
-  "jp": "明るくしてテレビから少し離れて",
-  "en": "abcdefghijklmnopqrstuvwxyz4567"
- },
- {
-  "id": "SCENARIO/000/00de0",
-  "jp": "遊ばなきゃダメですよ",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "ゲームをする時は部屋を",
+   "明るくしてテレビから少し離れて",
+   "遊ばなきゃダメですよ"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/00e78",
-  "jp": "ゲームをする時は部屋を",
-  "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123"
- },
- {
-  "id": "SCENARIO/000/00e92",
-  "jp": "明るくしてテレビから少し離れて",
-  "en": "abcdefghijklmnopqrstuvwxyz4567"
- },
- {
-  "id": "SCENARIO/000/00eb4",
-  "jp": "遊ばなきゃダメなの！",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "ゲームをする時は部屋を",
+   "明るくしてテレビから少し離れて",
+   "遊ばなきゃダメなの！"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/00ee8",
-  "jp": "約束だよ！",
-  "en": ""
- },
- {
-  "id": "SCENARIO/000/00ef6",
-  "jp": "ちゃーんと、守ってね！",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "約束だよ！",
+   "ちゃーんと、守ってね！"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/00f9c",
-  "jp": "皆さん、ゲームで遊ぶときは",
-  "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123"
- },
- {
-  "id": "SCENARIO/000/00fba",
-  "jp": "部屋を明るくして",
-  "en": "Keep the room bright!"
- },
- {
-  "id": "SCENARIO/000/00fce",
-  "jp": "テレビから少し離れて下さいね",
-  "en": "abcdefghijklmnopqrstuvwxyz4567"
+  "speaker": 0,
+  "jp": [
+   "皆さん、ゲームで遊ぶときは",
+   "部屋を明るくして",
+   "テレビから少し離れて下さいね"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/01038",
-  "jp": "ゲームで遊ぶなら部屋を",
-  "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123"
- },
- {
-  "id": "SCENARIO/000/01052",
-  "jp": "明るくしてテレビから少し離れる",
-  "en": "abcdefghijklmnopqrstuvwxyz4567"
- },
- {
-  "id": "SCENARIO/000/01074",
-  "jp": "ことを忘れてはならない",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "ゲームで遊ぶなら部屋を",
+   "明るくしてテレビから少し離れる",
+   "ことを忘れてはならない"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/010aa",
-  "jp": "警告は以上だ",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "警告は以上だ"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/01104",
-  "jp": "警告しておこう",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "警告しておこう"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/01132",
-  "jp": "ゲームで遊ぶ時は部屋を",
-  "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123"
- },
- {
-  "id": "SCENARIO/000/0114c",
-  "jp": "明るくしてテレビから少し",
-  "en": "abcdefghijklmnopqrstuvwxyz4567"
- },
- {
-  "id": "SCENARIO/000/01168",
-  "jp": "離れることを推奨する",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "ゲームで遊ぶ時は部屋を",
+   "明るくしてテレビから少し",
+   "離れることを推奨する"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/011c8",
-  "jp": "ゲームをする時は部屋を",
-  "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123"
- },
- {
-  "id": "SCENARIO/000/011e2",
-  "jp": "明るくしてテレビから少し",
-  "en": "abcdefghijklmnopqrstuvwxyz4567"
- },
- {
-  "id": "SCENARIO/000/011fe",
-  "jp": "離れて遊ぶことを推奨します",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "ゲームをする時は部屋を",
+   "明るくしてテレビから少し",
+   "離れて遊ぶことを推奨します"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/01238",
-  "jp": "警告は、以上ですわ",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "警告は、以上ですわ"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/01298",
-  "jp": "いいかい？",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "いいかい？"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/012c2",
-  "jp": "ゲームで遊ぶなら",
-  "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123"
- },
- {
-  "id": "SCENARIO/000/012d6",
-  "jp": "部屋はちゃんと明るくして",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "ゲームで遊ぶなら",
+   "部屋はちゃんと明るくして"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/01300",
-  "jp": "テレビから少し離れて",
-  "en": "abcdefghijklmnopqrstuvwxyz4567"
- },
- {
-  "id": "SCENARIO/000/01318",
-  "jp": "遊ぶんだよ",
-  "en": ""
+  "speaker": 0,
+  "jp": [
+   "テレビから少し離れて",
+   "遊ぶんだよ"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/01370",
-  "jp": "ゲームで遊ぶ時は",
-  "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123"
- },
- {
-  "id": "SCENARIO/000/01384",
-  "jp": "部屋を明るくして",
-  "en": "Keep the room bright!"
- },
- {
-  "id": "SCENARIO/000/01398",
-  "jp": "テレビから少し離れて下さいね",
-  "en": "abcdefghijklmnopqrstuvwxyz4567"
+  "speaker": 0,
+  "jp": [
+   "ゲームで遊ぶ時は",
+   "部屋を明るくして",
+   "テレビから少し離れて下さいね"
+  ],
+  "en": "",
+  "spill": false
  },
  {
   "id": "SCENARIO/000/04ee4",
@@ -331,7 +311,10 @@
  },
  {
   "id": "SCENARIO/000/04ef2",
-  "jp": "ボンジュール",
+  "speaker": 0,
+  "jp": [
+   "ボンジュール"
+  ],
   "en": ""
  },
  {
@@ -341,7 +324,10 @@
  },
  {
   "id": "SCENARIO/000/04f1a",
-  "jp": "？？？",
+  "speaker": 0,
+  "jp": [
+   "？？？"
+  ],
   "en": ""
  }
 ]
