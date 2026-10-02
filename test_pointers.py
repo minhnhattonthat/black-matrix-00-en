@@ -29,20 +29,17 @@ def test_every_pointer_into_a_run_targets_a_message():
     assert checked > 100            # 78 inline/table pointers plus the chapter titles
 
 
-def test_growth_moves_a_message_to_the_tail_and_pointers_follow():
+def test_growth_keeps_every_message_reachable_through_a_pointer():
     entries = pointers.extract(SUB10, "S")
-    e = entries[0]
-    off = int(e["id"].rsplit("/", 1)[1], 16)
-    e["en"] = "This closes the screen. " * 3          # far longer than the Japanese
-    refs = [o for o, v in _pointer_words(SUB10) if v - pointers.BASE == off]
-    assert refs
+    entries[0]["en"] = "This closes the screen. " * 3           # far longer: pushes later messages to the tail
+    entries[1]["en"] = "Vibration"
     out = pointers.insert(SUB10, entries)
-    new_target = struct.unpack_from("<I", out, refs[0])[0] - pointers.BASE
-    assert out[new_target:].startswith(script.encode(e["en"]))
-    assert all(struct.unpack_from("<I", out, o)[0] - pointers.BASE == new_target for o in refs)
+    assert len(out) == len(SUB10)
     assert len(_pointer_words(out)) == len(_pointer_words(SUB10))
-    kept = [x["jp"] for x in pointers.extract(out, "S")]
-    assert kept == [x["jp"] for x in entries[1:]]       # every other message still in place, in order
+    targets = {v - pointers.BASE for _, v in _pointer_words(out)}
+    for e in entries:
+        expected = script.encode(e["en"]) if e["en"] else script.encode(e["jp"])
+        assert any(out[t:].startswith(expected + bytes(1)) for t in targets), e["id"]
 
 
 def test_data_word_in_pointer_range_raises():
