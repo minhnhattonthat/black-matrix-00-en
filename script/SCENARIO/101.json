@@ -2,7 +2,7 @@
  {
   "id": "SCENARIO/101/00270",
   "jp": "構成員・男",
-  "en": ""
+  "en": "Member (Man)"
  },
  {
   "id": "SCENARIO/101/00284",
@@ -11,7 +11,7 @@
    "こら！",
    "ここは子供の遊び場じゃないぞ！"
   ],
-  "en": ""
+  "en": "Hey! This isn't a playground for kids!"
  },
  {
   "id": "SCENARIO/101/002b8",
@@ -19,12 +19,12 @@
   "jp": [
    "用がすんだら早く帰りなさい"
   ],
-  "en": ""
+  "en": "When your business is done, go on home."
  },
  {
   "id": "SCENARIO/101/00310",
   "jp": "構成員・女",
-  "en": ""
+  "en": "Member (Woman)"
  },
  {
   "id": "SCENARIO/101/00324",
@@ -32,7 +32,7 @@
   "jp": [
    "あら、貴方は・・・"
   ],
-  "en": ""
+  "en": "Oh, you're..."
  },
  {
   "id": "SCENARIO/101/00340",
@@ -42,12 +42,12 @@
    "役立ちそうな情報があったはずよ",
    "もう見てきた？"
   ],
-  "en": ""
+  "en": "I believe there was some useful info in the Notebook. Have you looked yet?"
  },
  {
   "id": "SCENARIO/101/003c4",
   "jp": "構成員・若者",
-  "en": ""
+  "en": "Member (Youth)"
  },
  {
   "id": "SCENARIO/101/003da",
@@ -57,12 +57,12 @@
    "生死の分かれ目なんて",
    "何が決め手かわからないからな"
   ],
-  "en": ""
+  "en": "Don't slack on weapon upkeep. You never know what'll decide life or death."
  },
  {
   "id": "SCENARIO/101/0046c",
   "jp": "ダリア",
-  "en": ""
+  "en": "Dahlia"
  },
  {
   "id": "SCENARIO/101/0047c",
@@ -71,7 +71,7 @@
    "あら、",
    "いらっしゃい"
   ],
-  "en": ""
+  "en": "Oh, welcome."
  },
  {
   "id": "SCENARIO/101/0049c",
@@ -81,12 +81,12 @@
    "雑記帳の方を確認してみたら",
    "どうだい？"
   ],
-  "en": ""
+  "en": "Nothing special to report... Why not check the Notebook?"
  },
  {
   "id": "SCENARIO/101/00508",
   "jp": "ウェイター",
-  "en": ""
+  "en": "Waiter"
  },
  {
   "id": "SCENARIO/101/0051c",
@@ -94,7 +94,7 @@
   "jp": [
    "いらっしゃいませ～"
   ],
-  "en": ""
+  "en": "Welcome~"
  },
  {
   "id": "SCENARIO/101/00538",
@@ -104,12 +104,12 @@
    "子供にお酒なんてすすめたら",
    "ダリアさんにシメられますからね"
   ],
-  "en": ""
+  "en": "No drinks till you're grown. Serve a kid liquor and Dahlia-san would wring my neck."
  },
  {
   "id": "SCENARIO/101/005d4",
   "jp": "剣士",
-  "en": ""
+  "en": "Swordsman"
  },
  {
   "id": "SCENARIO/101/005e2",
@@ -117,7 +117,7 @@
   "jp": [
    "ようやく俺も僧兵になれたよ"
   ],
-  "en": ""
+  "en": "I finally made monk soldier."
  },
  {
   "id": "SCENARIO/101/00608",
@@ -127,12 +127,12 @@
    "今に悪魔討伐隊のメンバーに",
    "なって村のみんなを驚かせてやる"
   ],
-  "en": ""
+  "en": "Novice for now, but I'll join the demon-hunting squad and wow the whole village."
  },
  {
   "id": "SCENARIO/101/0069c",
   "jp": "中年",
-  "en": ""
+  "en": "Middle-aged man"
  },
  {
   "id": "SCENARIO/101/006aa",
@@ -140,7 +140,7 @@
   "jp": [
    "ウィ～ック"
   ],
-  "en": ""
+  "en": "*Hic*"
  },
  {
   "id": "SCENARIO/101/006c0",
@@ -149,7 +149,7 @@
    "欲に目がくらんだんじゃねぇ・・",
    "その方が、幸せだと思ったんだ"
   ],
-  "en": ""
+  "en": "I wasn't blinded by greed... I thought it'd be better for 'em that way."
  },
  {
   "id": "SCENARIO/101/00708",
@@ -158,12 +158,12 @@
    "畜生、教団なんかに",
    "子供を渡すんじゃなかった"
   ],
-  "en": ""
+  "en": "Dammit, I never should've handed my kid over to the Church."
  },
  {
   "id": "SCENARIO/101/00774",
   "jp": "片翼の天使",
-  "en": ""
+  "en": "One-winged Angel"
  },
  {
   "id": "SCENARIO/101/00788",
@@ -173,7 +173,7 @@
    "規則に縛られるよりも",
    "風と草と共に歌うのが好き♪"
   ],
-  "en": ""
+  "en": "I'm a free-roaming angel. Forget rules; I'd rather sing with the wind and the grass~"
  },
  {
   "id": "SCENARIO/101/007e4",
@@ -183,7 +183,7 @@
    "どちらが欠けても世界は色を",
    "損ない少し寂しく見えてしまう"
   ],
-  "en": ""
+  "en": "Dreams in one eye, reality in the other. Lose either and the world goes a bit grey."
  },
  {
   "id": "SCENARIO/101/00844",
@@ -193,12 +193,12 @@
    "現実に偏れば人は夢を忘れ",
    "偏りなく歩くのはむずかしいね"
   ],
-  "en": ""
+  "en": "Lean to dreams, forget reality. Lean to reality, forget dreams. Balance is hard."
  },
  {
   "id": "SCENARIO/101/008d8",
   "jp": "老人",
-  "en": ""
+  "en": "Old man"
  },
  {
   "id": "SCENARIO/101/008e6",
@@ -206,12 +206,12 @@
   "jp": [
    "今日はいい天気だのう・・・"
   ],
-  "en": ""
+  "en": "Fine weather today..."
  },
  {
   "id": "SCENARIO/101/00940",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/101/0094e",
@@ -221,7 +221,7 @@
    "こき使われるのは疲れたから",
    "自分の店が欲しいな"
   ],
-  "en": ""
+  "en": "Man, I'm sick of being worked to the bone at my brother's shop. I want my own place."
  },
  {
   "id": "SCENARIO/101/009ac",
@@ -230,12 +230,12 @@
    "ま、適当にさぼったら",
    "仕事に戻ろうっと"
   ],
-  "en": ""
+  "en": "Well, after a bit more slacking off, back to work."
  },
  {
   "id": "SCENARIO/101/00a1c",
   "jp": "老婆",
-  "en": ""
+  "en": "Old woman"
  },
  {
   "id": "SCENARIO/101/00a2a",
@@ -245,7 +245,7 @@
    "最近は悪魔の話が多くて物騒だよ",
    "恐ろしくて夜道は歩けないねぇ"
   ],
-  "en": ""
+  "en": "Keh keh keh! Demon talk everywhere these days. Too scared to go out at night."
  },
  {
   "id": "SCENARIO/101/00a84",
@@ -254,12 +254,12 @@
    "悪魔に生き血でも吸われ",
    "これ以上干からびたら大変じゃ"
   ],
-  "en": ""
+  "en": "If a demon sucked my blood and I shriveled up any more, that'd be the end of me."
  },
  {
   "id": "SCENARIO/101/00af8",
   "jp": "カップル・男",
-  "en": ""
+  "en": "Couple (man)"
  },
  {
   "id": "SCENARIO/101/00b0e",
@@ -267,7 +267,7 @@
   "jp": [
    "僕は彼女を愛しているんだ"
   ],
-  "en": ""
+  "en": "I love her."
  },
  {
   "id": "SCENARIO/101/00b30",
@@ -276,12 +276,12 @@
    "結婚するのかって？",
    "そうだね、いつかは・・・"
   ],
-  "en": ""
+  "en": "Will we get married? Well, someday..."
  },
  {
   "id": "SCENARIO/101/00b9c",
   "jp": "カップル・女",
-  "en": ""
+  "en": "Couple (woman)"
  },
  {
   "id": "SCENARIO/101/00bb2",
@@ -289,7 +289,7 @@
   "jp": [
    "わたしは彼を愛しているの"
   ],
-  "en": ""
+  "en": "I love him."
  },
  {
   "id": "SCENARIO/101/00bd4",
@@ -298,12 +298,12 @@
    "結婚するのかって？",
    "それとコレとは別の話よ"
   ],
-  "en": ""
+  "en": "Will we get married? That's a whole different matter."
  },
  {
   "id": "SCENARIO/101/00c40",
   "jp": "神父",
-  "en": ""
+  "en": "Priest"
  },
  {
   "id": "SCENARIO/101/00c4e",
@@ -312,12 +312,12 @@
    "ちゃんと毎日",
    "＜書＞を読んでいますよね？"
   ],
-  "en": ""
+  "en": "You are reading the Book every day, aren't you?"
  },
  {
   "id": "SCENARIO/101/00cb8",
   "jp": "男の子",
-  "en": ""
+  "en": "Boy"
  },
  {
   "id": "SCENARIO/101/00cc8",
@@ -325,7 +325,7 @@
   "jp": [
    "サーカスなんてつまんねーよ"
   ],
-  "en": ""
+  "en": "The circus is so boring."
  },
  {
   "id": "SCENARIO/101/00cec",
@@ -335,7 +335,7 @@
    "やってることはほとんど毎回",
    "同じなんだぜ？"
   ],
-  "en": ""
+  "en": "I've come loads of times, and it's pretty much the same act every single time."
  },
  {
   "id": "SCENARIO/101/00d6a",
@@ -343,7 +343,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/101/00d88",
@@ -351,7 +351,7 @@
   "jp": [
    "お兄さんもヒマそうだね"
   ],
-  "en": ""
+  "en": "You look bored too, mister."
  },
  {
   "id": "SCENARIO/101/00da8",
@@ -360,7 +360,7 @@
    "拾いもので悪いけど",
    "これあげようか"
   ],
-  "en": ""
+  "en": "It's just something I found, but want it?"
  },
  {
   "id": "SCENARIO/101/00dd8",
@@ -370,7 +370,7 @@
    "いつまで見てても",
    "飽きない"
   ],
-  "en": ""
+  "en": "It sparkles. You never get tired of looking at it."
  },
  {
   "id": "SCENARIO/101/00e10",
@@ -378,12 +378,12 @@
   "jp": [
    "暇つぶしにはもってこい"
   ],
-  "en": ""
+  "en": "Perfect for killing time."
  },
  {
   "id": "SCENARIO/101/00e8c",
   "jp": "女の子",
-  "en": ""
+  "en": "Girl"
  },
  {
   "id": "SCENARIO/101/00e9c",
@@ -392,7 +392,7 @@
    "文句ばっかり言ってるけど",
    "何度も熱心に通い詰めているのよ"
   ],
-  "en": ""
+  "en": "He does nothing but complain, but he keeps coming back, over and over."
  },
  {
   "id": "SCENARIO/101/00ee0",
@@ -402,12 +402,12 @@
    "男の子ってどうしてこう",
    "素直になれないのかしら？"
   ],
-  "en": ""
+  "en": "If he likes it, why not just say so? Why can't boys ever be honest?"
  },
  {
   "id": "SCENARIO/101/00f70",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/101/00f80",
@@ -415,12 +415,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/101/00f9c",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/101/00fac",
@@ -428,12 +428,12 @@
   "jp": [
    "・・・あの"
   ],
-  "en": ""
+  "en": "...Um."
  },
  {
   "id": "SCENARIO/101/00fc0",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/101/00fd0",
@@ -443,12 +443,12 @@
    "演目中のピエロは",
    "しゃべっちゃいけないんだよ"
   ],
-  "en": ""
+  "en": "Don't talk to me. A clown mustn't speak during the act."
  },
  {
   "id": "SCENARIO/101/01068",
   "jp": "兵士",
-  "en": ""
+  "en": "Soldier"
  },
  {
   "id": "SCENARIO/101/01076",
@@ -456,7 +456,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/101/01094",
@@ -466,7 +466,7 @@
    "熱はないのに顔が熱くなるし",
    "心拍数が以上に高くなってしまう"
   ],
-  "en": ""
+  "en": "Hrmm. Before her, my face burns though I've no fever, and my heart races like mad."
  },
  {
   "id": "SCENARIO/101/010f8",
@@ -475,12 +475,12 @@
    "はっ！！！",
    "まさか、これは病気なのか！？"
   ],
-  "en": ""
+  "en": "Gasp!! Could it be... am I ill!?"
  },
  {
   "id": "SCENARIO/101/01140",
   "jp": "兵士",
-  "en": ""
+  "en": "Soldier"
  },
  {
   "id": "SCENARIO/101/0114e",
@@ -488,12 +488,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/101/011a8",
   "jp": "プラン",
-  "en": ""
+  "en": "Plan"
  },
  {
   "id": "SCENARIO/101/011b8",
@@ -502,12 +502,12 @@
    "今日も元気に",
    "いらっしゃいませ～"
   ],
-  "en": ""
+  "en": "Bright and cheery as ever, welcome~"
  },
  {
   "id": "SCENARIO/101/01200",
   "jp": "フライ",
-  "en": ""
+  "en": "Fly"
  },
  {
   "id": "SCENARIO/101/01210",
@@ -516,7 +516,7 @@
    "いらっしゃいませ～",
    "今日もぼちぼちでいいよ～"
   ],
-  "en": ""
+  "en": "Welcome~ Just take it easy today too~"
  },
  {
   "id": "SCENARIO/101/01264",
@@ -524,12 +524,12 @@
   "jp": [
    "雑記帳を見に行かなきゃ"
   ],
-  "en": ""
+  "en": "I should go check the Notebook."
  },
  {
   "id": "SCENARIO/101/04d9c",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/101/04daa",
@@ -537,12 +537,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/101/04dc2",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/101/04dd2",
@@ -550,6 +550,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

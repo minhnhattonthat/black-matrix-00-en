@@ -136,3 +136,9 @@ Corrections: Kilota uses 僕 and is called 坊主 in script 111 — a boy, not a
 | ボーナスシナリオ titles | `Bonus Scenario NN\nSubtitle` | two lines |
 
 Fly uses 僕 in script 031: gender ambiguous, keep pronoun-free.
+| 慟哭の５５５日戦争 | the 555-Day War of Lamentation | |
+| 幽葬の地下通路 | the Spectral Catacombs | |
+| 古の大悪魔 | Ancient Archdemon | |
+| 死者を操る魔眼 | the Evil Eye that commands the dead | Pasca's title |
+| 灰色の天使 | grey angel | Luca's epithet for Johannes |
+| 六翼の天使 | six-winged angel | Bale |

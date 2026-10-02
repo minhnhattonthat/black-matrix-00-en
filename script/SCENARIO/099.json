@@ -2,7 +2,7 @@
  {
   "id": "SCENARIO/099/00040",
   "jp": "ここまでをセーブしますか？",
-  "en": ""
+  "en": "Save your progress so far?"
  },
  {
   "id": "SCENARIO/099/001ac",
@@ -10,7 +10,7 @@
   "jp": [
    "カイン！"
   ],
-  "en": ""
+  "en": "Cain!"
  },
  {
   "id": "SCENARIO/099/001c8",
@@ -18,7 +18,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": "",
+  "en": "......",
   "spill": false
  },
  {
@@ -28,7 +28,7 @@
    "もう！",
    "急にいなくなるから心配したのよ"
   ],
-  "en": ""
+  "en": "Honestly! You vanished all of a sudden, I was worried."
  },
  {
   "id": "SCENARIO/099/00266",
@@ -36,7 +36,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": "",
+  "en": "......",
   "spill": false
  },
  {
@@ -46,7 +46,7 @@
    "・・・カイン",
    "また傷が増えてるわ"
   ],
-  "en": ""
+  "en": "...Cain. You've got new wounds again."
  },
  {
   "id": "SCENARIO/099/002fa",
@@ -54,7 +54,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": "",
+  "en": "......",
   "spill": false
  },
  {
@@ -64,7 +64,7 @@
    "・・・その傷",
    "またアベルがやったのね！"
   ],
-  "en": ""
+  "en": "...Those wounds. Abel did this again, didn't he!"
  },
  {
   "id": "SCENARIO/099/003a0",
@@ -72,7 +72,7 @@
   "jp": [
    "アベルなんて大嫌い！"
   ],
-  "en": ""
+  "en": "I hate Abel!"
  },
  {
   "id": "SCENARIO/099/003d6",
@@ -80,7 +80,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": "",
+  "en": "......",
   "spill": false
  },
  {
@@ -90,7 +90,7 @@
    "・・・どうしてこんな",
    "ひどいことばかりするの？"
   ],
-  "en": ""
+  "en": "...Why does he keep doing such horrible things?"
  },
  {
   "id": "SCENARIO/099/00484",
@@ -98,7 +98,7 @@
   "jp": [
    "・・・どうして"
   ],
-  "en": ""
+  "en": "...Why..."
  },
  {
   "id": "SCENARIO/099/004b2",
@@ -106,7 +106,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": "",
+  "en": "......",
   "spill": false
  },
  {
@@ -115,7 +115,7 @@
   "jp": [
    "うるさいよ、お前"
   ],
-  "en": ""
+  "en": "You're noisy."
  },
  {
   "id": "SCENARIO/099/0056a",
@@ -123,7 +123,7 @@
   "jp": [
    "あ・・・アベル！？"
   ],
-  "en": ""
+  "en": "Ah... Abel!?"
  },
  {
   "id": "SCENARIO/099/005b8",
@@ -132,7 +132,7 @@
    "カイン、カインって",
    "・・・お前、うるさいよ"
   ],
-  "en": ""
+  "en": "Cain this, Cain that... You're noisy, you know that?"
  },
  {
   "id": "SCENARIO/099/00620",
@@ -140,7 +140,7 @@
   "jp": [
    "お前なんか、死んじゃえ！！"
   ],
-  "en": ""
+  "en": "Why don't you just die!!"
  },
  {
   "id": "SCENARIO/099/006a4",
@@ -148,7 +148,7 @@
   "jp": [
    "きゃあっ！！"
   ],
-  "en": ""
+  "en": "Kyaa!!"
  },
  {
   "id": "SCENARIO/099/00708",
@@ -157,7 +157,7 @@
    "く、くるしい・・・",
    "ア・・・ベル・・・"
   ],
-  "en": ""
+  "en": "I... can't breathe... A... bel..."
  },
  {
   "id": "SCENARIO/099/0076c",
@@ -165,7 +165,7 @@
   "jp": [
    "クククククッ・・・"
   ],
-  "en": "",
+  "en": "Kukukuku...",
   "spill": false
  },
  {
@@ -175,7 +175,7 @@
    "あはは・・・",
    "あははは・・・"
   ],
-  "en": ""
+  "en": "Ahaha... Ahahaha..."
  },
  {
   "id": "SCENARIO/099/00802",
@@ -183,7 +183,7 @@
   "jp": [
    "みんな死んじゃえばいいんだ"
   ],
-  "en": ""
+  "en": "Everyone should just die."
  },
  {
   "id": "SCENARIO/099/0083e",
@@ -191,12 +191,12 @@
   "jp": [
    "みんな、いなくなってしまえ！！"
   ],
-  "en": ""
+  "en": "Everyone, just disappear!!"
  },
  {
   "id": "SCENARIO/099/04424",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/099/04432",
@@ -204,12 +204,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/099/0444a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/099/0445a",
@@ -217,6 +217,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

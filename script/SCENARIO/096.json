@@ -7,7 +7,7 @@
    "このペインリングが欲しかったん",
    "だろ？"
   ],
-  "en": ""
+  "en": "Kukuku... You wanted this Pain Ring, didn't you?"
  },
  {
   "id": "SCENARIO/096/00198",
@@ -16,7 +16,7 @@
    "・・・いいぜ",
    "望みの品、喰らわせてやる！！！"
   ],
-  "en": ""
+  "en": "...Fine. Have a taste of what you came for!!!"
  },
  {
   "id": "SCENARIO/096/00322",
@@ -24,7 +24,7 @@
   "jp": [
    "ま、こんなもんか"
   ],
-  "en": ""
+  "en": "Well, that's about it."
  },
  {
   "id": "SCENARIO/096/003b4",
@@ -32,7 +32,7 @@
   "jp": [
    "げほげほ、ごほっ！"
   ],
-  "en": ""
+  "en": "Kaff, kaff... hack!"
  },
  {
   "id": "SCENARIO/096/003ee",
@@ -42,7 +42,7 @@
    "弱いくせに強がってばかりじゃ",
    "長生きできないぜ？"
   ],
-  "en": ""
+  "en": "Kukuku. Weaklings who keep acting tough don't live long, you know?"
  },
  {
   "id": "SCENARIO/096/00456",
@@ -50,7 +50,7 @@
   "jp": [
    "くっ・・・黙れ！！"
   ],
-  "en": ""
+  "en": "Kh... Shut up!!"
  },
  {
   "id": "SCENARIO/096/00484",
@@ -59,7 +59,7 @@
    "これ以上遊ぶと",
    "本気で壊したくなるからな"
   ],
-  "en": ""
+  "en": "Play any longer and I'll really want to break you."
  },
  {
   "id": "SCENARIO/096/004ea",
@@ -68,7 +68,7 @@
    "今日はこれぐらいにしといてやる",
    "いくぞ、アベル"
   ],
-  "en": ""
+  "en": "I'll let it go at that for today. Let's go, Abel."
  },
  {
   "id": "SCENARIO/096/00574",
@@ -76,7 +76,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/096/0059e",
@@ -84,7 +84,7 @@
   "jp": [
    "うぅっ・・・・・・"
   ],
-  "en": ""
+  "en": "Ugh......"
  },
  {
   "id": "SCENARIO/096/005da",
@@ -92,7 +92,7 @@
   "jp": [
    "・・・無様だな"
   ],
-  "en": ""
+  "en": "...Pathetic."
  },
  {
   "id": "SCENARIO/096/006e6",
@@ -100,7 +100,7 @@
   "jp": [
    "ぐっ！！"
   ],
-  "en": ""
+  "en": "Guh!!"
  },
  {
   "id": "SCENARIO/096/0073a",
@@ -108,7 +108,7 @@
   "jp": [
    "背中の翼はただの飾りか？"
   ],
-  "en": ""
+  "en": "Are those wings on your back just for show?"
  },
  {
   "id": "SCENARIO/096/00764",
@@ -118,7 +118,7 @@
    "あの女を助け出すことなんか",
    "出来るはずがない"
   ],
-  "en": ""
+  "en": "You couldn't even protect your friends. There's no way you can save that woman."
  },
  {
   "id": "SCENARIO/096/007da",
@@ -126,7 +126,7 @@
   "jp": [
    "そんなこと・・・ない！"
   ],
-  "en": ""
+  "en": "That's... not true!"
  },
  {
   "id": "SCENARIO/096/008ee",
@@ -134,7 +134,7 @@
   "jp": [
    "ぐあっ！！"
   ],
-  "en": ""
+  "en": "Gaah!!"
  },
  {
   "id": "SCENARIO/096/00946",
@@ -144,7 +144,7 @@
    "あの女の首をかき切って",
    "お前の前に突き出してやるよ"
   ],
-  "en": ""
+  "en": "Look forward to it. I'll slit that woman's throat and thrust it before your eyes."
  },
  {
   "id": "SCENARIO/096/009a0",
@@ -153,7 +153,7 @@
    "それまでは生かしておいてやる",
    "お前を殺すのはこのオレだからな"
   ],
-  "en": ""
+  "en": "Until then, I'll let you live. I'm the one who kills you, after all."
  },
  {
   "id": "SCENARIO/096/00a08",
@@ -161,7 +161,7 @@
   "jp": [
    "・・・・ま・・・て・・・"
   ],
-  "en": ""
+  "en": "....Wa...it..."
  },
  {
   "id": "SCENARIO/096/00ac4",
@@ -169,7 +169,7 @@
   "jp": [
    "くっくっくっ・・・・・・"
   ],
-  "en": ""
+  "en": "Kukuku......"
  },
  {
   "id": "SCENARIO/096/00b14",
@@ -177,12 +177,12 @@
   "jp": [
    "あははははははっ！"
   ],
-  "en": ""
+  "en": "Ahahahahaha!"
  },
  {
   "id": "SCENARIO/096/046f8",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/096/04706",
@@ -190,12 +190,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/096/0471e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/096/0472e",
@@ -203,6 +203,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
