@@ -5,7 +5,7 @@
   "jp": [
    "こんにちは"
   ],
-  "en": ""
+  "en": "Hello."
  },
  {
   "id": "SCENARIO/045/00144",
@@ -14,7 +14,7 @@
    "ええ、こんにちは",
    "またお会いしましたね"
   ],
-  "en": ""
+  "en": "Yes, hello. We meet again."
  },
  {
   "id": "SCENARIO/045/00188",
@@ -22,7 +22,7 @@
   "jp": [
    "お花はいかがですか？"
   ],
-  "en": ""
+  "en": "Would you like some flowers?"
  },
  {
   "id": "SCENARIO/045/001c6",
@@ -31,7 +31,7 @@
    "花か・・・",
    "マティアも花が大好きだったな"
   ],
-  "en": ""
+  "en": "Flowers... Matia loved flowers too."
  },
  {
   "id": "SCENARIO/045/0021a",
@@ -39,7 +39,7 @@
   "jp": [
    "それじゃあ、ひとつ・・・"
   ],
-  "en": ""
+  "en": "Then I'll take one..."
  },
  {
   "id": "SCENARIO/045/0024e",
@@ -47,7 +47,7 @@
   "jp": [
    "ありがとうございます"
   ],
-  "en": ""
+  "en": "Thank you very much."
  },
  {
   "id": "SCENARIO/045/00294",
@@ -56,7 +56,7 @@
    "・・・お捜しの方は、",
    "見つかりましたか？"
   ],
-  "en": ""
+  "en": "...Did you find the person you were looking for?"
  },
  {
   "id": "SCENARIO/045/002e6",
@@ -64,7 +64,7 @@
   "jp": [
    "え？"
   ],
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "SCENARIO/045/00306",
@@ -74,7 +74,7 @@
    "目をしていたので、",
    "少し気になっていたんです"
   ],
-  "en": ""
+  "en": "It's just, you had the look of a lost child, and it's been on my mind a little."
  },
  {
   "id": "SCENARIO/045/0037a",
@@ -82,7 +82,7 @@
   "jp": [
    "・・・・・・・・"
   ],
-  "en": ""
+  "en": "........"
  },
  {
   "id": "SCENARIO/045/003b4",
@@ -92,7 +92,7 @@
    "わたし、失礼なことを",
    "言ってしまって・・・"
   ],
-  "en": ""
+  "en": "Oh, I-I'm sorry. That was a rude thing for me to say..."
  },
  {
   "id": "SCENARIO/045/00422",
@@ -100,7 +100,7 @@
   "jp": [
    "ううん、気にしないで"
   ],
-  "en": ""
+  "en": "No, don't worry about it."
  },
  {
   "id": "SCENARIO/045/00448",
@@ -110,7 +110,7 @@
    "なんだか街の人達が少ないけど",
    "何かあったの？"
   ],
-  "en": ""
+  "en": "More importantly, the streets seem kind of empty. Did something happen?"
  },
  {
   "id": "SCENARIO/045/004b0",
@@ -120,7 +120,7 @@
    "教会へ＜グーテンベルグ＞を",
    "取りに行ってるはずですよ"
   ],
-  "en": ""
+  "en": "Everyone from town should be at the church, collecting their Gutenberg."
  },
  {
   "id": "SCENARIO/045/00522",
@@ -129,7 +129,7 @@
    "＜グーテンベルグ＞・・？",
    "なんだかおいしそうな名前だね"
   ],
-  "en": ""
+  "en": "Gutenberg...? That sounds kind of tasty."
  },
  {
   "id": "SCENARIO/045/00584",
@@ -137,7 +137,7 @@
   "jp": [
    "おいしそう・・ですか？"
   ],
-  "en": ""
+  "en": "Tasty... you say?"
  },
  {
   "id": "SCENARIO/045/005c2",
@@ -146,7 +146,7 @@
    "あれ？",
    "お菓子の名前なんじゃ・・・"
   ],
-  "en": ""
+  "en": "Huh? Isn't it the name of a sweet...?"
  },
  {
   "id": "SCENARIO/045/00610",
@@ -154,7 +154,7 @@
   "jp": [
    "いいえ、違いますよ"
   ],
-  "en": ""
+  "en": "No, it isn't."
  },
  {
   "id": "SCENARIO/045/0064a",
@@ -162,7 +162,7 @@
   "jp": [
    "えぇっ！！"
   ],
-  "en": ""
+  "en": "Whaat!!"
  },
  {
   "id": "SCENARIO/045/00680",
@@ -172,7 +172,7 @@
    "あの子と同じことを言う人が",
    "他にもいるなんて"
   ],
-  "en": ""
+  "en": "Hee hee. To think there's someone else who says the same thing as that child."
  },
  {
   "id": "SCENARIO/045/006e2",
@@ -180,7 +180,7 @@
   "jp": [
    "あの・・その・・"
   ],
-  "en": ""
+  "en": "Um... well..."
  },
  {
   "id": "SCENARIO/045/00704",
@@ -190,7 +190,7 @@
    "教会でみんなにお菓子を配って",
    "いたものだから、てっきり・・・"
   ],
-  "en": ""
+  "en": "Back home, the church would hand out sweets to everyone, so I just assumed..."
  },
  {
   "id": "SCENARIO/045/00780",
@@ -199,7 +199,7 @@
    "そうですね、ここでも子供達には",
    "お菓子を配っているはずですよ"
   ],
-  "en": ""
+  "en": "Well, they should be handing out sweets to the children here, too."
  },
  {
   "id": "SCENARIO/045/007d8",
@@ -209,7 +209,7 @@
    "教会でお菓子と一緒にもらった",
    "もの、なんていったかなぁ？"
   ],
-  "en": ""
+  "en": "Ugh... I can't remember what it was we got at church along with the sweets..."
  },
  {
   "id": "SCENARIO/045/0084a",
@@ -218,7 +218,7 @@
    "今ならまだ、お菓子も一緒に",
    "もらえるはずですわ"
   ],
-  "en": ""
+  "en": "If you go now, you should still get sweets with it."
  },
  {
   "id": "SCENARIO/045/008a2",
@@ -227,7 +227,7 @@
    "あ、うん・・・",
    "気が向いたらボクも行ってくるね"
   ],
-  "en": ""
+  "en": "Ah, yeah... If I feel like it, I'll go too."
  },
  {
   "id": "SCENARIO/045/008ee",
@@ -235,12 +235,12 @@
   "jp": [
    "ええ、いってらっしゃい"
   ],
-  "en": ""
+  "en": "Yes, take care."
  },
  {
   "id": "SCENARIO/045/0445c",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/045/0446a",
@@ -248,12 +248,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/045/04482",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/045/04492",
@@ -261,6 +261,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

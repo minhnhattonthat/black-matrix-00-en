@@ -6,7 +6,7 @@
    "ああ、あんたたちかい？",
    "エクサルから話は聞いてるよ"
   ],
-  "en": ""
+  "en": "Oh, it's you lot? Exal told me about you."
  },
  {
   "id": "SCENARIO/046/0018c",
@@ -14,7 +14,7 @@
   "jp": [
    "あの、エクサルは・・？"
   ],
-  "en": ""
+  "en": "Um, where's Exal...?"
  },
  {
   "id": "SCENARIO/046/001be",
@@ -23,7 +23,7 @@
    "ああ、あの子なら",
    "ちょっと情報収集に行ってるよ"
   ],
-  "en": ""
+  "en": "Oh, that boy's off gathering information."
  },
  {
   "id": "SCENARIO/046/00200",
@@ -33,7 +33,7 @@
    "教会で世間話をしながら噂話を",
    "集めてくるだけだからね"
   ],
-  "en": ""
+  "en": "Well, \"gathering information\" just means swapping gossip at the church."
  },
  {
   "id": "SCENARIO/046/00272",
@@ -43,7 +43,7 @@
    "ここで待っているより",
    "捕まえに行った方が早いよ"
   ],
-  "en": ""
+  "en": "He's loitering around there somewhere. Faster to go catch him than wait here."
  },
  {
   "id": "SCENARIO/046/002ea",
@@ -51,7 +51,7 @@
   "jp": [
    "はい"
   ],
-  "en": ""
+  "en": "Okay."
  },
  {
   "id": "SCENARIO/046/00312",
@@ -61,7 +61,7 @@
    "あんた達にはコレを渡して",
    "おこうと思ってね"
   ],
-  "en": ""
+  "en": "Oh, and one more thing... I figured I'd hand these over to you."
  },
  {
   "id": "SCENARIO/046/0038e",
@@ -69,7 +69,7 @@
   "jp": [
    "・・これは？"
   ],
-  "en": ""
+  "en": "..What's this?"
  },
  {
   "id": "SCENARIO/046/003b4",
@@ -77,7 +77,7 @@
   "jp": [
    "サイファーパンクからの支給品さ"
   ],
-  "en": ""
+  "en": "Supplies from the Cypherpunk."
  },
  {
   "id": "SCENARIO/046/003e4",
@@ -86,7 +86,7 @@
    "使い方がわからなかったら",
    "エクサルにでも聞いてみるんだね"
   ],
-  "en": ""
+  "en": "If you can't work out how to use them, ask Exal or someone."
  },
  {
   "id": "SCENARIO/046/00446",
@@ -94,7 +94,7 @@
   "jp": [
    "ありがとう、おば・・"
   ],
-  "en": ""
+  "en": "Thank you, Aunt--"
  },
  {
   "id": "SCENARIO/046/00498",
@@ -102,7 +102,7 @@
   "jp": [
    "おば・・？"
   ],
-  "en": ""
+  "en": "Aunt--?"
  },
  {
   "id": "SCENARIO/046/004ca",
@@ -110,7 +110,7 @@
   "jp": [
    "あははっ・・"
   ],
-  "en": ""
+  "en": "Ahaha..."
  },
  {
   "id": "SCENARIO/046/004f0",
@@ -118,12 +118,12 @@
   "jp": [
    "ありがとう、ダリアさん"
   ],
-  "en": ""
+  "en": "Thank you, Dahlia-san."
  },
  {
   "id": "SCENARIO/046/04068",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/046/04076",
@@ -131,12 +131,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/046/0408e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/046/0409e",
@@ -144,6 +144,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

@@ -108,3 +108,11 @@ The `speaker` field in the JSON is the `1058` value before a window. In the open
 | キシャァ / ギシャァ / キシュルル | KSHAAAAAAA / GSHAAAAAAAA / Kshurururu | Embryon cries |
 
 Corrections: Kilota uses 僕 and is called 坊主 in script 111 — a boy, not a girl (gender list above is wrong on this point).
+| ジーナ | Gina | Kutta's "wife" |
+| セングラー | Sengler | Pain Ring product from Fly's shop |
+| 魔王クッタ / このクッタ様 | Demon King Kutta / the great Kutta | |
+| ネキンター・カネル団 | Nekintar Kanel Troupe | circus |
+| 大粛正 | the Great Purge | |
+| 悪魔討伐隊 | demon-hunting squad | Kreis's unit |
+| 機械化僧兵 | mechanized monk soldier | |
+| ヒヨコ頭 | chick-head | nickname for Cain's hair |

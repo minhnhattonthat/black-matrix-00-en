@@ -5,7 +5,7 @@
   "jp": [
    "お客さん、すみません"
   ],
-  "en": ""
+  "en": "Excuse me, sir!"
  },
  {
   "id": "SCENARIO/043/00160",
@@ -15,7 +15,7 @@
    "終わりますので",
    "それまでご辛抱を！"
   ],
-  "en": ""
+  "en": "Preparations will be finished in just a little while, so please bear with us!"
  },
  {
   "id": "SCENARIO/043/001c6",
@@ -23,7 +23,7 @@
   "jp": [
    "準備？"
   ],
-  "en": ""
+  "en": "Preparations?"
  },
  {
   "id": "SCENARIO/043/001f8",
@@ -33,7 +33,7 @@
    "大陸中を巡業する演芸一座",
    "ネキンター・カネル団です"
   ],
-  "en": ""
+  "en": "Before you stands the Nekintar Kanel Troupe, performers who tour the whole continent!"
  },
  {
   "id": "SCENARIO/043/0025c",
@@ -41,7 +41,7 @@
   "jp": [
    "大陸中を？"
   ],
-  "en": ""
+  "en": "The whole continent?"
  },
  {
   "id": "SCENARIO/043/00290",
@@ -50,7 +50,7 @@
    "そうですとも！",
    "大陸中をくまなくまわってます"
   ],
-  "en": ""
+  "en": "That's right! We cover every corner of the continent!"
  },
  {
   "id": "SCENARIO/043/002e6",
@@ -60,7 +60,7 @@
    "マティアという女の子を",
    "見かけませんでしたか？"
   ],
-  "en": ""
+  "en": "Then have you seen a girl named Matia anywhere?"
  },
  {
   "id": "SCENARIO/043/00350",
@@ -70,7 +70,7 @@
    "記憶にないですね～",
    "ごめんなさいです～"
   ],
-  "en": ""
+  "en": "Hmmm. Doesn't ring a bell~ Sorry about that~"
  },
  {
   "id": "SCENARIO/043/003aa",
@@ -78,7 +78,7 @@
   "jp": [
    "いえ、いいんです"
   ],
-  "en": ""
+  "en": "No, it's fine."
  },
  {
   "id": "SCENARIO/043/003e4",
@@ -86,7 +86,7 @@
   "jp": [
    "そんなにがっかりなさらずに！"
   ],
-  "en": ""
+  "en": "Don't look so disappointed!"
  },
  {
   "id": "SCENARIO/043/0041c",
@@ -96,7 +96,7 @@
    "アトラクションをお楽しみ",
    "頂くことができます"
   ],
-  "en": ""
+  "en": "Here, you can enjoy all sorts of attractions!"
  },
  {
   "id": "SCENARIO/043/0047c",
@@ -105,7 +105,7 @@
    "もっちろん！",
    "失恋中の貴方も元気でますよ！"
   ],
-  "en": ""
+  "en": "Of course! Even you, with your broken heart, will perk right up!"
  },
  {
   "id": "SCENARIO/043/004d2",
@@ -113,7 +113,7 @@
   "jp": [
    "失恋！？"
   ],
-  "en": ""
+  "en": "Broken heart!?"
  },
  {
   "id": "SCENARIO/043/00504",
@@ -123,7 +123,7 @@
    "悲しいですね～",
    "切ないですね～"
   ],
-  "en": ""
+  "en": "How painful~ How sad~ How bittersweet~"
  },
  {
   "id": "SCENARIO/043/0055e",
@@ -133,7 +133,7 @@
    "ネキンター・カネルで",
    "憂さ晴らしを！"
   ],
-  "en": ""
+  "en": "Even gloomy souls like you can chase the blues away at Nekintar Kanel!"
  },
  {
   "id": "SCENARIO/043/005b8",
@@ -143,7 +143,7 @@
    "それまで少しの間広場で時間を",
    "つぶしたりして下さいな"
   ],
-  "en": ""
+  "en": "Final adjustments will be done shortly. Until then, kill a little time in the plaza."
  },
  {
   "id": "SCENARIO/043/0063a",
@@ -152,7 +152,7 @@
    "またのご来場を",
    "お待ちしておりま～す♪"
   ],
-  "en": ""
+  "en": "We look forward to seeing you again~!"
  },
  {
   "id": "SCENARIO/043/0068a",
@@ -160,12 +160,12 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/043/041ec",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/043/041fa",
@@ -173,12 +173,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/043/04212",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/043/04222",
@@ -186,6 +186,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
