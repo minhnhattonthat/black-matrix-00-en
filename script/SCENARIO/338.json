@@ -6,7 +6,7 @@
    "幸せな夢から",
    "目を覚ましてしまったのですね"
   ],
-  "en": ""
+  "en": "So you've woken from your happy dream."
  },
  {
   "id": "SCENARIO/338/00224",
@@ -15,7 +15,7 @@
    "本当に貴方とよく似た",
    "痛みを感じます"
   ],
-  "en": ""
+  "en": "I feel a pain so very like yours."
  },
  {
   "id": "SCENARIO/338/00264",
@@ -24,7 +24,7 @@
    "いえ、貴方の痛みが",
    "彼に似ていたのでしたね・・・"
   ],
-  "en": ""
+  "en": "No... it was your pain that resembled his, wasn't it..."
  },
  {
   "id": "SCENARIO/338/0032a",
@@ -32,7 +32,7 @@
   "jp": [
    "・・うっ"
   ],
-  "en": ""
+  "en": "...Ugh."
  },
  {
   "id": "SCENARIO/338/0035a",
@@ -40,7 +40,7 @@
   "jp": [
    "＜共苦＞するな"
   ],
-  "en": ""
+  "en": "Do not share his suffering."
  },
  {
   "id": "SCENARIO/338/0037c",
@@ -49,7 +49,7 @@
    "それ以上触れれば",
    "正気でいられなくなるぞ"
   ],
-  "en": ""
+  "en": "Touch it any further and you will lose your mind."
  },
  {
   "id": "SCENARIO/338/003d0",
@@ -59,7 +59,7 @@
    "貴方の痛みに触れることでしか",
    "生きている実感がありません"
   ],
-  "en": ""
+  "en": "Touching your pain is the only way I can feel alive anymore."
  },
  {
   "id": "SCENARIO/338/00438",
@@ -68,7 +68,7 @@
    "自分の痛みには",
    "もう慣れてしまいましたから"
   ],
-  "en": ""
+  "en": "I've long since grown used to my own."
  },
  {
   "id": "SCENARIO/338/0048e",
@@ -76,7 +76,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/338/004cc",
@@ -85,7 +85,7 @@
    "もう一人、声が聞こえました",
    "彼女の声です"
   ],
-  "en": ""
+  "en": "I heard another voice. Hers."
  },
  {
   "id": "SCENARIO/338/00510",
@@ -93,7 +93,7 @@
   "jp": [
    "彼女はやはり・・・・"
   ],
-  "en": ""
+  "en": "So she really is..."
  },
  {
   "id": "SCENARIO/338/0054e",
@@ -103,7 +103,7 @@
    "自分から心を閉ざそうと",
    "している"
   ],
-  "en": ""
+  "en": "Matia is trying to close off her heart again, of her own accord."
  },
  {
   "id": "SCENARIO/338/00594",
@@ -111,7 +111,7 @@
   "jp": [
    "聞こえないんじゃない"
   ],
-  "en": ""
+  "en": "It's not that she cannot hear."
  },
  {
   "id": "SCENARIO/338/005bc",
@@ -120,7 +120,7 @@
    "自分から",
    "拒絶しているくせに・・・"
   ],
-  "en": ""
+  "en": "She is the one shutting it out..."
  },
  {
   "id": "SCENARIO/338/005fe",
@@ -128,7 +128,7 @@
   "jp": [
    "人は弱い生き物です"
   ],
-  "en": ""
+  "en": "People are weak creatures."
  },
  {
   "id": "SCENARIO/338/0062c",
@@ -138,7 +138,7 @@
    "傷つけられることを恐れ",
    "他者を傷つけるようにもなります"
   ],
-  "en": ""
+  "en": "Those who know pain fear being hurt, and so come to hurt others."
  },
  {
   "id": "SCENARIO/338/00690",
@@ -148,7 +148,7 @@
    "苦痛を受けることを恐れ",
    "人は見て見ぬふりをするのです"
   ],
-  "en": ""
+  "en": "Because they know pain, they fear suffering it, and so they look away."
  },
  {
   "id": "SCENARIO/338/00706",
@@ -156,7 +156,7 @@
   "jp": [
    "・・・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/338/0072c",
@@ -165,7 +165,7 @@
    "マティア・・・",
    "お前ではカインは救えない"
   ],
-  "en": ""
+  "en": "Matia... You cannot save Cain."
  },
  {
   "id": "SCENARIO/338/00768",
@@ -175,12 +175,12 @@
    "カインに共苦してやることは",
    "出来ない・・・"
   ],
-  "en": ""
+  "en": "You, who tried to kill Abel, cannot share Cain's suffering..."
  },
  {
   "id": "SCENARIO/338/04328",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/338/04336",
@@ -188,12 +188,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/338/0434e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/338/0435e",
@@ -201,6 +201,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

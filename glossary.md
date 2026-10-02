@@ -219,3 +219,5 @@ Correction: Luca uses アタシ (script 250) and 捜したわよ (056): Luca is 
 | ＜天使のカクセイ＞ | the Angelic Awakening | |
 | ＜定め＞ | Fate | Whiteface |
 | 虚像 | phantom image | |
+| 共苦 | shared suffering | |
+| 懺悔の書 | confession | Abel's name for Johannes's diary |

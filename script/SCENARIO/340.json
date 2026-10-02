@@ -6,7 +6,7 @@
    "どうしよう・・・",
    "やっぱり、どろぼうはいけない"
   ],
-  "en": ""
+  "en": "What do I do... Stealing is wrong, after all."
  },
  {
   "id": "SCENARIO/340/00178",
@@ -15,7 +15,7 @@
    "でも",
    "どうやって返しに行けば・・・"
   ],
-  "en": ""
+  "en": "But how can I go and give it back..."
  },
  {
   "id": "SCENARIO/340/001e8",
@@ -24,7 +24,7 @@
    "あれ？",
    "キミは・・・・"
   ],
-  "en": ""
+  "en": "Huh? You're..."
  },
  {
   "id": "SCENARIO/340/0026a",
@@ -32,7 +32,7 @@
   "jp": [
    "！！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/340/0028c",
@@ -41,7 +41,7 @@
    "こんなところで何をしているの？",
    "何を抱えて・・・・"
   ],
-  "en": ""
+  "en": "What are you doing out here? What's that you're holding..."
  },
  {
   "id": "SCENARIO/340/002ea",
@@ -49,7 +49,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/340/0031e",
@@ -57,7 +57,7 @@
   "jp": [
    "あの本は、まさかっ！！"
   ],
-  "en": ""
+  "en": "That book... it can't be!!"
  },
  {
   "id": "SCENARIO/340/00350",
@@ -66,7 +66,7 @@
    "その本は・・・",
    "ヨハネさんの本だよね？"
   ],
-  "en": ""
+  "en": "That book... it's Johannes-san's, isn't it?"
  },
  {
   "id": "SCENARIO/340/003a2",
@@ -74,7 +74,7 @@
   "jp": [
    "！！！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/340/00420",
@@ -82,7 +82,7 @@
   "jp": [
    "待って！"
   ],
-  "en": ""
+  "en": "Wait!"
  },
  {
   "id": "SCENARIO/340/0043c",
@@ -92,7 +92,7 @@
    "＜ヨハネの書＞のオリジナルかも",
    "しれないんだ"
   ],
-  "en": ""
+  "en": "That book might be the original of the Book of Johannes we're looking for."
  },
  {
   "id": "SCENARIO/340/004ae",
@@ -100,7 +100,7 @@
   "jp": [
    "・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/340/004e2",
@@ -108,7 +108,7 @@
   "jp": [
    "それ、もしかして盗んできたの？"
   ],
-  "en": ""
+  "en": "Did you... steal that?"
  },
  {
   "id": "SCENARIO/340/0052a",
@@ -116,7 +116,7 @@
   "jp": [
    "！"
   ],
-  "en": ""
+  "en": "!"
  },
  {
   "id": "SCENARIO/340/0055c",
@@ -124,7 +124,7 @@
   "jp": [
    "・・・やっぱり"
   ],
-  "en": ""
+  "en": "...I thought so."
  },
  {
   "id": "SCENARIO/340/005a4",
@@ -133,7 +133,7 @@
    "悪いことをしたら",
    "すぐに謝るのが一番なの"
   ],
-  "en": ""
+  "en": "When you do something bad, it's best to say sorry right away."
  },
  {
   "id": "SCENARIO/340/00608",
@@ -142,7 +142,7 @@
    "一人で返しにいけないのなら",
    "一緒に謝りに行こう"
   ],
-  "en": ""
+  "en": "If you can't return it alone, let's go apologize together."
  },
  {
   "id": "SCENARIO/340/0064c",
@@ -150,7 +150,7 @@
   "jp": [
    "ね？"
   ],
-  "en": ""
+  "en": "Okay?"
  },
  {
   "id": "SCENARIO/340/0067a",
@@ -158,7 +158,7 @@
   "jp": [
    "そんなの、もう遅いよ・・"
   ],
-  "en": ""
+  "en": "It's too late for that..."
  },
  {
   "id": "SCENARIO/340/006de",
@@ -167,7 +167,7 @@
    "今さら返したって",
    "僕が泥棒をしたのは同じなんだ！"
   ],
-  "en": ""
+  "en": "Even if I give it back now, I'm still a thief!"
  },
  {
   "id": "SCENARIO/340/00724",
@@ -176,7 +176,7 @@
    "だったらこの本を渡して",
    "天使様にカインを殺してもらう！"
   ],
-  "en": ""
+  "en": "So I'll hand it over and have the Lord Angel kill Cain!"
  },
  {
   "id": "SCENARIO/340/007aa",
@@ -184,7 +184,7 @@
   "jp": [
    "そんなのダメだよ！"
   ],
-  "en": ""
+  "en": "You can't do that!"
  },
  {
   "id": "SCENARIO/340/00906",
@@ -192,7 +192,7 @@
   "jp": [
    "離せ！離せよ！！"
   ],
-  "en": ""
+  "en": "Let go! Let go of me!!"
  },
  {
   "id": "SCENARIO/340/00928",
@@ -201,7 +201,7 @@
    "カインは悪いヤツなんだ",
    "だから死んじゃえばいいんだ！！"
   ],
-  "en": ""
+  "en": "Cain's a bad guy! So he should just die!!"
  },
  {
   "id": "SCENARIO/340/0098a",
@@ -209,7 +209,7 @@
   "jp": [
    "！！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/340/009f0",
@@ -217,7 +217,7 @@
   "jp": [
    "お前なんか、死んじゃえ！！"
   ],
-  "en": ""
+  "en": "You... just die!!"
  },
  {
   "id": "SCENARIO/340/00a36",
@@ -225,7 +225,7 @@
   "jp": [
    "きゃあっ！！"
   ],
-  "en": ""
+  "en": "Kyaa!!"
  },
  {
   "id": "SCENARIO/340/00a6e",
@@ -234,7 +234,7 @@
    "くるしい・・・",
    "カ・・・イン・・・"
   ],
-  "en": ""
+  "en": "Can't... breathe... Ca... in..."
  },
  {
   "id": "SCENARIO/340/00b0c",
@@ -242,7 +242,7 @@
   "jp": [
    "い・・今のはいったい・・・"
   ],
-  "en": ""
+  "en": "Wh-what was that just now..."
  },
  {
   "id": "SCENARIO/340/00b56",
@@ -251,7 +251,7 @@
    "離せ！",
    "ボクに触るなッ！！！"
   ],
-  "en": ""
+  "en": "Let go! Don't touch me!!"
  },
  {
   "id": "SCENARIO/340/00b88",
@@ -259,7 +259,7 @@
   "jp": [
    "きゃぁっ！！"
   ],
-  "en": ""
+  "en": "Kyaa!!"
  },
  {
   "id": "SCENARIO/340/00ba8",
@@ -267,7 +267,7 @@
   "jp": [
    "シリア！"
   ],
-  "en": ""
+  "en": "Syria!"
  },
  {
   "id": "SCENARIO/340/00bc4",
@@ -276,7 +276,7 @@
    "誰か！",
    "誰かカインを止めて！！！"
   ],
-  "en": ""
+  "en": "Somebody! Somebody stop Cain!!!"
  },
  {
   "id": "SCENARIO/340/00c0e",
@@ -285,7 +285,7 @@
    "あいつの本性が",
    "目を覚ましたんだ！！"
   ],
-  "en": ""
+  "en": "His true nature's woken up!!"
  },
  {
   "id": "SCENARIO/340/00c50",
@@ -294,7 +294,7 @@
    "早く・・・",
    "早くあいつを倒してもらうんだ！"
   ],
-  "en": ""
+  "en": "Hurry... I have to get him destroyed, quick!"
  },
  {
   "id": "SCENARIO/340/00cae",
@@ -302,7 +302,7 @@
   "jp": [
    "待って！！"
   ],
-  "en": ""
+  "en": "Wait!!"
  },
  {
   "id": "SCENARIO/340/00d34",
@@ -310,7 +310,7 @@
   "jp": [
    "キロタ、早く追いかけよう！"
   ],
-  "en": ""
+  "en": "Kilota, let's go after him, quick!"
  },
  {
   "id": "SCENARIO/340/00d60",
@@ -320,7 +320,7 @@
    "盗んだ本でお願いするのなんて",
    "なんか変だもん！！"
   ],
-  "en": ""
+  "en": "Asking someone to beat a bad guy with a stolen book... that's just weird!!"
  },
  {
   "id": "SCENARIO/340/00dc8",
@@ -330,7 +330,7 @@
    "カインは悪いヤツなんかじゃ",
    "ないの！！"
   ],
-  "en": ""
+  "en": "And Lilis knows! Cain isn't a bad guy at all!!"
  },
  {
   "id": "SCENARIO/340/00e24",
@@ -338,7 +338,7 @@
   "jp": [
    "だから・・・"
   ],
-  "en": ""
+  "en": "So..."
  },
  {
   "id": "SCENARIO/340/00e5c",
@@ -347,12 +347,12 @@
    "うん、そうだね",
    "早くあの子を止めに行こう"
   ],
-  "en": ""
+  "en": "Yeah, you're right. Let's go stop him."
  },
  {
   "id": "SCENARIO/340/049e4",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/340/049f2",
@@ -360,12 +360,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/340/04a0a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/340/04a1a",
@@ -373,6 +373,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

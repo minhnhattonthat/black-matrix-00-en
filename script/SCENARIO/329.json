@@ -6,7 +6,7 @@
    "今でもあの日のことは",
    "鮮明に思い出せる"
   ],
-  "en": ""
+  "en": "Even now, I remember that day vividly."
  },
  {
   "id": "SCENARIO/329/00174",
@@ -16,7 +16,7 @@
    "ルカ達に会い",
    "ボクが殺されたあの日・・"
   ],
-  "en": ""
+  "en": "The day Aragi appeared, I met Luca and the others, and I was killed..."
  },
  {
   "id": "SCENARIO/329/001c0",
@@ -26,7 +26,7 @@
    "新しい力を",
    "翼を手に入れた"
   ],
-  "en": ""
+  "en": "When I woke, I had a new power. I had wings."
  },
  {
   "id": "SCENARIO/329/00212",
@@ -36,7 +36,7 @@
    "それ以上に",
    "たくさんのものをなくした"
   ],
-  "en": ""
+  "en": "But I... I lost so much more than I gained."
  },
  {
   "id": "SCENARIO/329/00260",
@@ -44,7 +44,7 @@
   "jp": [
    "マティア・・・"
   ],
-  "en": ""
+  "en": "Matia..."
  },
  {
   "id": "SCENARIO/329/00280",
@@ -52,7 +52,7 @@
   "jp": [
    "ヨハネ・・・"
   ],
-  "en": ""
+  "en": "Johannes..."
  },
  {
   "id": "SCENARIO/329/002bc",
@@ -60,7 +60,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/329/0038c",
@@ -70,7 +70,7 @@
    "カインさん、なんだか",
    "元気がないみたいですが・・・"
   ],
-  "en": ""
+  "en": "What's wrong? You seem a little down, Cain-san..."
  },
  {
   "id": "SCENARIO/329/00412",
@@ -79,7 +79,7 @@
    "なんだか少し・・",
    "風が冷たいね"
   ],
-  "en": ""
+  "en": "It's just... the wind's a bit cold."
  },
  {
   "id": "SCENARIO/329/004a6",
@@ -88,7 +88,7 @@
    "空の風は、地上の風より",
    "荒く冷たいものだ"
   ],
-  "en": ""
+  "en": "The wind up in the sky is rougher and colder than on the ground."
  },
  {
   "id": "SCENARIO/329/004fa",
@@ -98,7 +98,7 @@
    "キボートスを飛び立った時",
    "ヨハネも同じことを言ってた"
   ],
-  "en": ""
+  "en": "When I first flew, when I left Kibotos, Johannes said the same thing."
  },
  {
   "id": "SCENARIO/329/00560",
@@ -106,7 +106,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/329/0058c",
@@ -115,7 +115,7 @@
    "やっぱりこの高さからじゃ",
    "神父様のお墓は見えないな・・"
   ],
-  "en": ""
+  "en": "I can't see Father's grave from this high up after all..."
  },
  {
   "id": "SCENARIO/329/005ee",
@@ -124,7 +124,7 @@
    "気になるのなら",
    "後で花を手向けに行くといい"
   ],
-  "en": ""
+  "en": "If it weighs on you, go lay flowers there later."
  },
  {
   "id": "SCENARIO/329/00642",
@@ -132,7 +132,7 @@
   "jp": [
    "うん、そうだね"
   ],
-  "en": ""
+  "en": "Yeah, I will."
  },
  {
   "id": "SCENARIO/329/0067a",
@@ -140,7 +140,7 @@
   "jp": [
    "神父様・・・・・"
   ],
-  "en": ""
+  "en": "Father..."
  },
  {
   "id": "SCENARIO/329/0069c",
@@ -149,12 +149,12 @@
    "信じたくない・・・・",
    "本当にボクが神父様を殺したの？"
   ],
-  "en": ""
+  "en": "I don't want to believe it... Did I really kill Father?"
  },
  {
   "id": "SCENARIO/329/042f4",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/329/04302",
@@ -162,12 +162,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/329/0431a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/329/0432a",
@@ -175,6 +175,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
