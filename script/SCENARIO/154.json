@@ -6,7 +6,7 @@
    "・・・ねえ、ステイエン",
    "聞いてもいい？"
   ],
-  "en": ""
+  "en": "...Hey, Stayen. Can I ask you something?"
  },
  {
   "id": "SCENARIO/154/001d0",
@@ -14,7 +14,7 @@
   "jp": [
    "なに？"
   ],
-  "en": ""
+  "en": "What?"
  },
  {
   "id": "SCENARIO/154/001f0",
@@ -23,7 +23,7 @@
    "ステイエンの弟って",
    "どんな子なの？"
   ],
-  "en": ""
+  "en": "What's your little brother like?"
  },
  {
   "id": "SCENARIO/154/0023e",
@@ -33,7 +33,7 @@
    "本を読むことが好きで",
    "ちょっと生意気な男の子よ"
   ],
-  "en": ""
+  "en": "...Let's see. He loves reading books, and he's a bit of a cheeky boy."
  },
  {
   "id": "SCENARIO/154/002a6",
@@ -42,7 +42,7 @@
    "本かぁ・・・",
    "ボクはちょっと苦手だな"
   ],
-  "en": ""
+  "en": "Books, huh... I'm not very good with them."
  },
  {
   "id": "SCENARIO/154/002f6",
@@ -52,7 +52,7 @@
    "カインは部屋で本を読むより",
    "外で遊んでる方が似合うわ"
   ],
-  "en": ""
+  "en": "Hee hee. Playing outside suits you better than reading in a room, Cain."
  },
  {
   "id": "SCENARIO/154/00348",
@@ -62,7 +62,7 @@
    "もっと外で遊べば",
    "良かったのよ・・・"
   ],
-  "en": ""
+  "en": "Kilota's a child too. He should have played outside more..."
  },
  {
   "id": "SCENARIO/154/003aa",
@@ -70,7 +70,7 @@
   "jp": [
    "キロタ、今頃どうしているのかな"
   ],
-  "en": ""
+  "en": "I wonder how Kilota is doing right now."
  },
  {
   "id": "SCENARIO/154/003f2",
@@ -78,7 +78,7 @@
   "jp": [
    "ステイエン・・・"
   ],
-  "en": ""
+  "en": "Stayen..."
  },
  {
   "id": "SCENARIO/154/0042a",
@@ -88,7 +88,7 @@
    "こうなったら、何が何でも",
    "キロタを助けなきゃね"
   ],
-  "en": ""
+  "en": "No use moping. Now it's come to this, I have to save Kilota, whatever it takes."
  },
  {
   "id": "SCENARIO/154/004a2",
@@ -97,7 +97,7 @@
    "ボクも手伝うよ",
    "それに、マティアも助ける"
   ],
-  "en": ""
+  "en": "I'll help too. And we'll save Matia as well."
  },
  {
   "id": "SCENARIO/154/004f6",
@@ -106,12 +106,12 @@
    "ええ、そうね",
    "二人とも必ず助けに行くわ"
   ],
-  "en": ""
+  "en": "Yes, that's right. We'll go save them both, no matter what."
  },
  {
   "id": "SCENARIO/154/040f8",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/154/04106",
@@ -119,12 +119,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/154/0411e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/154/0412e",
@@ -132,6 +132,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

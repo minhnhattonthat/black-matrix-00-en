@@ -5,7 +5,7 @@
   "jp": [
    "カイン、カイン！"
   ],
-  "en": ""
+  "en": "Cain, Cain!"
  },
  {
   "id": "SCENARIO/153/001f0",
@@ -13,7 +13,7 @@
   "jp": [
    "んん・・・ここは？"
   ],
-  "en": ""
+  "en": "Nngh... Where am I?"
  },
  {
   "id": "SCENARIO/153/00236",
@@ -22,7 +22,7 @@
    "あたしたち地下に",
    "落っこっちゃったのよ"
   ],
-  "en": ""
+  "en": "We fell through to the underground."
  },
  {
   "id": "SCENARIO/153/00286",
@@ -31,7 +31,7 @@
    "地下・・・",
    "他のみんなは？"
   ],
-  "en": ""
+  "en": "Underground... Where's everyone else?"
  },
  {
   "id": "SCENARIO/153/002ca",
@@ -40,7 +40,7 @@
    "上から声がしないってことは",
    "別の場所に落ちたんだと思うわ"
   ],
-  "en": ""
+  "en": "No voices from above, so they must have fallen somewhere else."
  },
  {
   "id": "SCENARIO/153/00320",
@@ -48,7 +48,7 @@
   "jp": [
    "ここは一体・・・"
   ],
-  "en": ""
+  "en": "What on earth is this place..."
  },
  {
   "id": "SCENARIO/153/0035a",
@@ -57,7 +57,7 @@
    "たぶん、こっちが本当の",
    "研究施設の跡ね"
   ],
-  "en": ""
+  "en": "This is probably the real remains of the research facility."
  },
  {
   "id": "SCENARIO/153/00394",
@@ -66,7 +66,7 @@
    "地下にこんな施設が",
    "あったなんてね"
   ],
-  "en": ""
+  "en": "To think there was a facility like this underground."
  },
  {
   "id": "SCENARIO/153/003d4",
@@ -74,7 +74,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/153/003fc",
@@ -82,7 +82,7 @@
   "jp": [
    "じゃ、奥へ向かうわよ"
   ],
-  "en": ""
+  "en": "Right, we're heading deeper."
  },
  {
   "id": "SCENARIO/153/0043a",
@@ -91,7 +91,7 @@
    "ええ！？",
    "だ、大丈夫なの？"
   ],
-  "en": ""
+  "en": "Huh!? A-are you sure that's okay?"
  },
  {
   "id": "SCENARIO/153/00470",
@@ -101,7 +101,7 @@
    "まだ奥に何かありそうだもの",
    "調べないと"
   ],
-  "en": ""
+  "en": "It's not about to cave in, and there's clearly more further in. We have to check."
  },
  {
   "id": "SCENARIO/153/004d6",
@@ -109,7 +109,7 @@
   "jp": [
    "なぁに、怖いの？"
   ],
-  "en": ""
+  "en": "What, are you scared?"
  },
  {
   "id": "SCENARIO/153/0050e",
@@ -118,12 +118,12 @@
    "・・・わかった",
    "ボクも一緒に行くよ"
   ],
-  "en": ""
+  "en": "...All right. I'll go with you."
  },
  {
   "id": "SCENARIO/153/04078",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/153/04086",
@@ -131,12 +131,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/153/0409e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/153/040ae",
@@ -144,6 +144,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

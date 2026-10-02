@@ -7,7 +7,7 @@
    "なんで俺だけ行っちゃダメなんだ",
    "ちゃんと説明しろよ！！"
   ],
-  "en": ""
+  "en": "What's that mean!! Why am I the only one who can't go? Explain yourself!!"
  },
  {
   "id": "SCENARIO/163/001b4",
@@ -17,7 +17,7 @@
    "場所は、これまでのものとは",
    "格が違いすぎる"
   ],
-  "en": ""
+  "en": "Where you're headed this time is in a different league from anything before."
  },
  {
   "id": "SCENARIO/163/00240",
@@ -27,7 +27,7 @@
    "俺が聞きたいのは、どうして",
    "俺だけダメなのかってことだ！"
   ],
-  "en": ""
+  "en": "I know that!! What I'm asking is why I'm the only one who can't go!"
  },
  {
   "id": "SCENARIO/163/002b0",
@@ -37,7 +37,7 @@
    "正式なサイファーパンクの一員だ",
    "身勝手な行いは許されない"
   ],
-  "en": ""
+  "en": "Unlike the others, you're a formal Cypherpunk member. No selfish actions allowed."
  },
  {
   "id": "SCENARIO/163/00320",
@@ -45,7 +45,7 @@
   "jp": [
    "でも！！"
   ],
-  "en": ""
+  "en": "But!!"
  },
  {
   "id": "SCENARIO/163/0039e",
@@ -55,7 +55,7 @@
    "お前にはサイファーパンクの一員",
    "である自覚がないのか！？"
   ],
-  "en": ""
+  "en": "That's enough!! Have you no awareness that you're a member of Cypherpunk!?"
  },
  {
   "id": "SCENARIO/163/00410",
@@ -65,7 +65,7 @@
    "お前も組織の一員である以上",
    "組織の決定には従ってもらう"
   ],
-  "en": ""
+  "en": "It's decided. You're part of this organization, so you'll follow its decisions."
  },
  {
   "id": "SCENARIO/163/0048e",
@@ -75,7 +75,7 @@
    "ちゃんと納得のいく理由を",
    "説明しろよ！！"
   ],
-  "en": ""
+  "en": "Don't just decide one-sidedly! Give me a reason I can actually accept!!"
  },
  {
   "id": "SCENARIO/163/00500",
@@ -85,7 +85,7 @@
    "言われても、こんなの俺は",
    "納得できない！！！"
   ],
-  "en": ""
+  "en": "Orders from above or not, there's no way I can accept this!!"
  },
  {
   "id": "SCENARIO/163/00584",
@@ -94,7 +94,7 @@
    "答えは簡単だ、",
    "最悪の事態が起こった場合、"
   ],
-  "en": ""
+  "en": "The answer is simple. Should the worst come to pass,"
  },
  {
   "id": "SCENARIO/163/005c4",
@@ -103,7 +103,7 @@
    "我々だけなら簡単に",
    "切り捨てることが出来る"
   ],
-  "en": ""
+  "en": "we alone can easily be cut loose."
  },
  {
   "id": "SCENARIO/163/0062c",
@@ -111,7 +111,7 @@
   "jp": [
    "・・・なんだよそれ？"
   ],
-  "en": ""
+  "en": "...What's that supposed to mean?"
  },
  {
   "id": "SCENARIO/163/0067c",
@@ -121,7 +121,7 @@
    "その行動は組織の意志であると",
    "周囲からは見られてしまう"
   ],
-  "en": ""
+  "en": "While you're a member, outsiders will see your actions as the organization's will."
  },
  {
   "id": "SCENARIO/163/006e4",
@@ -131,7 +131,7 @@
    "教団と衝突をされては困る",
    "・・・そういうことなのだろう"
   ],
-  "en": ""
+  "en": "They can't afford more open clashes with the Church... That is what this is about."
  },
  {
   "id": "SCENARIO/163/0076c",
@@ -139,7 +139,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/163/00798",
@@ -149,7 +149,7 @@
    "組織の人間全てを危険にさらす",
    "わけにはいかない"
   ],
-  "en": ""
+  "en": "We cannot let your selfish actions put everyone in the organization at risk."
  },
  {
   "id": "SCENARIO/163/007f4",
@@ -159,7 +159,7 @@
    "待機していろ、じきに",
    "新しい指令が下されるはずだ"
   ],
-  "en": ""
+  "en": "If you understand, then wait here. New orders should come down before long."
  },
  {
   "id": "SCENARIO/163/0086a",
@@ -169,7 +169,7 @@
    "簡単に他の奴らを見捨てたりして",
    "いいのかよ？"
   ],
-  "en": ""
+  "en": "So if it's to protect the organization, it's fine to just abandon other people?"
  },
  {
   "id": "SCENARIO/163/008c4",
@@ -179,7 +179,7 @@
    "種族に関係なく、全てが等しく",
    "自由で平等な世界なんだろ？"
   ],
-  "en": ""
+  "en": "Doesn't Cypherpunk want a world where all are free and equal, whatever their race?"
  },
  {
   "id": "SCENARIO/163/00946",
@@ -189,7 +189,7 @@
    "見捨てたり、切り捨てたり",
    "しようとするんだよ！！"
   ],
-  "en": ""
+  "en": "Then why are you trying to abandon people in trouble, to cut them loose!!"
  },
  {
   "id": "SCENARIO/163/009a8",
@@ -199,7 +199,7 @@
    "ないなんて、プロデヴォン教団と",
    "同じじゃねーか！！！"
   ],
-  "en": ""
+  "en": "Caring only about your own people... you're no different from the Prodevon Church!!!"
  },
  {
   "id": "SCENARIO/163/00a18",
@@ -209,7 +209,7 @@
    "ただ、今の我々には全ての人々を",
    "救うだけの力はないのだ"
   ],
-  "en": ""
+  "en": "We are not the same!! It's only that we lack the power to save everyone right now."
  },
  {
   "id": "SCENARIO/163/00a7c",
@@ -219,7 +219,7 @@
    "組織という器を",
    "失うわけにはいかんのだ！！"
   ],
-  "en": ""
+  "en": "Even if we must abandon someone now, we can't lose the organization, our vessel!!"
  },
  {
   "id": "SCENARIO/163/00af8",
@@ -228,7 +228,7 @@
    "だからって俺はこんなの納得",
    "出来ない！！！"
   ],
-  "en": ""
+  "en": "Even so, there's no way I can accept this!!"
  },
  {
   "id": "SCENARIO/163/00b48",
@@ -236,7 +236,7 @@
   "jp": [
    "待て、エクサル！！！"
   ],
-  "en": ""
+  "en": "Wait, Exal!!"
  },
  {
   "id": "SCENARIO/163/00ba4",
@@ -244,7 +244,7 @@
   "jp": [
    "エクサル！！"
   ],
-  "en": ""
+  "en": "Exal!!"
  },
  {
   "id": "SCENARIO/163/00c08",
@@ -254,7 +254,7 @@
    "あいつを正式な一員にするのを",
    "反対したんだ"
   ],
-  "en": ""
+  "en": "...Damn it. This is exactly why I was against making him a formal member."
  },
  {
   "id": "SCENARIO/163/00c68",
@@ -264,7 +264,7 @@
    "我々の言葉を受け入れられるほど",
    "大人じゃない"
   ],
-  "en": ""
+  "en": "He's still a child. Not grown enough to accept what we're saying."
  },
  {
   "id": "SCENARIO/163/00d08",
@@ -272,7 +272,7 @@
   "jp": [
    "そこがあの子のいいところだよ"
   ],
-  "en": ""
+  "en": "That's the good thing about that boy."
  },
  {
   "id": "SCENARIO/163/00d38",
@@ -281,7 +281,7 @@
    "誰もが＜最初＞に抱いていた",
    "理想を捨てられないのさ"
   ],
-  "en": ""
+  "en": "He can't throw away the ideals everyone held at the very start."
  },
  {
   "id": "SCENARIO/163/00d88",
@@ -291,7 +291,7 @@
    "だが青臭い理想だけでは、真に",
    "世界を変えることなど出来ない"
   ],
-  "en": ""
+  "en": "Of course ideals are necessary. But green ideals alone cannot truly change the world."
  },
  {
   "id": "SCENARIO/163/00e16",
@@ -299,7 +299,7 @@
   "jp": [
    "現実はきびしいからね"
   ],
-  "en": ""
+  "en": "Reality is harsh, after all."
  },
  {
   "id": "SCENARIO/163/00ed4",
@@ -307,7 +307,7 @@
   "jp": [
    "・・・・・"
   ],
-  "en": ""
+  "en": "....."
  },
  {
   "id": "SCENARIO/163/00f06",
@@ -316,7 +316,7 @@
    "カイン・・",
    "人は選択を迫られることがある"
   ],
-  "en": ""
+  "en": "Cain... There are times when people are forced to choose."
  },
  {
   "id": "SCENARIO/163/00f44",
@@ -325,7 +325,7 @@
    "それは、何を選んでも",
    "後悔が残るものかもしれない"
   ],
-  "en": ""
+  "en": "And whatever you choose, regret may remain."
  },
  {
   "id": "SCENARIO/163/00f88",
@@ -335,7 +335,7 @@
    "どんな選択もちゃんと自分で考え",
    "そして答えを出すんだよ"
   ],
-  "en": ""
+  "en": "But to truly live, think each choice through yourself, and find your own answer."
  },
  {
   "id": "SCENARIO/163/00ffc",
@@ -343,7 +343,7 @@
   "jp": [
    "・・・・・"
   ],
-  "en": ""
+  "en": "....."
  },
  {
   "id": "SCENARIO/163/0102e",
@@ -353,7 +353,7 @@
    "適当なところでエクサルに声を",
    "かけてやってくれないかい？"
   ],
-  "en": ""
+  "en": "Now then, Cain. Would you go have a word with Exal when the moment's right?"
  },
  {
   "id": "SCENARIO/163/01094",
@@ -363,7 +363,7 @@
    "なんて声をかければいいのか",
    "わからない・・・"
   ],
-  "en": ""
+  "en": "But even if I find Exal, I don't know what I should say to him..."
  },
  {
   "id": "SCENARIO/163/0110a",
@@ -372,7 +372,7 @@
    "アンタは、エクサルに",
    "どうして欲しいと思うんだい？"
   ],
-  "en": ""
+  "en": "What do you want Exal to do?"
  },
  {
   "id": "SCENARIO/163/01150",
@@ -380,18 +380,18 @@
   "jp": [
    "ボクはエクサルに"
   ],
-  "en": "",
+  "en": "I want Exal to",
   "spill": false
  },
  {
   "id": "SCENARIO/163/01168",
   "jp": "　一緒に来て欲しい",
-  "en": ""
+  "en": "come with us"
  },
  {
   "id": "SCENARIO/163/01184",
   "jp": "　ここに残って欲しい",
-  "en": ""
+  "en": "stay here"
  },
  {
   "id": "SCENARIO/163/011c2",
@@ -400,7 +400,7 @@
    "ボクはエクサルに",
    "一緒に来て欲しいと思う"
   ],
-  "en": ""
+  "en": "I want Exal to come with us."
  },
  {
   "id": "SCENARIO/163/01216",
@@ -409,7 +409,7 @@
    "ふふふ、ありがとう",
    "エクサルが聞いたら喜ぶよ"
   ],
-  "en": ""
+  "en": "Hee hee, thank you. Exal would be glad to hear that."
  },
  {
   "id": "SCENARIO/163/0126a",
@@ -418,7 +418,7 @@
    "ボクはエクサルに",
    "ここに残って欲しいと思う"
   ],
-  "en": ""
+  "en": "I want Exal to stay here."
  },
  {
   "id": "SCENARIO/163/012be",
@@ -428,7 +428,7 @@
    "エクサルの立場を心配して",
    "くれたんだね"
   ],
-  "en": ""
+  "en": "Hee hee, thank you. You're worried about Exal's position, aren't you."
  },
  {
   "id": "SCENARIO/163/01318",
@@ -438,7 +438,7 @@
    "押しつけたところで、きっと",
    "あの子の気持ちは変わらないよ"
   ],
-  "en": ""
+  "en": "But however much people push their opinions on him, that boy's heart won't change."
  },
  {
   "id": "SCENARIO/163/01392",
@@ -447,7 +447,7 @@
    "あの子は自分で結論を出す",
    "自分の心のあるままに"
   ],
-  "en": ""
+  "en": "He'll reach his own conclusion. Just as his heart tells him."
  },
  {
   "id": "SCENARIO/163/013ea",
@@ -455,7 +455,7 @@
   "jp": [
    "・・・心のあるまま"
   ],
-  "en": ""
+  "en": "...As his heart tells him."
  },
  {
   "id": "SCENARIO/163/01426",
@@ -465,7 +465,7 @@
    "自分のことしか見えない馬鹿なら",
    "いっそ楽だったろうにね"
   ],
-  "en": ""
+  "en": "If he were a fool who saw only himself, never others, it'd be much easier for him."
  },
  {
   "id": "SCENARIO/163/01496",
@@ -474,12 +474,12 @@
    "まぁ、何にせよあの子の人生だ",
    "後はあの子にまかせるよ"
   ],
-  "en": ""
+  "en": "Well, whatever happens, it's that boy's life. I'll leave the rest to him."
  },
  {
   "id": "SCENARIO/163/0504c",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/163/0505a",
@@ -487,12 +487,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/163/05072",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/163/05082",
@@ -500,6 +500,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

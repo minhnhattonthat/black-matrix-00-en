@@ -168,3 +168,6 @@ Grisina presents female but self-identifies as a man (195): pronoun-free.
 | 両性体 | dual-sexed | |
 | レニアム坂広場 | Leniam Plaza | |
 | 研究所 | the laboratory | |
+| 上級天使 | high-ranking angel | |
+| 幹部候補 | officer candidate | |
+| 異端者 | heretic | |

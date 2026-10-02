@@ -2,7 +2,7 @@
  {
   "id": "SCENARIO/161/00284",
   "jp": "構成員・男",
-  "en": ""
+  "en": "Member (Man)"
  },
  {
   "id": "SCENARIO/161/00298",
@@ -11,7 +11,7 @@
    "こら！",
    "ここは子供の遊び場じゃないぞ！"
   ],
-  "en": ""
+  "en": "Hey! This is no playground for children!"
  },
  {
   "id": "SCENARIO/161/002cc",
@@ -19,12 +19,12 @@
   "jp": [
    "用がすんだら早く帰りなさい"
   ],
-  "en": ""
+  "en": "When you're done, go straight home."
  },
  {
   "id": "SCENARIO/161/00318",
   "jp": "構成員・男",
-  "en": ""
+  "en": "Member (Man)"
  },
  {
   "id": "SCENARIO/161/0032c",
@@ -34,12 +34,12 @@
    "エクサルが捜してたぞ",
    "雑記帳に何か書いてないか？"
   ],
-  "en": ""
+  "en": "Come to think of it, Exal was looking for you. Anything written in the Notebook?"
  },
  {
   "id": "SCENARIO/161/0038c",
   "jp": "構成員・男",
-  "en": ""
+  "en": "Member (Man)"
  },
  {
   "id": "SCENARIO/161/003a0",
@@ -47,12 +47,12 @@
   "jp": [
    "エクサルと会えたか？"
   ],
-  "en": ""
+  "en": "Did you find Exal?"
  },
  {
   "id": "SCENARIO/161/003fc",
   "jp": "構成員・女",
-  "en": ""
+  "en": "Member (Woman)"
  },
  {
   "id": "SCENARIO/161/00410",
@@ -61,7 +61,7 @@
    "リリスが元気になって、",
    "本当によかったわね"
   ],
-  "en": ""
+  "en": "I'm so glad Lilis is well again."
  },
  {
   "id": "SCENARIO/161/00448",
@@ -70,7 +70,7 @@
    "エクサルの前例があるから、",
    "みんな、心配していたのよ・・"
   ],
-  "en": ""
+  "en": "After what happened with Exal, everyone was worried..."
  },
  {
   "id": "SCENARIO/161/0048c",
@@ -80,7 +80,7 @@
    "何度も生死の境をさまよって・・",
    "本当に大変だったんだから"
   ],
-  "en": ""
+  "en": "His recovery took ages. He hovered between life and death so many times... Awful."
  },
  {
   "id": "SCENARIO/161/004f4",
@@ -90,12 +90,12 @@
    "悪くなったりして、大変なの",
    "リリスにも気をつけてあげてね"
   ],
-  "en": ""
+  "en": "Kids can turn worse the moment you look away. It's hard. Keep an eye on Lilis, too."
  },
  {
   "id": "SCENARIO/161/0058c",
   "jp": "構成員・若者",
-  "en": ""
+  "en": "Member (Youth)"
  },
  {
   "id": "SCENARIO/161/005a2",
@@ -105,7 +105,7 @@
    "バカに見えるかもしれないが、",
    "あれでなかなか冴えた子供だ"
   ],
-  "en": ""
+  "en": "Exal may look like a fool at first glance, but he's actually quite a sharp kid."
  },
  {
   "id": "SCENARIO/161/005fc",
@@ -115,7 +115,7 @@
    "同じ年頃の友達ができて、",
    "すっかり子供返りしてしまった"
   ],
-  "en": ""
+  "en": "Only lately, with friends his own age, he's regressed right back into a child."
  },
  {
   "id": "SCENARIO/161/00650",
@@ -125,12 +125,12 @@
    "組織の構成員としては問題だが、",
    "子供は子供らしいのが一番だ"
   ],
-  "en": ""
+  "en": "I don't blame you. Trouble for a member of the group, but a child is best as a child."
  },
  {
   "id": "SCENARIO/161/006f8",
   "jp": "ダリア",
-  "en": ""
+  "en": "Dahlia"
  },
  {
   "id": "SCENARIO/161/00708",
@@ -140,7 +140,7 @@
    "ここに運ばれたあの子を見た時",
    "もうダメだと感じたからね・・・"
   ],
-  "en": ""
+  "en": "I can say it now: when I saw that girl carried in here, I thought she was done for..."
  },
  {
   "id": "SCENARIO/161/00768",
@@ -149,12 +149,12 @@
    "あんな小さい身体で、",
    "リリスは本当によく頑張ったよ"
   ],
-  "en": ""
+  "en": "With such a tiny body, Lilis really did fight hard."
  },
  {
   "id": "SCENARIO/161/007e4",
   "jp": "ウェイター",
-  "en": ""
+  "en": "Waiter"
  },
  {
   "id": "SCENARIO/161/007f8",
@@ -164,12 +164,12 @@
    "今、エクサルさんが雑記帳みて",
    "イヤな顔してますよ～"
   ],
-  "en": ""
+  "en": "Oh, Cain-san. Exal-san's looking at the Notebook right now and pulling a sour face~"
  },
  {
   "id": "SCENARIO/161/00868",
   "jp": "ウェイター",
-  "en": ""
+  "en": "Waiter"
  },
  {
   "id": "SCENARIO/161/0087c",
@@ -177,7 +177,7 @@
   "jp": [
    "いらっしゃいませ～"
   ],
-  "en": ""
+  "en": "Welcome~"
  },
  {
   "id": "SCENARIO/161/00898",
@@ -186,12 +186,12 @@
    "リリスちゃん元気になって",
    "本当によかったですね"
   ],
-  "en": ""
+  "en": "I'm so glad Lilis-chan is well again."
  },
  {
   "id": "SCENARIO/161/00910",
   "jp": "剣士",
-  "en": ""
+  "en": "Swordsman"
  },
  {
   "id": "SCENARIO/161/0091e",
@@ -201,7 +201,7 @@
    "僧兵の女の子が異端者と一緒に",
    "教会から飛び出したそうだぜ"
   ],
-  "en": ""
+  "en": "Between us, a monk soldier girl, an officer candidate no less, ran off with heretics."
  },
  {
   "id": "SCENARIO/161/00984",
@@ -211,12 +211,12 @@
    "もう少しで俺も異端者に殺される",
    "ところだったぜ"
   ],
-  "en": ""
+  "en": "Truth is, I was there when it happened... I nearly got killed by a heretic myself."
  },
  {
   "id": "SCENARIO/161/00a14",
   "jp": "中年",
-  "en": ""
+  "en": "Middle-aged Man"
  },
  {
   "id": "SCENARIO/161/00a22",
@@ -224,7 +224,7 @@
   "jp": [
    "ウィ～ック"
   ],
-  "en": ""
+  "en": "Hic~"
  },
  {
   "id": "SCENARIO/161/00a38",
@@ -234,7 +234,7 @@
    "教団に連れてかれた子供から",
    "連絡がこねぇんだ"
   ],
-  "en": ""
+  "en": "Hearing a child's voice is hard... Not a word from my kid since the Church took them."
  },
  {
   "id": "SCENARIO/161/00a94",
@@ -244,12 +244,12 @@
    "自分を捨てた親からの手紙に、",
    "返事なんてかかねぇか・・・"
   ],
-  "en": ""
+  "en": "Then again... who'd write back to a parent who threw them away..."
  },
  {
   "id": "SCENARIO/161/00b20",
   "jp": "片翼の天使",
-  "en": ""
+  "en": "One-winged Angel"
  },
  {
   "id": "SCENARIO/161/00b34",
@@ -259,7 +259,7 @@
    "規則に縛られるよりも",
    "風と草と共に歌うのが好き♪"
   ],
-  "en": ""
+  "en": "I'm an angel who roams free. Rules can keep; I'd rather sing with the wind and grass~"
  },
  {
   "id": "SCENARIO/161/00b90",
@@ -269,7 +269,7 @@
    "悲しい気持ちになる時",
    "切ない気持ちになる時"
   ],
-  "en": ""
+  "en": "Times when I'm happy but feel sad. Times when my heart aches."
  },
  {
   "id": "SCENARIO/161/00bd8",
@@ -279,12 +279,12 @@
    "ぼーっとして",
    "何も考えないのが一番だよ"
   ],
-  "en": ""
+  "en": "Best thing is to go fishing, space out, and think of nothing at all."
  },
  {
   "id": "SCENARIO/161/00c54",
   "jp": "老人",
-  "en": ""
+  "en": "Old Man"
  },
  {
   "id": "SCENARIO/161/00c62",
@@ -292,12 +292,12 @@
   "jp": [
    "今日はいい天気だのう・・・"
   ],
-  "en": ""
+  "en": "Fine weather today..."
  },
  {
   "id": "SCENARIO/161/00cbc",
   "jp": "青年",
-  "en": ""
+  "en": "Young Man"
  },
  {
   "id": "SCENARIO/161/00cca",
@@ -307,7 +307,7 @@
    "やっぱりめずらしいものを",
    "売る店にしたいよな～"
   ],
-  "en": ""
+  "en": "If I had my own shop, I'd want it to be one that sells rare stuff, y'know~"
  },
  {
   "id": "SCENARIO/161/00d24",
@@ -315,12 +315,12 @@
   "jp": [
    "格好いいじゃん、そういうの"
   ],
-  "en": ""
+  "en": "That'd be cool, something like that."
  },
  {
   "id": "SCENARIO/161/00d84",
   "jp": "老婆",
-  "en": ""
+  "en": "Old Woman"
  },
  {
   "id": "SCENARIO/161/00d92",
@@ -330,7 +330,7 @@
    "酒場で毎日飲んでる男は",
    "子供を手放したんじゃ"
   ],
-  "en": ""
+  "en": "Keh keh keh. That man drinking in the tavern every day gave up his child."
  },
  {
   "id": "SCENARIO/161/00ddc",
@@ -339,7 +339,7 @@
    "そして、後悔しておる",
    "わたしも似たようなもんじゃ・・"
   ],
-  "en": ""
+  "en": "And now he regrets it. I'm much the same..."
  },
  {
   "id": "SCENARIO/161/00e1c",
@@ -349,12 +349,12 @@
    "いつまでも意地をはって",
    "会わずにいるんじゃからのう・・"
   ],
-  "en": ""
+  "en": "I quarreled with my son and still won't see him, stubborn as I am..."
  },
  {
   "id": "SCENARIO/161/00eac",
   "jp": "カップル・男",
-  "en": ""
+  "en": "Couple (Man)"
  },
  {
   "id": "SCENARIO/161/00ec2",
@@ -362,7 +362,7 @@
   "jp": [
    "僕は彼女を愛しているんだ"
   ],
-  "en": ""
+  "en": "I love her."
  },
  {
   "id": "SCENARIO/161/00ee4",
@@ -371,7 +371,7 @@
    "結婚するのかって？",
    "そうだね、いつかは・・・"
   ],
-  "en": ""
+  "en": "Will we marry? Well, someday..."
  },
  {
   "id": "SCENARIO/161/00f48",
@@ -379,7 +379,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/161/00f64",
@@ -389,7 +389,7 @@
    "整理しておく方が",
    "良いよな"
   ],
-  "en": ""
+  "en": "Things like this are better sorted out, aren't they."
  },
  {
   "id": "SCENARIO/161/00f9c",
@@ -397,7 +397,7 @@
   "jp": [
    "キミにあげるよ"
   ],
-  "en": ""
+  "en": "I'll give it to you."
  },
  {
   "id": "SCENARIO/161/00fb4",
@@ -407,7 +407,7 @@
    "僕から貰ったなんて",
    "口外しないように"
   ],
-  "en": ""
+  "en": "Whatever you do, don't tell anyone you got it from me."
  },
  {
   "id": "SCENARIO/161/00ff4",
@@ -415,12 +415,12 @@
   "jp": [
    "頼むよ"
   ],
-  "en": ""
+  "en": "Please."
  },
  {
   "id": "SCENARIO/161/01060",
   "jp": "カップル・女",
-  "en": ""
+  "en": "Couple (Woman)"
  },
  {
   "id": "SCENARIO/161/01076",
@@ -428,7 +428,7 @@
   "jp": [
    "わたしは彼を愛しているの"
   ],
-  "en": ""
+  "en": "I love him."
  },
  {
   "id": "SCENARIO/161/01098",
@@ -437,12 +437,12 @@
    "結婚するのかって？",
    "それとコレとは別の話よ"
   ],
-  "en": ""
+  "en": "Will we marry? That's a different matter entirely."
  },
  {
   "id": "SCENARIO/161/01104",
   "jp": "神父",
-  "en": ""
+  "en": "Priest"
  },
  {
   "id": "SCENARIO/161/01112",
@@ -451,7 +451,7 @@
    "＜書＞を読まない子供のために",
    "私が語って聞かせてあげましょう"
   ],
-  "en": ""
+  "en": "For children who don't read the Book, I shall tell the tale myself."
  },
  {
   "id": "SCENARIO/161/0115c",
@@ -460,7 +460,7 @@
    "今日は、＜規格外＞の天使に",
    "ついての話をしましょう"
   ],
-  "en": ""
+  "en": "Today, let us talk about the irregular angels."
  },
  {
   "id": "SCENARIO/161/0119c",
@@ -468,18 +468,18 @@
   "jp": [
    "貴方も聞きますか？"
   ],
-  "en": "",
+  "en": "Will you listen too?",
   "spill": false
  },
  {
   "id": "SCENARIO/161/011b6",
   "jp": "　はい",
-  "en": ""
+  "en": "Yes"
  },
  {
   "id": "SCENARIO/161/011c4",
   "jp": "　いいえ",
-  "en": ""
+  "en": "No"
  },
  {
   "id": "SCENARIO/161/011d8",
@@ -489,7 +489,7 @@
    "規格外の多くは、禁忌とされる",
    "結合によって生まれた天使です"
   ],
-  "en": ""
+  "en": "I can't say it loudly, but most irregulars are angels born of a forbidden union."
  },
  {
   "id": "SCENARIO/161/0123c",
@@ -499,7 +499,7 @@
    "四翼の天使、六翼の天使には",
    "優れた力を持つ方が多いです"
   ],
-  "en": ""
+  "en": "Many of the four- and six-winged angels called irregulars possess superior power."
  },
  {
   "id": "SCENARIO/161/01294",
@@ -509,7 +509,7 @@
    "神が定めた以上の力を持つ",
    "ことを禁じられています・・・"
   ],
-  "en": ""
+  "en": "But angels are forbidden from holding power beyond what God ordained..."
  },
  {
   "id": "SCENARIO/161/012ec",
@@ -519,7 +519,7 @@
    "禁じられた背景には、そういう",
    "理由があるのかもしれませんね"
   ],
-  "en": ""
+  "en": "Perhaps that is the reason behind the ban on leaving offspring through union."
  },
  {
   "id": "SCENARIO/161/0135e",
@@ -528,12 +528,12 @@
    "あなたも毎日＜書＞を読んで、",
    "立派な大人になるんですよ"
   ],
-  "en": ""
+  "en": "You read the Book every day too, and grow into a fine adult."
  },
  {
   "id": "SCENARIO/161/013f4",
   "jp": "ステイエン",
-  "en": ""
+  "en": "Stayen"
  },
  {
   "id": "SCENARIO/161/01408",
@@ -541,12 +541,12 @@
   "jp": [
    "うーん・・・"
   ],
-  "en": ""
+  "en": "Hmm..."
  },
  {
   "id": "SCENARIO/161/01420",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/161/01430",
@@ -554,12 +554,12 @@
   "jp": [
    "どうしたの？"
   ],
-  "en": ""
+  "en": "What's wrong?"
  },
  {
   "id": "SCENARIO/161/01448",
   "jp": "ステイエン",
-  "en": ""
+  "en": "Stayen"
  },
  {
   "id": "SCENARIO/161/0145c",
@@ -569,7 +569,7 @@
    "ちょっと、ひとりだと",
    "退屈になってきて・・・"
   ],
-  "en": ""
+  "en": "Oh, Cain... I was just getting a bit bored, being on my own..."
  },
  {
   "id": "SCENARIO/161/014a8",
@@ -577,18 +577,18 @@
   "jp": [
    "どこか良い場所とかない？"
   ],
-  "en": "",
+  "en": "Know any good places?",
   "spill": false
  },
  {
   "id": "SCENARIO/161/014c8",
   "jp": "　あるよ",
-  "en": ""
+  "en": "Yeah, I do"
  },
  {
   "id": "SCENARIO/161/014d8",
   "jp": "　わからない",
-  "en": ""
+  "en": "Don't know"
  },
  {
   "id": "SCENARIO/161/014f0",
@@ -596,12 +596,12 @@
   "jp": [
    "どこ？"
   ],
-  "en": ""
+  "en": "Where?"
  },
  {
   "id": "SCENARIO/161/01500",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/161/01510",
@@ -610,12 +610,12 @@
    "エクサルが待ってるから",
    "今からいこう"
   ],
-  "en": ""
+  "en": "Exal's waiting, so let's go now."
  },
  {
   "id": "SCENARIO/161/01540",
   "jp": "ステイエン",
-  "en": ""
+  "en": "Stayen"
  },
  {
   "id": "SCENARIO/161/01554",
@@ -623,7 +623,7 @@
   "jp": [
    "ありがとう、カイン"
   ],
-  "en": ""
+  "en": "Thank you, Cain."
  },
  {
   "id": "SCENARIO/161/01592",
@@ -631,12 +631,12 @@
   "jp": [
    "そう・・・"
   ],
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "SCENARIO/161/015a8",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/161/015b8",
@@ -644,12 +644,12 @@
   "jp": [
    "ごめん"
   ],
-  "en": ""
+  "en": "Sorry."
  },
  {
   "id": "SCENARIO/161/015c8",
   "jp": "ステイエン",
-  "en": ""
+  "en": "Stayen"
  },
  {
   "id": "SCENARIO/161/015dc",
@@ -658,12 +658,12 @@
    "謝ることはないわ",
    "ありがとう、カイン"
   ],
-  "en": ""
+  "en": "Nothing to apologize for. Thank you, Cain."
  },
  {
   "id": "SCENARIO/161/01620",
   "jp": "ステイエン",
-  "en": ""
+  "en": "Stayen"
  },
  {
   "id": "SCENARIO/161/01634",
@@ -672,12 +672,12 @@
    "こうやって眺めていると",
    "この街も平和よね・・・"
   ],
-  "en": ""
+  "en": "Looking out like this, this town's peaceful, isn't it..."
  },
  {
   "id": "SCENARIO/161/01694",
   "jp": "男の子",
-  "en": ""
+  "en": "Boy"
  },
  {
   "id": "SCENARIO/161/016a4",
@@ -685,7 +685,7 @@
   "jp": [
    "サーカスなんてつまんねーよ"
   ],
-  "en": ""
+  "en": "The circus is boring."
  },
  {
   "id": "SCENARIO/161/016c8",
@@ -695,12 +695,12 @@
    "やってることはほとんど毎回",
    "同じなんだぜ？"
   ],
-  "en": ""
+  "en": "I've been loads of times and it's practically the same act every time, y'know?"
  },
  {
   "id": "SCENARIO/161/0174c",
   "jp": "女の子",
-  "en": ""
+  "en": "Girl"
  },
  {
   "id": "SCENARIO/161/0175c",
@@ -709,7 +709,7 @@
    "文句ばっかり言ってるけど",
    "何度も熱心に通い詰めているのよ"
   ],
-  "en": ""
+  "en": "He does nothing but complain, yet he keeps going back, over and over."
  },
  {
   "id": "SCENARIO/161/017a0",
@@ -719,12 +719,12 @@
    "男の子ってどうしてこう",
    "素直になれないのかしら？"
   ],
-  "en": ""
+  "en": "If you like it, just say so. Why can't boys ever be honest?"
  },
  {
   "id": "SCENARIO/161/01830",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/161/01840",
@@ -732,12 +732,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/161/0185c",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/161/0186c",
@@ -745,12 +745,12 @@
   "jp": [
    "・・・あの"
   ],
-  "en": ""
+  "en": "...Um"
  },
  {
   "id": "SCENARIO/161/01880",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/161/01890",
@@ -760,12 +760,12 @@
    "見つめられると緊張して",
    "手元が狂っちゃうんだよ"
   ],
-  "en": ""
+  "en": "Don't stare at me. When I'm stared at I get nervous and my hands slip."
  },
  {
   "id": "SCENARIO/161/01928",
   "jp": "兵士",
-  "en": ""
+  "en": "Soldier"
  },
  {
   "id": "SCENARIO/161/01936",
@@ -774,7 +774,7 @@
    "何のために強くなりたいのか",
    "なんて、考えたこともなかった"
   ],
-  "en": ""
+  "en": "I'd never once thought about what I wanted to get stronger for."
  },
  {
   "id": "SCENARIO/161/0197c",
@@ -783,7 +783,7 @@
    "恋愛は自分を弱くする・・・",
    "だから、いけないことだと・・・"
   ],
-  "en": ""
+  "en": "Love makes you weak... So it was a bad thing, I thought..."
  },
  {
   "id": "SCENARIO/161/019c4",
@@ -792,12 +792,12 @@
    "でも俺は、強くなって",
    "何をしたかったんだろう？"
   ],
-  "en": ""
+  "en": "But what did I want to do, once I was strong?"
  },
  {
   "id": "SCENARIO/161/01a14",
   "jp": "兵士",
-  "en": ""
+  "en": "Soldier"
  },
  {
   "id": "SCENARIO/161/01a22",
@@ -805,12 +805,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/161/01a7c",
   "jp": "プラン",
-  "en": ""
+  "en": "Plan"
  },
  {
   "id": "SCENARIO/161/01a8c",
@@ -819,12 +819,12 @@
    "今日も元気に",
    "いらっしゃいませ～"
   ],
-  "en": ""
+  "en": "Welcome, bright and cheery today too~"
  },
  {
   "id": "SCENARIO/161/01ad4",
   "jp": "フライ",
-  "en": ""
+  "en": "Fly"
  },
  {
   "id": "SCENARIO/161/01ae4",
@@ -833,12 +833,12 @@
    "いらっしゃいませ～",
    "今日も頑張るの？"
   ],
-  "en": ""
+  "en": "Welcome~ Gonna work hard today?"
  },
  {
   "id": "SCENARIO/161/05654",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/161/05662",
@@ -846,12 +846,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/161/0567a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/161/0568a",
@@ -859,6 +859,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

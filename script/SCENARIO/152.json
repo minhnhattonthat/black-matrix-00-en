@@ -5,7 +5,7 @@
   "jp": [
    "なんだ、ここは？"
   ],
-  "en": ""
+  "en": "What is this place?"
  },
  {
   "id": "SCENARIO/152/001a6",
@@ -14,7 +14,7 @@
    "ここ、いつ放棄されたの？",
    "まるで廃墟だわ"
   ],
-  "en": ""
+  "en": "When was this place abandoned? It's practically a ruin."
  },
  {
   "id": "SCENARIO/152/0022a",
@@ -23,7 +23,7 @@
    "事故があったのは",
    "ほんの数ヶ月前のことよ"
   ],
-  "en": ""
+  "en": "The accident was only a few months ago."
  },
  {
   "id": "SCENARIO/152/002ae",
@@ -32,7 +32,7 @@
    "木の根みたいなのが",
    "びっしり壁に張り付いてるね"
   ],
-  "en": ""
+  "en": "Something like tree roots is clinging all over the walls."
  },
  {
   "id": "SCENARIO/152/00336",
@@ -40,7 +40,7 @@
   "jp": [
    "ああ"
   ],
-  "en": ""
+  "en": "Yes."
  },
  {
   "id": "SCENARIO/152/00380",
@@ -49,7 +49,7 @@
    "なぁ、帰ろうぜ？",
    "なんかここ、嫌な感じがする"
   ],
-  "en": ""
+  "en": "Hey, let's go back, okay? This place gives me a bad feeling."
  },
  {
   "id": "SCENARIO/152/003f4",
@@ -57,7 +57,7 @@
   "jp": [
    "本当に怖じ気づいたのか？"
   ],
-  "en": ""
+  "en": "Did you really get cold feet?"
  },
  {
   "id": "SCENARIO/152/00436",
@@ -67,7 +67,7 @@
    "でも、異様な圧迫感があって",
    "ちょっと気持ち悪い"
   ],
-  "en": ""
+  "en": "It's not that. But there's this weird oppressive feeling. It makes me a bit sick."
  },
  {
   "id": "SCENARIO/152/004bc",
@@ -76,7 +76,7 @@
    "まるで、突然誰かに足を",
    "掴まれたりしそうな・・・"
   ],
-  "en": ""
+  "en": "Like someone might suddenly grab your ankle..."
  },
  {
   "id": "SCENARIO/152/00524",
@@ -84,7 +84,7 @@
   "jp": [
    "い、嫌なこと言うなよカイン"
   ],
-  "en": ""
+  "en": "D-don't say creepy stuff, Cain."
  },
  {
   "id": "SCENARIO/152/00594",
@@ -94,7 +94,7 @@
    "怖い怖いって思うから",
    "そんな風に感じたりするのよ"
   ],
-  "en": ""
+  "en": "Are you an idiot? You feel that way because you keep thinking \"scary, scary.\""
  },
  {
   "id": "SCENARIO/152/005fa",
@@ -103,7 +103,7 @@
    "ぐずぐずしているなら",
    "あたしが先に行くわよ！"
   ],
-  "en": ""
+  "en": "If you're going to dawdle, I'll go on ahead!"
  },
  {
   "id": "SCENARIO/152/00686",
@@ -112,7 +112,7 @@
    "足元に気をつけた方がいい",
    "床がもろくなっているようだ"
   ],
-  "en": ""
+  "en": "Best watch your footing. The floor seems to have gone brittle."
  },
  {
   "id": "SCENARIO/152/00704",
@@ -120,7 +120,7 @@
   "jp": [
    "心配されなくても大丈夫よ"
   ],
-  "en": ""
+  "en": "I'll be fine without you worrying about me."
  },
  {
   "id": "SCENARIO/152/00760",
@@ -128,7 +128,7 @@
   "jp": [
    "・・・助けて"
   ],
-  "en": ""
+  "en": "...Help me"
  },
  {
   "id": "SCENARIO/152/00832",
@@ -136,7 +136,7 @@
   "jp": [
    "！！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/152/00890",
@@ -144,7 +144,7 @@
   "jp": [
    "・・・今の声"
   ],
-  "en": ""
+  "en": "...That voice just now"
  },
  {
   "id": "SCENARIO/152/008e0",
@@ -152,7 +152,7 @@
   "jp": [
    "・・・助けて"
   ],
-  "en": ""
+  "en": "...Help me"
  },
  {
   "id": "SCENARIO/152/00974",
@@ -160,7 +160,7 @@
   "jp": [
    "何、今の声？"
   ],
-  "en": ""
+  "en": "What was that voice?"
  },
  {
   "id": "SCENARIO/152/009a2",
@@ -169,7 +169,7 @@
    "や、やめてよもう！",
    "誰よ、悪ふざけするのは！"
   ],
-  "en": ""
+  "en": "S-stop it already! Who's playing pranks!?"
  },
  {
   "id": "SCENARIO/152/009fa",
@@ -178,7 +178,7 @@
    "・・・違うよ",
    "そんなんじゃない"
   ],
-  "en": ""
+  "en": "...It's not. It's nothing like that."
  },
  {
   "id": "SCENARIO/152/00a5c",
@@ -186,7 +186,7 @@
   "jp": [
    "助けて！"
   ],
-  "en": ""
+  "en": "Help me!"
  },
  {
   "id": "SCENARIO/152/00aec",
@@ -194,7 +194,7 @@
   "jp": [
    "子供の声？"
   ],
-  "en": ""
+  "en": "A child's voice?"
  },
  {
   "id": "SCENARIO/152/00b46",
@@ -202,7 +202,7 @@
   "jp": [
    "・・・何だ、この音？"
   ],
-  "en": ""
+  "en": "...What's that sound?"
  },
  {
   "id": "SCENARIO/152/00bc4",
@@ -211,7 +211,7 @@
    "まずい！",
    "床が落ちる！？"
   ],
-  "en": ""
+  "en": "This is bad! The floor's giving way!?"
  },
  {
   "id": "SCENARIO/152/00c80",
@@ -219,7 +219,7 @@
   "jp": [
    "きゃぁぁぁぁ！！"
   ],
-  "en": ""
+  "en": "Eeeeeek!!"
  },
  {
   "id": "SCENARIO/152/00cae",
@@ -227,12 +227,12 @@
   "jp": [
    "わぁぁぁぁぁぁ！！"
   ],
-  "en": ""
+  "en": "Waaaaaah!!"
  },
  {
   "id": "SCENARIO/152/048f0",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/152/048fe",
@@ -240,12 +240,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/152/04916",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/152/04926",
@@ -253,6 +253,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

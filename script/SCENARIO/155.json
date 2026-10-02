@@ -5,7 +5,7 @@
   "jp": [
    "エクサル！"
   ],
-  "en": ""
+  "en": "Exal!"
  },
  {
   "id": "SCENARIO/155/0013c",
@@ -14,7 +14,7 @@
    "おお、ようやく来たのか",
    "心配してたんだぜ？"
   ],
-  "en": ""
+  "en": "Oh, you finally made it. I was worried, you know?"
  },
  {
   "id": "SCENARIO/155/00198",
@@ -22,7 +22,7 @@
   "jp": [
    "他のみんなは？"
   ],
-  "en": ""
+  "en": "Where's everyone else?"
  },
  {
   "id": "SCENARIO/155/001e0",
@@ -30,7 +30,7 @@
   "jp": [
    "お前達が最後だ"
   ],
-  "en": ""
+  "en": "You two are the last."
  },
  {
   "id": "SCENARIO/155/0023a",
@@ -40,7 +40,7 @@
    "この先がおそらく",
    "この施設の最深部だろう"
   ],
-  "en": ""
+  "en": "Seems it goes on further... Past here is probably the deepest part of the facility."
  },
  {
   "id": "SCENARIO/155/002bc",
@@ -48,7 +48,7 @@
   "jp": [
    "いかにも怪しい雰囲気ね"
   ],
-  "en": ""
+  "en": "Suspicious-looking, all right."
  },
  {
   "id": "SCENARIO/155/00314",
@@ -56,7 +56,7 @@
   "jp": [
    "助けて・・・"
   ],
-  "en": ""
+  "en": "Help me..."
  },
  {
   "id": "SCENARIO/155/0038c",
@@ -64,7 +64,7 @@
   "jp": [
    "今の声は！！"
   ],
-  "en": ""
+  "en": "That voice!!"
  },
  {
   "id": "SCENARIO/155/003d4",
@@ -73,7 +73,7 @@
    "上で聞いたのと同じ",
    "子供の声みたいね・・・"
   ],
-  "en": ""
+  "en": "Sounds like the same child's voice we heard upstairs..."
  },
  {
   "id": "SCENARIO/155/0043c",
@@ -82,7 +82,7 @@
    "前に聞いたときよりも",
    "はっきりと聞こえたな"
   ],
-  "en": ""
+  "en": "It came through more clearly than last time."
  },
  {
   "id": "SCENARIO/155/004a4",
@@ -91,7 +91,7 @@
    "・・・なんだか",
    "苦しそうな声だった"
   ],
-  "en": ""
+  "en": "...It sounded like it was in pain, somehow."
  },
  {
   "id": "SCENARIO/155/00504",
@@ -101,7 +101,7 @@
    "嫌な予感がするんだけど",
    "やっぱり、見に行くんだよな？"
   ],
-  "en": ""
+  "en": "Hey, I've got a really bad feeling about this. We're still going to look, aren't we?"
  },
  {
   "id": "SCENARIO/155/005fe",
@@ -109,7 +109,7 @@
   "jp": [
    "決まってるでしょ？"
   ],
-  "en": ""
+  "en": "Obviously."
  },
  {
   "id": "SCENARIO/155/00632",
@@ -119,7 +119,7 @@
    "どうするの？",
    "早く保護してあげないと！"
   ],
-  "en": ""
+  "en": "What if there's a child in a place like this? We have to get them to safety, fast!"
  },
  {
   "id": "SCENARIO/155/00726",
@@ -128,7 +128,7 @@
    "ガキなんかが本当にいるとは",
    "思えないけれどな"
   ],
-  "en": ""
+  "en": "Not that I think there's really some kid down here."
  },
  {
   "id": "SCENARIO/155/00802",
@@ -137,12 +137,12 @@
    "何があるにしろ",
    "答えはこの向こうだ・・・"
   ],
-  "en": ""
+  "en": "Whatever is there, the answer lies beyond this point..."
  },
  {
   "id": "SCENARIO/155/04388",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/155/04396",
@@ -150,12 +150,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/155/043ae",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/155/043be",
@@ -163,6 +163,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
