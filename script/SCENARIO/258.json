@@ -6,7 +6,7 @@
    "長老のウンダ様は、どこかに",
    "出かけていないみたいだね"
   ],
-  "en": ""
+  "en": "Looks like Elder Unda-sama is out somewhere."
  },
  {
   "id": "SCENARIO/258/00150",
@@ -15,7 +15,7 @@
    "ルカもザイオンも見あたらないが",
    "あの二人はいったいどこに・・・"
   ],
-  "en": ""
+  "en": "No sign of Luca or Zion either. Where could those two have gone..."
  },
  {
   "id": "SCENARIO/258/001d4",
@@ -25,7 +25,7 @@
    "向こうでルカとザイオンが",
    "何かもめていやがる！！"
   ],
-  "en": ""
+  "en": "Hey, hey, we've got trouble! Luca and Zion are over there arguing with somebody!!"
  },
  {
   "id": "SCENARIO/258/00246",
@@ -33,7 +33,7 @@
   "jp": [
    "えぇっ！？"
   ],
-  "en": ""
+  "en": "What!?"
  },
  {
   "id": "SCENARIO/258/0027a",
@@ -42,12 +42,12 @@
    "とにかく来い！！",
    "こっちだ！！"
   ],
-  "en": ""
+  "en": "Just come on!! This way!!"
  },
  {
   "id": "SCENARIO/258/03e64",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/258/03e72",
@@ -55,12 +55,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/258/03e8a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/258/03e9a",
@@ -68,6 +68,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

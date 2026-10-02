@@ -186,3 +186,12 @@ Grisina presents female but self-identifies as a man (195): pronoun-free.
 
 Correction: Luca uses アタシ (script 250) and 捜したわよ (056): Luca is a woman. The gender list at the top is wrong on this point; check earlier scripts for "he/him" referring to Luca.
 | フォーメーションＡ/Ｂ | Formation A / B | |
+| カルヒンの村 | Kalhin Village | demon homeland |
+| フィリオ / ゲルダ | Filio / Gelda | villagers |
+| ルビエル・ビッグホーン | Rubiel Bighorn | Angel of Law |
+| ＜永久凍結＞刑 | Eternal Freeze | sentence |
+| ＜器＞ | vessel | |
+| 自警団長 / 自警団員 | Watch Captain / Watchman, Watchwoman | |
+| 族長補佐 | Chief's Aide | |
+| 地下世界 | the underground world | |
+| ババ様 | this old granny | Unda, self |

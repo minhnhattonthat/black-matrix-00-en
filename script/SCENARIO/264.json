@@ -5,7 +5,7 @@
   "jp": [
    "ウンダ様は？"
   ],
-  "en": ""
+  "en": "How is Unda-sama?"
  },
  {
   "id": "SCENARIO/264/00148",
@@ -15,7 +15,7 @@
    "幸い傷もそんなに酷くなかった",
    "から、すぐによくなりそうよ"
   ],
-  "en": ""
+  "en": "Resting in the back. Luckily the wound wasn't so bad. She should be better soon."
  },
  {
   "id": "SCENARIO/264/001be",
@@ -23,7 +23,7 @@
   "jp": [
    "・・・ルカ、大丈夫？"
   ],
-  "en": ""
+  "en": "...Luca, are you okay?"
  },
  {
   "id": "SCENARIO/264/001fa",
@@ -31,7 +31,7 @@
   "jp": [
    "大丈夫って何がよ？"
   ],
-  "en": ""
+  "en": "What do you mean, okay?"
  },
  {
   "id": "SCENARIO/264/00228",
@@ -40,7 +40,7 @@
    "疲れているみたいだから・・・",
    "ルカも少し休んだ方がいいよ"
   ],
-  "en": ""
+  "en": "You look tired... You should get some rest too, Luca."
  },
  {
   "id": "SCENARIO/264/0028a",
@@ -48,7 +48,7 @@
   "jp": [
    "別に疲れてなんか・・・"
   ],
-  "en": ""
+  "en": "I'm not tired or anything..."
  },
  {
   "id": "SCENARIO/264/002e4",
@@ -58,7 +58,7 @@
    "なおのこと自分の身体を大切に",
    "した方が良い"
   ],
-  "en": ""
+  "en": "If you are driven by guilt, all the more reason to take care of your body."
  },
  {
   "id": "SCENARIO/264/00352",
@@ -68,7 +68,7 @@
    "ルカに倒れられては目覚めが",
    "悪いだろう"
   ],
-  "en": ""
+  "en": "Unda-dono would hardly wake easy if you collapsed from nursing her."
  },
  {
   "id": "SCENARIO/264/003c2",
@@ -76,7 +76,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/264/00418",
@@ -86,7 +86,7 @@
    "せっかく帰ってきたのに",
    "ルカもザイオンも働き過ぎだ"
   ],
-  "en": ""
+  "en": "Yeah. You finally made it home, and you and Zion are working yourselves ragged."
  },
  {
   "id": "SCENARIO/264/0049c",
@@ -95,7 +95,7 @@
    "俺達は休むためにここへ",
    "戻ってきたわけじゃない"
   ],
-  "en": ""
+  "en": "We didn't come back here to rest."
  },
  {
   "id": "SCENARIO/264/004f6",
@@ -105,7 +105,7 @@
    "肝心なところでぶっ倒れたら",
    "困るだろ？"
   ],
-  "en": ""
+  "en": "Still, if you don't rest your wings a little, what if you keel over when it counts?"
  },
  {
   "id": "SCENARIO/264/00550",
@@ -115,7 +115,7 @@
    "他の奴らが代われることなら",
    "他の奴らにまかせておけよ"
   ],
-  "en": ""
+  "en": "People depend on you. If somebody else can cover for you, let them."
  },
  {
   "id": "SCENARIO/264/005ca",
@@ -123,7 +123,7 @@
   "jp": [
    "休息は最低限で良い"
   ],
-  "en": ""
+  "en": "The bare minimum of rest is enough."
  },
  {
   "id": "SCENARIO/264/00606",
@@ -133,7 +133,7 @@
    "きっちり休んでくれよ",
    "自己管理も戦士の勤めだろ？"
   ],
-  "en": ""
+  "en": "Then at least take that minimum properly. Self-care is a warrior's duty too, right?"
  },
  {
   "id": "SCENARIO/264/0067e",
@@ -141,7 +141,7 @@
   "jp": [
    "それくらいわかっている"
   ],
-  "en": ""
+  "en": "I know that much."
  },
  {
   "id": "SCENARIO/264/006c6",
@@ -150,7 +150,7 @@
    "ふう・・・やれやれ",
    "アンタ達も適当に休んでくれよ"
   ],
-  "en": ""
+  "en": "Phew... Good grief. You lot, get some rest too."
  },
  {
   "id": "SCENARIO/264/00742",
@@ -160,7 +160,7 @@
    "ウンダ様が目を覚ましたら",
    "聞かせてくれるだろうから"
   ],
-  "en": ""
+  "en": "Unda-sama will tell us about the Pain Rings once she wakes up."
  },
  {
   "id": "SCENARIO/264/007ba",
@@ -169,12 +169,12 @@
    "うん、それじゃあ少し",
    "休んでおくよ"
   ],
-  "en": ""
+  "en": "Yeah, I'll rest a bit then."
  },
  {
   "id": "SCENARIO/264/04334",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/264/04342",
@@ -182,12 +182,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/264/0435a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/264/0436a",
@@ -195,6 +195,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

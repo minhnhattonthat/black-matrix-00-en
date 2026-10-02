@@ -5,7 +5,7 @@
   "jp": [
    "ここがルカたちの故郷？"
   ],
-  "en": ""
+  "en": "This is Luca's hometown?"
  },
  {
   "id": "SCENARIO/256/0017c",
@@ -15,7 +15,7 @@
    "石のお城とか想像してたけど",
    "ちょっと違うね"
   ],
-  "en": ""
+  "en": "Lilis was imagining a stone castle all covered in vines, but it's a bit different."
  },
  {
   "id": "SCENARIO/256/00210",
@@ -25,7 +25,7 @@
    "想像してたけど、外から見た",
    "感じは案外普通っぽいわね"
   ],
-  "en": ""
+  "en": "I was picturing something far more sinister, but from outside it looks pretty normal."
  },
  {
   "id": "SCENARIO/256/002a8",
@@ -33,7 +33,7 @@
   "jp": [
    "ええ、少しほっとしました"
   ],
-  "en": ""
+  "en": "Yes, it's a bit of a relief."
  },
  {
   "id": "SCENARIO/256/00304",
@@ -43,7 +43,7 @@
    "中に入ったらスゴイものを見る",
    "かもしれないんだから"
   ],
-  "en": ""
+  "en": "Don't judge by looks. You might see something incredible once you're inside."
  },
  {
   "id": "SCENARIO/256/00376",
@@ -53,7 +53,7 @@
    "心臓が飛び出るほど怖いものを",
    "見てしまうかもしれないよ"
   ],
-  "en": ""
+  "en": "Let your guard down and you might see something scary enough to stop your heart."
  },
  {
   "id": "SCENARIO/256/00408",
@@ -61,7 +61,7 @@
   "jp": [
    "こ、怖いものって・・・"
   ],
-  "en": ""
+  "en": "S-something scary...?"
  },
  {
   "id": "SCENARIO/256/00460",
@@ -70,7 +70,7 @@
    "変な想像ふくらませなくても",
    "見たまんまの何にもない場所だよ"
   ],
-  "en": ""
+  "en": "No need to let your imagination run wild. It's just what it looks like: nothing here."
  },
  {
   "id": "SCENARIO/256/004c6",
@@ -78,7 +78,7 @@
   "jp": [
    "そ、そうなんだ・・・"
   ],
-  "en": ""
+  "en": "O-oh, right..."
  },
  {
   "id": "SCENARIO/256/0051c",
@@ -87,7 +87,7 @@
    "馬鹿なマネさえしなければ",
    "流血沙汰も回避出来るだろう"
   ],
-  "en": ""
+  "en": "As long as nobody does anything stupid, we can avoid bloodshed."
  },
  {
   "id": "SCENARIO/256/00594",
@@ -95,7 +95,7 @@
   "jp": [
    "りゅ、流血沙汰って・・・"
   ],
-  "en": ""
+  "en": "B-bloodshed...?"
  },
  {
   "id": "SCENARIO/256/005de",
@@ -104,7 +104,7 @@
    "まぁ、せいぜい",
    "背中に気をつけることだな"
   ],
-  "en": ""
+  "en": "Well, just watch your backs."
  },
  {
   "id": "SCENARIO/256/00632",
@@ -112,7 +112,7 @@
   "jp": [
    "・・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/256/00684",
@@ -122,7 +122,7 @@
    "ウンダ様の言葉に従い、むやみな",
    "争いはしないから大丈夫だよ"
   ],
-  "en": ""
+  "en": "Don't worry. Our clan follows Unda-sama's word and doesn't pick needless fights."
  },
  {
   "id": "SCENARIO/256/00724",
@@ -130,7 +130,7 @@
   "jp": [
    "ウンダ様とは？"
   ],
-  "en": ""
+  "en": "Who is this Unda-sama?"
  },
  {
   "id": "SCENARIO/256/0075a",
@@ -140,7 +140,7 @@
    "パスカのペインリングの守人",
    "だった人だよ"
   ],
-  "en": ""
+  "en": "The elder of our clan. She was the keeper of Pasca's Pain Ring."
  },
  {
   "id": "SCENARIO/256/007b8",
@@ -150,7 +150,7 @@
    "関してかなり詳しい人物という",
    "ことか？"
   ],
-  "en": ""
+  "en": "A keeper... then she must know a great deal about the Pain Rings?"
  },
  {
   "id": "SCENARIO/256/0082a",
@@ -160,7 +160,7 @@
    "アンタが聞きたがってるような",
    "小難しい話も答えられるはずよ"
   ],
-  "en": ""
+  "en": "Yeah, Unda-sama could answer all those thorny questions you've been wanting to ask."
  },
  {
   "id": "SCENARIO/256/00890",
@@ -169,7 +169,7 @@
    "詳しい話が聞きたけりゃ、",
    "謁見出来るように話をしておくよ"
   ],
-  "en": ""
+  "en": "If you want the details, I'll arrange an audience for you."
  },
  {
   "id": "SCENARIO/256/008e4",
@@ -177,7 +177,7 @@
   "jp": [
    "すまない"
   ],
-  "en": ""
+  "en": "Thank you."
  },
  {
   "id": "SCENARIO/256/0091e",
@@ -187,7 +187,7 @@
    "一足先にウンダ様に",
    "アラギの件を報告しに行くよ"
   ],
-  "en": ""
+  "en": "Well then, we'll go on ahead and report to Unda-sama about Aragi."
  },
  {
   "id": "SCENARIO/256/0097c",
@@ -196,7 +196,7 @@
    "アンタ達はその間、",
    "村の見物でもしてるといいよ"
   ],
-  "en": ""
+  "en": "You lot have a look around the village in the meantime."
  },
  {
   "id": "SCENARIO/256/009e8",
@@ -205,7 +205,7 @@
    "ボク達だけで村の中を歩いたり",
    "しても大丈夫なの？"
   ],
-  "en": ""
+  "en": "Is it really okay for us to walk around the village by ourselves?"
  },
  {
   "id": "SCENARIO/256/00a5c",
@@ -214,7 +214,7 @@
    "心配するな",
    "村の奴らに話はつけておいてやる"
   ],
-  "en": ""
+  "en": "Don't worry. I'll have a word with the villagers."
  },
  {
   "id": "SCENARIO/256/00aaa",
@@ -224,7 +224,7 @@
    "足を踏み入れるのは初めてだ",
    "おかしなマネはするなよ"
   ],
-  "en": ""
+  "en": "But only black-wings have ever set foot in this village before. No funny business."
  },
  {
   "id": "SCENARIO/256/00b2a",
@@ -232,12 +232,12 @@
   "jp": [
    "・・・はい"
   ],
-  "en": ""
+  "en": "...Okay."
  },
  {
   "id": "SCENARIO/256/0468c",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/256/0469a",
@@ -245,12 +245,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/256/046b2",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/256/046c2",
@@ -258,6 +258,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
