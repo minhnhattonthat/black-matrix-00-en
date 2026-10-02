@@ -5,7 +5,7 @@
   "jp": [
    "ここは？"
   ],
-  "en": ""
+  "en": "What is this place?"
  },
  {
   "id": "SCENARIO/080/0017c",
@@ -14,7 +14,7 @@
    "いらっしゃい",
    "ここはお酒を楽しむ場所だよ"
   ],
-  "en": ""
+  "en": "Welcome. This is a place for enjoying a drink."
  },
  {
   "id": "SCENARIO/080/001d0",
@@ -23,7 +23,7 @@
    "坊やはもう少し大きくなってから",
    "遊びにくるんだね"
   ],
-  "en": ""
+  "en": "Come back and play when you're a bit bigger, kiddo."
  },
  {
   "id": "SCENARIO/080/0023c",
@@ -31,7 +31,7 @@
   "jp": [
    "それは私の連れだ"
   ],
-  "en": ""
+  "en": "He is with me."
  },
  {
   "id": "SCENARIO/080/00276",
@@ -40,7 +40,7 @@
    "おやおや",
    "あんたはさっきの・・・"
   ],
-  "en": ""
+  "en": "Well, well. You're the one from earlier..."
  },
  {
   "id": "SCENARIO/080/002b4",
@@ -48,7 +48,7 @@
   "jp": [
    "先ほどの話の返事を聞きたい"
   ],
-  "en": ""
+  "en": "I would like your answer to what we discussed earlier."
  },
  {
   "id": "SCENARIO/080/002f6",
@@ -58,7 +58,7 @@
    "サイファーパンクの正式な",
    "メンバーにならないと無理よ"
   ],
-  "en": ""
+  "en": "If you want Church intel, you'll have to become a full member of Cypherpunk."
  },
  {
   "id": "SCENARIO/080/00380",
@@ -68,7 +68,7 @@
    "メンバーになれば、マティアの",
    "居場所がわかるの！？"
   ],
-  "en": ""
+  "en": "If I become a full member of Cypherpunk, I'll find out where Matia is!?"
  },
  {
   "id": "SCENARIO/080/003fa",
@@ -77,7 +77,7 @@
    "＜特例＞の場合を除き、",
    "今日明日でなれるものじゃないよ"
   ],
-  "en": ""
+  "en": "Barring a special exception, that's not something you become overnight."
  },
  {
   "id": "SCENARIO/080/00452",
@@ -86,7 +86,7 @@
    "まあ、最低でも三年は",
    "頑張りなさい"
   ],
-  "en": ""
+  "en": "Well, give it three years at the very least."
  },
  {
   "id": "SCENARIO/080/0049e",
@@ -94,7 +94,7 @@
   "jp": [
    "三年！！？"
   ],
-  "en": ""
+  "en": "Three years!!?"
  },
  {
   "id": "SCENARIO/080/004d2",
@@ -103,7 +103,7 @@
    "そうよ、よくて三年、",
    "もっとかかるかもしれないわね"
   ],
-  "en": ""
+  "en": "That's right. Three years if you're lucky. Might take longer."
  },
  {
   "id": "SCENARIO/080/0052e",
@@ -111,7 +111,7 @@
   "jp": [
    "そんな・・・・"
   ],
-  "en": ""
+  "en": "No way...."
  },
  {
   "id": "SCENARIO/080/00566",
@@ -120,7 +120,7 @@
    "大切な人がさらわれたんだってね",
    "焦る気持ちもわかるよ"
   ],
-  "en": ""
+  "en": "I hear someone dear to you was taken. I understand why you're in a hurry."
  },
  {
   "id": "SCENARIO/080/005be",
@@ -130,7 +130,7 @@
    "世の中には想いだけじゃ",
    "覆せないものがあるんだよ"
   ],
-  "en": ""
+  "en": "...But you know, there are things in this world feelings alone can't overturn."
  },
  {
   "id": "SCENARIO/080/00622",
@@ -140,7 +140,7 @@
    "死んでいった若者の数なんて",
    "数え切れないからね"
   ],
-  "en": ""
+  "en": "I've lost count of the young ones who charged in on feelings alone and died."
  },
  {
   "id": "SCENARIO/080/00696",
@@ -148,7 +148,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/080/006bc",
@@ -158,7 +158,7 @@
    "生きて多くを学ぶことだね",
    "闇雲に走るだけがすべてじゃない"
   ],
-  "en": ""
+  "en": "No regrets once you're dead. Live and learn a lot. Running blind isn't the only way."
  },
  {
   "id": "SCENARIO/080/00742",
@@ -168,7 +168,7 @@
    "＜サイファーパンク＞はいつでも",
    "あなたたちを歓迎するわ"
   ],
-  "en": ""
+  "en": "With that kind of forward-looking spirit, Cypherpunk will always welcome you."
  },
  {
   "id": "SCENARIO/080/007e0",
@@ -177,7 +177,7 @@
    "・・・だが、さきほど",
    "＜特例＞があると言っていたが"
   ],
-  "en": ""
+  "en": "...But you said just now that there are special exceptions."
  },
  {
   "id": "SCENARIO/080/00830",
@@ -186,7 +186,7 @@
    "ヴァルトス様に認められた時って",
    "やつだろう？"
   ],
-  "en": ""
+  "en": "You mean the one where Valtoss-sama acknowledges you, right?"
  },
  {
   "id": "SCENARIO/080/009de",
@@ -194,7 +194,7 @@
   "jp": [
    "エクサル！？"
   ],
-  "en": ""
+  "en": "Exal!?"
  },
  {
   "id": "SCENARIO/080/00a32",
@@ -203,7 +203,7 @@
    "おばちゃん",
    "ミルク一杯！！"
   ],
-  "en": ""
+  "en": "Auntie, one milk!!"
  },
  {
   "id": "SCENARIO/080/00aa8",
@@ -211,7 +211,7 @@
   "jp": [
    "おば・・・"
   ],
-  "en": ""
+  "en": "Aun..."
  },
  {
   "id": "SCENARIO/080/00ae0",
@@ -221,7 +221,7 @@
    "あたしの名前はダリア！",
    "ダリアお姉さんだよ"
   ],
-  "en": ""
+  "en": "How many times do I have to tell you? My name is Dahlia! Big sis Dahlia!"
  },
  {
   "id": "SCENARIO/080/00b62",
@@ -229,7 +229,7 @@
   "jp": [
    "はいはい"
   ],
-  "en": ""
+  "en": "Yeah, yeah."
  },
  {
   "id": "SCENARIO/080/00b7c",
@@ -238,7 +238,7 @@
    "それにしても、こんなところで",
    "また会うとは思わなかったぜ"
   ],
-  "en": ""
+  "en": "Anyway, never thought I'd run into you two again here."
  },
  {
   "id": "SCENARIO/080/00bf0",
@@ -246,7 +246,7 @@
   "jp": [
    "ええと・・・"
   ],
-  "en": ""
+  "en": "Um..."
  },
  {
   "id": "SCENARIO/080/00c18",
@@ -255,7 +255,7 @@
    "俺はエクサル",
    "よろしくな！"
   ],
-  "en": ""
+  "en": "I'm Exal. Nice to meet ya!"
  },
  {
   "id": "SCENARIO/080/00c70",
@@ -265,7 +265,7 @@
    "管轄外には首を突っ込まないって",
    "何度も言っただろう！"
   ],
-  "en": ""
+  "en": "Exal! How many times have I said not to poke your nose outside your jurisdiction!"
  },
  {
   "id": "SCENARIO/080/00ccc",
@@ -273,7 +273,7 @@
   "jp": [
    "わかってるって！"
   ],
-  "en": ""
+  "en": "I know, I know!"
  },
  {
   "id": "SCENARIO/080/00d06",
@@ -281,7 +281,7 @@
   "jp": [
    "まったく・・・・"
   ],
-  "en": ""
+  "en": "Honestly...."
  },
  {
   "id": "SCENARIO/080/00d36",
@@ -290,7 +290,7 @@
    "はい、ミルク",
    "飲んだらさっさと出て行きなさい"
   ],
-  "en": ""
+  "en": "Here's your milk. Drink up and get out."
  },
  {
   "id": "SCENARIO/080/00d86",
@@ -298,7 +298,7 @@
   "jp": [
    "そっちの坊やもいるかい？"
   ],
-  "en": ""
+  "en": "Want one too, kiddo?"
  },
  {
   "id": "SCENARIO/080/00dd0",
@@ -306,18 +306,18 @@
   "jp": [
    "どうする？"
   ],
-  "en": "",
+  "en": "What now?",
   "spill": false
  },
  {
   "id": "SCENARIO/080/00de2",
   "jp": "　いただきます",
-  "en": ""
+  "en": "Yes, please"
  },
  {
   "id": "SCENARIO/080/00df8",
   "jp": "　遠慮します",
-  "en": ""
+  "en": "No, thank you"
  },
  {
   "id": "SCENARIO/080/00e20",
@@ -325,7 +325,7 @@
   "jp": [
    "いただきます"
   ],
-  "en": ""
+  "en": "Yes, please."
  },
  {
   "id": "SCENARIO/080/00e60",
@@ -333,7 +333,7 @@
   "jp": [
    "・・・・・・ぷはー"
   ],
-  "en": ""
+  "en": "......Phew!"
  },
  {
   "id": "SCENARIO/080/00eba",
@@ -342,7 +342,7 @@
    "うえー・・・",
    "やっぱり不味い"
   ],
-  "en": ""
+  "en": "Bleh... Still tastes awful."
  },
  {
   "id": "SCENARIO/080/00f7e",
@@ -351,7 +351,7 @@
    "え？",
    "おいしくないの？"
   ],
-  "en": ""
+  "en": "Huh? You don't like it?"
  },
  {
   "id": "SCENARIO/080/01024",
@@ -361,7 +361,7 @@
    "気にしないで",
    "この子、ミルクが苦手なのよ"
   ],
-  "en": ""
+  "en": "Ah... Pay him no mind. This one can't stand milk."
  },
  {
   "id": "SCENARIO/080/01114",
@@ -369,7 +369,7 @@
   "jp": [
    "遠慮します"
   ],
-  "en": ""
+  "en": "No, thank you."
  },
  {
   "id": "SCENARIO/080/01146",
@@ -378,7 +378,7 @@
    "おや？",
    "あんたもミルクが苦手なのかい？"
   ],
-  "en": ""
+  "en": "Oh? You can't stand milk either?"
  },
  {
   "id": "SCENARIO/080/01196",
@@ -386,7 +386,7 @@
   "jp": [
    "あんたも？"
   ],
-  "en": ""
+  "en": "Either?"
  },
  {
   "id": "SCENARIO/080/01290",
@@ -395,7 +395,7 @@
    "うえー・・・",
    "やっぱり不味い"
   ],
-  "en": ""
+  "en": "Bleh... Still tastes awful."
  },
  {
   "id": "SCENARIO/080/012f8",
@@ -403,7 +403,7 @@
   "jp": [
    "やれやれ"
   ],
-  "en": ""
+  "en": "Good grief."
  },
  {
   "id": "SCENARIO/080/01332",
@@ -413,7 +413,7 @@
    "嫌いなら飲まなきゃいいのに",
    "また、お腹こわすわよ？"
   ],
-  "en": ""
+  "en": "...You never learn. If you hate it, don't drink it. You'll get a bellyache again."
  },
  {
   "id": "SCENARIO/080/013b0",
@@ -422,7 +422,7 @@
    "身長伸ばすためには",
    "これが一番なんだよ！"
   ],
-  "en": ""
+  "en": "It's the best thing there is for growing taller!"
  },
  {
   "id": "SCENARIO/080/01410",
@@ -430,7 +430,7 @@
   "jp": [
    "・・・不味くても"
   ],
-  "en": ""
+  "en": "...Even if it tastes awful."
  },
  {
   "id": "SCENARIO/080/01464",
@@ -439,7 +439,7 @@
    "はいはい",
    "飲んだらさっさと出て行く"
   ],
-  "en": ""
+  "en": "Yeah, yeah. Drink up and get out."
  },
  {
   "id": "SCENARIO/080/014a4",
@@ -447,7 +447,7 @@
   "jp": [
    "ちょっとくらいいいじゃん"
   ],
-  "en": ""
+  "en": "Come on, let me stay a bit."
  },
  {
   "id": "SCENARIO/080/014d0",
@@ -456,7 +456,7 @@
    "なぁ、教団の情報が欲しいって",
    "いったい何が知りたいんだ？"
   ],
-  "en": ""
+  "en": "So, you want info on the Church. What exactly is it you want to know?"
  },
  {
   "id": "SCENARIO/080/01544",
@@ -465,7 +465,7 @@
    "六翼の天使にマティアが",
    "さらわれてしまったんだ"
   ],
-  "en": ""
+  "en": "Matia was taken by a six-winged angel."
  },
  {
   "id": "SCENARIO/080/0159e",
@@ -473,7 +473,7 @@
   "jp": [
    "マティア？"
   ],
-  "en": ""
+  "en": "Matia?"
  },
  {
   "id": "SCENARIO/080/015c4",
@@ -481,7 +481,7 @@
   "jp": [
    "ボクの、大切な人・・・"
   ],
-  "en": ""
+  "en": "Someone... very dear to me."
  },
  {
   "id": "SCENARIO/080/015ec",
@@ -491,7 +491,7 @@
    "何か手がかりが欲しくて",
    "ここまで来たんだけど"
   ],
-  "en": ""
+  "en": "I want to save her, so I came all this way looking for some kind of lead, but..."
  },
  {
   "id": "SCENARIO/080/0165a",
@@ -501,7 +501,7 @@
    "六翼の天使に誘拐事件か",
    "嫌な臭いがする話だよな～"
   ],
-  "en": ""
+  "en": "Huh... A six-winged angel and a kidnapping. That story stinks, doesn't it~"
  },
  {
   "id": "SCENARIO/080/016ac",
@@ -511,7 +511,7 @@
    "このまま放っておくのは",
    "可哀想だと思わない？"
   ],
-  "en": ""
+  "en": "Auntie, got any info? Don't you think it's cruel to just leave them like this?"
  },
  {
   "id": "SCENARIO/080/01734",
@@ -521,7 +521,7 @@
    "＜サイファーパンク＞に",
    "いるんだい？"
   ],
-  "en": ""
+  "en": "Honestly. How many years have you been in Cypherpunk?"
  },
  {
   "id": "SCENARIO/080/01788",
@@ -531,7 +531,7 @@
    "助けるのはいいけれど、まさか",
    "直接教会に乗り込むつもりかい？"
   ],
-  "en": ""
+  "en": "Save the kidnapped girl? Fine, but you don't mean to storm the church yourselves?"
  },
  {
   "id": "SCENARIO/080/01802",
@@ -541,7 +541,7 @@
    "全面戦争にでもなったら",
    "どうするんだい？"
   ],
-  "en": ""
+  "en": "One wrong move and it turns into all-out war. Then what?"
  },
  {
   "id": "SCENARIO/080/0187c",
@@ -551,7 +551,7 @@
    "おそらく結果は",
    "火を見るより明らかだろう"
   ],
-  "en": ""
+  "en": "With the strength Cypherpunk has now, the outcome would be plain as day."
  },
  {
   "id": "SCENARIO/080/018ea",
@@ -559,7 +559,7 @@
   "jp": [
    "そういうことだよ"
   ],
-  "en": ""
+  "en": "Exactly."
  },
  {
   "id": "SCENARIO/080/0191a",
@@ -569,7 +569,7 @@
    "反していても、教団と戦争する",
    "ための集まりじゃない"
   ],
-  "en": ""
+  "en": "Our beliefs defy the Church's teachings, but we're not here to wage war on it."
  },
  {
   "id": "SCENARIO/080/01988",
@@ -579,7 +579,7 @@
    "そういう事になるとしても",
    "まだ時期ではないというわけか"
   ],
-  "en": ""
+  "en": "Even if it comes to that one day, the time is not yet ripe. Is that it?"
  },
  {
   "id": "SCENARIO/080/019f2",
@@ -588,7 +588,7 @@
    "部外者のあんたの方が",
    "状況をわかってるじゃないか"
   ],
-  "en": ""
+  "en": "You're an outsider, and you understand the situation better than he does."
  },
  {
   "id": "SCENARIO/080/01af0",
@@ -596,7 +596,7 @@
   "jp": [
    "そういうことだよエクサル"
   ],
-  "en": ""
+  "en": "That's how it is, Exal."
  },
  {
   "id": "SCENARIO/080/01b1c",
@@ -606,7 +606,7 @@
    "自分の命だけじゃない",
    "多くの命がかかってくるんだよ"
   ],
-  "en": ""
+  "en": "This isn't a game. It's not just your own life. Many lives are riding on it."
  },
  {
   "id": "SCENARIO/080/01b80",
@@ -615,7 +615,7 @@
    "そんなに怒らなくても",
    "わかってるって！"
   ],
-  "en": ""
+  "en": "No need to get so angry. I know, I know!"
  },
  {
   "id": "SCENARIO/080/01bbc",
@@ -623,7 +623,7 @@
   "jp": [
    "俺だってそんなにバカじゃない"
   ],
-  "en": ""
+  "en": "I'm not that stupid."
  },
  {
   "id": "SCENARIO/080/01cca",
@@ -632,7 +632,7 @@
    "一応、あんた達のことは",
    "上に伝えておくよ"
   ],
-  "en": ""
+  "en": "I'll pass word about you two up the chain, at least."
  },
  {
   "id": "SCENARIO/080/01d10",
@@ -640,7 +640,7 @@
   "jp": [
    "え？"
   ],
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "SCENARIO/080/01d3e",
@@ -649,7 +649,7 @@
    "あたしも出来る限りは",
    "あんた達に協力してあげるよ"
   ],
-  "en": ""
+  "en": "And I'll help you as much as I can, myself."
  },
  {
   "id": "SCENARIO/080/01d8c",
@@ -657,7 +657,7 @@
   "jp": [
    "いいんですか？"
   ],
-  "en": ""
+  "en": "Really? You'd do that?"
  },
  {
   "id": "SCENARIO/080/01dc2",
@@ -666,7 +666,7 @@
    "あたしも大したことは",
    "出来ないけれどね"
   ],
-  "en": ""
+  "en": "Not that there's much I can do, mind you."
  },
  {
   "id": "SCENARIO/080/01e0a",
@@ -676,7 +676,7 @@
    "無茶だけはするんじゃないよ",
    "命は一つしかないんだから"
   ],
-  "en": ""
+  "en": "...Just don't go doing anything reckless. You've only got the one life."
  },
  {
   "id": "SCENARIO/080/01e76",
@@ -684,7 +684,7 @@
   "jp": [
    "はい"
   ],
-  "en": ""
+  "en": "Yes, ma'am."
  },
  {
   "id": "SCENARIO/080/01ea2",
@@ -692,7 +692,7 @@
   "jp": [
    "今日はもう、おかえり"
   ],
-  "en": ""
+  "en": "That's enough for today. Off you go."
  },
  {
   "id": "SCENARIO/080/01ede",
@@ -700,7 +700,7 @@
   "jp": [
    "ありがとうございました"
   ],
-  "en": ""
+  "en": "Thank you very much."
  },
  {
   "id": "SCENARIO/080/01fb0",
@@ -708,7 +708,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/080/01fde",
@@ -716,7 +716,7 @@
   "jp": [
    "いい子じゃないか"
   ],
-  "en": ""
+  "en": "He's a good kid, isn't he."
  },
  {
   "id": "SCENARIO/080/02028",
@@ -725,7 +725,7 @@
    "おばちゃん、今日は",
    "優し～いんだね～"
   ],
-  "en": ""
+  "en": "Auntie, you're awfully ni~ce today~"
  },
  {
   "id": "SCENARIO/080/02076",
@@ -734,7 +734,7 @@
    "知らなかったのかい？",
    "あたしはいつだって優しいよ"
   ],
-  "en": ""
+  "en": "Didn't you know? I'm always nice."
  },
  {
   "id": "SCENARIO/080/020ca",
@@ -744,7 +744,7 @@
    "無茶ばっかりしているお子様には",
    "手厳しくいくけどね"
   ],
-  "en": ""
+  "en": "Though of course, I'm hard on certain children who do nothing but reckless things."
  },
  {
   "id": "SCENARIO/080/02142",
@@ -752,7 +752,7 @@
   "jp": [
    "へいへい"
   ],
-  "en": ""
+  "en": "Yeah, yeah."
  },
  {
   "id": "SCENARIO/080/0216a",
@@ -761,7 +761,7 @@
    "・・・じゃ",
    "俺も失礼するよ"
   ],
-  "en": ""
+  "en": "...Well, I'll be off too."
  },
  {
   "id": "SCENARIO/080/021d2",
@@ -769,7 +769,7 @@
   "jp": [
    "お待ち、エクサル"
   ],
-  "en": ""
+  "en": "Hold it, Exal."
  },
  {
   "id": "SCENARIO/080/02244",
@@ -777,7 +777,7 @@
   "jp": [
    "ギクッ！！"
   ],
-  "en": ""
+  "en": "Urk!!"
  },
  {
   "id": "SCENARIO/080/0227e",
@@ -787,7 +787,7 @@
    "重々承知だけどね",
    "今のはやめておきな"
   ],
-  "en": ""
+  "en": "I know all about your meddling habit, but leave this one alone."
  },
  {
   "id": "SCENARIO/080/022e6",
@@ -795,7 +795,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/080/0231a",
@@ -805,7 +805,7 @@
    "言ってわかる子だったら",
    "苦労はしないんだけどねぇ"
   ],
-  "en": ""
+  "en": "...Though if you were the kind to listen, I wouldn't have so much trouble with you."
  },
  {
   "id": "SCENARIO/080/0238a",
@@ -813,7 +813,7 @@
   "jp": [
    "おばちゃん？"
   ],
-  "en": ""
+  "en": "Auntie?"
  },
  {
   "id": "SCENARIO/080/023be",
@@ -822,7 +822,7 @@
    "おばちゃんはおよし",
    "まだまだお姉さんで通る歳だよ"
   ],
-  "en": ""
+  "en": "Enough with the 'Auntie'. I can still pass for a big sis."
  },
  {
   "id": "SCENARIO/080/0241a",
@@ -830,7 +830,7 @@
   "jp": [
    "お姉さんって何歳なの？"
   ],
-  "en": ""
+  "en": "And how old is 'big sis', exactly?"
  },
  {
   "id": "SCENARIO/080/02468",
@@ -839,7 +839,7 @@
    "うるさい子だね",
    "一言多いよ"
   ],
-  "en": ""
+  "en": "Mouthy brat. Always one word too many."
  },
  {
   "id": "SCENARIO/080/024b4",
@@ -848,7 +848,7 @@
    "ほらほら、見失わないうちに",
    "さっさとお行き"
   ],
-  "en": ""
+  "en": "Now go on, hurry, before you lose sight of them."
  },
  {
   "id": "SCENARIO/080/02502",
@@ -858,7 +858,7 @@
    "首を突っ込むのも",
    "ほどほどにするんだよ？"
   ],
-  "en": ""
+  "en": "I'll look the other way today, but keep the nose-poking within reason, you hear?"
  },
  {
   "id": "SCENARIO/080/02576",
@@ -867,7 +867,7 @@
    "え？",
    "いいの？"
   ],
-  "en": ""
+  "en": "Huh? Really?"
  },
  {
   "id": "SCENARIO/080/025ae",
@@ -877,7 +877,7 @@
    "あんたがあの子達の手助けを",
    "してやるんだよ"
   ],
-  "en": ""
+  "en": "Yes. If things get dangerous, you give those kids a hand."
  },
  {
   "id": "SCENARIO/080/02616",
@@ -885,7 +885,7 @@
   "jp": [
    "いいね？"
   ],
-  "en": ""
+  "en": "Understood?"
  },
  {
   "id": "SCENARIO/080/02642",
@@ -895,7 +895,7 @@
    "サイファーパンクからの",
    "支給品だよ"
   ],
-  "en": ""
+  "en": "Here. Standard issue from Cypherpunk."
  },
  {
   "id": "SCENARIO/080/02680",
@@ -903,7 +903,7 @@
   "jp": [
    "ちゃんと持ってきなさい"
   ],
-  "en": ""
+  "en": "Make sure you take it with you."
  },
  {
   "id": "SCENARIO/080/026d6",
@@ -912,7 +912,7 @@
    "おばちゃん、ありがとう！！",
    "俺、行ってくる！！"
   ],
-  "en": ""
+  "en": "Thanks, Auntie!! I'm off!!"
  },
  {
   "id": "SCENARIO/080/02744",
@@ -920,7 +920,7 @@
   "jp": [
    "お姉さんだって言ってるだろう！"
   ],
-  "en": ""
+  "en": "I said it's big sis!"
  },
  {
   "id": "SCENARIO/080/02798",
@@ -928,7 +928,7 @@
   "jp": [
    "・・・・・・まったく"
   ],
-  "en": ""
+  "en": "......Honestly."
  },
  {
   "id": "SCENARIO/080/027ce",
@@ -936,12 +936,12 @@
   "jp": [
    "あたしもまだまだ甘いねぇ"
   ],
-  "en": ""
+  "en": "I'm still too soft, aren't I."
  },
  {
   "id": "SCENARIO/080/06368",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/080/06376",
@@ -949,12 +949,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/080/0638e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/080/0639e",
@@ -962,6 +962,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

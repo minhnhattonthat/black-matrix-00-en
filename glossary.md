@@ -142,3 +142,6 @@ Fly uses 僕 in script 031: gender ambiguous, keep pronoun-free.
 | 死者を操る魔眼 | the Evil Eye that commands the dead | Pasca's title |
 | 灰色の天使 | grey angel | Luca's epithet for Johannes |
 | 六翼の天使 | six-winged angel | Bale |
+| グーテンベルグの戒律書 | Gutenberg Book of Precepts | |
+| 団長 | ringmaster | circus |
+| ＜特例＞ | special exception | |

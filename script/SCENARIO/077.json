@@ -7,7 +7,7 @@
    "けっきょく街では",
    "何も情報なかったし・・・"
   ],
-  "en": ""
+  "en": "This is bad... In the end, I found no information at all in town..."
  },
  {
   "id": "SCENARIO/077/0016a",
@@ -17,7 +17,7 @@
    "サーカスに集まるお客さんが",
    "まだ他にいるかも！！"
   ],
-  "en": ""
+  "en": "I know! There might still be other customers coming to the circus!!"
  },
  {
   "id": "SCENARIO/077/001e8",
@@ -27,7 +27,7 @@
    "受付の人がいないけど",
    "もう準備は出来たのかな？"
   ],
-  "en": ""
+  "en": "...Huh? There's nobody at the entrance. Are they ready to open yet?"
  },
  {
   "id": "SCENARIO/077/00250",
@@ -36,7 +36,7 @@
    "おい、そこのお前！",
    "何してる！！"
   ],
-  "en": ""
+  "en": "Hey, you there! What are you doing!!"
  },
  {
   "id": "SCENARIO/077/002e0",
@@ -44,7 +44,7 @@
   "jp": [
    "え？"
   ],
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "SCENARIO/077/003a6",
@@ -53,7 +53,7 @@
    "怪しい奴め・・・",
    "さてはここの関係者だな！？"
   ],
-  "en": ""
+  "en": "Suspicious little... You're with this circus, aren't you!?"
  },
  {
   "id": "SCENARIO/077/003fe",
@@ -61,7 +61,7 @@
   "jp": [
    "そんなんじゃ・・・"
   ],
-  "en": ""
+  "en": "I'm not..."
  },
  {
   "id": "SCENARIO/077/00480",
@@ -70,7 +70,7 @@
    "答えろ！",
    "かくまっている悪魔はどこだ！？"
   ],
-  "en": ""
+  "en": "Answer me! Where is the demon you're hiding!?"
  },
  {
   "id": "SCENARIO/077/004c4",
@@ -78,7 +78,7 @@
   "jp": [
    "そんなの知らないよ！"
   ],
-  "en": ""
+  "en": "I don't know anything about that!"
  },
  {
   "id": "SCENARIO/077/004f4",
@@ -86,7 +86,7 @@
   "jp": [
    "答えないと言うなら・・・"
   ],
-  "en": ""
+  "en": "If you refuse to answer..."
  },
  {
   "id": "SCENARIO/077/00534",
@@ -96,7 +96,7 @@
    "いきなり剣を突きつけるなんて",
    "教団も過激だな～"
   ],
-  "en": ""
+  "en": "Whoa, whoa. Drawing a sword on a kid, just like that? The Church sure plays rough~"
  },
  {
   "id": "SCENARIO/077/00674",
@@ -105,7 +105,7 @@
    "教団が刃を向ける相手は",
    "悪魔と異端者だろ？"
   ],
-  "en": ""
+  "en": "Aren't the Church's blades meant for demons and heretics?"
  },
  {
   "id": "SCENARIO/077/006bc",
@@ -113,7 +113,7 @@
   "jp": [
    "なんだ貴様は！？"
   ],
-  "en": ""
+  "en": "Who the hell are you!?"
  },
  {
   "id": "SCENARIO/077/006f6",
@@ -122,7 +122,7 @@
    "ま、通りすがりのおせっかいな",
    "お兄さんってとこかな？"
   ],
-  "en": ""
+  "en": "Me? Just a nosy passerby, I guess you could say."
  },
  {
   "id": "SCENARIO/077/00748",
@@ -132,7 +132,7 @@
    "邪魔だてするとは",
    "貴様も異端者か？！"
   ],
-  "en": ""
+  "en": "What!? You'd stand in our way? Then you're a heretic too!?"
  },
  {
   "id": "SCENARIO/077/007a2",
@@ -141,7 +141,7 @@
    "おいおい、",
    "いきなり異端者扱いかよ？"
   ],
-  "en": ""
+  "en": "Whoa, whoa. Straight to calling me a heretic?"
  },
  {
   "id": "SCENARIO/077/00816",
@@ -151,12 +151,12 @@
    "こうなったら力ずくでも",
    "悪魔の居場所を吐かせてやる！"
   ],
-  "en": ""
+  "en": "Enough talk! We'll beat the demon's whereabouts out of you by force!"
  },
  {
   "id": "SCENARIO/077/043ec",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/077/043fa",
@@ -164,12 +164,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/077/04412",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/077/04422",
@@ -177,6 +177,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

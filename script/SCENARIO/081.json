@@ -2,7 +2,7 @@
  {
   "id": "SCENARIO/081/002bc",
   "jp": "構成員・男",
-  "en": ""
+  "en": "Male member"
  },
  {
   "id": "SCENARIO/081/002d0",
@@ -11,12 +11,12 @@
    "こら！",
    "ここは子供の遊び場じゃないぞ！"
   ],
-  "en": ""
+  "en": "Hey! This is no playground for kids!"
  },
  {
   "id": "SCENARIO/081/0030c",
   "jp": "構成員・男",
-  "en": ""
+  "en": "Male member"
  },
  {
   "id": "SCENARIO/081/00320",
@@ -26,12 +26,12 @@
    "正式なメンバーでない以上",
    "出入りは最低限にしておけ"
   ],
-  "en": ""
+  "en": "Dahlia filled me in, but you're not a full member, so keep your visits to a minimum."
  },
  {
   "id": "SCENARIO/081/003bc",
   "jp": "構成員・女",
-  "en": ""
+  "en": "Female member"
  },
  {
   "id": "SCENARIO/081/003d0",
@@ -39,7 +39,7 @@
   "jp": [
    "あら、貴方は・・・"
   ],
-  "en": ""
+  "en": "Oh, you're..."
  },
  {
   "id": "SCENARIO/081/003ec",
@@ -49,12 +49,12 @@
    "あんまり部外者は歓迎できないの",
    "ごめんね"
   ],
-  "en": ""
+  "en": "I've heard about you, but we can't really welcome outsiders. Sorry."
  },
  {
   "id": "SCENARIO/081/0046c",
   "jp": "構成員・若者",
-  "en": ""
+  "en": "Young member"
  },
  {
   "id": "SCENARIO/081/00482",
@@ -64,7 +64,7 @@
    "だが、あんまり堂々と本部に",
    "出入りするなよ"
   ],
-  "en": ""
+  "en": "I've heard. But don't go waltzing in and out of headquarters so openly."
  },
  {
   "id": "SCENARIO/081/004cc",
@@ -73,12 +73,12 @@
    "まだ正式なメンバーじゃ",
    "ないんだからな"
   ],
-  "en": ""
+  "en": "You're not a full member yet, after all."
  },
  {
   "id": "SCENARIO/081/00534",
   "jp": "ダリア",
-  "en": ""
+  "en": "Dahlia"
  },
  {
   "id": "SCENARIO/081/00544",
@@ -87,7 +87,7 @@
    "あら、",
    "いらっしゃい"
   ],
-  "en": ""
+  "en": "Oh, welcome."
  },
  {
   "id": "SCENARIO/081/00564",
@@ -97,12 +97,12 @@
    "街のみんなにでも",
    "聞けばすぐにわかるよ"
   ],
-  "en": ""
+  "en": "What's today? Ask anyone in town and you'll find out soon enough."
  },
  {
   "id": "SCENARIO/081/005cc",
   "jp": "ウェイター",
-  "en": ""
+  "en": "Waiter"
  },
  {
   "id": "SCENARIO/081/005e0",
@@ -110,7 +110,7 @@
   "jp": [
    "いらっしゃいませ～"
   ],
-  "en": ""
+  "en": "Welcome~"
  },
  {
   "id": "SCENARIO/081/005fc",
@@ -120,12 +120,12 @@
    "子供にお酒なんてすすめたら",
    "ダリアさんにシメられますからね"
   ],
-  "en": ""
+  "en": "No drinks until you're grown up. If I served a kid, Dahlia-san would wring my neck."
  },
  {
   "id": "SCENARIO/081/00698",
   "jp": "片翼の天使",
-  "en": ""
+  "en": "One-winged Angel"
  },
  {
   "id": "SCENARIO/081/006ac",
@@ -135,7 +135,7 @@
    "規則に縛られるよりも",
    "風と草と共に歌うのが好き♪"
   ],
-  "en": ""
+  "en": "I'm an angel wandering free. I'd sooner sing with wind and grass than live by rules~"
  },
  {
   "id": "SCENARIO/081/00708",
@@ -145,12 +145,12 @@
    "必要なのは、少し軽い財布に",
    "はき慣れた靴とこのオルガン"
   ],
-  "en": ""
+  "en": "The Book is just dead weight. All I need: a light purse, broken-in shoes, this organ."
  },
  {
   "id": "SCENARIO/081/007b4",
   "jp": "老人",
-  "en": ""
+  "en": "Old man"
  },
  {
   "id": "SCENARIO/081/007c2",
@@ -158,7 +158,7 @@
   "jp": [
    "今日はいい天気だのう・・・"
   ],
-  "en": ""
+  "en": "Fine weather today..."
  },
  {
   "id": "SCENARIO/081/007e8",
@@ -168,12 +168,12 @@
    "お前さんも剣を振るうのじゃろ？",
    "修行は忠実なのが一番じゃ"
   ],
-  "en": ""
+  "en": "Perfect day for training. You swing a sword too, eh? Faithful practice beats all."
  },
  {
   "id": "SCENARIO/081/00870",
   "jp": "老人",
-  "en": ""
+  "en": "Old man"
  },
  {
   "id": "SCENARIO/081/0087e",
@@ -181,12 +181,12 @@
   "jp": [
    "今日はいい天気だのう・・・"
   ],
-  "en": ""
+  "en": "Fine weather today..."
  },
  {
   "id": "SCENARIO/081/008e0",
   "jp": "老婆",
-  "en": ""
+  "en": "Old woman"
  },
  {
   "id": "SCENARIO/081/008ee",
@@ -196,12 +196,12 @@
    "のんびりしていていいのかえ？",
    "みんなは行っちまったよ"
   ],
-  "en": ""
+  "en": "Keh keh keh keh! Can you afford to dawdle? Everyone's already gone."
  },
  {
   "id": "SCENARIO/081/00994",
   "jp": "花売りの少女",
-  "en": ""
+  "en": "Flower girl"
  },
  {
   "id": "SCENARIO/081/009aa",
@@ -209,12 +209,12 @@
   "jp": [
    "あら、こんにちは"
   ],
-  "en": ""
+  "en": "Oh, hello there."
  },
  {
   "id": "SCENARIO/081/009e4",
   "jp": "花売りの少女",
-  "en": ""
+  "en": "Flower girl"
  },
  {
   "id": "SCENARIO/081/009fa",
@@ -223,12 +223,12 @@
    "＜グーテンベルグ＞なら",
    "教会でもらえますよ"
   ],
-  "en": ""
+  "en": "You can get the Gutenberg at the church."
  },
  {
   "id": "SCENARIO/081/00a54",
   "jp": "男の子",
-  "en": ""
+  "en": "Boy"
  },
  {
   "id": "SCENARIO/081/00a64",
@@ -236,7 +236,7 @@
   "jp": [
    "＜書＞なんてつまんねーよ"
   ],
-  "en": ""
+  "en": "The Book is sooo boring."
  },
  {
   "id": "SCENARIO/081/00a88",
@@ -245,12 +245,12 @@
    "なんでこんな物、子供にまで",
    "わざわざ取りに行かせるんだよ"
   ],
-  "en": ""
+  "en": "Why do they make even kids go all the way to pick up this thing?"
  },
  {
   "id": "SCENARIO/081/00b00",
   "jp": "女の子",
-  "en": ""
+  "en": "Girl"
  },
  {
   "id": "SCENARIO/081/00b10",
@@ -260,7 +260,7 @@
    "しっかり一番に並んで",
    "＜書＞をもらってきてるのよ"
   ],
-  "en": ""
+  "en": "He grumbles nonstop, but he lined up first thing and got his Book, you know."
  },
  {
   "id": "SCENARIO/081/00b68",
@@ -269,12 +269,12 @@
    "本当に面倒なら最後のすいている",
    "時間に行けばいいのに"
   ],
-  "en": ""
+  "en": "If it were really such a bother, he could just go at the end when it's empty."
  },
  {
   "id": "SCENARIO/081/00bd6",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/081/00be6",
@@ -282,12 +282,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/081/00c04",
   "jp": "女の子",
-  "en": ""
+  "en": "Girl"
  },
  {
   "id": "SCENARIO/081/00c14",
@@ -296,12 +296,12 @@
    "グチを聞いてくれた",
    "お礼に、これをあげるわ"
   ],
-  "en": ""
+  "en": "Thanks for listening to me gripe. Here, take this."
  },
  {
   "id": "SCENARIO/081/00ca8",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/081/00cb8",
@@ -309,12 +309,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/081/00cd4",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/081/00ce4",
@@ -322,12 +322,12 @@
   "jp": [
    "・・・あの"
   ],
-  "en": ""
+  "en": "...Um."
  },
  {
   "id": "SCENARIO/081/00cf8",
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "id": "SCENARIO/081/00d08",
@@ -337,12 +337,12 @@
    "演目中のピエロは",
    "しゃべっちゃいけないんだよ"
   ],
-  "en": ""
+  "en": "Don't talk to me. A clown isn't allowed to speak during a performance."
  },
  {
   "id": "SCENARIO/081/00da0",
   "jp": "兵士",
-  "en": ""
+  "en": "Soldier"
  },
  {
   "id": "SCENARIO/081/00dae",
@@ -350,7 +350,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/081/00dcc",
@@ -360,12 +360,12 @@
    "いくら可愛くても俺は",
    "まどわされたりしないぞ！！"
   ],
-  "en": ""
+  "en": "Mmmmm... No matter how cute she is, I won't be led astray!!"
  },
  {
   "id": "SCENARIO/081/00e1c",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/081/00e2c",
@@ -373,12 +373,12 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/081/00e44",
   "jp": "兵士",
-  "en": ""
+  "en": "Soldier"
  },
  {
   "id": "SCENARIO/081/00e52",
@@ -386,7 +386,7 @@
   "jp": [
    "な、なんだお前は！？"
   ],
-  "en": ""
+  "en": "Wh-what do you want!?"
  },
  {
   "id": "SCENARIO/081/00e70",
@@ -395,7 +395,7 @@
    "俺は忠実なるクレイス様の部下！",
    "決して・・・思ってないからな！"
   ],
-  "en": ""
+  "en": "I'm a loyal man of Kreis-sama! I'm not... thinking anything of the sort, got it!"
  },
  {
   "id": "SCENARIO/081/00ebc",
@@ -405,12 +405,12 @@
    "この街で一番可愛いだなんて",
    "これっぽっちも思ってないぞ！！"
   ],
-  "en": ""
+  "en": "I don't think the girl at this circus is the cutest in town, not one little bit!!"
  },
  {
   "id": "SCENARIO/081/00f38",
   "jp": "兵士",
-  "en": ""
+  "en": "Soldier"
  },
  {
   "id": "SCENARIO/081/00f46",
@@ -418,12 +418,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/081/00fc0",
   "jp": "プラン",
-  "en": ""
+  "en": "Plan"
  },
  {
   "id": "SCENARIO/081/00fd0",
@@ -432,7 +432,7 @@
    "ああ、ちょうどいいところに来て",
    "くれたわ！"
   ],
-  "en": ""
+  "en": "Ah, perfect timing!"
  },
  {
   "id": "SCENARIO/081/01008",
@@ -442,7 +442,7 @@
    "一緒に行ってくれる荷物持ちが",
    "欲しかったのよね♪"
   ],
-  "en": ""
+  "en": "I'm sending Fly on an errand, and I wanted someone to go along and carry the bags~"
  },
  {
   "id": "SCENARIO/081/01064",
@@ -450,18 +450,18 @@
   "jp": [
    "お願いできないかしら？"
   ],
-  "en": "",
+  "en": "Could I ask you to do it?",
   "spill": false
  },
  {
   "id": "SCENARIO/081/01082",
   "jp": "　いいよ",
-  "en": ""
+  "en": "Sure"
  },
  {
   "id": "SCENARIO/081/01094",
   "jp": "　ごめん",
-  "en": ""
+  "en": "Sorry"
  },
  {
   "id": "SCENARIO/081/010a8",
@@ -470,7 +470,7 @@
    "ありがとう",
    "お願いするわね♪"
   ],
-  "en": ""
+  "en": "Thank you! I'm counting on you~"
  },
  {
   "id": "SCENARIO/081/010f2",
@@ -479,12 +479,12 @@
    "わかったわ",
    "引き止めてごめんね"
   ],
-  "en": ""
+  "en": "All right. Sorry to keep you."
  },
  {
   "id": "SCENARIO/081/01130",
   "jp": "プラン",
-  "en": ""
+  "en": "Plan"
  },
  {
   "id": "SCENARIO/081/01140",
@@ -493,7 +493,7 @@
    "いらっしゃいませ～",
    "今日も頑張ってる？"
   ],
-  "en": ""
+  "en": "Welcome~ Working hard today?"
  },
  {
   "id": "SCENARIO/081/011ac",
@@ -503,7 +503,7 @@
    "なっているような気がする・・",
    "誰かに聞いてみよう"
   ],
-  "en": ""
+  "en": "It feels like there are fewer people around town.. Maybe I should ask someone."
  },
  {
   "id": "SCENARIO/081/01210",
@@ -513,12 +513,12 @@
    "うーん、どこに行ったのか",
    "誰か教えてくれないかな？"
   ],
-  "en": ""
+  "en": "Did the townspeople go somewhere? Hmm, I wonder if someone could tell me where."
  },
  {
   "id": "SCENARIO/081/04d98",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/081/04da6",
@@ -526,12 +526,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/081/04dbe",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/081/04dce",
@@ -539,6 +539,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

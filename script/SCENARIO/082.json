@@ -6,7 +6,7 @@
    "今日は＜グーテンベルグ＞の",
    "配布があるのか・・・"
   ],
-  "en": ""
+  "en": "So today is the Gutenberg handout..."
  },
  {
   "id": "SCENARIO/082/00160",
@@ -15,7 +15,7 @@
    "どうりで街が",
    "閑散としているはずだ"
   ],
-  "en": ""
+  "en": "No wonder the town is so deserted."
  },
  {
   "id": "SCENARIO/082/001a0",
@@ -24,7 +24,7 @@
    "ねぇ、ヨハネ",
    "＜グーテンベルグ＞って何？"
   ],
-  "en": ""
+  "en": "Hey, Johannes, what's a Gutenberg?"
  },
  {
   "id": "SCENARIO/082/001e4",
@@ -34,7 +34,7 @@
    "人々が守るべき規律が記された",
    "書物のことだ"
   ],
-  "en": ""
+  "en": "A book of the Prodevon Church's teachings and the rules the people must keep."
  },
  {
   "id": "SCENARIO/082/00240",
@@ -43,7 +43,7 @@
    "正式名称は",
    "＜グーテンベルグの戒律書＞"
   ],
-  "en": ""
+  "en": "Its formal name is the Gutenberg Book of Precepts."
  },
  {
   "id": "SCENARIO/082/0027c",
@@ -53,7 +53,7 @@
    "呼ばれているが、カインも島に",
    "居た時にはもらっていたはずだ"
   ],
-  "en": ""
+  "en": "Most people just call it the Book. You should have received one on the island, too."
  },
  {
   "id": "SCENARIO/082/002fa",
@@ -62,7 +62,7 @@
    "そういえば、そんな名前の本が",
    "ウチにもあったかもしれない・・"
   ],
-  "en": ""
+  "en": "Now that you mention it, we might have had a book like that at home.."
  },
  {
   "id": "SCENARIO/082/00354",
@@ -72,7 +72,7 @@
    "これを持つよう",
    "義務づけられている"
   ],
-  "en": ""
+  "en": "Every resident is required to own one."
  },
  {
   "id": "SCENARIO/082/003a0",
@@ -81,7 +81,7 @@
    "・・・そうだな、",
    "この機を逃すべきではない"
   ],
-  "en": ""
+  "en": "...Yes. We should not let this chance slip by."
  },
  {
   "id": "SCENARIO/082/003f6",
@@ -89,7 +89,7 @@
   "jp": [
    "どういうこと？"
   ],
-  "en": ""
+  "en": "What do you mean?"
  },
  {
   "id": "SCENARIO/082/00420",
@@ -98,7 +98,7 @@
    "＜グーテンベルグ＞を受け取りに",
    "教会には多くの住民達が集まる"
   ],
-  "en": ""
+  "en": "Many residents will gather at the church to receive the Gutenberg."
  },
  {
   "id": "SCENARIO/082/00470",
@@ -107,7 +107,7 @@
    "教団の者たちも",
    "その対応に追われているはずだ"
   ],
-  "en": ""
+  "en": "The Church's people will have their hands full dealing with them."
  },
  {
   "id": "SCENARIO/082/004b0",
@@ -117,7 +117,7 @@
    "情報を聞き出す",
    "絶好の機会だ"
   ],
-  "en": ""
+  "en": "A perfect chance to approach someone from the Church and draw out information."
  },
  {
   "id": "SCENARIO/082/00516",
@@ -127,7 +127,7 @@
    "とにかくボクたちも",
    "教会に行こうってことだよね？"
   ],
-  "en": ""
+  "en": "Um, so what you're saying, Johannes, is that we should go to the church too, right?"
  },
  {
   "id": "SCENARIO/082/00592",
@@ -135,12 +135,12 @@
   "jp": [
    "ああ、そういうことだ"
   ],
-  "en": ""
+  "en": "Yes. That is what I mean."
  },
  {
   "id": "SCENARIO/082/040e4",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/082/040f2",
@@ -148,12 +148,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/082/0410a",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/082/0411a",
@@ -161,6 +161,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

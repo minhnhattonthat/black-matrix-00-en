@@ -7,7 +7,7 @@
    "押さないでー",
    "ちゃんと並んで下さーい"
   ],
-  "en": ""
+  "en": "All right, all right! No pushing! Please line up properly!"
  },
  {
   "id": "SCENARIO/083/00314",
@@ -15,7 +15,7 @@
   "jp": [
    "すごい人の数だね"
   ],
-  "en": ""
+  "en": "That's a huge crowd."
  },
  {
   "id": "SCENARIO/083/00360",
@@ -24,7 +24,7 @@
    "ああ、街中の人間が集まって",
    "いるからな"
   ],
-  "en": ""
+  "en": "Yes. The whole town is gathered here."
  },
  {
   "id": "SCENARIO/083/003b2",
@@ -33,7 +33,7 @@
    "教団の人から何か手がかりを",
    "聞き出せばいいんだね"
   ],
-  "en": ""
+  "en": "So I just need to get some kind of lead out of the Church people, right?"
  },
  {
   "id": "SCENARIO/083/0040e",
@@ -42,7 +42,7 @@
    "ああ",
    "くれぐれも慎重にな"
   ],
-  "en": ""
+  "en": "Yes. Be very careful."
  },
  {
   "id": "SCENARIO/083/00452",
@@ -50,18 +50,18 @@
   "jp": [
    "誰に話しかけてみよう？"
   ],
-  "en": "",
+  "en": "Who should I try talking to?",
   "spill": false
  },
  {
   "id": "SCENARIO/083/00470",
   "jp": "　むこうの僧兵さん",
-  "en": ""
+  "en": "The monk soldier over there"
  },
  {
   "id": "SCENARIO/083/0048c",
   "jp": "　あっちの神父さん",
-  "en": ""
+  "en": "The priest over that way"
  },
  {
   "id": "SCENARIO/083/004dc",
@@ -70,7 +70,7 @@
    "こらこら、そこ！",
    "ちゃんと列に並ぶんだ！！"
   ],
-  "en": ""
+  "en": "Hey, hey, you there! Get in line properly!!"
  },
  {
   "id": "SCENARIO/083/00524",
@@ -80,7 +80,7 @@
    "教団にいるはずの女の子を",
    "捜しているのですが"
   ],
-  "en": ""
+  "en": "U-um, excuse me. I'm looking for a girl who should be with the Church."
  },
  {
   "id": "SCENARIO/083/0057c",
@@ -90,7 +90,7 @@
    "マティアって名前の女の子",
    "知りませんか？"
   ],
-  "en": ""
+  "en": "She's about my age, and her name is Matia. Do you know her?"
  },
  {
   "id": "SCENARIO/083/005d8",
@@ -99,7 +99,7 @@
    "マティア？",
    "知らないな"
   ],
-  "en": ""
+  "en": "Matia? Never heard of her."
  },
  {
   "id": "SCENARIO/083/00604",
@@ -108,7 +108,7 @@
    "こっちも忙しいんだ",
    "他に聞いてくれ"
   ],
-  "en": ""
+  "en": "I'm busy here. Ask someone else."
  },
  {
   "id": "SCENARIO/083/00660",
@@ -116,7 +116,7 @@
   "jp": [
    "・・・はい"
   ],
-  "en": ""
+  "en": "...Okay."
  },
  {
   "id": "SCENARIO/083/006d0",
@@ -124,7 +124,7 @@
   "jp": [
    "ああ、忙しい忙しい"
   ],
-  "en": ""
+  "en": "Ah, so busy, so busy."
  },
  {
   "id": "SCENARIO/083/006fc",
@@ -133,7 +133,7 @@
    "すみません",
    "ちょっといいですか？"
   ],
-  "en": ""
+  "en": "Excuse me, do you have a moment?"
  },
  {
   "id": "SCENARIO/083/00738",
@@ -143,7 +143,7 @@
    "ワシは忙しいんじゃ",
    "他をあたっとくれ！！"
   ],
-  "en": ""
+  "en": "Not even a moment! I'm busy! Go bother someone else!!"
  },
  {
   "id": "SCENARIO/083/0079e",
@@ -151,7 +151,7 @@
   "jp": [
    "ご、ごめんなさい"
   ],
-  "en": ""
+  "en": "S-sorry."
  },
  {
   "id": "SCENARIO/083/0080c",
@@ -159,7 +159,7 @@
   "jp": [
    "・・・・・・ふう"
   ],
-  "en": ""
+  "en": "......Phew."
  },
  {
   "id": "SCENARIO/083/00830",
@@ -168,7 +168,7 @@
    "なかなかうまく",
    "いかないなぁ・・・"
   ],
-  "en": ""
+  "en": "This isn't going very well..."
  },
  {
   "id": "SCENARIO/083/0089c",
@@ -176,7 +176,7 @@
   "jp": [
    "こらこら、そこ！"
   ],
-  "en": ""
+  "en": "Hey, hey, you there!"
  },
  {
   "id": "SCENARIO/083/008d6",
@@ -184,7 +184,7 @@
   "jp": [
    "・・・え、ボク？"
   ],
-  "en": ""
+  "en": "...Huh, me?"
  },
  {
   "id": "SCENARIO/083/0090e",
@@ -194,7 +194,7 @@
    "列はそっちじゃないわよ",
    "ちゃんとこっちに並んでね"
   ],
-  "en": ""
+  "en": "No, no, that's not the line. Come line up properly over here."
  },
  {
   "id": "SCENARIO/083/0096c",
@@ -202,7 +202,7 @@
   "jp": [
    "は、はい"
   ],
-  "en": ""
+  "en": "Y-yes, ma'am."
  },
  {
   "id": "SCENARIO/083/009a8",
@@ -211,7 +211,7 @@
    "・・・・・・あの",
    "マティアっていう女の子を"
   ],
-  "en": ""
+  "en": "......Um, there's a girl called Matia--"
  },
  {
   "id": "SCENARIO/083/00a98",
@@ -220,7 +220,7 @@
    "ああっ！！",
    "ちょっと、そこ！！"
   ],
-  "en": ""
+  "en": "Aah!! Hey, you there!!"
  },
  {
   "id": "SCENARIO/083/00b0a",
@@ -230,7 +230,7 @@
    "あんた何冊＜書＞をもらえば",
    "気が済むのよ！！"
   ],
-  "en": ""
+  "en": "That's enough!! How many Books do you need before you're satisfied!!"
  },
  {
   "id": "SCENARIO/083/00bd8",
@@ -240,7 +240,7 @@
    "やると言っておるのに",
    "ケチケチするな！"
   ],
-  "en": ""
+  "en": "The great Kutta-sama deigns to accept them! Don't be so stingy!"
  },
  {
   "id": "SCENARIO/083/00c52",
@@ -250,7 +250,7 @@
    "一人一冊！",
    "それ以上は認めません！！"
   ],
-  "en": ""
+  "en": "Those are the rules!! One per person! Not one more!!"
  },
  {
   "id": "SCENARIO/083/00cda",
@@ -258,7 +258,7 @@
   "jp": [
    "ええと・・・"
   ],
-  "en": ""
+  "en": "Um..."
  },
  {
   "id": "SCENARIO/083/00d38",
@@ -267,7 +267,7 @@
    "ちょっとゴメンね！",
    "今、取り込み中・・・て"
   ],
-  "en": ""
+  "en": "Sorry, just a sec! I'm in the middle of-- hey!"
  },
  {
   "id": "SCENARIO/083/00dda",
@@ -275,7 +275,7 @@
   "jp": [
    "あああっ！！"
   ],
-  "en": ""
+  "en": "Aaah!!"
  },
  {
   "id": "SCENARIO/083/00e1c",
@@ -285,7 +285,7 @@
    "クッタ様は＜グーテンベルグ＞",
    "を手に入れた！！"
   ],
-  "en": ""
+  "en": "Fwa ha ha ha! Kutta-sama has obtained the Gutenberg!!"
  },
  {
   "id": "SCENARIO/083/00e8e",
@@ -293,7 +293,7 @@
   "jp": [
    "さらばっ！！"
   ],
-  "en": ""
+  "en": "Farewell!!"
  },
  {
   "id": "SCENARIO/083/00f22",
@@ -301,7 +301,7 @@
   "jp": [
    "ちょっとー！"
   ],
-  "en": ""
+  "en": "Heeey!"
  },
  {
   "id": "SCENARIO/083/00f56",
@@ -309,7 +309,7 @@
   "jp": [
    "ふははははははっ！！！"
   ],
-  "en": ""
+  "en": "Fwa ha ha ha ha ha!!"
  },
  {
   "id": "SCENARIO/083/0102c",
@@ -319,7 +319,7 @@
    "ああいう変なのがいるから",
    "あたしたちが苦労するのよ！"
   ],
-  "en": ""
+  "en": "Honestly! Weirdos like him are why we have such a hard time!"
  },
  {
   "id": "SCENARIO/083/010b0",
@@ -327,7 +327,7 @@
   "jp": [
    "・・・あの"
   ],
-  "en": ""
+  "en": "...Um."
  },
  {
   "id": "SCENARIO/083/010f0",
@@ -336,7 +336,7 @@
    "ああ、ごめんね",
    "ああいう変なのは気にしないでね"
   ],
-  "en": ""
+  "en": "Oh, sorry. Don't mind weirdos like that."
  },
  {
   "id": "SCENARIO/083/01142",
@@ -345,7 +345,7 @@
    "それで、お姉さんに",
    "何を聞きたかったのかな？"
   ],
-  "en": ""
+  "en": "So, what did you want to ask big sis here?"
  },
  {
   "id": "SCENARIO/083/0118c",
@@ -355,7 +355,7 @@
    "知りませんか？",
    "どこかで見かけたとか・・・"
   ],
-  "en": ""
+  "en": "Um, do you know a girl named Matia? Or maybe you've seen her somewhere..."
  },
  {
   "id": "SCENARIO/083/011fe",
@@ -365,7 +365,7 @@
    "それは、困ったわね",
    "こう人が多いと・・・"
   ],
-  "en": ""
+  "en": "Oh, is she lost? That's a problem, with this many people around..."
  },
  {
   "id": "SCENARIO/083/01254",
@@ -375,7 +375,7 @@
    "天使にさらわれたから",
    "教会の中にいるんじゃないかと"
   ],
-  "en": ""
+  "en": "No, it's not that. An angel took her, so I thought she might be inside the church."
  },
  {
   "id": "SCENARIO/083/012d0",
@@ -383,7 +383,7 @@
   "jp": [
    "さらわれた？！"
   ],
-  "en": ""
+  "en": "Took her!?"
  },
  {
   "id": "SCENARIO/083/01316",
@@ -392,7 +392,7 @@
    "ええと",
    "あの・・・"
   ],
-  "en": ""
+  "en": "Er, um..."
  },
  {
   "id": "SCENARIO/083/01352",
@@ -401,7 +401,7 @@
    "・・・貴方",
    "ちょーっと怪しいわね"
   ],
-  "en": ""
+  "en": "...You're juuust a little suspicious."
  },
  {
   "id": "SCENARIO/083/013b0",
@@ -411,7 +411,7 @@
    "田舎から出てきたばかりで",
    "右も左もわからぬような子だ"
   ],
-  "en": ""
+  "en": "Forgive him. He is fresh from the countryside and does not know left from right yet."
  },
  {
   "id": "SCENARIO/083/01404",
@@ -419,7 +419,7 @@
   "jp": [
    "あまり気にしないでやってくれ"
   ],
-  "en": ""
+  "en": "Please do not mind him too much."
  },
  {
   "id": "SCENARIO/083/0144a",
@@ -428,7 +428,7 @@
    "仮面の天使・・・",
    "ますます怪しいわ"
   ],
-  "en": ""
+  "en": "A masked angel... Even more suspicious."
  },
  {
   "id": "SCENARIO/083/01496",
@@ -436,7 +436,7 @@
   "jp": [
    "・・・・・・参ったな"
   ],
-  "en": ""
+  "en": "......This is a problem."
  },
  {
   "id": "SCENARIO/083/014f2",
@@ -444,7 +444,7 @@
   "jp": [
    "あの、つまり"
   ],
-  "en": ""
+  "en": "Um, what I mean is"
  },
  {
   "id": "SCENARIO/083/01518",
@@ -452,7 +452,7 @@
   "jp": [
    "つまり？"
   ],
-  "en": ""
+  "en": "You mean?"
  },
  {
   "id": "SCENARIO/083/01550",
@@ -460,7 +460,7 @@
   "jp": [
    "ええと、その"
   ],
-  "en": ""
+  "en": "Er, well"
  },
  {
   "id": "SCENARIO/083/01578",
@@ -469,7 +469,7 @@
    "おーー",
    "いたいた！！"
   ],
-  "en": ""
+  "en": "Heeey! There you are!!"
  },
  {
   "id": "SCENARIO/083/015da",
@@ -479,7 +479,7 @@
    "迷子なんかになりやがって",
    "捜したんだぞ！！"
   ],
-  "en": ""
+  "en": "So this is where you were! Getting yourselves lost, I've been looking everywhere!!"
  },
  {
   "id": "SCENARIO/083/0164a",
@@ -488,7 +488,7 @@
    "え？",
    "貴方はさっきの・・・"
   ],
-  "en": ""
+  "en": "Huh? You're the one from before..."
  },
  {
   "id": "SCENARIO/083/016d4",
@@ -497,7 +497,7 @@
    "いいから",
    "俺に調子あわせておきな"
   ],
-  "en": ""
+  "en": "Just play along with me."
  },
  {
   "id": "SCENARIO/083/017d0",
@@ -507,7 +507,7 @@
    "眼鏡の可愛いらしい嬢ちゃん",
    "連れが面倒かけてすまなかった"
   ],
-  "en": ""
+  "en": "Sorry about that, cute little miss in glasses. My friends here caused you trouble."
  },
  {
   "id": "SCENARIO/083/01846",
@@ -516,7 +516,7 @@
    "嬢ちゃんじゃないわよ！",
    "私はれっきとした僧兵です！！"
   ],
-  "en": ""
+  "en": "I'm not a 'little miss'! I'm a proper monk soldier!!"
  },
  {
   "id": "SCENARIO/083/01898",
@@ -525,7 +525,7 @@
    "いやいや",
    "連れが面倒をかけて悪かったな"
   ],
-  "en": ""
+  "en": "Right, right. Sorry my friends were such a bother."
  },
  {
   "id": "SCENARIO/083/018d4",
@@ -535,7 +535,7 @@
    "あんたに失礼な真似した分は",
    "俺がきつーく言っておくから"
   ],
-  "en": ""
+  "en": "I'll give these two a reeeal stern talking-to for being rude to you."
  },
  {
   "id": "SCENARIO/083/01942",
@@ -544,7 +544,7 @@
    "今日は俺の顔に免じて",
    "このとーり！！！"
   ],
-  "en": ""
+  "en": "Just this once, for my sake-- look, I'm bowing and everything!!"
  },
  {
   "id": "SCENARIO/083/01984",
@@ -552,7 +552,7 @@
   "jp": [
    "ほら、お前らも！！"
   ],
-  "en": ""
+  "en": "Come on, you two!!"
  },
  {
   "id": "SCENARIO/083/019dc",
@@ -560,7 +560,7 @@
   "jp": [
    "ごめんなさい"
   ],
-  "en": ""
+  "en": "I'm sorry."
  },
  {
   "id": "SCENARIO/083/01a30",
@@ -568,7 +568,7 @@
   "jp": [
    "すまない"
   ],
-  "en": ""
+  "en": "Forgive me."
  },
  {
   "id": "SCENARIO/083/01a70",
@@ -578,7 +578,7 @@
    "人目があるところで",
    "そんなにペコペコしないでよ！"
   ],
-  "en": ""
+  "en": "...H-hey!! Don't bow and scrape like that where people can see!"
  },
  {
   "id": "SCENARIO/083/01ae6",
@@ -587,7 +587,7 @@
    "これじゃ、あたしが",
    "悪者みたいじゃない！！"
   ],
-  "en": ""
+  "en": "You're making me look like the bad guy!!"
  },
  {
   "id": "SCENARIO/083/01b58",
@@ -596,7 +596,7 @@
    "それじゃ俺たちは",
    "これで・・・"
   ],
-  "en": ""
+  "en": "Well then, we'll be off..."
  },
  {
   "id": "SCENARIO/083/01b9a",
@@ -605,7 +605,7 @@
    "ほら",
    "お前らもこっちだ！！"
   ],
-  "en": ""
+  "en": "Come on, you two, this way!!"
  },
  {
   "id": "SCENARIO/083/01c00",
@@ -613,7 +613,7 @@
   "jp": [
    "え？"
   ],
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "SCENARIO/083/01c3c",
@@ -622,12 +622,12 @@
    "ちょ、ちょっと",
    "待ちなさいってばー！！！"
   ],
-  "en": ""
+  "en": "H-hey, I said wait!!!"
  },
  {
   "id": "SCENARIO/083/057b0",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/083/057be",
@@ -635,12 +635,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/083/057d6",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/083/057e6",
@@ -648,6 +648,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
