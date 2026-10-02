@@ -6,7 +6,7 @@
    "ボーナスシナリオ　１１",
    "＜介在する影＞"
   ],
-  "en": "",
+  "en": "Bonus Scenario 11\nThe Shadow Between",
   "spill": false
  },
  {
@@ -16,7 +16,7 @@
    "ヨハネさんが",
    "ひとりで地下通路に入ったって？"
   ],
-  "en": ""
+  "en": "Johannes-san went into the underground passage alone?"
  },
  {
   "id": "SCENARIO/033/001a4",
@@ -25,7 +25,7 @@
    "ヨハネがひとりで！？",
    "どうしようエクサル・・・"
   ],
-  "en": ""
+  "en": "Johannes, alone!? What do we do, Exal..."
  },
  {
   "id": "SCENARIO/033/001f0",
@@ -35,7 +35,7 @@
    "いくらヨハネさんでも",
    "無事に出られるかどうか"
   ],
-  "en": ""
+  "en": "That's bad, even for him. I don't know if even Johannes-san can get out safely."
  },
  {
   "id": "SCENARIO/033/002de",
@@ -45,7 +45,7 @@
    "調べるのに夢中になって",
    "ひとりで入っちゃったんだよ"
   ],
-  "en": ""
+  "en": "Knowing Johannes, he got caught up in his research and just went in by himself."
  },
  {
   "id": "SCENARIO/033/0033c",
@@ -53,7 +53,7 @@
   "jp": [
    "みんな、ごめんね"
   ],
-  "en": ""
+  "en": "I'm sorry, everyone."
  },
  {
   "id": "SCENARIO/033/00388",
@@ -61,7 +61,7 @@
   "jp": [
    "カインが謝ることないわよ"
   ],
-  "en": ""
+  "en": "You've got nothing to apologize for, Cain."
  },
  {
   "id": "SCENARIO/033/003c2",
@@ -71,7 +71,7 @@
    "ヨハネさんの放浪グセにも",
    "困ったものよね"
   ],
-  "en": ""
+  "en": "Still, Johannes-san's wandering habit really is a problem."
  },
  {
   "id": "SCENARIO/033/00460",
@@ -79,7 +79,7 @@
   "jp": [
    "ま、誰にでも欠点はあるからな"
   ],
-  "en": ""
+  "en": "Well, everyone's got their flaws."
  },
  {
   "id": "SCENARIO/033/00490",
@@ -89,7 +89,7 @@
    "この放浪グセが最大にして",
    "唯一の欠点じゃないか？"
   ],
-  "en": ""
+  "en": "In Johannes-san's case, isn't this wandering habit his biggest and only flaw?"
  },
  {
   "id": "SCENARIO/033/00530",
@@ -97,7 +97,7 @@
   "jp": [
    "はた迷惑な欠点だな"
   ],
-  "en": ""
+  "en": "A flaw that's a pain for everyone else."
  },
  {
   "id": "SCENARIO/033/0056a",
@@ -106,7 +106,7 @@
    "迷惑なのはしかたないだろ？",
    "欠点なんだし"
   ],
-  "en": ""
+  "en": "Can't be helped if it's a pain, right? It's a flaw."
  },
  {
   "id": "SCENARIO/033/005d0",
@@ -115,7 +115,7 @@
    "なんでも他人を巻き込みたがる",
    "ヤツも問題だけど・・・"
   ],
-  "en": ""
+  "en": "Guys who drag everyone else into everything are a problem too..."
  },
  {
   "id": "SCENARIO/033/00618",
@@ -124,7 +124,7 @@
    "一人で遺跡に行くなんて、",
    "単独行動好きにも限度があるわ"
   ],
-  "en": ""
+  "en": "But going to the ruins alone? There's a limit to this lone-wolf stuff."
  },
  {
   "id": "SCENARIO/033/00664",
@@ -134,7 +134,7 @@
    "外を出歩くっていう意味、",
    "ちゃんと理解しているのかしら？"
   ],
-  "en": ""
+  "en": "Besides, does he even get what it means for an angel to walk around out here alone?"
  },
  {
   "id": "SCENARIO/033/006fc",
@@ -144,7 +144,7 @@
    "後でヨハネには、ボクから",
    "ちゃんと言っておくから・・・"
   ],
-  "en": ""
+  "en": "I-I'm sorry, everyone. I'll give Johannes a proper talking-to later..."
  },
  {
   "id": "SCENARIO/033/00788",
@@ -154,7 +154,7 @@
    "あいつの放浪グセもとっくに",
    "治ってるわよ"
   ],
-  "en": ""
+  "en": "If a word from Cain could fix it, his wandering habit would've been cured ages ago."
  },
  {
   "id": "SCENARIO/033/0081e",
@@ -164,7 +164,7 @@
    "一人で出歩いていたわけでも",
    "ないらしいからな"
   ],
-  "en": ""
+  "en": "And for the record, it seems he wasn't walking around alone, either."
  },
  {
   "id": "SCENARIO/033/00892",
@@ -172,7 +172,7 @@
   "jp": [
    "知ってるわよ"
   ],
-  "en": ""
+  "en": "I know that."
  },
  {
   "id": "SCENARIO/033/008b0",
@@ -182,7 +182,7 @@
    "遺跡の入り口までは黒羽根の",
    "案内人と一緒でも・・・"
   ],
-  "en": ""
+  "en": "Sure, per Unda-sama's orders, a black-wing guide took him to the entrance, but..."
  },
  {
   "id": "SCENARIO/033/0092e",
@@ -190,7 +190,7 @@
   "jp": [
    "言いたいことはわかる"
   ],
-  "en": ""
+  "en": "I know what you're going to say."
  },
  {
   "id": "SCENARIO/033/00962",
@@ -199,7 +199,7 @@
    "肝心の案内人が、",
    "よりによってこいつじゃな・・"
   ],
-  "en": ""
+  "en": "Of all people, the guide had to be this guy..."
  },
  {
   "id": "SCENARIO/033/009d4",
@@ -208,7 +208,7 @@
    "そ、そんな目で見なくても",
    "良いだろうッ！？"
   ],
-  "en": ""
+  "en": "Y-you don't have to look at me like that!?"
  },
  {
   "id": "SCENARIO/033/00a1c",
@@ -218,7 +218,7 @@
    "ヨハネさんを止められなかった",
    "のは俺のせいだけど・・・"
   ],
-  "en": ""
+  "en": "Sure, it's my fault I couldn't stop Johannes-san from going into the ruins, but..."
  },
  {
   "id": "SCENARIO/033/00a96",
@@ -227,7 +227,7 @@
    "俺だってちゃんと、力ずくでも",
    "引き留めようとしたんだぜ！！"
   ],
-  "en": ""
+  "en": "I really did try to hold him back, even by force!!"
  },
  {
   "id": "SCENARIO/033/00b0c",
@@ -236,7 +236,7 @@
    "・・・で、ヨハネ相手に",
    "力ずくで負けてきたのか？"
   ],
-  "en": ""
+  "en": "...So you took on Johannes by force and lost?"
  },
  {
   "id": "SCENARIO/033/00b66",
@@ -246,7 +246,7 @@
    "逃げられちゃったとゆーか・・",
    "あはははは・・・・"
   ],
-  "en": ""
+  "en": "Well, more like he caught me off guard and got away... Ah ha ha ha...."
  },
  {
   "id": "SCENARIO/033/00bd6",
@@ -254,7 +254,7 @@
   "jp": [
    "ゴメンナサイ"
   ],
-  "en": ""
+  "en": "I'm sorry."
  },
  {
   "id": "SCENARIO/033/00c0a",
@@ -263,7 +263,7 @@
    "とりあえず",
    "とっとと先へ案内しろ"
   ],
-  "en": ""
+  "en": "Whatever. Just hurry up and lead the way."
  },
  {
   "id": "SCENARIO/033/00c56",
@@ -271,7 +271,7 @@
   "jp": [
    "はい・・・"
   ],
-  "en": ""
+  "en": "Yes, sir..."
  },
  {
   "id": "SCENARIO/033/00ce0",
@@ -279,7 +279,7 @@
   "jp": [
    "おーい、まだ着かないのか？"
   ],
-  "en": ""
+  "en": "Heeey, aren't we there yet?"
  },
  {
   "id": "SCENARIO/033/00d34",
@@ -288,7 +288,7 @@
    "エクサル、それ何回言えば",
    "気が済むの？"
   ],
-  "en": ""
+  "en": "Exal, how many times do you have to say that?"
  },
  {
   "id": "SCENARIO/033/00d98",
@@ -297,7 +297,7 @@
    "アタシにもいつ着くのかなんて",
    "分からないよ"
   ],
-  "en": ""
+  "en": "I don't know when we'll get there either."
  },
  {
   "id": "SCENARIO/033/00dd8",
@@ -306,7 +306,7 @@
    "アタシもザイオンも初めて",
    "通る場所なんだ"
   ],
-  "en": ""
+  "en": "Zion and I have never come this way before."
  },
  {
   "id": "SCENARIO/033/00e14",
@@ -316,7 +316,7 @@
    "道順は分かっていても距離までは",
    "計れないよ"
   ],
-  "en": ""
+  "en": "The map Unda-sama gave us shows the route, but it doesn't tell the distance."
  },
  {
   "id": "SCENARIO/033/00e86",
@@ -326,7 +326,7 @@
    "その地図だと、どれ位",
    "進んだことになってる？"
   ],
-  "en": ""
+  "en": "Then according to that map, how far along are we?"
  },
  {
   "id": "SCENARIO/033/00f00",
@@ -335,7 +335,7 @@
    "遺跡まで、",
    "ちょうど半分くらいの距離かな？"
   ],
-  "en": ""
+  "en": "About halfway to the ruins, I'd say?"
  },
  {
   "id": "SCENARIO/033/00f4e",
@@ -345,7 +345,7 @@
    "今来た道と同じくらいの距離を",
    "歩くことになるだろうね"
   ],
-  "en": ""
+  "en": "Going back or going on, it's about as far as what we've walked so far."
  },
  {
   "id": "SCENARIO/033/00fd6",
@@ -354,7 +354,7 @@
    "うえ～",
    "まだ、半分かよ・・・"
   ],
-  "en": ""
+  "en": "Ugh... Only halfway..."
  },
  {
   "id": "SCENARIO/033/01030",
@@ -362,7 +362,7 @@
   "jp": [
    "リリス、疲れちゃった・・・"
   ],
-  "en": ""
+  "en": "Lilis is tired..."
  },
  {
   "id": "SCENARIO/033/01072",
@@ -370,7 +370,7 @@
   "jp": [
    "なあ、少し休まないか？"
   ],
-  "en": ""
+  "en": "Hey, how about a short break?"
  },
  {
   "id": "SCENARIO/033/010bc",
@@ -378,18 +378,18 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": "",
+  "en": ".........",
   "spill": false
  },
  {
   "id": "SCENARIO/033/010d6",
   "jp": "　休もう",
-  "en": ""
+  "en": "Let's rest"
  },
  {
   "id": "SCENARIO/033/010e8",
   "jp": "　もうちょっと",
-  "en": ""
+  "en": "A little further"
  },
  {
   "id": "SCENARIO/033/01154",
@@ -397,7 +397,7 @@
   "jp": [
    "あー、疲れた・・・"
   ],
-  "en": ""
+  "en": "Ahh, I'm beat..."
  },
  {
   "id": "SCENARIO/033/011a0",
@@ -405,7 +405,7 @@
   "jp": [
    "やだ、足が張ってきちゃった"
   ],
-  "en": ""
+  "en": "Oh no, my legs are getting all stiff."
  },
  {
   "id": "SCENARIO/033/011d4",
@@ -414,7 +414,7 @@
    "これぐらいで足が張るって・・",
    "代謝が悪いのか？"
   ],
-  "en": ""
+  "en": "Stiff legs from this little walking... Slow metabolism?"
  },
  {
   "id": "SCENARIO/033/0122e",
@@ -422,7 +422,7 @@
   "jp": [
    "イヤなこと言わないで！！"
   ],
-  "en": ""
+  "en": "Don't say such awful things!!"
  },
  {
   "id": "SCENARIO/033/0129c",
@@ -430,7 +430,7 @@
   "jp": [
    "うぎゃ！"
   ],
-  "en": ""
+  "en": "Ugyah!"
  },
  {
   "id": "SCENARIO/033/012e0",
@@ -440,7 +440,7 @@
    "年、ごまかしてない？",
    "アタシはなんともないけど"
   ],
-  "en": ""
+  "en": "My, are you fibbing about your age, maybe? I feel fine."
  },
  {
   "id": "SCENARIO/033/01352",
@@ -448,7 +448,7 @@
   "jp": [
    "なんですって！？"
   ],
-  "en": ""
+  "en": "Excuse me!?"
  },
  {
   "id": "SCENARIO/033/01390",
@@ -458,7 +458,7 @@
    "年をとると代謝が悪くなるから",
    "身体もむくみやすくなるものね"
   ],
-  "en": ""
+  "en": "Heh heh heh... Your metabolism slows down as you age, so you swell up more easily."
  },
  {
   "id": "SCENARIO/033/01406",
@@ -467,7 +467,7 @@
    "失礼ね！",
    "そんなんじゃないわよ！！"
   ],
-  "en": ""
+  "en": "How rude! It's nothing like that!!"
  },
  {
   "id": "SCENARIO/033/01484",
@@ -476,7 +476,7 @@
    "リリスも疲れて足が",
    "ぱんぱんになってるの"
   ],
-  "en": ""
+  "en": "Lilis is tired and her legs are all puffy too."
  },
  {
   "id": "SCENARIO/033/014c0",
@@ -485,7 +485,7 @@
    "これって",
    "リリスも年をごまかしているの？"
   ],
-  "en": ""
+  "en": "Does that mean Lilis is fibbing about her age too?"
  },
  {
   "id": "SCENARIO/033/01504",
@@ -493,7 +493,7 @@
   "jp": [
    "あはははっ"
   ],
-  "en": ""
+  "en": "Ah ha ha ha!"
  },
  {
   "id": "SCENARIO/033/01520",
@@ -502,7 +502,7 @@
    "つまり、年をとると",
    "むくみやすくなるってことですよ"
   ],
-  "en": ""
+  "en": "It means that as you get older, you swell up more easily."
  },
  {
   "id": "SCENARIO/033/0157e",
@@ -510,7 +510,7 @@
   "jp": [
    "むくむ？"
   ],
-  "en": ""
+  "en": "Swell up?"
  },
  {
   "id": "SCENARIO/033/015a0",
@@ -520,7 +520,7 @@
    "ぶくぶくになってしまうことを",
    "＜むくむ＞って言うんです"
   ],
-  "en": ""
+  "en": "When water builds up in your body and you get all puffy, that's called \"swelling\"."
  },
  {
   "id": "SCENARIO/033/01604",
@@ -529,7 +529,7 @@
    "年をとると代謝が悪くなって",
    "身体がむくみやすくなるんです"
   ],
-  "en": ""
+  "en": "As you age your metabolism slows down, so your body swells more easily."
  },
  {
   "id": "SCENARIO/033/01666",
@@ -538,7 +538,7 @@
    "キロタ・・・",
    "＜たいしゃ＞ってなーに？"
   ],
-  "en": ""
+  "en": "Kilota... what's a \"me-tab-o-lism\"?"
  },
  {
   "id": "SCENARIO/033/016a8",
@@ -547,7 +547,7 @@
    "古いものから新しいものに",
    "代わることだけど・・・"
   ],
-  "en": ""
+  "en": "It's when old things get replaced by new ones, but..."
  },
  {
   "id": "SCENARIO/033/016ec",
@@ -556,7 +556,7 @@
    "若い人は代謝が良くて",
    "若くない人は代謝が悪い"
   ],
-  "en": ""
+  "en": "Young people have a fast metabolism, and not-so-young people have a slow one."
  },
  {
   "id": "SCENARIO/033/0172c",
@@ -566,7 +566,7 @@
    "むくみやすい・・・",
    "そういうことですよ"
   ],
-  "en": ""
+  "en": "People with a slow metabolism swell up easily... That's what it means."
  },
  {
   "id": "SCENARIO/033/0178e",
@@ -575,7 +575,7 @@
    "へ～",
    "キロタって物知りなんだね！"
   ],
-  "en": ""
+  "en": "Wow, Kilota, you know everything!"
  },
  {
   "id": "SCENARIO/033/017da",
@@ -583,7 +583,7 @@
   "jp": [
    "こんなの常識だよ"
   ],
-  "en": ""
+  "en": "That's just common knowledge."
  },
  {
   "id": "SCENARIO/033/01824",
@@ -593,7 +593,7 @@
    "それじゃあ、足がむくんじゃった",
    "ステイエンは若くないんだね！"
   ],
-  "en": ""
+  "en": "I see! So Stayen's legs swelled up because she's not young!"
  },
  {
   "id": "SCENARIO/033/01888",
@@ -601,7 +601,7 @@
   "jp": [
    "そういうことです"
   ],
-  "en": ""
+  "en": "That's right."
  },
  {
   "id": "SCENARIO/033/018b4",
@@ -609,7 +609,7 @@
   "jp": [
    "キ～ロ～タ～？"
   ],
-  "en": ""
+  "en": "Kiii-looo-taaa?"
  },
  {
   "id": "SCENARIO/033/018ea",
@@ -619,7 +619,7 @@
    "代謝は個人差がありますから",
    "若くても代謝がにぶい人も・・・"
   ],
-  "en": ""
+  "en": "Ah... b-but... it varies from person to person, so even young people can be slow..."
  },
  {
   "id": "SCENARIO/033/0196a",
@@ -629,7 +629,7 @@
    "ステイエンは若いのに",
    "身体は若くないんだね"
   ],
-  "en": ""
+  "en": "I see! So Stayen is young, but her body isn't!"
  },
  {
   "id": "SCENARIO/033/019dc",
@@ -638,7 +638,7 @@
    "カ～イ～ン～？",
    "誰が若くないですってぇ？"
   ],
-  "en": ""
+  "en": "Caaain? Who's not young, did you say?"
  },
  {
   "id": "SCENARIO/033/01a2e",
@@ -647,7 +647,7 @@
    "あわわわ・・・",
    "そ、そういう意味じゃ・・"
   ],
-  "en": ""
+  "en": "Awawawa... Th-that's not what I meant..."
  },
  {
   "id": "SCENARIO/033/01a82",
@@ -656,7 +656,7 @@
    "そういう意味じゃなかったら",
    "どういう意味なのよ！！"
   ],
-  "en": ""
+  "en": "If that's not what you meant, then what DID you mean!!"
  },
  {
   "id": "SCENARIO/033/01b0a",
@@ -664,7 +664,7 @@
   "jp": [
    "シリアお姉ちゃんは大丈夫なの？"
   ],
-  "en": ""
+  "en": "Is Syria-neesan okay?"
  },
  {
   "id": "SCENARIO/033/01b64",
@@ -673,7 +673,7 @@
    "ええ、若いですから",
    "大丈夫ですよ"
   ],
-  "en": ""
+  "en": "Yes, I'm young, so I'm fine."
  },
  {
   "id": "SCENARIO/033/01b98",
@@ -683,7 +683,7 @@
    "天使や悪魔は翼なき者に比べて",
    "老化も少しだけ遅いんです"
   ],
-  "en": ""
+  "en": "Besides, angels and demons age a little slower than the wingless."
  },
  {
   "id": "SCENARIO/033/01bec",
@@ -691,7 +691,7 @@
   "jp": [
    "ですから・・・"
   ],
-  "en": ""
+  "en": "So..."
  },
  {
   "id": "SCENARIO/033/01c22",
@@ -701,7 +701,7 @@
    "それじゃあ、シリアお姉ちゃん",
    "本当はいくつなの？"
   ],
-  "en": ""
+  "en": "Wow! So how old are you really, Syria-neesan?"
  },
  {
   "id": "SCENARIO/033/01c86",
@@ -709,7 +709,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/033/01cba",
@@ -717,7 +717,7 @@
   "jp": [
    "ええとですね・・・"
   ],
-  "en": ""
+  "en": "Well, let's see..."
  },
  {
   "id": "SCENARIO/033/01cee",
@@ -726,7 +726,7 @@
    "たぶん、ルカさんよりは",
    "若いと思います・・・"
   ],
-  "en": ""
+  "en": "I think I'm... probably younger than Luca-san..."
  },
  {
   "id": "SCENARIO/033/01d38",
@@ -735,7 +735,7 @@
    "へぇ～",
    "それじゃあ、ルカはいくつなの？"
   ],
-  "en": ""
+  "en": "Wow! Then how old is Luca?"
  },
  {
   "id": "SCENARIO/033/01d9c",
@@ -744,7 +744,7 @@
    "シリアと同じか",
    "それより下だと思うわ"
   ],
-  "en": ""
+  "en": "Same as Syria, or younger, I'd say."
  },
  {
   "id": "SCENARIO/033/01dfc",
@@ -752,7 +752,7 @@
   "jp": [
    "そ、そうなんですか！？"
   ],
-  "en": ""
+  "en": "R-really!?"
  },
  {
   "id": "SCENARIO/033/01e2c",
@@ -762,7 +762,7 @@
    "傷の治りが早いってことは",
    "代謝がいいってことでしょ？"
   ],
-  "en": ""
+  "en": "Four-wings heal faster than ordinary angels, which means a better metabolism, right?"
  },
  {
   "id": "SCENARIO/033/01e90",
@@ -772,7 +772,7 @@
    "それだけ、若さも維持できて",
    "いるってことじゃないの？"
   ],
-  "en": ""
+  "en": "And a better metabolism means you keep your youth that much longer, doesn't it?"
  },
  {
   "id": "SCENARIO/033/01f0a",
@@ -781,7 +781,7 @@
    "そ、そうですね・・・",
    "そういう可能性もありますよね"
   ],
-  "en": ""
+  "en": "Y-yes... I suppose that's possible."
  },
  {
   "id": "SCENARIO/033/01f50",
@@ -790,7 +790,7 @@
    "でも、実際のところ",
    "ルカさん、おいくつなんですか？"
   ],
-  "en": ""
+  "en": "But really, how old are you, Luca-san?"
  },
  {
   "id": "SCENARIO/033/01fd2",
@@ -798,7 +798,7 @@
   "jp": [
    "口外しないって約束できる？"
   ],
-  "en": ""
+  "en": "Can you promise not to tell anyone?"
  },
  {
   "id": "SCENARIO/033/02016",
@@ -806,7 +806,7 @@
   "jp": [
    "ええ、もちろんですわ"
   ],
-  "en": ""
+  "en": "Yes, of course."
  },
  {
   "id": "SCENARIO/033/020a0",
@@ -814,7 +814,7 @@
   "jp": [
    "！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/033/020e4",
@@ -822,7 +822,7 @@
   "jp": [
    "そ、そうなんですか？"
   ],
-  "en": ""
+  "en": "R-really?"
  },
  {
   "id": "SCENARIO/033/02122",
@@ -830,7 +830,7 @@
   "jp": [
    "そういうあんたはどうなのよ？"
   ],
-  "en": ""
+  "en": "And what about you, then?"
  },
  {
   "id": "SCENARIO/033/02166",
@@ -838,7 +838,7 @@
   "jp": [
    "わたしは・・・"
   ],
-  "en": ""
+  "en": "I'm..."
  },
  {
   "id": "SCENARIO/033/021ca",
@@ -846,7 +846,7 @@
   "jp": [
    "！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/033/0221a",
@@ -854,7 +854,7 @@
   "jp": [
    "それ・・・本当なの？"
   ],
-  "en": ""
+  "en": "Is that... true?"
  },
  {
   "id": "SCENARIO/033/02248",
@@ -862,7 +862,7 @@
   "jp": [
    "え、ええ・・"
   ],
-  "en": ""
+  "en": "Y-yes..."
  },
  {
   "id": "SCENARIO/033/02270",
@@ -871,7 +871,7 @@
    "のほほん天使だと思っていたけど",
    "あんたもなかなかやるじゃない"
   ],
-  "en": ""
+  "en": "I had you down as a happy-go-lucky angel, but you're not bad yourself."
  },
  {
   "id": "SCENARIO/033/022d6",
@@ -880,7 +880,7 @@
    "いえ、その・・・",
    "そんなつもりでは・・・"
   ],
-  "en": ""
+  "en": "No, um... that's not what I..."
  },
  {
   "id": "SCENARIO/033/0235c",
@@ -889,7 +889,7 @@
    "なぁ、天使や悪魔って",
    "実年齢は意外と年寄りなのか？"
   ],
-  "en": ""
+  "en": "Hey, are angels and demons actually a lot older than they look?"
  },
  {
   "id": "SCENARIO/033/023cc",
@@ -899,7 +899,7 @@
    "翼なき者の寿命が",
    "短すぎるだけだと思うぜ？"
   ],
-  "en": ""
+  "en": "If you ask us, it's just that the wingless have lifespans that are way too short."
  },
  {
   "id": "SCENARIO/033/02436",
@@ -909,7 +909,7 @@
    "どうりでヴァルトス様が",
    "いつまでも若いはずだよなぁ"
   ],
-  "en": ""
+  "en": "I see... No wonder Valtoss-sama never seems to get any older."
  },
  {
   "id": "SCENARIO/033/0249a",
@@ -919,7 +919,7 @@
    "実年齢は年上ってゆーと・・・",
    "もしかして、あんたも？"
   ],
-  "en": ""
+  "en": "If angels and demons are older than they look... does that mean you are, too?"
  },
  {
   "id": "SCENARIO/033/02504",
@@ -927,7 +927,7 @@
   "jp": [
    "うん、エクサルよりは年上かな？"
   ],
-  "en": ""
+  "en": "Yep. Older than you, Exal, I'd say?"
  },
  {
   "id": "SCENARIO/033/0254a",
@@ -935,7 +935,7 @@
   "jp": [
    "そうなのか！？"
   ],
-  "en": ""
+  "en": "Seriously!?"
  },
  {
   "id": "SCENARIO/033/02574",
@@ -943,7 +943,7 @@
   "jp": [
    "てっきり同年代かと・・・・"
   ],
-  "en": ""
+  "en": "I figured we were the same age...."
  },
  {
   "id": "SCENARIO/033/025b6",
@@ -953,7 +953,7 @@
    "俺と同い年って言ったら",
    "あの三人と同い年になるよ"
   ],
-  "en": ""
+  "en": "Ah ha ha ha! If I were your age, I'd be the same age as those three."
  },
  {
   "id": "SCENARIO/033/02622",
@@ -961,7 +961,7 @@
   "jp": [
    "あの三人って、まさか・・・"
   ],
-  "en": ""
+  "en": "Those three... you don't mean..."
  },
  {
   "id": "SCENARIO/033/02666",
@@ -971,7 +971,7 @@
    "俺とルカとザイオンとアラギ",
    "みんな同い年なんだ"
   ],
-  "en": ""
+  "en": "Didn't I tell you? Me, Luca, Zion, and Aragi are all the same age."
  },
  {
   "id": "SCENARIO/033/026d6",
@@ -979,7 +979,7 @@
   "jp": [
    "マジッ！？"
   ],
-  "en": ""
+  "en": "For real!?"
  },
  {
   "id": "SCENARIO/033/0270a",
@@ -988,7 +988,7 @@
    "ま、俺の場合は",
    "童顔でチビなだけだからな・・・"
   ],
-  "en": ""
+  "en": "Well, in my case I just have a baby face and I'm short..."
  },
  {
   "id": "SCENARIO/033/0274c",
@@ -997,7 +997,7 @@
    "ザイオンやアラギと比べられると",
    "なかなか辛くて泣けてくるぜ"
   ],
-  "en": ""
+  "en": "Being compared to Zion and Aragi is rough enough to make me cry."
  },
  {
   "id": "SCENARIO/033/027b2",
@@ -1006,7 +1006,7 @@
    "あぁ・・・",
    "なんかその気持ち、よくわかるよ"
   ],
-  "en": ""
+  "en": "Yeah... I know exactly how that feels."
  },
  {
   "id": "SCENARIO/033/027f0",
@@ -1015,7 +1015,7 @@
    "この年で、この身長って・・・",
    "男として辛いんだよなッ！"
   ],
-  "en": ""
+  "en": "Being this height at this age... it's hard on a guy!"
  },
  {
   "id": "SCENARIO/033/02852",
@@ -1024,7 +1024,7 @@
    "そうだよなッ！",
    "やっぱり辛いよなッ！"
   ],
-  "en": ""
+  "en": "I know, right!? It really is hard!"
  },
  {
   "id": "SCENARIO/033/028a2",
@@ -1034,7 +1034,7 @@
    "ミルクを飲め！",
    "それで背が高くなるらしいぜ！"
   ],
-  "en": ""
+  "en": "Here's a tip! Drink milk! I hear it makes you taller!"
  },
  {
   "id": "SCENARIO/033/02912",
@@ -1043,7 +1043,7 @@
    "おぉ、そうなのかッ！？",
    "村に帰ったら試してみるよ！"
   ],
-  "en": ""
+  "en": "Ooh, really!? I'll try it when I get back to the village!"
  },
  {
   "id": "SCENARIO/033/0296e",
@@ -1051,7 +1051,7 @@
   "jp": [
    "あぁ、俺もつきあうぜ！"
   ],
-  "en": ""
+  "en": "Yeah, I'll do it with you!"
  },
  {
   "id": "SCENARIO/033/029c8",
@@ -1061,7 +1061,7 @@
    "心配しなくてもステイエンは",
    "十分に若いから大丈夫だよ"
   ],
-  "en": ""
+  "en": "Stayen... Don't worry, you're plenty young, so it's fine."
  },
  {
   "id": "SCENARIO/033/02a4c",
@@ -1069,7 +1069,7 @@
   "jp": [
    "心配なんかしてないわよ！！"
   ],
-  "en": ""
+  "en": "I'm not worried!!"
  },
  {
   "id": "SCENARIO/033/02a80",
@@ -1078,7 +1078,7 @@
    "むしろ、今日から",
    "心配し始めてしまいそうだわ・・"
   ],
-  "en": ""
+  "en": "If anything, I might start worrying as of today..."
  },
  {
   "id": "SCENARIO/033/02ae6",
@@ -1087,7 +1087,7 @@
    "・・あれ？",
    "今、何か聞こえなかった？"
   ],
-  "en": ""
+  "en": "...Huh? Did you hear something just now?"
  },
  {
   "id": "SCENARIO/033/02b36",
@@ -1095,7 +1095,7 @@
   "jp": [
    "話をそらそうとしてもダメよ！"
   ],
-  "en": ""
+  "en": "Don't try to change the subject!"
  },
  {
   "id": "SCENARIO/033/02b7a",
@@ -1104,7 +1104,7 @@
    "違うよ！",
    "本当に誰かの足音が・・・"
   ],
-  "en": ""
+  "en": "I'm not! I really hear footsteps..."
  },
  {
   "id": "SCENARIO/033/02be4",
@@ -1112,7 +1112,7 @@
   "jp": [
    "・・・本当だわ！"
   ],
-  "en": ""
+  "en": "...You're right!"
  },
  {
   "id": "SCENARIO/033/02c10",
@@ -1121,7 +1121,7 @@
    "あぁぁぁぁっ！",
    "あれはっ！！"
   ],
-  "en": ""
+  "en": "Aaaah! Look!!"
  },
  {
   "id": "SCENARIO/033/02d0c",
@@ -1130,7 +1130,7 @@
    "大勢で・・・",
    "いったいどうしたんだ？"
   ],
-  "en": ""
+  "en": "All of you... What on earth is going on?"
  },
  {
   "id": "SCENARIO/033/02d6c",
@@ -1139,7 +1139,7 @@
    "どうしたんだ？",
    "じゃないよっ！！！"
   ],
-  "en": ""
+  "en": "\"What's going on?\" Don't give me that!!"
  },
  {
   "id": "SCENARIO/033/02da4",
@@ -1149,7 +1149,7 @@
    "ヨハネは何も言わずに",
    "どこかに行っちゃうんだから！！"
   ],
-  "en": ""
+  "en": "You ALWAYS go off somewhere without saying a word, Johannes!!"
  },
  {
   "id": "SCENARIO/033/02dfc",
@@ -1157,7 +1157,7 @@
   "jp": [
    "心配するじゃないか！！"
   ],
-  "en": ""
+  "en": "We worry about you!!"
  },
  {
   "id": "SCENARIO/033/02e3a",
@@ -1166,7 +1166,7 @@
    "何か、私が必要になるような",
    "ことでもあったのか？"
   ],
-  "en": ""
+  "en": "Was there something that required me?"
  },
  {
   "id": "SCENARIO/033/02e96",
@@ -1175,7 +1175,7 @@
    "別に・・",
    "そういうわけじゃないけど・・"
   ],
-  "en": ""
+  "en": "Not... exactly, but..."
  },
  {
   "id": "SCENARIO/033/02ed8",
@@ -1184,7 +1184,7 @@
    "ならば、私など",
    "いてもいなくても同じだろう？"
   ],
-  "en": ""
+  "en": "Then it makes no difference whether I am here or not, does it?"
  },
  {
   "id": "SCENARIO/033/02f2e",
@@ -1192,7 +1192,7 @@
   "jp": [
    "うぅー・・・・"
   ],
-  "en": ""
+  "en": "Uuuh...."
  },
  {
   "id": "SCENARIO/033/02f50",
@@ -1201,7 +1201,7 @@
    "ヨハネのそういうヘリクツな",
    "ところ、嫌いだよ"
   ],
-  "en": ""
+  "en": "I hate it when you get all hair-splitting like that, Johannes."
  },
  {
   "id": "SCENARIO/033/02fa6",
@@ -1210,7 +1210,7 @@
    "はははははっ",
    "カインは面白いな"
   ],
-  "en": ""
+  "en": "Ha ha ha ha! You are a funny one, Cain."
  },
  {
   "id": "SCENARIO/033/02fee",
@@ -1218,7 +1218,7 @@
   "jp": [
    "ヨハネッ！！"
   ],
-  "en": ""
+  "en": "Johannes!!"
  },
  {
   "id": "SCENARIO/033/03034",
@@ -1228,7 +1228,7 @@
    "ヨハネさんには、きっちり",
    "責任をとってもらうぜ"
   ],
-  "en": ""
+  "en": "Sorry to break up the fun, but Johannes-san's going to take responsibility for this."
  },
  {
   "id": "SCENARIO/033/030ae",
@@ -1236,7 +1236,7 @@
   "jp": [
    "責任？"
   ],
-  "en": ""
+  "en": "Responsibility?"
  },
  {
   "id": "SCENARIO/033/030f0",
@@ -1245,7 +1245,7 @@
    "リリス、足が痛くて",
    "もう歩けないの"
   ],
-  "en": ""
+  "en": "Lilis's feet hurt. Lilis can't walk anymore."
  },
  {
   "id": "SCENARIO/033/03150",
@@ -1253,7 +1253,7 @@
   "jp": [
    "ボクもです"
   ],
-  "en": ""
+  "en": "Me neither."
  },
  {
   "id": "SCENARIO/033/03194",
@@ -1262,7 +1262,7 @@
    "何を調べにこんなところまで",
    "来たのか知らないけど・・・"
   ],
-  "en": ""
+  "en": "I don't know what you came all the way out here to look into, but..."
  },
  {
   "id": "SCENARIO/033/031ee",
@@ -1271,7 +1271,7 @@
    "たまには、肉体労働も",
    "悪くないと思うぜ？"
   ],
-  "en": ""
+  "en": "A little manual labor now and then isn't so bad, right?"
  },
  {
   "id": "SCENARIO/033/03234",
@@ -1279,7 +1279,7 @@
   "jp": [
    "二人・・・両方ともか？"
   ],
-  "en": ""
+  "en": "Two... both of them?"
  },
  {
   "id": "SCENARIO/033/03284",
@@ -1288,7 +1288,7 @@
    "根を上げるほどの重さでも",
    "ないだろ？"
   ],
-  "en": ""
+  "en": "They're not heavy enough to complain about, are they?"
  },
  {
   "id": "SCENARIO/033/032c4",
@@ -1296,7 +1296,7 @@
   "jp": [
    "・・・・・・・・・・"
   ],
-  "en": ""
+  "en": ".........."
  },
  {
   "id": "SCENARIO/033/03314",
@@ -1305,7 +1305,7 @@
    "わーい！",
    "帰り道は楽々だね！"
   ],
-  "en": ""
+  "en": "Yaaay! The way back is going to be easy!"
  },
  {
   "id": "SCENARIO/033/03344",
@@ -1313,7 +1313,7 @@
   "jp": [
    "ヨハネさん、お願いします！"
   ],
-  "en": ""
+  "en": "Johannes-san, please!"
  },
  {
   "id": "SCENARIO/033/03398",
@@ -1321,7 +1321,7 @@
   "jp": [
    "僕も、お世話になります"
   ],
-  "en": ""
+  "en": "I'll be in your care too."
  },
  {
   "id": "SCENARIO/033/033c8",
@@ -1329,7 +1329,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/033/033ec",
@@ -1337,7 +1337,7 @@
   "jp": [
    "なかなか重たい、責任だな"
   ],
-  "en": ""
+  "en": "A rather heavy responsibility."
  },
  {
   "id": "SCENARIO/033/035ac",
@@ -1345,7 +1345,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/033/035d0",
@@ -1353,7 +1353,7 @@
   "jp": [
    "ここの封印は生きている・・・"
   ],
-  "en": ""
+  "en": "The seal here is still alive..."
  },
  {
   "id": "SCENARIO/033/0361c",
@@ -1363,7 +1363,7 @@
    "そこにいるのはわかってる",
    "姿を見せたらどうだ？"
   ],
-  "en": ""
+  "en": "Dana... I know you are there. Why not show yourself?"
  },
  {
   "id": "SCENARIO/033/037cc",
@@ -1371,7 +1371,7 @@
   "jp": [
    "・・・・・"
   ],
-  "en": ""
+  "en": "....."
  },
  {
   "id": "SCENARIO/033/037f0",
@@ -1380,7 +1380,7 @@
    "貴方がいるということは",
    "ここで間違いないようだな"
   ],
-  "en": ""
+  "en": "If you are here, then this must be the place."
  },
  {
   "id": "SCENARIO/033/0384a",
@@ -1389,7 +1389,7 @@
    "ええ、そうよ・・・",
    "それはここに封印されているわ"
   ],
-  "en": ""
+  "en": "Yes, that's right... It is sealed here."
  },
  {
   "id": "SCENARIO/033/03898",
@@ -1397,7 +1397,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/033/038bc",
@@ -1406,7 +1406,7 @@
    "ダーナ",
    "アラギが死んだ・・・"
   ],
-  "en": ""
+  "en": "Dana. Aragi is dead..."
  },
  {
   "id": "SCENARIO/033/03902",
@@ -1414,7 +1414,7 @@
   "jp": [
    "ええ・・・知っているわ"
   ],
-  "en": ""
+  "en": "Yes... I know."
  },
  {
   "id": "SCENARIO/033/03934",
@@ -1424,7 +1424,7 @@
    "貴方の目的が",
    "果たされることはない"
   ],
-  "en": ""
+  "en": "With Aragi dead, your purpose will never be fulfilled."
  },
  {
   "id": "SCENARIO/033/03980",
@@ -1433,7 +1433,7 @@
    "同時に貴方がここに居る理由も",
    "なくなったはずだ"
   ],
-  "en": ""
+  "en": "And your reason for being here should be gone along with it."
  },
  {
   "id": "SCENARIO/033/039da",
@@ -1441,7 +1441,7 @@
   "jp": [
    "・・・"
   ],
-  "en": ""
+  "en": "..."
  },
  {
   "id": "SCENARIO/033/039fc",
@@ -1450,7 +1450,7 @@
    "・・・貴方のやり方では",
    "無駄に多くの血が流れ過ぎる"
   ],
-  "en": ""
+  "en": "...Your way spills far too much blood for nothing."
  },
  {
   "id": "SCENARIO/033/03a44",
@@ -1459,7 +1459,7 @@
    "ダーナ、貴方はあの時と",
    "同じことを繰り返すつもりか？"
   ],
-  "en": ""
+  "en": "Dana, do you mean to repeat what happened back then?"
  },
  {
   "id": "SCENARIO/033/03a94",
@@ -1467,7 +1467,7 @@
   "jp": [
    "・・・・"
   ],
-  "en": ""
+  "en": "...."
  },
  {
   "id": "SCENARIO/033/03ab8",
@@ -1477,7 +1477,7 @@
    "与えなければ、あのような",
    "結末を向かえることはなかった"
   ],
-  "en": ""
+  "en": "Had you only not given them the rings, it would never have ended that way."
  },
  {
   "id": "SCENARIO/033/03b1c",
@@ -1485,7 +1485,7 @@
   "jp": [
    "貴方の夢は途絶えてしまった・・"
   ],
-  "en": ""
+  "en": "Your dream has been cut short..."
  },
  {
   "id": "SCENARIO/033/03b4c",
@@ -1495,7 +1495,7 @@
    "貴方の目指す未来は永遠に",
    "閉ざされたんだ、ダーナ"
   ],
-  "en": ""
+  "en": "The moment you handed them the rings, the future you sought was closed forever, Dana."
  },
  {
   "id": "SCENARIO/033/03bc6",
@@ -1505,7 +1505,7 @@
    "途絶えていないのだと",
    "言いたげね・・・"
   ],
-  "en": ""
+  "en": "You sound as if you want to say your own dream has not been cut short..."
  },
  {
   "id": "SCENARIO/033/03c1c",
@@ -1513,7 +1513,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/033/03c44",
@@ -1522,7 +1522,7 @@
    "無駄に多くの流血を招いたのは、",
    "貴方も私も同じ・・・"
   ],
-  "en": ""
+  "en": "You and I alike brought about far too much needless bloodshed..."
  },
  {
   "id": "SCENARIO/033/03c94",
@@ -1531,7 +1531,7 @@
    "それでもまだ、",
    "貴方は先へ進むというの？"
   ],
-  "en": ""
+  "en": "And still you say you will go on?"
  },
  {
   "id": "SCENARIO/033/03cd8",
@@ -1539,7 +1539,7 @@
   "jp": [
    "ああ、そうだ"
   ],
-  "en": ""
+  "en": "Yes. I will."
  },
  {
   "id": "SCENARIO/033/03d0e",
@@ -1547,7 +1547,7 @@
   "jp": [
    "・・・分かりました"
   ],
-  "en": ""
+  "en": "...I understand."
  },
  {
   "id": "SCENARIO/033/03d4a",
@@ -1555,7 +1555,7 @@
   "jp": [
    "しかし、私も貴方のこと・・・"
   ],
-  "en": ""
+  "en": "However, I too, when it comes to you..."
  },
  {
   "id": "SCENARIO/033/03d80",
@@ -1564,7 +1564,7 @@
    "貴方のやり方を、",
    "素直に認めることができません"
   ],
-  "en": ""
+  "en": "I cannot simply accept your way of doing things."
  },
  {
   "id": "SCENARIO/033/03dcc",
@@ -1572,7 +1572,7 @@
   "jp": [
    "だから、試させてください"
   ],
-  "en": ""
+  "en": "So please, let me test them."
  },
  {
   "id": "SCENARIO/033/03e00",
@@ -1580,7 +1580,7 @@
   "jp": [
    "試す？"
   ],
-  "en": ""
+  "en": "Test?"
  },
  {
   "id": "SCENARIO/033/03e2e",
@@ -1590,7 +1590,7 @@
    "＜真に羽ばたこうとする者＞に",
    "値する者なのかどうか・・・"
   ],
-  "en": ""
+  "en": "Yes. Whether they are worthy of what you call \"those who truly seek to take wing\"..."
  },
  {
   "id": "SCENARIO/033/03ea0",
@@ -1599,7 +1599,7 @@
    "まさか、ダーナ・・・",
    "カイン達をここへっ！！？"
   ],
-  "en": ""
+  "en": "Don't tell me, Dana... You brought Cain and the others here!!?"
  },
  {
   "id": "SCENARIO/033/03eec",
@@ -1608,7 +1608,7 @@
    "ヨハネー",
    "どこにいるのー？"
   ],
-  "en": ""
+  "en": "Johaaannes! Where are youuu?"
  },
  {
   "id": "SCENARIO/033/03f32",
@@ -1616,7 +1616,7 @@
   "jp": [
    "！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/033/03f50",
@@ -1625,7 +1625,7 @@
    "ダーナ・・",
    "これはどういうことだ！？"
   ],
-  "en": ""
+  "en": "Dana... What is the meaning of this!?"
  },
  {
   "id": "SCENARIO/033/03f90",
@@ -1634,7 +1634,7 @@
    "試したいと思うのは",
    "私だけとは限りません"
   ],
-  "en": ""
+  "en": "I am not the only one who wishes to test them."
  },
  {
   "id": "SCENARIO/033/03fd4",
@@ -1642,7 +1642,7 @@
   "jp": [
    "まさか・・"
   ],
-  "en": ""
+  "en": "You can't mean..."
  },
  {
   "id": "SCENARIO/033/03ff8",
@@ -1651,7 +1651,7 @@
    "ええ、私の古い友人もまた、",
    "彼らの真価を試したいのでしょう"
   ],
-  "en": ""
+  "en": "Yes. My old friend, too, surely wishes to test their true worth."
  },
  {
   "id": "SCENARIO/033/0405e",
@@ -1661,7 +1661,7 @@
    "受け取るのに相応しいのか",
    "どうかを・・・・・"
   ],
-  "en": ""
+  "en": "Whether they are fit to receive the power of the Pain Ring that sleeps here....."
  },
  {
   "id": "SCENARIO/033/040d6",
@@ -1669,7 +1669,7 @@
   "jp": [
    "ダーナ！！"
   ],
-  "en": ""
+  "en": "Dana!!"
  },
  {
   "id": "SCENARIO/033/04254",
@@ -1679,7 +1679,7 @@
    "そしてその礎となる力を",
    "私に見せてください"
   ],
-  "en": ""
+  "en": "The future you seek, and the power that will be its foundation... show them to me."
  },
  {
   "id": "SCENARIO/033/04310",
@@ -1687,7 +1687,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/033/0433c",
@@ -1695,7 +1695,7 @@
   "jp": [
    "うわぁぁぁぁぁぁぁぁっ！！"
   ],
-  "en": ""
+  "en": "Uwaaaaaaaaah!!"
  },
  {
   "id": "SCENARIO/033/043cc",
@@ -1703,7 +1703,7 @@
   "jp": [
    "カインッ！！"
   ],
-  "en": ""
+  "en": "Cain!!"
  },
  {
   "id": "SCENARIO/033/04514",
@@ -1711,7 +1711,7 @@
   "jp": [
    "くっ・・・"
   ],
-  "en": ""
+  "en": "Ugh..."
  },
  {
   "id": "SCENARIO/033/04558",
@@ -1719,7 +1719,7 @@
   "jp": [
    "大丈夫か、カイン！"
   ],
-  "en": ""
+  "en": "You all right, Cain!"
  },
  {
   "id": "SCENARIO/033/04592",
@@ -1727,7 +1727,7 @@
   "jp": [
    "これくらい大丈夫・・"
   ],
-  "en": ""
+  "en": "This is nothing..."
  },
  {
   "id": "SCENARIO/033/045b8",
@@ -1735,7 +1735,7 @@
   "jp": [
    "それより、ヨハネは・・・"
   ],
-  "en": ""
+  "en": "More importantly, where's Johannes..."
  },
  {
   "id": "SCENARIO/033/045ec",
@@ -1743,7 +1743,7 @@
   "jp": [
    "カインッ！！"
   ],
-  "en": ""
+  "en": "Cain!!"
  },
  {
   "id": "SCENARIO/033/04654",
@@ -1753,7 +1753,7 @@
    "良かった・・・",
    "無事だったんだね"
   ],
-  "en": ""
+  "en": "Johannes! Thank goodness... You're safe."
  },
  {
   "id": "SCENARIO/033/0469c",
@@ -1761,7 +1761,7 @@
   "jp": [
    "すまない"
   ],
-  "en": ""
+  "en": "I am sorry."
  },
  {
   "id": "SCENARIO/033/04770",
@@ -1769,7 +1769,7 @@
   "jp": [
    "ギシャァァァァァァッ！！"
   ],
-  "en": ""
+  "en": "Gishaaaaaaah!!"
  },
  {
   "id": "SCENARIO/033/047c4",
@@ -1778,7 +1778,7 @@
    "こいつらは、パスカか？",
    "それとも・・・"
   ],
-  "en": ""
+  "en": "Are these Pasca? Or something else..."
  },
  {
   "id": "SCENARIO/033/048b8",
@@ -1788,7 +1788,7 @@
    "だから、遺跡の奥は危ないって",
    "言ったのに！！"
   ],
-  "en": ""
+  "en": "Eeeeek! That's why I said the depths of the ruins were dangerous!!"
  },
  {
   "id": "SCENARIO/033/04934",
@@ -1796,7 +1796,7 @@
   "jp": [
    "こんなのザコよ"
   ],
-  "en": ""
+  "en": "These are small fry."
  },
  {
   "id": "SCENARIO/033/0497c",
@@ -1804,7 +1804,7 @@
   "jp": [
    "片づけるぞ"
   ],
-  "en": ""
+  "en": "Let's clean them up."
  },
  {
   "id": "SCENARIO/033/049ae",
@@ -1813,12 +1813,12 @@
    "ええ、",
    "すぐに終わらせてあげるわ！"
   ],
-  "en": ""
+  "en": "Right. We'll be done in no time!"
  },
  {
   "id": "SCENARIO/033/08508",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/033/08516",
@@ -1826,12 +1826,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/033/0852e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/033/0853e",
@@ -1839,6 +1839,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

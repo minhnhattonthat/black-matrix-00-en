@@ -6,7 +6,7 @@
    "ボーナスシナリオ　１０",
    "＜僕らの撲殺寸前事件・温泉編＞"
   ],
-  "en": "",
+  "en": "Bonus Scenario 10\nThe Day We Were Nearly Beaten to Death: Hot Spring Edition",
   "spill": false
  },
  {
@@ -16,7 +16,7 @@
    "カイン",
    "温泉はまだなのか？"
   ],
-  "en": ""
+  "en": "Cain. How much further to the hot spring?"
  },
  {
   "id": "SCENARIO/031/00208",
@@ -25,7 +25,7 @@
    "うーん",
    "この辺りだと思うんだけど・・・"
   ],
-  "en": ""
+  "en": "Hmm... I thought it was around here..."
  },
  {
   "id": "SCENARIO/031/0026c",
@@ -34,7 +34,7 @@
    "もしかして、",
    "迷ったのカイン？"
   ],
-  "en": ""
+  "en": "Don't tell me you're lost, Cain?"
  },
  {
   "id": "SCENARIO/031/002b6",
@@ -44,7 +44,7 @@
    "フライから聞いた通りに",
    "歩いているはずなんだけど・・・"
   ],
-  "en": ""
+  "en": "That's weird... I'm sure I'm going the way Fly told me..."
  },
  {
   "id": "SCENARIO/031/00366",
@@ -54,7 +54,7 @@
    "リリス",
    "ちょっと疲れちゃった・・・"
   ],
-  "en": ""
+  "en": "Syria-neesan... Lilis is a little tired..."
  },
  {
   "id": "SCENARIO/031/003ea",
@@ -62,7 +62,7 @@
   "jp": [
    "大丈夫ですか、リリス？"
   ],
-  "en": ""
+  "en": "Are you all right, Lilis?"
  },
  {
   "id": "SCENARIO/031/00444",
@@ -71,7 +71,7 @@
    "戻ったほうが良くないか",
    "カイン？"
   ],
-  "en": ""
+  "en": "Shouldn't we head back, Cain?"
  },
  {
   "id": "SCENARIO/031/004a0",
@@ -79,7 +79,7 @@
   "jp": [
    "うん、でも・・・"
   ],
-  "en": ""
+  "en": "Yeah, but..."
  },
  {
   "id": "SCENARIO/031/004ec",
@@ -88,7 +88,7 @@
    "あまり、無理するのも",
    "良くないぜ、カイン？"
   ],
-  "en": ""
+  "en": "Pushing it too hard isn't good either, Cain."
  },
  {
   "id": "SCENARIO/031/00556",
@@ -96,7 +96,7 @@
   "jp": [
    "みんな、ごめん・・・"
   ],
-  "en": ""
+  "en": "Everyone, I'm sorry..."
  },
  {
   "id": "SCENARIO/031/005a4",
@@ -106,7 +106,7 @@
    "謝らないで下さい",
    "カインさん・・・"
   ],
-  "en": ""
+  "en": "Please, don't apologize, Cain-san..."
  },
  {
   "id": "SCENARIO/031/00624",
@@ -116,7 +116,7 @@
    "この辺りはアタシ達でも",
    "迷いやすいんだ"
   ],
-  "en": ""
+  "en": "It can't be helped, Cain. Even we get lost easily around here."
  },
  {
   "id": "SCENARIO/031/00690",
@@ -124,7 +124,7 @@
   "jp": [
    "うん・・・"
   ],
-  "en": ""
+  "en": "Yeah..."
  },
  {
   "id": "SCENARIO/031/006d4",
@@ -132,7 +132,7 @@
   "jp": [
    "戻るぞ・・・"
   ],
-  "en": ""
+  "en": "We're heading back..."
  },
  {
   "id": "SCENARIO/031/0071c",
@@ -141,7 +141,7 @@
    "ああ、",
    "リリス、ほら背中にのれよ"
   ],
-  "en": ""
+  "en": "Right. Lilis, come on, hop on my back."
  },
  {
   "id": "SCENARIO/031/00778",
@@ -149,7 +149,7 @@
   "jp": [
    "ありがとう、エクサル"
   ],
-  "en": ""
+  "en": "Thank you, Exal."
  },
  {
   "id": "SCENARIO/031/007dc",
@@ -158,7 +158,7 @@
    "ほんとうにごめん",
    "みんな・・・"
   ],
-  "en": ""
+  "en": "I'm really sorry, everyone..."
  },
  {
   "id": "SCENARIO/031/00838",
@@ -167,7 +167,7 @@
    "カイン",
    "そんなに謝らなくていいよ"
   ],
-  "en": ""
+  "en": "Cain, you don't need to apologize so much."
  },
  {
   "id": "SCENARIO/031/00874",
@@ -175,7 +175,7 @@
   "jp": [
    "ルカ・・・"
   ],
-  "en": ""
+  "en": "Luca..."
  },
  {
   "id": "SCENARIO/031/008a6",
@@ -183,7 +183,7 @@
   "jp": [
    "・・・気持ちだけで十分だよ"
   ],
-  "en": ""
+  "en": "...The thought is more than enough."
  },
  {
   "id": "SCENARIO/031/008ea",
@@ -191,7 +191,7 @@
   "jp": [
    "え・・・"
   ],
-  "en": ""
+  "en": "Huh..."
  },
  {
   "id": "SCENARIO/031/0090c",
@@ -200,7 +200,7 @@
    "おーい",
    "置いて行くぞ二人とも！"
   ],
-  "en": ""
+  "en": "Heeey! We're leaving you two behind!"
  },
  {
   "id": "SCENARIO/031/00956",
@@ -208,7 +208,7 @@
   "jp": [
    "行こう、カイン"
   ],
-  "en": ""
+  "en": "Let's go, Cain."
  },
  {
   "id": "SCENARIO/031/0098e",
@@ -216,7 +216,7 @@
   "jp": [
    "うん！"
   ],
-  "en": ""
+  "en": "Yeah!"
  },
  {
   "id": "SCENARIO/031/009f0",
@@ -225,7 +225,7 @@
    "ボーナスシナリオ　１０",
    "＜僕らの撲殺寸前事件・温泉編＞"
   ],
-  "en": "",
+  "en": "Bonus Scenario 10\nThe Day We Were Nearly Beaten to Death: Hot Spring Edition",
   "spill": false
  },
  {
@@ -235,7 +235,7 @@
    "おーい、",
    "まだかよ～？"
   ],
-  "en": ""
+  "en": "Heeey, aren't we there yet?"
  },
  {
   "id": "SCENARIO/031/00af2",
@@ -243,7 +243,7 @@
   "jp": [
    "ちょっと、まってね～"
   ],
-  "en": ""
+  "en": "Just a sec, okaaay?"
  },
  {
   "id": "SCENARIO/031/00b5a",
@@ -253,7 +253,7 @@
    "アイツの案内で",
    "大丈夫なのか？"
   ],
-  "en": ""
+  "en": "Hey, Cain. Are we really okay with that one leading the way?"
  },
  {
   "id": "SCENARIO/031/00bc4",
@@ -261,7 +261,7 @@
   "jp": [
    "大丈夫だと・・・"
   ],
-  "en": ""
+  "en": "I think so..."
  },
  {
   "id": "SCENARIO/031/00c2a",
@@ -270,7 +270,7 @@
    "え～と・・・",
    "スプーン持つのどっちだっけ？"
   ],
-  "en": ""
+  "en": "Umm... which hand holds the spoon again?"
  },
  {
   "id": "SCENARIO/031/00cc4",
@@ -278,7 +278,7 @@
   "jp": [
    "リリスはこっちー♪"
   ],
-  "en": ""
+  "en": "Lilis holds it with this one!"
  },
  {
   "id": "SCENARIO/031/00d14",
@@ -287,7 +287,7 @@
    "あ～、じゃあ",
    "こっちだね～"
   ],
-  "en": ""
+  "en": "Ahh, then it's this waaay!"
  },
  {
   "id": "SCENARIO/031/00d78",
@@ -297,7 +297,7 @@
    "ちょっと待て！",
    "逆じゃないのか？"
   ],
-  "en": ""
+  "en": "Wha!? Hey! Wait a second! Isn't that backwards?"
  },
  {
   "id": "SCENARIO/031/00dc4",
@@ -306,7 +306,7 @@
    "ちがうよー",
    "こっちでいいよー"
   ],
-  "en": ""
+  "en": "Nooo, this way's riiight."
  },
  {
   "id": "SCENARIO/031/00e0a",
@@ -314,7 +314,7 @@
   "jp": [
    "スプーンを持つのはこっちだ！"
   ],
-  "en": ""
+  "en": "You hold a spoon with THIS hand!"
  },
  {
   "id": "SCENARIO/031/00e50",
@@ -323,7 +323,7 @@
    "あ～、そうか！",
    "ごめ～ん"
   ],
-  "en": ""
+  "en": "Ahh, right! Sorryyy."
  },
  {
   "id": "SCENARIO/031/00e7c",
@@ -333,7 +333,7 @@
    "わからなくなるんだよね～",
    "両利きだから～"
   ],
-  "en": ""
+  "en": "I get mixed up sometimes... I'm ambidextrous, see."
  },
  {
   "id": "SCENARIO/031/00efe",
@@ -341,7 +341,7 @@
   "jp": [
    "へぇ～、フライって器用だね"
   ],
-  "en": ""
+  "en": "Wow, Fly, you're pretty handy."
  },
  {
   "id": "SCENARIO/031/00f34",
@@ -350,7 +350,7 @@
    "うん、サーカスに入って",
    "特訓したんだ～"
   ],
-  "en": ""
+  "en": "Yep, I joined the circus and trained real hard!"
  },
  {
   "id": "SCENARIO/031/00f98",
@@ -358,7 +358,7 @@
   "jp": [
    "ほう、それは大変だな・・・"
   ],
-  "en": ""
+  "en": "Oh? That must have been hard work..."
  },
  {
   "id": "SCENARIO/031/00fcc",
@@ -368,7 +368,7 @@
    "仮面のお兄さん",
    "本当に大変だったんだ～"
   ],
-  "en": ""
+  "en": "Oh, you get it? It really was hard, mister in the mask!"
  },
  {
   "id": "SCENARIO/031/0105c",
@@ -378,7 +378,7 @@
    "そんなこと・・・",
    "それより温泉はまだなの？"
   ],
-  "en": ""
+  "en": "Who cares about any of that... More importantly, how far is this hot spring?"
  },
  {
   "id": "SCENARIO/031/010c0",
@@ -387,7 +387,7 @@
    "う～ん",
    "確か、この先だったはず～"
   ],
-  "en": ""
+  "en": "Hmm... I'm pretty sure it was just ahead..."
  },
  {
   "id": "SCENARIO/031/01162",
@@ -397,7 +397,7 @@
    "すごい！",
    "煙がもくもくでてる♪"
   ],
-  "en": ""
+  "en": "Ah! Wow! Look at all the steam puffing up!"
  },
  {
   "id": "SCENARIO/031/011d0",
@@ -406,7 +406,7 @@
    "リリスちゃん！",
    "走ったらあぶないよ！"
   ],
-  "en": ""
+  "en": "Lilis-chan! Don't run, it's dangerous!"
  },
  {
   "id": "SCENARIO/031/01244",
@@ -414,7 +414,7 @@
   "jp": [
    "着いたね～カイン♪"
   ],
-  "en": ""
+  "en": "We made it, Cain!"
  },
  {
   "id": "SCENARIO/031/01290",
@@ -422,7 +422,7 @@
   "jp": [
    "ありがとう、フライ"
   ],
-  "en": ""
+  "en": "Thanks, Fly."
  },
  {
   "id": "SCENARIO/031/012bc",
@@ -432,7 +432,7 @@
    "僕とカインの仲だもの～",
    "また、サーカスを手伝ってね♪"
   ],
-  "en": ""
+  "en": "No problem! You and me are pals, Cain. Help out at the circus again, okay?"
  },
  {
   "id": "SCENARIO/031/01326",
@@ -440,7 +440,7 @@
   "jp": [
    "あははは、うん"
   ],
-  "en": ""
+  "en": "Ha ha ha, sure."
  },
  {
   "id": "SCENARIO/031/01350",
@@ -449,7 +449,7 @@
    "あ、そうだ",
    "あんまり奥に行かないでね～"
   ],
-  "en": ""
+  "en": "Oh, right. Don't go too far in, okay?"
  },
  {
   "id": "SCENARIO/031/013a2",
@@ -457,7 +457,7 @@
   "jp": [
    "なにかあるの？"
   ],
-  "en": ""
+  "en": "Is there something back there?"
  },
  {
   "id": "SCENARIO/031/013cc",
@@ -466,7 +466,7 @@
    "ちょっとねー",
    "大丈夫だと思うけど・・・"
   ],
-  "en": ""
+  "en": "Sort of... I think it's fine, but..."
  },
  {
   "id": "SCENARIO/031/01410",
@@ -474,7 +474,7 @@
   "jp": [
    "どういうこと？"
   ],
-  "en": ""
+  "en": "What do you mean?"
  },
  {
   "id": "SCENARIO/031/0144c",
@@ -484,7 +484,7 @@
    "それじゃ、僕は戻るけど",
    "帰りは大丈夫だよね？"
   ],
-  "en": ""
+  "en": "Oh, never mind... Anyway, I'm heading back. You'll be okay getting home, right?"
  },
  {
   "id": "SCENARIO/031/014c8",
@@ -493,7 +493,7 @@
    "ええ、この辺りなら",
    "大丈夫よ、フライ"
   ],
-  "en": ""
+  "en": "Yes, we'll be fine around here, Fly."
  },
  {
   "id": "SCENARIO/031/01508",
@@ -501,7 +501,7 @@
   "jp": [
    "それじゃ、またね～"
   ],
-  "en": ""
+  "en": "See you later, then!"
  },
  {
   "id": "SCENARIO/031/0155c",
@@ -509,7 +509,7 @@
   "jp": [
    "おい"
   ],
-  "en": ""
+  "en": "Hey."
  },
  {
   "id": "SCENARIO/031/0159c",
@@ -518,7 +518,7 @@
    "え？なに～",
    "お兄さん？"
   ],
-  "en": ""
+  "en": "Hm? What is it, mister?"
  },
  {
   "id": "SCENARIO/031/015de",
@@ -526,7 +526,7 @@
   "jp": [
    "スプーンを持つのはどっちだ？"
   ],
-  "en": ""
+  "en": "Which hand holds the spoon?"
  },
  {
   "id": "SCENARIO/031/0164e",
@@ -535,7 +535,7 @@
    "ん～と",
    "・・・・・・こっち？"
   ],
-  "en": ""
+  "en": "Umm... ......this one?"
  },
  {
   "id": "SCENARIO/031/01738",
@@ -543,7 +543,7 @@
   "jp": [
    "逆だよ"
   ],
-  "en": ""
+  "en": "Other one."
  },
  {
   "id": "SCENARIO/031/01822",
@@ -552,7 +552,7 @@
    "へー・・・",
    "これが温泉ってやつか？"
   ],
-  "en": ""
+  "en": "Huh... So this is a hot spring?"
  },
  {
   "id": "SCENARIO/031/01880",
@@ -560,7 +560,7 @@
   "jp": [
    "うん、そうみたいだね"
   ],
-  "en": ""
+  "en": "Yeah, looks like it."
  },
  {
   "id": "SCENARIO/031/018b0",
@@ -570,7 +570,7 @@
    "地面からお湯が出てくるなんて",
    "地下世界は便利だな～"
   ],
-  "en": ""
+  "en": "Amazing. Hot water coming out of the ground... The underworld sure is handy."
  },
  {
   "id": "SCENARIO/031/0192c",
@@ -579,7 +579,7 @@
    "地熱で暖められた水が",
    "湧き出しているのだろう"
   ],
-  "en": ""
+  "en": "Water heated by the earth's heat is welling up, most likely."
  },
  {
   "id": "SCENARIO/031/01994",
@@ -588,7 +588,7 @@
    "なんだか、少し",
    "変わったニオイがするね"
   ],
-  "en": ""
+  "en": "It smells kind of odd, doesn't it?"
  },
  {
   "id": "SCENARIO/031/019d8",
@@ -596,7 +596,7 @@
   "jp": [
    "これは硫黄のニオイだ"
   ],
-  "en": ""
+  "en": "That is the smell of sulfur."
  },
  {
   "id": "SCENARIO/031/01a00",
@@ -605,7 +605,7 @@
    "だが無色で無臭に近い",
    "多分、成分は薄いだろうな・・"
   ],
-  "en": ""
+  "en": "But it is colorless and nearly odorless. The minerals are probably thin..."
  },
  {
   "id": "SCENARIO/031/01a70",
@@ -614,7 +614,7 @@
    "それって",
    "効果が低いってことなの？"
   ],
-  "en": ""
+  "en": "Does that mean it doesn't work as well?"
  },
  {
   "id": "SCENARIO/031/01ab0",
@@ -624,7 +624,7 @@
    "健康どころか泉質が合わないため",
    "肌が荒れる恐れもある"
   ],
-  "en": ""
+  "en": "No. If too strong, it may not suit the skin and roughen it rather than help."
  },
  {
   "id": "SCENARIO/031/01b10",
@@ -634,7 +634,7 @@
    "高齢者にも利用しやすい湯",
    "といったところだろう"
   ],
-  "en": ""
+  "en": "Well, call it the safest sort of bath, easy even for the elderly to use."
  },
  {
   "id": "SCENARIO/031/01b82",
@@ -643,7 +643,7 @@
    "へぇ～",
    "ヨハネって温泉にもくわしいんだ"
   ],
-  "en": ""
+  "en": "Huh... You know about hot springs too, Johannes?"
  },
  {
   "id": "SCENARIO/031/01bd2",
@@ -653,7 +653,7 @@
    "ありとあらゆる療法を",
    "調べたからな"
   ],
-  "en": ""
+  "en": "Yes. I looked into every remedy there is, for Mephisto's sake."
  },
  {
   "id": "SCENARIO/031/01c2c",
@@ -661,7 +661,7 @@
   "jp": [
    "そっか・・・"
   ],
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "SCENARIO/031/01c80",
@@ -671,7 +671,7 @@
    "アタシに、この温泉とかいうのに",
    "入れっていうわけ？"
   ],
-  "en": ""
+  "en": "So... you're telling me to get into this \"hot spring\" thing?"
  },
  {
   "id": "SCENARIO/031/01cea",
@@ -679,7 +679,7 @@
   "jp": [
    "うん、そうだよ！"
   ],
-  "en": ""
+  "en": "Yeah, that's right!"
  },
  {
   "id": "SCENARIO/031/01d14",
@@ -687,7 +687,7 @@
   "jp": [
    "アタシに、脱げっていうの？"
   ],
-  "en": ""
+  "en": "You're telling me to strip?"
  },
  {
   "id": "SCENARIO/031/01d88",
@@ -696,7 +696,7 @@
    "可愛い顔して",
    "カインったら意外と大胆なのね"
   ],
-  "en": ""
+  "en": "Such a cute face, and yet you're surprisingly bold, Cain."
  },
  {
   "id": "SCENARIO/031/01e16",
@@ -704,7 +704,7 @@
   "jp": [
    "えッ！？"
   ],
-  "en": ""
+  "en": "Eh!?"
  },
  {
   "id": "SCENARIO/031/01e38",
@@ -713,7 +713,7 @@
    "ち、ちがッ！！",
    "そんな意味じゃないよ！！！"
   ],
-  "en": ""
+  "en": "N-no!! That's not what I meant!!!"
  },
  {
   "id": "SCENARIO/031/01eb2",
@@ -721,7 +721,7 @@
   "jp": [
    "冗談よ♪"
   ],
-  "en": ""
+  "en": "Just kidding."
  },
  {
   "id": "SCENARIO/031/01eda",
@@ -731,7 +731,7 @@
    "男が先か、女が先か",
    "決めないとね"
   ],
-  "en": ""
+  "en": "I don't mind getting in, but we need to decide: men first, or women first?"
  },
  {
   "id": "SCENARIO/031/01f3a",
@@ -739,7 +739,7 @@
   "jp": [
    "あ・・うん、そうだね"
   ],
-  "en": ""
+  "en": "Ah... yeah, right."
  },
  {
   "id": "SCENARIO/031/01f76",
@@ -748,7 +748,7 @@
    "どうしてもっていうなら・・",
    "カインはアタシと一緒に入る？"
   ],
-  "en": ""
+  "en": "If you insist... want to get in with me, Cain?"
  },
  {
   "id": "SCENARIO/031/02042",
@@ -756,7 +756,7 @@
   "jp": [
    "わわわわっ！？"
   ],
-  "en": ""
+  "en": "Wawawawah!?"
  },
  {
   "id": "SCENARIO/031/02072",
@@ -764,7 +764,7 @@
   "jp": [
    "そ、そんなのダメだよ！"
   ],
-  "en": ""
+  "en": "N-no, we can't do that!"
  },
  {
   "id": "SCENARIO/031/020b2",
@@ -774,7 +774,7 @@
    "ちゃんと意識しちゃうあたりは",
    "カインも男の子なのね"
   ],
-  "en": ""
+  "en": "Oh... So you ARE aware of it. Guess Cain's a boy after all."
  },
  {
   "id": "SCENARIO/031/0211e",
@@ -782,7 +782,7 @@
   "jp": [
    "・・・・・・・・"
   ],
-  "en": ""
+  "en": "........"
  },
  {
   "id": "SCENARIO/031/0216c",
@@ -792,7 +792,7 @@
    "アタシ達が先なのか",
    "あんた達が先なのか・・・"
   ],
-  "en": ""
+  "en": "So, what'll it be? Do we go first, or do you?"
  },
  {
   "id": "SCENARIO/031/021ce",
@@ -800,18 +800,18 @@
   "jp": [
    "どうする？"
   ],
-  "en": "",
+  "en": "What will you do?",
   "spill": false
  },
  {
   "id": "SCENARIO/031/021e0",
   "jp": "　お先にどうぞ",
-  "en": ""
+  "en": "After you"
  },
  {
   "id": "SCENARIO/031/021f8",
   "jp": "　ボク達が先に・・・",
-  "en": ""
+  "en": "We'll go first..."
  },
  {
   "id": "SCENARIO/031/02236",
@@ -820,7 +820,7 @@
    "ボク達は後でいいから",
    "ルカ達が先に入っていいよ"
   ],
-  "en": ""
+  "en": "We can go after, so you girls go in first, Luca."
  },
  {
   "id": "SCENARIO/031/02280",
@@ -828,7 +828,7 @@
   "jp": [
    "じゃあ、そうさせてもらうわ"
   ],
-  "en": ""
+  "en": "Then we'll take you up on that."
  },
  {
   "id": "SCENARIO/031/022d4",
@@ -837,7 +837,7 @@
    "じゃあ、男たちは回れ右して",
    "五百歩以上向こう側！"
   ],
-  "en": ""
+  "en": "All right, men: about-face, and at least five hundred paces that way!"
  },
  {
   "id": "SCENARIO/031/02326",
@@ -847,7 +847,7 @@
    "少しでもこっちを振り向く",
    "そぶりを見せたら、殺すわよ"
   ],
-  "en": ""
+  "en": "Fair warning: so much as a hint of turning this way, and I'll kill you."
  },
  {
   "id": "SCENARIO/031/023a8",
@@ -856,7 +856,7 @@
    "誰がそんなものを",
    "わざわざ見るか"
   ],
-  "en": ""
+  "en": "As if anyone would go out of their way to look at that."
  },
  {
   "id": "SCENARIO/031/02406",
@@ -865,7 +865,7 @@
    "なんですってー！？",
    "そんなものとは何よ！？"
   ],
-  "en": ""
+  "en": "WHAT did you say!? What do you mean, \"that\"!?"
  },
  {
   "id": "SCENARIO/031/02474",
@@ -874,7 +874,7 @@
    "思ったより",
    "お湯もあつくないみたいですね"
   ],
-  "en": ""
+  "en": "The water isn't as hot as I expected."
  },
  {
   "id": "SCENARIO/031/024d8",
@@ -883,7 +883,7 @@
    "わーい！",
    "リリス一番のりするの！"
   ],
-  "en": ""
+  "en": "Yaaay! Lilis is going in first!"
  },
  {
   "id": "SCENARIO/031/02544",
@@ -891,7 +891,7 @@
   "jp": [
    "！？"
   ],
-  "en": ""
+  "en": "!?"
  },
  {
   "id": "SCENARIO/031/0258c",
@@ -900,7 +900,7 @@
    "リリスったら！",
    "まだ後ろにみなさんがいるのに"
   ],
-  "en": ""
+  "en": "Lilis, honestly! Everyone is still right behind us!"
  },
  {
   "id": "SCENARIO/031/025d4",
@@ -909,7 +909,7 @@
    "え？",
    "リリス平気だよ～？"
   ],
-  "en": ""
+  "en": "Huh? Lilis doesn't mind."
  },
  {
   "id": "SCENARIO/031/02648",
@@ -919,7 +919,7 @@
    "わかったらすぐに行く！",
    "いいわね？"
   ],
-  "en": ""
+  "en": "Just go, five hundred paces back! Now that you get it, move! Understood?"
  },
  {
   "id": "SCENARIO/031/026c0",
@@ -927,7 +927,7 @@
   "jp": [
    "わかったって"
   ],
-  "en": ""
+  "en": "Yeah, yeah, we get it."
  },
  {
   "id": "SCENARIO/031/026e8",
@@ -935,7 +935,7 @@
   "jp": [
    "わかったなら、回れ右！"
   ],
-  "en": ""
+  "en": "If you get it, about-face!"
  },
  {
   "id": "SCENARIO/031/02728",
@@ -943,7 +943,7 @@
   "jp": [
    "はいはい"
   ],
-  "en": ""
+  "en": "Yes, yes."
  },
  {
   "id": "SCENARIO/031/02752",
@@ -951,7 +951,7 @@
   "jp": [
    "あー・・・そういえば"
   ],
-  "en": ""
+  "en": "Oh... come to think of it..."
  },
  {
   "id": "SCENARIO/031/0279e",
@@ -960,7 +960,7 @@
    "五百歩歩いたら",
    "振り返っても・・・"
   ],
-  "en": ""
+  "en": "Once we've walked five hundred paces, can we turn around..."
  },
  {
   "id": "SCENARIO/031/0281c",
@@ -970,7 +970,7 @@
    "絶対に振り返るなって言った",
    "ばかりでしょーーーがッ！！"
   ],
-  "en": ""
+  "en": "I JUST told you not to turn around no matter WHAT, didn't I!!"
  },
  {
   "id": "SCENARIO/031/02960",
@@ -978,7 +978,7 @@
   "jp": [
    "グァァァァァァァッ！！"
   ],
-  "en": ""
+  "en": "Gwaaaaaaah!!"
  },
  {
   "id": "SCENARIO/031/029d8",
@@ -986,7 +986,7 @@
   "jp": [
    "・・・ぐふっ"
   ],
-  "en": ""
+  "en": "...Guh."
  },
  {
   "id": "SCENARIO/031/02a50",
@@ -994,7 +994,7 @@
   "jp": [
    "振り返ったらこうよ？"
   ],
-  "en": ""
+  "en": "Turn around, and that's what you get. Got it?"
  },
  {
   "id": "SCENARIO/031/02ae0",
@@ -1003,7 +1003,7 @@
    "・・う、うん、振り返らない",
    "絶対に振り返らないよ"
   ],
-  "en": ""
+  "en": "...Y-yeah, I won't turn around. I'll never turn around."
  },
  {
   "id": "SCENARIO/031/02bde",
@@ -1011,7 +1011,7 @@
   "jp": [
    "ボク達が先に入ってもいい？"
   ],
-  "en": ""
+  "en": "Can we go in first?"
  },
  {
   "id": "SCENARIO/031/02c22",
@@ -1019,7 +1019,7 @@
   "jp": [
    "・・そうね"
   ],
-  "en": ""
+  "en": "...Sure."
  },
  {
   "id": "SCENARIO/031/02c40",
@@ -1029,7 +1029,7 @@
    "実験台になってもらうのも",
    "悪くないわね"
   ],
-  "en": ""
+  "en": "Letting you go first and be our guinea pigs isn't a bad idea."
  },
  {
   "id": "SCENARIO/031/02ca6",
@@ -1037,7 +1037,7 @@
   "jp": [
    "じ、実験台って・・・"
   ],
-  "en": ""
+  "en": "G-guinea pigs...?"
  },
  {
   "id": "SCENARIO/031/02cf4",
@@ -1046,7 +1046,7 @@
    "俺は興味ない",
    "入りたいなら勝手にしろ"
   ],
-  "en": ""
+  "en": "I'm not interested. If you want in, suit yourselves."
  },
  {
   "id": "SCENARIO/031/02d54",
@@ -1054,7 +1054,7 @@
   "jp": [
    "相変わらず協調性がないわね～"
   ],
-  "en": ""
+  "en": "Not a team player, as usual."
  },
  {
   "id": "SCENARIO/031/02d92",
@@ -1064,7 +1064,7 @@
    "戦い疲れてるんだから",
    "ドーンっと入ってきなさいよ！"
   ],
-  "en": ""
+  "en": "You've been fighting without a break too, so get in there and soak!"
  },
  {
   "id": "SCENARIO/031/02e02",
@@ -1072,7 +1072,7 @@
   "jp": [
    "ほらっ！"
   ],
-  "en": ""
+  "en": "There!"
  },
  {
   "id": "SCENARIO/031/02ed0",
@@ -1080,7 +1080,7 @@
   "jp": [
    "！！？"
   ],
-  "en": ""
+  "en": "!!?"
  },
  {
   "id": "SCENARIO/031/02efe",
@@ -1090,7 +1090,7 @@
    "落ちちゃった後じゃ",
    "どうしようもないわよね"
   ],
-  "en": ""
+  "en": "Oh, sorry... not that saying it helps now that you've already fallen in."
  },
  {
   "id": "SCENARIO/031/02f76",
@@ -1099,7 +1099,7 @@
    "おい、お前",
    "いったいどういうつもりで・・"
   ],
-  "en": ""
+  "en": "Hey, you. What the hell do you think you're..."
  },
  {
   "id": "SCENARIO/031/02fca",
@@ -1109,7 +1109,7 @@
    "もう入っちゃったんだし",
    "しっかり癒されてきなさいよ"
   ],
-  "en": ""
+  "en": "Perfect timing, right? You're already in, so go on and get properly healed."
  },
  {
   "id": "SCENARIO/031/03034",
@@ -1117,7 +1117,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/031/0307c",
@@ -1126,7 +1126,7 @@
    "あはははは",
    "格好いいぜ、ザイオン"
   ],
-  "en": ""
+  "en": "Ha ha ha ha! Lookin' good, Zion."
  },
  {
   "id": "SCENARIO/031/030be",
@@ -1136,7 +1136,7 @@
    "水もしたたるいい男ならぬ",
    "お湯もしたたるいい男！"
   ],
-  "en": ""
+  "en": "Look at you! Forget \"dripping wet and handsome\" -- you're dripping HOT and handsome!"
  },
  {
   "id": "SCENARIO/031/03122",
@@ -1144,7 +1144,7 @@
   "jp": [
    "・・・お前も落ちろ"
   ],
-  "en": ""
+  "en": "...You fall in too."
  },
  {
   "id": "SCENARIO/031/0315e",
@@ -1152,7 +1152,7 @@
   "jp": [
    "え？"
   ],
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "SCENARIO/031/03274",
@@ -1160,7 +1160,7 @@
   "jp": [
    "うわぁぁぁぁぁぁっ！！"
   ],
-  "en": ""
+  "en": "Uwaaaaaah!!"
  },
  {
   "id": "SCENARIO/031/032d0",
@@ -1168,7 +1168,7 @@
   "jp": [
    "エクサルっ！？"
   ],
-  "en": ""
+  "en": "Exal!?"
  },
  {
   "id": "SCENARIO/031/032f8",
@@ -1177,7 +1177,7 @@
    "くっそー・・・",
    "よくもやりやがったな！！！"
   ],
-  "en": ""
+  "en": "Dammit... How dare you!!"
  },
  {
   "id": "SCENARIO/031/0334c",
@@ -1186,7 +1186,7 @@
    "ねぇ、ヨハネ",
    "ザイオンとエクサルが・・・"
   ],
-  "en": ""
+  "en": "Hey, Johannes. Zion and Exal are..."
  },
  {
   "id": "SCENARIO/031/033bc",
@@ -1195,7 +1195,7 @@
    "若者同士のじゃれあいだ",
    "青春に水をさしては悪いだろう？"
   ],
-  "en": ""
+  "en": "Young men horsing around. It would be a shame to throw cold water on their youth."
  },
  {
   "id": "SCENARIO/031/0341e",
@@ -1204,7 +1204,7 @@
    "青春かぁ・・・",
    "なんだか楽しそうだね"
   ],
-  "en": ""
+  "en": "Youth, huh... That looks kind of fun."
  },
  {
   "id": "SCENARIO/031/03466",
@@ -1213,7 +1213,7 @@
    "ねぇねぇヨハネ",
    "ボクも青春してきていい？"
   ],
-  "en": ""
+  "en": "Hey, hey, Johannes. Can I go have some youth too?"
  },
  {
   "id": "SCENARIO/031/034ba",
@@ -1221,7 +1221,7 @@
   "jp": [
    "・・・・・・・・・・"
   ],
-  "en": ""
+  "en": ".........."
  },
  {
   "id": "SCENARIO/031/034e0",
@@ -1230,12 +1230,12 @@
    "のぼせるから",
    "普通に入りなさい"
   ],
-  "en": ""
+  "en": "You will get dizzy. Just bathe normally."
  },
  {
   "id": "SCENARIO/031/07120",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/031/0712e",
@@ -1243,12 +1243,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/031/07146",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/031/07156",
@@ -1256,6 +1256,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

@@ -130,3 +130,9 @@ Corrections: Kilota uses 僕 and is called 坊主 in script 111 — a boy, not a
 | 天使様 (address) | Lord Angel | |
 | 実験施設 | the experimental facility | |
 | 補佐官 | aide | |
+| 四翼 | four-wing / four-winged | Syria's epithet |
+| 翼なき者 | the wingless | |
+| シリアお姉ちゃん | Syria-neesan | |
+| ボーナスシナリオ titles | `Bonus Scenario NN\nSubtitle` | two lines |
+
+Fly uses 僕 in script 031: gender ambiguous, keep pronoun-free.

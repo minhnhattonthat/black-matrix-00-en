@@ -6,7 +6,7 @@
    "ボーナスシナリオ　１２",
    "＜リリスの疑問＞"
   ],
-  "en": "",
+  "en": "Bonus Scenario 12\nLilis's Question",
   "spill": false
  },
  {
@@ -16,7 +16,7 @@
    "リリス、",
    "ダリアさんに何かあるの？"
   ],
-  "en": ""
+  "en": "Lilis, is something up with Dahlia-san?"
  },
  {
   "id": "SCENARIO/035/001d8",
@@ -25,7 +25,7 @@
    "う～ん・・・",
    "あのね、カイン・・・"
   ],
-  "en": ""
+  "en": "Hmm... You see, Cain..."
  },
  {
   "id": "SCENARIO/035/00226",
@@ -33,7 +33,7 @@
   "jp": [
    "どうしたの？"
   ],
-  "en": ""
+  "en": "What is it?"
  },
  {
   "id": "SCENARIO/035/0025a",
@@ -42,7 +42,7 @@
    "ねぇねぇカイン",
    "リリス聞きたいことがあるの"
   ],
-  "en": ""
+  "en": "Hey, hey, Cain. Lilis has something to ask."
  },
  {
   "id": "SCENARIO/035/002a0",
@@ -50,7 +50,7 @@
   "jp": [
    "聞きたいことって？"
   ],
-  "en": ""
+  "en": "Something to ask?"
  },
  {
   "id": "SCENARIO/035/002da",
@@ -59,7 +59,7 @@
    "どうしてダリアさんは",
    "結婚してないの？"
   ],
-  "en": ""
+  "en": "Why isn't Dahlia-san married?"
  },
  {
   "id": "SCENARIO/035/0032a",
@@ -67,7 +67,7 @@
   "jp": [
    "！？"
   ],
-  "en": ""
+  "en": "!?"
  },
  {
   "id": "SCENARIO/035/0040c",
@@ -75,7 +75,7 @@
   "jp": [
    "んっ、んーーー・・・"
   ],
-  "en": ""
+  "en": "Nngh, hmmmm..."
  },
  {
   "id": "SCENARIO/035/00500",
@@ -84,7 +84,7 @@
    "視線が・・・",
    "ダリアさんの視線が痛い・・・"
   ],
-  "en": ""
+  "en": "Her eyes... Dahlia-san's eyes are boring into me..."
  },
  {
   "id": "SCENARIO/035/00548",
@@ -92,7 +92,7 @@
   "jp": [
    "ねぇねぇ、どうしてなの？"
   ],
-  "en": ""
+  "en": "Hey, hey, why not?"
  },
  {
   "id": "SCENARIO/035/0057c",
@@ -101,7 +101,7 @@
    "ええと・・・それは・・・",
    "そのぉ・・・・・"
   ],
-  "en": ""
+  "en": "Um... well... that's... you see....."
  },
  {
   "id": "SCENARIO/035/005bc",
@@ -109,18 +109,18 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": "",
+  "en": ".........",
   "spill": false
  },
  {
   "id": "SCENARIO/035/005d6",
   "jp": "　適当にごまかす",
-  "en": ""
+  "en": "Fudge it"
  },
  {
   "id": "SCENARIO/035/005f0",
   "jp": "　しらばっくれる",
-  "en": ""
+  "en": "Play dumb"
  },
  {
   "id": "SCENARIO/035/0062c",
@@ -128,7 +128,7 @@
   "jp": [
    "ええと・・・ほら！"
   ],
-  "en": ""
+  "en": "Um... you see!"
  },
  {
   "id": "SCENARIO/035/00650",
@@ -138,7 +138,7 @@
    "相手がいないと出来ないから",
    "ダリアさんはまだ・・・"
   ],
-  "en": ""
+  "en": "You can't get married without a partner, so Dahlia-san just hasn't yet..."
  },
  {
   "id": "SCENARIO/035/006ba",
@@ -147,7 +147,7 @@
    "そっか～・・・",
    "相手がいないからダメなのね！"
   ],
-  "en": ""
+  "en": "I see... She can't because she doesn't have a partner!"
  },
  {
   "id": "SCENARIO/035/00712",
@@ -157,7 +157,7 @@
    "まだ捜している最中とか",
    "選んでる最中とか・・・・"
   ],
-  "en": ""
+  "en": "No, that's not it. She's still looking, or still choosing, or...."
  },
  {
   "id": "SCENARIO/035/00778",
@@ -167,7 +167,7 @@
    "ダリアさんは頑張って",
    "相手を捜しているのね！"
   ],
-  "en": ""
+  "en": "I see.... Dahlia-san is trying really hard to find a partner!"
  },
  {
   "id": "SCENARIO/035/007e2",
@@ -177,7 +177,7 @@
    "頑張って捜してるって言うか",
    "いないだけって言うか・・"
   ],
-  "en": ""
+  "en": "...No. Not so much trying hard to find one as just not having one..."
  },
  {
   "id": "SCENARIO/035/00872",
@@ -186,7 +186,7 @@
    "へぇ～、なかなか",
    "言ってくれるじゃないかい・・"
   ],
-  "en": ""
+  "en": "Ohh? Aren't you the smooth talker..."
  },
  {
   "id": "SCENARIO/035/008ca",
@@ -194,7 +194,7 @@
   "jp": [
    "！！"
   ],
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "SCENARIO/035/00914",
@@ -202,7 +202,7 @@
   "jp": [
    "ダ、ダリアさん・・・・・"
   ],
-  "en": ""
+  "en": "D-Dahlia-san....."
  },
  {
   "id": "SCENARIO/035/00956",
@@ -212,7 +212,7 @@
    "見苦しいマネはしないつもり",
    "だったけれど・・・・・"
   ],
-  "en": ""
+  "en": "I meant to behave myself in front of the customers, but....."
  },
  {
   "id": "SCENARIO/035/009b0",
@@ -220,7 +220,7 @@
   "jp": [
    "覚悟はいいかい、坊や？"
   ],
-  "en": ""
+  "en": "Are you ready, kiddo?"
  },
  {
   "id": "SCENARIO/035/009ee",
@@ -228,7 +228,7 @@
   "jp": [
    "・・か、覚悟っ！？"
   ],
-  "en": ""
+  "en": "...R-ready!?"
  },
  {
   "id": "SCENARIO/035/00a3e",
@@ -236,7 +236,7 @@
   "jp": [
    "そうさ、覚悟だよ"
   ],
-  "en": ""
+  "en": "That's right. Ready."
  },
  {
   "id": "SCENARIO/035/00a8c",
@@ -244,7 +244,7 @@
   "jp": [
    "う・・あ・・・"
   ],
-  "en": ""
+  "en": "Uh... ah..."
  },
  {
   "id": "SCENARIO/035/00b74",
@@ -252,7 +252,7 @@
   "jp": [
    "助けてエクサル！！！"
   ],
-  "en": ""
+  "en": "Help me, Exal!!"
  },
  {
   "id": "SCENARIO/035/00bd0",
@@ -261,7 +261,7 @@
    "えええっ！？",
    "俺かよっ！"
   ],
-  "en": ""
+  "en": "Whaaat!? Me!?"
  },
  {
   "id": "SCENARIO/035/00c22",
@@ -269,7 +269,7 @@
   "jp": [
    "だって、だってっ！！"
   ],
-  "en": ""
+  "en": "But, but!!"
  },
  {
   "id": "SCENARIO/035/00c7c",
@@ -277,7 +277,7 @@
   "jp": [
    "今回は俺、無関係・・・"
   ],
-  "en": ""
+  "en": "I've got nothing to do with this one..."
  },
  {
   "id": "SCENARIO/035/00d00",
@@ -286,7 +286,7 @@
    "だぁぁぁーーーっ！",
    "押すなっ！"
   ],
-  "en": ""
+  "en": "Daaaaah! Don't push!"
  },
  {
   "id": "SCENARIO/035/00d68",
@@ -295,7 +295,7 @@
    "はっ！！",
    "来たっ！！"
   ],
-  "en": ""
+  "en": "Ha!! Here it comes!!"
  },
  {
   "id": "SCENARIO/035/00dca",
@@ -303,7 +303,7 @@
   "jp": [
    "おい、カイン！！"
   ],
-  "en": ""
+  "en": "Hey, Cain!!"
  },
  {
   "id": "SCENARIO/035/00e0c",
@@ -312,7 +312,7 @@
    "へぇぇぇぇ・・・",
    "そういうことかい？"
   ],
-  "en": ""
+  "en": "Ohhhhh... So that's how it is?"
  },
  {
   "id": "SCENARIO/035/00ee6",
@@ -320,7 +320,7 @@
   "jp": [
    "お、おばちゃん・・・"
   ],
-  "en": ""
+  "en": "A-Auntie..."
  },
  {
   "id": "SCENARIO/035/00f14",
@@ -329,7 +329,7 @@
    "あんただね",
    "カインに妙なこと吹き込んだの"
   ],
-  "en": ""
+  "en": "So it was you. The one filling Cain's head with weird ideas."
  },
  {
   "id": "SCENARIO/035/00f5e",
@@ -339,7 +339,7 @@
    "相手を必死に捜している",
    "最中だって？"
   ],
-  "en": ""
+  "en": "Who, exactly, is trying desperately to find a partner?"
  },
  {
   "id": "SCENARIO/035/00fba",
@@ -349,7 +349,7 @@
    "おばちゃん最初っから",
    "捜す気もないじゃん"
   ],
-  "en": ""
+  "en": "...I mean, Auntie, you never had any intention of looking in the first place."
  },
  {
   "id": "SCENARIO/035/0102e",
@@ -357,7 +357,7 @@
   "jp": [
    "ふっ・・・・・・・"
   ],
-  "en": ""
+  "en": "Heh......."
  },
  {
   "id": "SCENARIO/035/010a2",
@@ -365,7 +365,7 @@
   "jp": [
    "覚悟はいいかい、エクサル？"
   ],
-  "en": ""
+  "en": "Are you ready, Exal?"
  },
  {
   "id": "SCENARIO/035/010e6",
@@ -373,7 +373,7 @@
   "jp": [
    "えぇぇぇぇっ！？"
   ],
-  "en": ""
+  "en": "Whaaaaat!?"
  },
  {
   "id": "SCENARIO/035/01116",
@@ -382,7 +382,7 @@
    "本当のことなのに",
    "なんで怒るんだよっ！！？"
   ],
-  "en": ""
+  "en": "It's the truth, so why are you mad!!?"
  },
  {
   "id": "SCENARIO/035/0125a",
@@ -390,7 +390,7 @@
   "jp": [
    "覚悟ッ！！！"
   ],
-  "en": ""
+  "en": "Ready!!!"
  },
  {
   "id": "SCENARIO/035/01288",
@@ -398,7 +398,7 @@
   "jp": [
    "ひぇぇぇぇっ！"
   ],
-  "en": ""
+  "en": "Eeeeek!"
  },
  {
   "id": "SCENARIO/035/0131a",
@@ -407,7 +407,7 @@
    "おばちゃん！",
    "ナックル装備の鉄拳は禁止！！"
   ],
-  "en": ""
+  "en": "Auntie! No iron fists with knuckle-dusters on!!"
  },
  {
   "id": "SCENARIO/035/01360",
@@ -415,7 +415,7 @@
   "jp": [
    "死ぬ！！"
   ],
-  "en": ""
+  "en": "I'll die!!"
  },
  {
   "id": "SCENARIO/035/01384",
@@ -423,7 +423,7 @@
   "jp": [
    "俺、マジで死ぬっ！！！"
   ],
-  "en": ""
+  "en": "I'm seriously gonna die!!"
  },
  {
   "id": "SCENARIO/035/013b4",
@@ -431,7 +431,7 @@
   "jp": [
    "あっ"
   ],
-  "en": ""
+  "en": "Ah."
  },
  {
   "id": "SCENARIO/035/0144e",
@@ -439,7 +439,7 @@
   "jp": [
    "ぎゃぁぁぁぁぁぁぁぁ！！！"
   ],
-  "en": ""
+  "en": "Gyaaaaaaaah!!"
  },
  {
   "id": "SCENARIO/035/014fa",
@@ -447,7 +447,7 @@
   "jp": [
    "すごい、すごい！"
   ],
-  "en": ""
+  "en": "Wow, wow!"
  },
  {
   "id": "SCENARIO/035/0156c",
@@ -456,7 +456,7 @@
    "キロタも見た？",
    "ダリアさんすごく強いね～"
   ],
-  "en": ""
+  "en": "Did you see that, Kilota? Dahlia-san is super strong!"
  },
  {
   "id": "SCENARIO/035/015be",
@@ -464,7 +464,7 @@
   "jp": [
    "うん、そうだね"
   ],
-  "en": ""
+  "en": "Yeah, she sure is."
  },
  {
   "id": "SCENARIO/035/01602",
@@ -473,7 +473,7 @@
    "うーん・・",
    "ボクにもわからないや"
   ],
-  "en": ""
+  "en": "Hmm... I don't know either."
  },
  {
   "id": "SCENARIO/035/0164e",
@@ -481,7 +481,7 @@
   "jp": [
    "そっか～・・"
   ],
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "SCENARIO/035/0166c",
@@ -491,7 +491,7 @@
    "みんなの花嫁衣装を見たいのに",
    "誰も結婚しないんだよね"
   ],
-  "en": ""
+  "en": "Lilis wants to see everyone in a wedding dress, but nobody ever gets married."
  },
  {
   "id": "SCENARIO/035/016d6",
@@ -499,7 +499,7 @@
   "jp": [
    "花嫁衣装？"
   ],
-  "en": ""
+  "en": "A wedding dress?"
  },
  {
   "id": "SCENARIO/035/0170a",
@@ -509,7 +509,7 @@
    "花嫁さんだけが着る",
    "すごく綺麗なドレスなの！"
   ],
-  "en": ""
+  "en": "Yeah! The super pretty dress that only brides get to wear!"
  },
  {
   "id": "SCENARIO/035/01780",
@@ -519,7 +519,7 @@
    "そういうものに興味持つってのは",
    "リリスもやっぱり女の子だよな～"
   ],
-  "en": ""
+  "en": "Huh... Being into stuff like that, Lilis really is a girl after all."
  },
  {
   "id": "SCENARIO/035/017f2",
@@ -528,7 +528,7 @@
    "あ、エクサル！",
    "エクサルも花嫁衣装とか好き？"
   ],
-  "en": ""
+  "en": "Oh, Exal! Do you like wedding dresses too, Exal?"
  },
  {
   "id": "SCENARIO/035/0184a",
@@ -537,7 +537,7 @@
    "別に嫌いでもないけど・・・",
    "ま、悪くないんじゃないか？"
   ],
-  "en": ""
+  "en": "I don't dislike them... I mean, they're not bad, right?"
  },
  {
   "id": "SCENARIO/035/0189c",
@@ -546,7 +546,7 @@
    "ねぇねぇ・・・",
    "エクサルは今、好きな人いる？"
   ],
-  "en": ""
+  "en": "Hey, hey... Exal, is there someone you like right now?"
  },
  {
   "id": "SCENARIO/035/018f2",
@@ -556,7 +556,7 @@
    "尊敬する人ならヴァルトス様が",
    "そうだけど・・・・"
   ],
-  "en": ""
+  "en": "Someone I like? If you mean someone I look up to, that'd be Valtoss-sama...."
  },
  {
   "id": "SCENARIO/035/01a10",
@@ -564,7 +564,7 @@
   "jp": [
    "はっ！！"
   ],
-  "en": ""
+  "en": "Ha!!"
  },
  {
   "id": "SCENARIO/035/01a34",
@@ -572,7 +572,7 @@
   "jp": [
    "まさか、この展開って・・・"
   ],
-  "en": ""
+  "en": "Don't tell me this is going where I think it is..."
  },
  {
   "id": "SCENARIO/035/01b1c",
@@ -581,7 +581,7 @@
    "あのね、エクサル・・",
    "もしも・・・もしもだよ？"
   ],
-  "en": ""
+  "en": "Um, Exal... What if... just what if, okay?"
  },
  {
   "id": "SCENARIO/035/01b68",
@@ -589,7 +589,7 @@
   "jp": [
    "ん？"
   ],
-  "en": ""
+  "en": "Hm?"
  },
  {
   "id": "SCENARIO/035/01b88",
@@ -598,7 +598,7 @@
    "あのね",
    "リリスが大人になって・・・"
   ],
-  "en": ""
+  "en": "Um. When Lilis grows up..."
  },
  {
   "id": "SCENARIO/035/01bc0",
@@ -607,7 +607,7 @@
    "もしも、エクサルにまだ",
    "好きな人がいなかったら・・・"
   ],
-  "en": ""
+  "en": "If Exal still doesn't have anyone he likes by then..."
  },
  {
   "id": "SCENARIO/035/01c08",
@@ -615,7 +615,7 @@
   "jp": [
    "リリスが・・・"
   ],
-  "en": ""
+  "en": "Lilis will..."
  },
  {
   "id": "SCENARIO/035/01c3e",
@@ -624,7 +624,7 @@
    "エクサルに素敵な花嫁衣装を",
    "着せてあげるねっ！！"
   ],
-  "en": ""
+  "en": "put you in a beautiful wedding dress, Exal!!"
  },
  {
   "id": "SCENARIO/035/01c9a",
@@ -633,7 +633,7 @@
    "待てっ！",
    "俺が嫁なのかっ？！"
   ],
-  "en": ""
+  "en": "Wait! I'M the bride!?"
  },
  {
   "id": "SCENARIO/035/01ce2",
@@ -641,7 +641,7 @@
   "jp": [
    "うん、そうだよ♪"
   ],
-  "en": ""
+  "en": "Yep, that's right!"
  },
  {
   "id": "SCENARIO/035/01d0c",
@@ -649,7 +649,7 @@
   "jp": [
    "・・・待ってくれ、リリス"
   ],
-  "en": ""
+  "en": "...Hold on, Lilis."
  },
  {
   "id": "SCENARIO/035/01d46",
@@ -657,7 +657,7 @@
   "jp": [
    "普通、花嫁衣装を着るのは・・"
   ],
-  "en": ""
+  "en": "Normally, the one who wears the wedding dress is..."
  },
  {
   "id": "SCENARIO/035/01d8a",
@@ -665,7 +665,7 @@
   "jp": [
    "うん、リリス知ってるよ！"
   ],
-  "en": ""
+  "en": "Yeah, Lilis knows!"
  },
  {
   "id": "SCENARIO/035/01dc2",
@@ -674,7 +674,7 @@
    "花嫁衣装は",
    "可愛い方が着るんでしょ？"
   ],
-  "en": ""
+  "en": "The cuter one wears the wedding dress, right?"
  },
  {
   "id": "SCENARIO/035/01e36",
@@ -682,7 +682,7 @@
   "jp": [
    "・・・・・・・・"
   ],
-  "en": ""
+  "en": "........"
  },
  {
   "id": "SCENARIO/035/01e7a",
@@ -691,7 +691,7 @@
    "リリス・・・それ",
    "誰に教えてもらった？"
   ],
-  "en": ""
+  "en": "Lilis... who taught you that?"
  },
  {
   "id": "SCENARIO/035/01eca",
@@ -700,7 +700,7 @@
    "え？",
    "シリアお姉ちゃんからだよ？"
   ],
-  "en": ""
+  "en": "Huh? Syria-neesan did."
  },
  {
   "id": "SCENARIO/035/02008",
@@ -708,7 +708,7 @@
   "jp": [
    "シリアァァァァァァッ！！！"
   ],
-  "en": ""
+  "en": "SYRIAAAAAA!!"
  },
  {
   "id": "SCENARIO/035/0204a",
@@ -717,7 +717,7 @@
    "あら、エクサルさん",
    "どうしたんですか？"
   ],
-  "en": ""
+  "en": "Oh, Exal-san. Whatever is the matter?"
  },
  {
   "id": "SCENARIO/035/0208c",
@@ -725,7 +725,7 @@
   "jp": [
    "どうしたも、こうしたもないッ！"
   ],
-  "en": ""
+  "en": "Don't \"whatever is the matter\" me!"
  },
  {
   "id": "SCENARIO/035/020bc",
@@ -733,7 +733,7 @@
   "jp": [
    "リリスに妙なこと吹き込むなよ！"
   ],
-  "en": ""
+  "en": "Quit putting weird ideas in Lilis's head!"
  },
  {
   "id": "SCENARIO/035/02102",
@@ -741,7 +741,7 @@
   "jp": [
    "妙なこと？"
   ],
-  "en": ""
+  "en": "Weird ideas?"
  },
  {
   "id": "SCENARIO/035/02136",
@@ -750,7 +750,7 @@
    "そうだよ！",
    "花嫁衣装は普通・・・"
   ],
-  "en": ""
+  "en": "That's right! Normally, a wedding dress is..."
  },
  {
   "id": "SCENARIO/035/02182",
@@ -759,7 +759,7 @@
    "ええ、知っていますわ",
    "可愛い方が着るんですよね？"
   ],
-  "en": ""
+  "en": "Yes, I know. The cuter one wears it, right?"
  },
  {
   "id": "SCENARIO/035/021ee",
@@ -767,7 +767,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/035/0222a",
@@ -777,7 +777,7 @@
    "もしかして、わたし",
    "間違っていましたか？"
   ],
-  "en": ""
+  "en": "Oh? Did I... get it wrong, perhaps?"
  },
  {
   "id": "SCENARIO/035/02286",
@@ -786,7 +786,7 @@
    "何をどうしたら",
    "そんな間違え方するんだよ・・"
   ],
-  "en": ""
+  "en": "How do you even manage to get it THAT wrong..."
  },
  {
   "id": "SCENARIO/035/022d0",
@@ -796,7 +796,7 @@
    "花嫁衣装は可愛い方が着ると",
    "言っていましたから"
   ],
-  "en": ""
+  "en": "...But Cain-san told me the cuter one wears the wedding dress."
  },
  {
   "id": "SCENARIO/035/02330",
@@ -804,7 +804,7 @@
   "jp": [
    "てっきりそうなのだとばかり・・"
   ],
-  "en": ""
+  "en": "So I simply assumed that was the case..."
  },
  {
   "id": "SCENARIO/035/02376",
@@ -812,7 +812,7 @@
   "jp": [
    "カインが・・・？"
   ],
-  "en": ""
+  "en": "Cain did...?"
  },
  {
   "id": "SCENARIO/035/023ae",
@@ -821,7 +821,7 @@
    "ええ、カインさんから",
    "教えていただきました"
   ],
-  "en": ""
+  "en": "Yes. Cain-san was the one who taught me."
  },
  {
   "id": "SCENARIO/035/024d8",
@@ -829,7 +829,7 @@
   "jp": [
    "カーーイーーンーー！！！"
   ],
-  "en": ""
+  "en": "CAAAIIIN!!"
  },
  {
   "id": "SCENARIO/035/0250c",
@@ -837,7 +837,7 @@
   "jp": [
    "どうしたの、エクサル？"
   ],
-  "en": ""
+  "en": "What is it, Exal?"
  },
  {
   "id": "SCENARIO/035/0254a",
@@ -846,7 +846,7 @@
    "どうしたの？",
    "じゃ、ねぇだろ！！？"
   ],
-  "en": ""
+  "en": "\"What is it?\" Don't give me that!!?"
  },
  {
   "id": "SCENARIO/035/02580",
@@ -855,7 +855,7 @@
    "お前、冗談言うなら",
    "相手を選んでから言えよっ！！"
   ],
-  "en": ""
+  "en": "If you're going to joke around, pick who you say it to!!"
  },
  {
   "id": "SCENARIO/035/025da",
@@ -863,7 +863,7 @@
   "jp": [
    "冗談って、何？"
   ],
-  "en": ""
+  "en": "Joke? What joke?"
  },
  {
   "id": "SCENARIO/035/02612",
@@ -872,7 +872,7 @@
    "あーのーなぁ・・・",
    "花嫁衣装は・・・"
   ],
-  "en": ""
+  "en": "Lis-ten... A wedding dress is..."
  },
  {
   "id": "SCENARIO/035/02662",
@@ -880,7 +880,7 @@
   "jp": [
    "うん、可愛い方が着るんだよね"
   ],
-  "en": ""
+  "en": "Yeah, the cuter one wears it, right?"
  },
  {
   "id": "SCENARIO/035/026c8",
@@ -888,7 +888,7 @@
   "jp": [
    "・・・・・・・・・・"
   ],
-  "en": ""
+  "en": ".........."
  },
  {
   "id": "SCENARIO/035/02712",
@@ -898,7 +898,7 @@
    "お前にそんな、わけわからん",
    "常識吹き込んだヤツはっ！！！"
   ],
-  "en": ""
+  "en": "Dammit! Who was it!? Who filled your head with that screwed-up \"common sense\"!!"
  },
  {
   "id": "SCENARIO/035/02786",
@@ -906,7 +906,7 @@
   "jp": [
    "マティアだけど・・？"
   ],
-  "en": ""
+  "en": "Matia did...?"
  },
  {
   "id": "SCENARIO/035/027b4",
@@ -915,7 +915,7 @@
    "畜生！",
    "犯人はそこかよっ！？"
   ],
-  "en": ""
+  "en": "Dammit! THAT'S the culprit!?"
  },
  {
   "id": "SCENARIO/035/027f2",
@@ -924,7 +924,7 @@
    "カイン！",
    "お前もお前だッ！！"
   ],
-  "en": ""
+  "en": "Cain! You're just as bad!!"
  },
  {
   "id": "SCENARIO/035/0283a",
@@ -932,7 +932,7 @@
   "jp": [
    "え？"
   ],
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "SCENARIO/035/02858",
@@ -942,7 +942,7 @@
    "なんでもバカ正直に",
    "信じるなよっ！！"
   ],
-  "en": ""
+  "en": "Just because Matia said it doesn't mean you believe it like a gullible idiot!!"
  },
  {
   "id": "SCENARIO/035/028b4",
@@ -951,7 +951,7 @@
    "常識で考えろっ！",
    "常識で！！"
   ],
-  "en": ""
+  "en": "Use your common sense! COMMON SENSE!!"
  },
  {
   "id": "SCENARIO/035/028ec",
@@ -959,7 +959,7 @@
   "jp": [
    "それとも何か・・？"
   ],
-  "en": ""
+  "en": "Or what...?"
  },
  {
   "id": "SCENARIO/035/02910",
@@ -969,7 +969,7 @@
    "お前、本気で花嫁衣装着る",
    "つもりか？"
   ],
-  "en": ""
+  "en": "If Matia told you to wear a wedding dress, would you seriously put one on?"
  },
  {
   "id": "SCENARIO/035/0297e",
@@ -977,7 +977,7 @@
   "jp": [
    "うん、着るよ"
   ],
-  "en": ""
+  "en": "Yeah, I would."
  },
  {
   "id": "SCENARIO/035/029b2",
@@ -986,7 +986,7 @@
    "アホかお前はっ！！！",
    "マティア馬鹿もいい加減にしろ！"
   ],
-  "en": ""
+  "en": "Are you an idiot!! Enough with the Matia worship already!"
  },
  {
   "id": "SCENARIO/035/02a12",
@@ -994,7 +994,7 @@
   "jp": [
    "だ、だって・・・・"
   ],
-  "en": ""
+  "en": "B-but...."
  },
  {
   "id": "SCENARIO/035/02a4e",
@@ -1003,7 +1003,7 @@
    "ヨハネもカインなら大丈夫だって",
    "言ってたもん！！"
   ],
-  "en": ""
+  "en": "Johannes said it'd be fine if it was me, too!!"
  },
  {
   "id": "SCENARIO/035/02aaa",
@@ -1013,7 +1013,7 @@
    "ヨハネさんも",
    "共犯者だったのかよっ！"
   ],
-  "en": ""
+  "en": "...Dammit! Johannes-san was in on it too!?"
  },
  {
   "id": "SCENARIO/035/02afc",
@@ -1021,7 +1021,7 @@
   "jp": [
    "騒がしいな・・・"
   ],
-  "en": ""
+  "en": "What is all this noise..."
  },
  {
   "id": "SCENARIO/035/02c06",
@@ -1030,7 +1030,7 @@
    "うぅぅっ・・・",
    "ヴァルトス様～～～"
   ],
-  "en": ""
+  "en": "Uuuugh... Valtoss-samaaaa..."
  },
  {
   "id": "SCENARIO/035/02c44",
@@ -1038,7 +1038,7 @@
   "jp": [
    "どうしたんだ、エクサル？"
   ],
-  "en": ""
+  "en": "What is wrong, Exal?"
  },
  {
   "id": "SCENARIO/035/02c7e",
@@ -1046,7 +1046,7 @@
   "jp": [
    "・・・泣いているのか？"
   ],
-  "en": ""
+  "en": "...Are you crying?"
  },
  {
   "id": "SCENARIO/035/02cb0",
@@ -1054,7 +1054,7 @@
   "jp": [
    "泣きたくもなりますよぉ・・・"
   ],
-  "en": ""
+  "en": "Anyone would cry..."
  },
  {
   "id": "SCENARIO/035/02cf6",
@@ -1063,7 +1063,7 @@
    "もう、聞いて下さいよ！",
    "みんな無茶苦茶なんですよ！！"
   ],
-  "en": ""
+  "en": "Listen to this, please! Everyone's gone completely crazy!!"
  },
  {
   "id": "SCENARIO/035/02d48",
@@ -1071,7 +1071,7 @@
   "jp": [
    "花嫁衣装は・・・"
   ],
-  "en": ""
+  "en": "A wedding dress is..."
  },
  {
   "id": "SCENARIO/035/02da0",
@@ -1079,7 +1079,7 @@
   "jp": [
    "可愛い方が着るのだろう？"
   ],
-  "en": ""
+  "en": "Worn by the cuter one, is it not?"
  },
  {
   "id": "SCENARIO/035/02de2",
@@ -1087,12 +1087,12 @@
   "jp": [
    "・・・・・・・え？"
   ],
-  "en": ""
+  "en": ".......Huh?"
  },
  {
   "id": "SCENARIO/035/069ec",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/035/069fa",
@@ -1100,12 +1100,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/035/06a12",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/035/06a22",
@@ -1113,6 +1113,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
