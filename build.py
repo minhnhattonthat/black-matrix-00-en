@@ -2,7 +2,7 @@
 import json, shutil, subprocess, sys
 from pathlib import Path
 
-import dat, halfwidth, script
+import dat, halfwidth, pointers, script, tables
 
 ROOT = Path(__file__).parent
 ROM = ROOT / "rom" / "Black-Matrix 00 (Japan) (Disc 1).bin"
@@ -34,9 +34,41 @@ def dump():
         if b and not path.exists():
             entries = script.extract(b, f"SCENARIO/{i:03d}")
             path.write_text(json.dumps(entries, ensure_ascii=False, indent=1), encoding="utf-8")
+    sysdir = SCRIPT / "SYSTEM"
+    sysdir.mkdir(exist_ok=True)
+    system = dat.unpack((ORIG / "SYSTEM.DAT").read_bytes())
+    battle = dat.unpack((ORIG / "BATTLE.DAT").read_bytes())
+    for name, entries in (("tables", tables.extract_fixed(system[2], "SYSTEM/2")),
+                          ("messages", pointers.extract(system[10], "SYSTEM/10")),
+                          ("overlay", tables.extract_overlay(system[4], "SYSTEM/4")),
+                          ("battle", [{"id": f"BATTLE/{i:03d}", "jp": jp, "en": "", "width": 16}
+                                      for i, jp in enumerate(tables.battle_name_list(battle))])):
+        path = sysdir / f"{name}.json"
+        if not path.exists():
+            path.write_text(json.dumps(entries, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
+def _system_json(name):
+    return json.loads((SCRIPT / "SYSTEM" / f"{name}.json").read_text(encoding="utf-8"))
+
+
+def patch_system():
+    system = dat.unpack((ORIG / "SYSTEM.DAT").read_bytes())
+    fixed = _system_json("tables")
+    system[2] = tables.insert_fixed(system[2], fixed)
+    system[10] = pointers.insert(system[10], _system_json("messages"))
+    system[4] = tables.insert_overlay(system[4], _system_json("overlay"))
+    (EXTRACTED / "SYSTEM.DAT").write_bytes(dat.pack(system))
+    # battle names: their own list first, then the unit table's translations fill any gap
+    names = {e["jp"]: e["en"] for e in fixed if e["width"] == 18 and e["en"]}
+    names.update({e["jp"]: e["en"] for e in _system_json("battle") if e["en"]})
+    battle = dat.unpack((ORIG / "BATTLE.DAT").read_bytes())
+    battle = [tables.insert_battle(b, names) if b[:4] == tables.BATTLE_MAGIC else b for b in battle]
+    (EXTRACTED / "BATTLE.DAT").write_bytes(dat.pack(battle))
 
 
 def patch():
+    patch_system()
     files = dat.unpack((ORIG / "SCENARIO.DAT").read_bytes())
     for path in sorted((SCRIPT / "SCENARIO").glob("*.json")):
         i = int(path.stem)
