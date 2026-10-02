@@ -14,7 +14,7 @@ Out of scope: `TOWN.DAT` (Notebook articles and NPC chatter; its own plan), `EVE
 
 | Where | What | Format |
 |---|---|---|
-| `SYSTEM.DAT` sub-file 2 | 25 tables; tables 2 and 6–24 hold text: unit names, fifteen weapon classes, gems, items, rings, skills. About 1,350 strings. | Table directory at offset 8: 25 × (`u16 offset`, `u16 size`) in 4-byte units. Fixed-size records (20–128 bytes) with zero-padded Shift-JIS fields: a name of 14–26 bytes and one or two description fields of 30–32 bytes. |
+| `SYSTEM.DAT` sub-file 2 | 25 tables; tables 2 and 6–24 hold text: unit names, fifteen weapon classes, gems, items, rings, skills. About 1,350 strings. | Table directory at offset 8: 25 × (`u16 offset`, `u16 size`) in 4-byte units. Fixed-size records with zero-padded Shift-JIS fields. Measured: units 20-byte records, name at 0; weapons 128-byte records, name at 0 (20), descriptions at 26 and 60; gems 96-byte, name 0, descriptions 28 and 62; items 118-byte, name 0 (18), description at 20; rings 98-byte, name 0, descriptions 30 and 62; skills 94-byte, name 0 (26), descriptions 26 and 62. Exact widths are pinned by the coverage test. |
 | `SYSTEM.DAT` sub-file 10 | About 60 option, load/save and memory-card messages. | Zero-terminated strings packed from offset 0; each followed by 2–4 bytes of metadata; a table of absolute pointers (`0x800d4000` + offset) elsewhere in the sub-file. The file is 61 KB; the text uses about 1 KB. |
 | `SYSTEM.DAT` sub-files 4 and 5 | Menu labels (`Config`, `Load`, `Item`, `Unit`, `Ring`, `Skill`), status names, battle prompts, objectives (`Defeat Bale`), skill names. About 100 strings. | Zero-terminated strings inside code overlays loaded at `0x80140000` (sub 4) and `0x80190000` (sub 5), referenced by MIPS `lui`/`addiu` pairs. |
 | `BATTLE.DAT`, 433 sub-files of type `04 00 01 00` | Unit names, 16-byte field at the start of each 88-byte unit record, inside the container's unit table. 52 unique names, all present in SYSTEM table 2. | Fixed width. |
@@ -42,15 +42,16 @@ TABLES = [  # (archive, sub-file, table offset, record size, record count, [(fie
 
 ### `pointers.py` — sub-file 10
 
-- `extract()` reads the pointer table, then each string.
-- `insert()` lays the strings out again from offset 0 with their metadata, and rewrites every pointer. Text may grow into the free tail; exceeding the original text region's end plus the free space fails the build.
-- The exact pointer-table location and the metadata width are confirmed in the plan's first task by round-tripping to identical bytes.
+- Pointers appear in two places: a `u32` after each message (a chain to the next message) and a table of 47 near the end of the sub-file (offset `0xcb80` region). All 78 are 4-byte aligned words in `0x800d4000–0x800d4800`.
+- `extract()` walks the message region from offset 0 (zero-terminated strings, 2-byte aligned, each followed by its metadata words).
+- `insert()` lays the strings out again from offset 0 with their metadata, then remaps every aligned word in the pointer range through the old→new offset map. A word that does not land on a string start fails the build (it would be data, not a pointer). Text may grow until the message region meets the next used data; exceeding that fails the build.
 
 ### Overlay labels — sub-files 4 and 5
 
-- `extract()` lists zero-terminated Shift-JIS strings that are the target of a `lui`/`addiu` pair in the overlay code.
+- Sub-file 5 holds no Shift-JIS text; only sub-file 4 (79 strings) is handled. Only 4 of its strings are reached by a `lui`/`addiu` pair; the rest are referenced through data tables that are not worth mapping, because in-place replacement needs no knowledge of the references.
+- `extract()` lists every zero-terminated Shift-JIS string in the overlay.
 - `insert()` overwrites in place; English must be at most the original byte length (zero-padded). Longer fails the build.
-- If the first translation pass shows that many labels need more room, a second phase relocates long strings into the overlay's zero padding and patches the `addiu`/`lui` operands. That phase is not designed here.
+- If the first translation pass shows that many labels need more room, a second phase relocates long strings into the overlay's zero padding and patches whatever references them. That phase is not designed here.
 
 ### Build
 
