@@ -210,3 +210,8 @@ Correction: Luca uses アタシ (script 250) and 捜したわよ (056): Luca is 
 | 翼は踊る | The wings dance | title motif |
 | 動天使 / 能天使 / 儀天使 / 術天使 | Angel of Motion / Power / Rite / Art | Tribunal ranks |
 | ＜ヨハネの書＞ | the Book of Johannes | |
+| 臥天使 | Dormant Angel | Terios's rank |
+| ＜ブランク＞ / アンノウン | Blank / the Unknown | Valtoss's lost page |
+| ＜翼ある者の年齢＞ | the Age of the Winged Ones | |
+| ギギ / ギギギ | Grrk... / Grrk-rrk... | Embryon rasp |
+| 過ぎたる知識 / 過ぎたる力 | excessive knowledge / excessive power | |

@@ -2,7 +2,7 @@
  {
   "id": "SCENARIO/324/00040",
   "jp": "ここまでをセーブしますか？",
-  "en": ""
+  "en": "Save progress up to here?"
  },
  {
   "id": "SCENARIO/324/001ac",
@@ -10,7 +10,7 @@
   "jp": [
    "もうすぐだ・・・"
   ],
-  "en": ""
+  "en": "Soon now..."
  },
  {
   "id": "SCENARIO/324/001de",
@@ -19,12 +19,12 @@
    "これで、",
    "全ての＜痛み＞から解放される"
   ],
-  "en": ""
+  "en": "With this, I am freed from all Pain."
  },
  {
   "id": "SCENARIO/324/03d80",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/324/03d8e",
@@ -32,12 +32,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/324/03da6",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/324/03db6",
@@ -45,6 +45,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

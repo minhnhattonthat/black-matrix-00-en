@@ -5,7 +5,7 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/323/00160",
@@ -13,7 +13,7 @@
   "jp": [
    "貴方も、ここに来ていたの？"
   ],
-  "en": ""
+  "en": "You came here too?"
  },
  {
   "id": "SCENARIO/323/001a2",
@@ -21,7 +21,7 @@
   "jp": [
    "ああ"
   ],
-  "en": ""
+  "en": "Yes."
  },
  {
   "id": "SCENARIO/323/001ce",
@@ -29,7 +29,7 @@
   "jp": [
    "毎日、来てくれているのね"
   ],
-  "en": ""
+  "en": "You come every day, don't you."
  },
  {
   "id": "SCENARIO/323/0020e",
@@ -37,7 +37,7 @@
   "jp": [
    "実感がわかなくてな・・・"
   ],
-  "en": ""
+  "en": "It doesn't feel real..."
  },
  {
   "id": "SCENARIO/323/0024e",
@@ -46,7 +46,7 @@
    "私もそうよ",
    "唐突すぎて、まだピンとこないの"
   ],
-  "en": ""
+  "en": "Same with me. It was too sudden; it still hasn't sunk in."
  },
  {
   "id": "SCENARIO/323/0029a",
@@ -56,7 +56,7 @@
    "ここに来ているはずなのに",
    "まだ信じられない・・・"
   ],
-  "en": ""
+  "en": "I come here like this every day, and still I can't believe it..."
  },
  {
   "id": "SCENARIO/323/00306",
@@ -64,7 +64,7 @@
   "jp": [
    "人の命は、儚いな・・・"
   ],
-  "en": ""
+  "en": "A person's life is fleeting..."
  },
  {
   "id": "SCENARIO/323/00346",
@@ -74,7 +74,7 @@
    "貴方にとって姉さんは",
    "どんな人だったの？"
   ],
-  "en": ""
+  "en": "...Tell me, what kind of person was my sister to you?"
  },
  {
   "id": "SCENARIO/323/00394",
@@ -82,7 +82,7 @@
   "jp": [
    "大切な人だったりした？"
   ],
-  "en": ""
+  "en": "Was she someone precious to you?"
  },
  {
   "id": "SCENARIO/323/003d2",
@@ -92,7 +92,7 @@
    "私を支えてくれた",
    "大切な部下だった・・・"
   ],
-  "en": ""
+  "en": "Yes. Cardia supported me. She was a precious subordinate..."
  },
  {
   "id": "SCENARIO/323/00432",
@@ -102,7 +102,7 @@
    "惜しい人間を、亡くして",
    "しまったものだと思う"
   ],
-  "en": ""
+  "en": "Cardia was excellent. We lost someone we could ill afford to lose, I feel."
  },
  {
   "id": "SCENARIO/323/004a2",
@@ -110,7 +110,7 @@
   "jp": [
    "・・・・・・・"
   ],
-  "en": ""
+  "en": "......."
  },
  {
   "id": "SCENARIO/323/004d2",
@@ -119,7 +119,7 @@
    "姉さん、本当は・・・",
    "貴方のこと好きだったのよ"
   ],
-  "en": ""
+  "en": "My sister, the truth is... she was in love with you."
  },
  {
   "id": "SCENARIO/323/0052a",
@@ -127,7 +127,7 @@
   "jp": [
    "好き・・・？"
   ],
-  "en": ""
+  "en": "In love...?"
  },
  {
   "id": "SCENARIO/323/0055e",
@@ -136,7 +136,7 @@
    "ええ、姉さんは",
    "貴方のこと愛していたの・・"
   ],
-  "en": ""
+  "en": "Yes. My sister loved you.."
  },
  {
   "id": "SCENARIO/323/005b2",
@@ -144,7 +144,7 @@
   "jp": [
    "！？"
   ],
-  "en": ""
+  "en": "!?"
  },
  {
   "id": "SCENARIO/323/005d6",
@@ -153,7 +153,7 @@
    "カルディアが・・・",
    "私を？"
   ],
-  "en": ""
+  "en": "Cardia... loved me?"
  },
  {
   "id": "SCENARIO/323/0061a",
@@ -163,7 +163,7 @@
    "ここに来て、姉さんのことを",
    "思い出してあげて・・・"
   ],
-  "en": ""
+  "en": "So, now and then is fine, come here and remember my sister..."
  },
  {
   "id": "SCENARIO/323/00698",
@@ -172,7 +172,7 @@
    "たぶん、姉さんは",
    "それだけで幸せだと思うから"
   ],
-  "en": ""
+  "en": "I think that alone would make her happy."
  },
  {
   "id": "SCENARIO/323/006ee",
@@ -180,12 +180,12 @@
   "jp": [
    "・・・・・・・・・"
   ],
-  "en": ""
+  "en": "........."
  },
  {
   "id": "SCENARIO/323/04268",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/323/04276",
@@ -193,12 +193,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/323/0428e",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/323/0429e",
@@ -206,6 +206,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

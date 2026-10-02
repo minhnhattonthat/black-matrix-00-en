@@ -6,7 +6,7 @@
    "ベイル・・・",
    "みんな・・・・ごめん・・"
   ],
-  "en": ""
+  "en": "Bale... everyone.... I'm sorry.."
  },
  {
   "id": "SCENARIO/320/00380",
@@ -14,7 +14,7 @@
   "jp": [
    "カイン！！！"
   ],
-  "en": ""
+  "en": "Cain!!"
  },
  {
   "id": "SCENARIO/320/00448",
@@ -23,7 +23,7 @@
    "くっ・・・すまない・・・",
    "カイン！！！"
   ],
-  "en": ""
+  "en": "Kh... Forgive me... Cain!!"
  },
  {
   "id": "SCENARIO/320/004d8",
@@ -31,7 +31,7 @@
   "jp": [
    "ベイル！！！"
   ],
-  "en": ""
+  "en": "Bale!!"
  },
  {
   "id": "SCENARIO/320/00554",
@@ -39,7 +39,7 @@
   "jp": [
    "お兄様！！！"
   ],
-  "en": ""
+  "en": "Brother!!"
  },
  {
   "id": "SCENARIO/320/00638",
@@ -47,7 +47,7 @@
   "jp": [
    "ルビエル様・・・"
   ],
-  "en": "",
+  "en": "Rubiel-sama...",
   "spill": false
  },
  {
@@ -58,7 +58,7 @@
    "ゆっくり休んでいろ・・・",
    "リプサリス"
   ],
-  "en": ""
+  "en": ".... Rest easy for now... Rhipsalis"
  },
  {
   "id": "SCENARIO/320/00724",
@@ -66,7 +66,7 @@
   "jp": [
    "申し訳ありません・・・"
   ],
-  "en": ""
+  "en": "I am sorry..."
  },
  {
   "id": "SCENARIO/320/00800",
@@ -74,7 +74,7 @@
   "jp": [
    "私は・・また・・・"
   ],
-  "en": "",
+  "en": "I've... failed again...",
   "spill": false
  },
  {
@@ -84,7 +84,7 @@
    "キミは僕の期待通りの",
    "動きをしてくれている"
   ],
-  "en": ""
+  "en": "You are moving exactly as I expected you to."
  },
  {
   "id": "SCENARIO/320/008b0",
@@ -92,7 +92,7 @@
   "jp": [
    "キミが過ちを再び起こす事はない"
   ],
-  "en": ""
+  "en": "You will not repeat that mistake."
  },
  {
   "id": "SCENARIO/320/008f8",
@@ -100,7 +100,7 @@
   "jp": [
    "テリオス様！！！"
   ],
-  "en": "",
+  "en": "Terios-sama!!",
   "spill": false
  },
  {
@@ -111,7 +111,7 @@
    "まさか　この私に",
    "打ち勝つ者がいようとは・・・"
   ],
-  "en": ""
+  "en": "Heh... heh heh heh... To think there was one who could best me..."
  },
  {
   "id": "SCENARIO/320/00a28",
@@ -120,7 +120,7 @@
    "ペレンデール家の血・・・",
    "そして　白き翼の継承者・・・"
   ],
-  "en": ""
+  "en": "The blood of Perendale... and the inheritor of the white wings..."
  },
  {
   "id": "SCENARIO/320/00a6c",
@@ -129,7 +129,7 @@
    "まさか　これほどの力が",
    "あろうとはな・・・・"
   ],
-  "en": "",
+  "en": "To think there was such power in it....",
   "spill": false
  },
  {
@@ -138,7 +138,7 @@
   "jp": [
    "ルビエル様！"
   ],
-  "en": ""
+  "en": "Rubiel-sama!"
  },
  {
   "id": "SCENARIO/320/00b50",
@@ -146,7 +146,7 @@
   "jp": [
    "これが　お前達の守る力か・・・"
   ],
-  "en": ""
+  "en": "So this is the power with which you protect..."
  },
  {
   "id": "SCENARIO/320/00c34",
@@ -155,7 +155,7 @@
    "なるほど・・・",
    "この僕が負けるとはね・・・"
   ],
-  "en": ""
+  "en": "I see... So even I can lose..."
  },
  {
   "id": "SCENARIO/320/00c6c",
@@ -163,7 +163,7 @@
   "jp": [
    "これが　キミ達の守る力・・・"
   ],
-  "en": ""
+  "en": "So this is the power with which you protect..."
  },
  {
   "id": "SCENARIO/320/00cf0",
@@ -172,7 +172,7 @@
    "テリオス・・・",
    "私は彼らと共に行く・・・"
   ],
-  "en": ""
+  "en": "Terios... I am going with them..."
  },
  {
   "id": "SCENARIO/320/00d44",
@@ -182,7 +182,7 @@
    "セイルズもそうだった・・・",
    "キミも　僕の元を去るんだね？"
   ],
-  "en": ""
+  "en": "The loser can't stop the victor.. Seils was the same... You too will leave my side?"
  },
  {
   "id": "SCENARIO/320/00dcc",
@@ -190,7 +190,7 @@
   "jp": [
    "すまない・・・"
   ],
-  "en": ""
+  "en": "Forgive me..."
  },
  {
   "id": "SCENARIO/320/00e48",
@@ -198,7 +198,7 @@
   "jp": [
    "・・・・・・"
   ],
-  "en": ""
+  "en": "......"
  },
  {
   "id": "SCENARIO/320/00e88",
@@ -208,7 +208,7 @@
    "いいさ　いつかこうなると",
    "思っていたから・・・・・・"
   ],
-  "en": ""
+  "en": "Heh heh. It's fine. I always thought it would come to this......"
  },
  {
   "id": "SCENARIO/320/00ed4",
@@ -218,7 +218,7 @@
    "　キミも僕をも越えたようだよ",
    "　セイルズ・・・）"
   ],
-  "en": ""
+  "en": "(Your son, it seems, has surpassed both you and me, Seils...)"
  },
  {
   "id": "SCENARIO/320/00f88",
@@ -226,7 +226,7 @@
   "jp": [
    "ベイル・・・"
   ],
-  "en": ""
+  "en": "Bale..."
  },
  {
   "id": "SCENARIO/320/00fa0",
@@ -236,7 +236,7 @@
    "大切な忘れ形見・・・出来れば",
    "こんな形になりたくなかったよ"
   ],
-  "en": ""
+  "en": "You are all my friend Seils left behind... I never wanted it to come to this."
  },
  {
   "id": "SCENARIO/320/01020",
@@ -245,7 +245,7 @@
    "私はこんなところでは死なない！",
    "そして　父と貴方を超える！！"
   ],
-  "en": ""
+  "en": "I will not die in a place like this! And I will surpass my father, and you!!"
  },
  {
   "id": "SCENARIO/320/01068",
@@ -254,7 +254,7 @@
    "私は　私の真実を掴む為に・・・",
    "彼らと共に　剣をとり戦う！"
   ],
-  "en": ""
+  "en": "To grasp my own truth... I take up my sword and fight alongside them!"
  },
  {
   "id": "SCENARIO/320/010d0",
@@ -264,7 +264,7 @@
    "正気の言葉とは思えぬな・・・",
    "我々の力は知っているはずだが"
   ],
-  "en": ""
+  "en": "Oh? Against us, hardly the words of a sane man... You know our power well enough."
  },
  {
   "id": "SCENARIO/320/01150",
@@ -272,7 +272,7 @@
   "jp": [
    "相手が誰であろうと関係ない！"
   ],
-  "en": ""
+  "en": "It doesn't matter who we're up against!"
  },
  {
   "id": "SCENARIO/320/01178",
@@ -281,7 +281,7 @@
    "ボクは・・・",
    "いやボク達は信じてるんだ！"
   ],
-  "en": ""
+  "en": "I... no, we believe!"
  },
  {
   "id": "SCENARIO/320/011ac",
@@ -290,7 +290,7 @@
    "守ろうとする力は",
    "誰にも負けやしない事を！！"
   ],
-  "en": ""
+  "en": "That the power to protect won't lose to anyone!!"
  },
  {
   "id": "SCENARIO/320/01204",
@@ -300,7 +300,7 @@
    "その気骨　異端者にしておくには",
    "もったいないくらいだ！"
   ],
-  "en": ""
+  "en": "Ahahahahaha!! Interesting! Such spirit, it's almost a waste to leave you a heretic!"
  },
  {
   "id": "SCENARIO/320/01268",
@@ -310,7 +310,7 @@
    "この法天使ルビエルが",
    "お前達の力とやらを試してやる！"
   ],
-  "en": ""
+  "en": "Very well... I, Rubiel the Angel of Law, shall test this power of yours!"
  },
  {
   "id": "SCENARIO/320/012bc",
@@ -318,7 +318,7 @@
   "jp": [
    "こい　リプサリス！！"
   ],
-  "en": ""
+  "en": "Come, Rhipsalis!!"
  },
  {
   "id": "SCENARIO/320/012fc",
@@ -326,7 +326,7 @@
   "jp": [
    "かしこまりました　ご主人様"
   ],
-  "en": ""
+  "en": "As you command, Master."
  },
  {
   "id": "SCENARIO/320/01340",
@@ -336,7 +336,7 @@
    "それでも迷いはないね",
    "クレイス？"
   ],
-  "en": ""
+  "en": "Your foes were once friends... Still no hesitation, Kreis?"
  },
  {
   "id": "SCENARIO/320/013a8",
@@ -346,7 +346,7 @@
    "いつでもご命令を",
    "テリオス様！"
   ],
-  "en": ""
+  "en": "None whatsoever... Your orders, whenever you wish, Terios-sama!"
  },
  {
   "id": "SCENARIO/320/01404",
@@ -356,7 +356,7 @@
    "児戯で終わらぬことを",
    "期待させてもらうよ・・・・"
   ],
-  "en": ""
+  "en": "Heh heh heh... I'll hope this doesn't end as mere child's play...."
  },
  {
   "id": "SCENARIO/320/014d8",
@@ -365,7 +365,7 @@
    "口ほどにもない・・・",
    "所詮　この程度か・・・"
   ],
-  "en": ""
+  "en": "All talk... So this is all you amount to..."
  },
  {
   "id": "SCENARIO/320/01510",
@@ -375,7 +375,7 @@
    "お前達の守る力より",
    "格段に上だったという事だ・・・"
   ],
-  "en": ""
+  "en": "The power we protect with.. no, our cause, simply stood far above yours..."
  },
  {
   "id": "SCENARIO/320/015d0",
@@ -383,7 +383,7 @@
   "jp": [
    "お別れです・・・"
   ],
-  "en": ""
+  "en": "Farewell..."
  },
  {
   "id": "SCENARIO/320/01650",
@@ -391,7 +391,7 @@
   "jp": [
    "・・・・・・・・"
   ],
-  "en": ""
+  "en": "........"
  },
  {
   "id": "SCENARIO/320/016d0",
@@ -400,7 +400,7 @@
    "全ての＜痛み＞を越える者・・",
    "そして真に羽ばたく者・・・・"
   ],
-  "en": ""
+  "en": "One who overcomes all Pain.. and one who truly takes wing...."
  },
  {
   "id": "SCENARIO/320/01718",
@@ -410,7 +410,7 @@
    "けれど　どうやら僕の",
    "見込み違いだったようだね"
   ],
-  "en": ""
+  "en": "I had expectations of you... But it seems I misjudged you."
  },
  {
   "id": "SCENARIO/320/01774",
@@ -418,7 +418,7 @@
   "jp": [
    "敗者に神はいない・・・"
   ],
-  "en": ""
+  "en": "The vanquished have no god..."
  },
  {
   "id": "SCENARIO/320/01794",
@@ -427,7 +427,7 @@
    "ホワイトフェイスの事は",
    "僕達が何とかしよう・・・・"
   ],
-  "en": ""
+  "en": "We will deal with Whiteface ourselves...."
  },
  {
   "id": "SCENARIO/320/017d4",
@@ -436,12 +436,12 @@
    "キミ達は　そのまま　安らかに",
    "永遠の眠りにつくといい・・・"
   ],
-  "en": ""
+  "en": "You may stay as you are, and sleep peacefully in eternal rest..."
  },
  {
   "id": "SCENARIO/320/05380",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/320/0538e",
@@ -449,12 +449,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/320/053a6",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/320/053b6",
@@ -462,7 +462,7 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  },
  {
   "id": "SCENARIO/320/05524",
@@ -470,7 +470,7 @@
   "jp": [
    "うぅ・・・"
   ],
-  "en": ""
+  "en": "Ugh..."
  },
  {
   "id": "SCENARIO/320/055e0",
@@ -479,7 +479,7 @@
    "すまない・・",
    "離脱する"
   ],
-  "en": ""
+  "en": "Sorry.. I'm pulling out"
  },
  {
   "id": "SCENARIO/320/056ac",
@@ -487,7 +487,7 @@
   "jp": [
    "やられたぁぁぁ"
   ],
-  "en": ""
+  "en": "They got meeee"
  },
  {
   "id": "SCENARIO/320/0576c",
@@ -496,7 +496,7 @@
    "あぁ　もう・・",
    "やってられないわ"
   ],
-  "en": ""
+  "en": "Aah, honestly.. I can't do this"
  },
  {
   "id": "SCENARIO/320/05840",
@@ -504,7 +504,7 @@
   "jp": [
    "ちっ・・・"
   ],
-  "en": ""
+  "en": "Tch..."
  },
  {
   "id": "SCENARIO/320/058fc",
@@ -513,7 +513,7 @@
    "あぁ・・・",
    "こんなはずでは・・"
   ],
-  "en": ""
+  "en": "Ah... it wasn't meant to.."
  },
  {
   "id": "SCENARIO/320/059d0",
@@ -521,7 +521,7 @@
   "jp": [
    "きゃー　もぉ　きゃー"
   ],
-  "en": ""
+  "en": "Eek, oh no, eek"
  },
  {
   "id": "SCENARIO/320/05a98",
@@ -529,7 +529,7 @@
   "jp": [
    "いたいよぉ・・"
   ],
-  "en": ""
+  "en": "It hurts.."
  },
  {
   "id": "SCENARIO/320/05b58",
@@ -537,7 +537,7 @@
   "jp": [
    "す　すいません"
   ],
-  "en": ""
+  "en": "S-sorry"
  },
  {
   "id": "SCENARIO/320/05c18",
@@ -546,7 +546,7 @@
    "すまない・・",
    "離脱する"
   ],
-  "en": ""
+  "en": "Sorry.. I'm pulling out"
  },
  {
   "id": "SCENARIO/320/05ce4",
@@ -554,7 +554,7 @@
   "jp": [
    "ぐっ　この私が・・・"
   ],
-  "en": ""
+  "en": "Ngh.. me, of all people..."
  },
  {
   "id": "SCENARIO/320/05dac",
@@ -562,7 +562,7 @@
   "jp": [
    "うー　いたいよぉ"
   ],
-  "en": ""
+  "en": "Ow.. it hurts"
  },
  {
   "id": "SCENARIO/320/05e70",
@@ -570,7 +570,7 @@
   "jp": [
    "・・限界だな・・"
   ],
-  "en": ""
+  "en": "..That's my limit.."
  },
  {
   "id": "SCENARIO/320/05f34",
@@ -578,7 +578,7 @@
   "jp": [
    "申し訳ありません"
   ],
-  "en": ""
+  "en": "My apologies"
  },
  {
   "id": "SCENARIO/320/05ff8",
@@ -588,7 +588,7 @@
    "あああああああああああああああ",
    "あああああああああああああああ"
   ],
-  "en": ""
+  "en": "They got meeeeeeeeeeeeeeeeee!"
  },
  {
   "id": "SCENARIO/320/0610c",
@@ -598,6 +598,6 @@
    "あああああああああああああああ",
    "あああああああああああああああ"
   ],
-  "en": ""
+  "en": "They got meeeeeeeeeeeeeeeeee!"
  }
 ]

@@ -5,7 +5,7 @@
   "jp": [
    "まだ、絶望が足りない・・・"
   ],
-  "en": ""
+  "en": "Not yet... not enough despair..."
  },
  {
   "id": "SCENARIO/316/00198",
@@ -13,7 +13,7 @@
   "jp": [
    "やめろ・・・"
   ],
-  "en": ""
+  "en": "Stop..."
  },
  {
   "id": "SCENARIO/316/00214",
@@ -23,7 +23,7 @@
    "つまらない理性など",
    "投げ捨ててしまえばいい"
   ],
-  "en": ""
+  "en": "Fall... Just cast away that worthless reason of yours."
  },
  {
   "id": "SCENARIO/316/0027e",
@@ -32,7 +32,7 @@
    "全てを捨てれば",
    "お前は楽になれるのだぞ？"
   ],
-  "en": ""
+  "en": "Cast it all away, and you could be at ease, you know?"
  },
  {
   "id": "SCENARIO/316/00322",
@@ -41,7 +41,7 @@
    "ダメだ・・",
    "私は"
   ],
-  "en": ""
+  "en": "No.. I will not"
  },
  {
   "id": "SCENARIO/316/003a4",
@@ -50,7 +50,7 @@
    "ならば再び",
    "あの日の悪夢を見せてやろう！！"
   ],
-  "en": ""
+  "en": "Then I shall show you the nightmare of that day once more!!"
  },
  {
   "id": "SCENARIO/316/0044a",
@@ -58,12 +58,12 @@
   "jp": [
    "うあぁぁぁぁぁぁぁぁっ！！！"
   ],
-  "en": ""
+  "en": "Uwaaaaaaaaaah!!!"
  },
  {
   "id": "SCENARIO/316/04010",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/316/0401e",
@@ -71,12 +71,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/316/04036",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/316/04046",
@@ -84,6 +84,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
