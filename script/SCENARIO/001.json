@@ -7,7 +7,7 @@
    "天使と呼ばれる",
    "白い翼を持つ者達と"
   ],
-  "en": ""
+  "en": "In this world, there are those with white wings, called angels,"
  },
  {
   "id": "SCENARIO/001/00182",
@@ -16,7 +16,7 @@
    "悪魔と呼ばれる",
    "黒い翼を持つ邪悪な者達がいる"
   ],
-  "en": ""
+  "en": "and wicked ones with black wings, called demons."
  },
  {
   "id": "SCENARIO/001/001de",
@@ -26,7 +26,7 @@
    "黒き翼を持つ邪悪な悪魔達を倒し",
    "人々の暮らしを守ってくれていた"
   ],
-  "en": ""
+  "en": "The white-winged angels fought the black-winged demons and kept the people safe."
  },
  {
   "id": "SCENARIO/001/00266",
@@ -35,7 +35,7 @@
    "でも、大陸から離れた",
    "小さな島に住んでいるボク達は"
   ],
-  "en": ""
+  "en": "But for us, living on a small island far from the mainland,"
  },
  {
   "id": "SCENARIO/001/002c6",
@@ -43,7 +43,7 @@
   "jp": [
    "天使と悪魔の戦いを"
   ],
-  "en": ""
+  "en": "the war between angels and demons"
  },
  {
   "id": "SCENARIO/001/00306",
@@ -52,12 +52,12 @@
    "ボク達とは関わりのない",
    "遠くの出来事だと思っていた・・"
   ],
-  "en": ""
+  "en": "was something far away, nothing to do with us... or so we thought."
  },
  {
   "id": "SCENARIO/001/03ed0",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/001/03ede",
@@ -65,12 +65,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/001/03ef6",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/001/03f06",
@@ -78,6 +78,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]

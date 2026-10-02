@@ -5,7 +5,7 @@
   "jp": [
    "目を・・・覚ませ"
   ],
-  "en": ""
+  "en": "Open... your eyes."
  },
  {
   "id": "SCENARIO/051/00184",
@@ -13,7 +13,7 @@
   "jp": [
    "お前は・・・"
   ],
-  "en": ""
+  "en": "You are..."
  },
  {
   "id": "SCENARIO/051/001be",
@@ -21,7 +21,7 @@
   "jp": [
    "・・・誰？"
   ],
-  "en": ""
+  "en": "...Who's there?"
  },
  {
   "id": "SCENARIO/051/0023c",
@@ -30,7 +30,7 @@
    "認めてしまえ",
    "お前は・・・"
   ],
-  "en": ""
+  "en": "Admit it. You are..."
  },
  {
   "id": "SCENARIO/051/00286",
@@ -39,7 +39,7 @@
    "何？",
    "聞こえないよ"
   ],
-  "en": ""
+  "en": "What? I can't hear you."
  },
  {
   "id": "SCENARIO/051/0030c",
@@ -48,7 +48,7 @@
    "消えろ",
    "お前は、偽りの・・・"
   ],
-  "en": ""
+  "en": "Vanish. You are a false..."
  },
  {
   "id": "SCENARIO/051/00356",
@@ -57,7 +57,7 @@
    "誰！？",
    "いったい、何をボクに・・・"
   ],
-  "en": ""
+  "en": "Who are you!? What are you doing to me..."
  },
  {
   "id": "SCENARIO/051/003b6",
@@ -65,7 +65,7 @@
   "jp": [
    "消えろ・・・"
   ],
-  "en": ""
+  "en": "Vanish..."
  },
  {
   "id": "SCENARIO/051/003d4",
@@ -73,7 +73,7 @@
   "jp": [
    "お前なんか、死んでしまえ！！！"
   ],
-  "en": ""
+  "en": "Why don't you just die!!"
  },
  {
   "id": "SCENARIO/051/0044a",
@@ -81,12 +81,12 @@
   "jp": [
    "うぁぁぁぁぁぁぁぁぁ！！"
   ],
-  "en": ""
+  "en": "Aaaaaaaaahhh!!"
  },
  {
   "id": "SCENARIO/051/040a0",
   "jp": "青年",
-  "en": ""
+  "en": "Young man"
  },
  {
   "id": "SCENARIO/051/040ae",
@@ -94,12 +94,12 @@
   "jp": [
    "ボンジュール"
   ],
-  "en": ""
+  "en": "Bonjour"
  },
  {
   "id": "SCENARIO/051/040c6",
   "jp": "カイン",
-  "en": ""
+  "en": "Cain"
  },
  {
   "id": "SCENARIO/051/040d6",
@@ -107,6 +107,6 @@
   "jp": [
    "？？？"
   ],
-  "en": ""
+  "en": "???"
  }
 ]
