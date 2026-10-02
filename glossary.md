@@ -201,3 +201,7 @@ Correction: Luca uses アタシ (script 250) and 捜したわよ (056): Luca is 
 | 禁忌の地 | the Forbidden Land | |
 | ＜グレイヘンの哀歌＞ / ＜グレイヘンの亡骸＞ | Greyhen's Lament / Greyhen's Remains | |
 | コウモリ羽 | bat-wings | Luca's insult |
+| 核神樹胎装置 | the God Core Tree-Womb Device | |
+| アンチ | Anti | the ring that denies |
+| 全召喚型ペインリング | all summon-type Pain Rings | |
+| 仮宿 | temporary lodgings | epilogue |
