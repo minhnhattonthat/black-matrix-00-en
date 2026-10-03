@@ -98,7 +98,7 @@
  {
   "id": "SYSTEM/4/00094",
   "jp": "攻　撃",
-  "en": "Attck",
+  "en": "Attack",
   "width": 6
  },
  {
@@ -182,7 +182,7 @@
  {
   "id": "SYSTEM/4/0089c",
   "jp": "通　常",
-  "en": "Norml",
+  "en": "Normal",
   "width": 6
  },
  {
@@ -290,7 +290,7 @@
  {
   "id": "SYSTEM/4/00978",
   "jp": "復　活",
-  "en": "Reviv",
+  "en": "Revive",
   "width": 6
  },
  {
@@ -458,7 +458,7 @@
  {
   "id": "SYSTEM/4/01014",
   "jp": "攻　撃",
-  "en": "Attck",
+  "en": "Attack",
   "width": 6
  },
  {
