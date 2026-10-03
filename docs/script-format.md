@@ -69,3 +69,32 @@ Opcodes that matter for translation:
 `test_script.py` holds on all 382 non-empty `SCENARIO.DAT` sub-files: the token stream reproduces the used bytes exactly, every jump lands on a token start, and no kana run lies outside a string token.
 
 A signature could still be wrong for a handler that reads operands on only some branches. The linear listing would overcount; such an error would normally derail tokenization, and none did.
+
+## TOWN.DAT
+
+43 sub-files. Each is a tree of containers:
+
+    u16 count, u16 1, u32 2, then count x (u32 offset, u32 size) in 4-byte words
+
+Offsets are relative to the container, entries are contiguous and start right
+after the table; anything that does not parse as a container is a leaf
+(`town.parse` / `town.rebuild`). Town-state files 4..30 and sub 40 carry two
+text leaves, identical in every copy:
+
+| leaf | role | entries | bytes per line |
+|------|------|---------|----------------|
+| A, 68 entries | Notebook articles | 846 lines | 32 (16 cells) |
+| B, 48 entries | prompts, Save/Load/Config, coach tips, shop names | 147 lines | 28 (14 cells) |
+
+Text leaf: u16 offset table (count = first offset / 2), then per entry
+
+    (0001 [u16 param] <Shift-JIS, even length> 0000)* [0000]
+
+The closing `0000` is absent on the 16-name shop list and present on some
+empty articles, so it is kept as a flag. Params (0x07/0x0b/0x0c) occur only on
+the three yes/no prompts. Leaves are padded to a word; a leaf must stay under
+64 KB. English grows each town file by about 2.5 KB; parents are relaid out.
+
+JSON: `script/TOWN/notebook.json` (one entry per article, `en` with `\n` hard
+breaks, auto-wrapped at 32 bytes, an empty paragraph becomes a `　` line) and
+`script/TOWN/town.json` (one entry per line, no wrapping, 28-byte cap).
