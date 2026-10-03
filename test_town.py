@@ -38,14 +38,63 @@ def test_text_leaf_round_trip_and_shape():
 
 
 def test_text_leaf_odd_string_and_size_guard():
-    leaf = town.text_leaf([([(None, script.encode("abc"))], True), ([], False)])
-    assert leaf == bytes([4, 0, 14, 0]) + b"\x01\x00abc \x00\x00\x00\x00"   # empty entry starts at the end
-    assert town.text_entries(leaf) == [([(None, b"abc ")], True), ([], False)]
+    leaf = town.text_leaf([([], False), ([(None, script.encode("abc"))], True)])
+    assert leaf == bytes([4, 0, 4, 0]) + b"\x01\x00abc \x00\x00\x00\x00" + bytes(2)   # 0-byte entry, then word pad
+    assert town.text_entries(leaf) == [([], False), ([(None, b"abc ")], True)]
+    padded = town.text_leaf([([(None, b"ab")], True)])             # 10 bytes of content
+    assert len(padded) == 12 and town.text_entries(padded) == [([(None, b"ab")], True)]   # 4-byte pad survives
     try:
         town.text_leaf([([(None, b"xx" * 33000)], True)])      # 66000 bytes: u16 offsets overflow
     except ValueError:
         return
     assert False, "expected ValueError"
+
+
+def test_extract_and_identity_insert():
+    nb, ui = town.extract(TOWN[4])
+    assert len(nb) == 68 and nb[0]["id"] == "TOWN/A/00" and nb[0]["jp"][0].startswith("『")   # 『
+    assert nb[0]["width"] == 32 and nb[0]["wrap"] is True
+    assert ui[0] == {"id": "TOWN/B/00/00", "jp": "街を出ますか？", "en": "", "width": 28}
+    assert len(ui) > 140 and all(e["jp"] for e in ui)            # blank 　 lines are listed too
+    for i in list(range(4, 31)) + [40]:
+        assert town.has_text(TOWN[i]) and town.insert(TOWN[i], nb, ui) == TOWN[i]
+    assert not town.has_text(TOWN[0])
+
+
+def test_insert_wraps_articles_relayouts_and_keeps_params():
+    nb, ui = town.extract(TOWN[4])
+    nb[0]["en"] = ("『The circus is in town!』\nThe Nekinter Kanel troupe has come to this town too, "
+                   "and everyone is talking about it so go and see it quickly!\n\nFly")
+    ui[0]["en"] = "Leave town?"
+    out = town.insert(TOWN[4], nb, ui)
+    assert len(out) > len(TOWN[4])
+    nb2, ui2 = town.extract(out)
+    lines = nb2[0]["jp"]
+    assert lines[0] == "『The circus is in town!』" and lines[-1].rstrip() == "Fly" and "　" in lines
+    assert all(len(script.encode(l)) <= 32 for l in lines) and len(lines) >= 5
+    assert ui2[0]["jp"].rstrip() == "Leave town?"
+    children, _ = town.parse(out)
+    orig_children, _ = town.parse(TOWN[4])
+    assert [town.rebuild(c) for c in children[2:]] == [town.rebuild(c) for c in orig_children[2:]]   # later siblings moved intact
+    inner, _ = children[1]
+    leaf = next(c for c in inner if isinstance(c, bytes) and town.text_entries(c) and len(town.text_entries(c)) == 48)
+    assert town.text_entries(leaf)[0][0][0][0] == 7               # param kept
+
+
+def test_insert_rejects_wide_ui_line_and_unknown_id():
+    nb, ui = town.extract(TOWN[4])
+    ui[0]["en"] = "x" * 29
+    try:
+        town.insert(TOWN[4], nb, ui)
+    except ValueError as err:
+        assert "TOWN/B/00/00" in str(err)
+    else:
+        assert False
+    try:
+        town.insert(TOWN[4], nb, [{"id": "TOWN/B/99/00", "en": "x", "width": 28}])
+    except ValueError:
+        return
+    assert False
 
 
 if __name__ == "__main__":

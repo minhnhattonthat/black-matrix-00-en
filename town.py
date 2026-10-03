@@ -68,7 +68,7 @@ def text_entries(leaf: bytes):
             op = struct.unpack_from("<H", e, pos)[0]
             pos += 2
             if op == 0:
-                if pos != len(e):
+                if any(e[pos:]):                   # only 4-byte zero padding may follow
                     return None
                 terminated = True
                 break
@@ -102,4 +102,92 @@ def text_leaf(entries) -> bytes:
         pos += len(e)
     if pos > 0xFFFF:
         raise ValueError(f"text leaf too large: {pos} bytes")
+    body += bytes(-pos % 4)                        # container entries are whole words
     return b"".join(struct.pack("<H", o) for o in offs) + bytes(body)
+
+
+A_COUNT, B_COUNT = 68, 48          # Notebook articles / town UI entries
+A_WIDTH, B_WIDTH = 32, 28          # bytes per line (16 / 14 cells)
+BLANK = "　"
+
+
+def _leaves(node):
+    if isinstance(node, bytes):
+        yield node
+    else:
+        for c in node[0]:
+            yield from _leaves(c)
+
+
+def _text_leaves(sub: bytes) -> dict:
+    """{'A': entries, 'B': entries} for the two known leaves."""
+    found = {}
+    for leaf in _leaves(parse(sub)):
+        entries = text_entries(leaf)
+        if entries and len(entries) in (A_COUNT, B_COUNT):
+            found["A" if len(entries) == A_COUNT else "B"] = entries
+    return found
+
+
+def has_text(sub: bytes) -> bool:
+    return len(_text_leaves(sub)) == 2
+
+
+def extract(sub: bytes):
+    leaves = _text_leaves(sub)
+    notebook = [{"id": f"TOWN/A/{i:02d}", "jp": [script.decode(s) for _, s in lines], "en": "",
+                 "width": A_WIDTH, "wrap": True}
+                for i, (lines, _) in enumerate(leaves["A"])]
+    ui = [{"id": f"TOWN/B/{i:02d}/{j:02d}", "jp": script.decode(s), "en": "", "width": B_WIDTH}
+          for i, (lines, _) in enumerate(leaves["B"]) for j, (_, s) in enumerate(lines)]
+    return notebook, ui
+
+
+def _article_lines(e: dict) -> list[str]:
+    if not e["en"]:
+        return list(e["jp"])
+    out = []
+    for para in e["en"].split("\n"):
+        out += script.wrap(para, A_WIDTH) if para.strip() else [BLANK]
+    return out
+
+
+def _replace_leaf(node, old_entries, new_entries):
+    """Swap, in place in the tree, the leaf whose entries equal old_entries."""
+    children, _ = node
+    for i, c in enumerate(children):
+        if isinstance(c, bytes):
+            if text_entries(c) == old_entries:
+                children[i] = text_leaf(new_entries)
+        else:
+            _replace_leaf(c, old_entries, new_entries)
+
+
+def insert(sub: bytes, notebook: list, ui: list) -> bytes:
+    leaves = _text_leaves(sub)
+    by_id = {e["id"]: e for e in notebook}
+    new_a = []
+    for i, (lines, terminated) in enumerate(leaves["A"]):
+        e = by_id.pop(f"TOWN/A/{i:02d}", None)
+        if e is None:
+            new_a.append((lines, terminated))
+        else:
+            new_a.append(([(None, script.encode(l)) for l in _article_lines(e)], terminated))
+    by_id.update({e["id"]: e for e in ui})
+    new_b = []
+    for i, (lines, terminated) in enumerate(leaves["B"]):
+        out = []
+        for j, (param, s) in enumerate(lines):
+            e = by_id.pop(f"TOWN/B/{i:02d}/{j:02d}", None)
+            if e and e["en"]:
+                s = script.encode(e["en"])
+                if len(s) > B_WIDTH:
+                    raise ValueError(f"{e['id']}: {len(s)} bytes > {B_WIDTH}")
+            out.append((param, s))
+        new_b.append((out, terminated))
+    if by_id:
+        raise ValueError(f"no such TOWN text: {sorted(by_id)[:5]}")
+    tree = parse(sub)
+    _replace_leaf(tree, leaves["A"], new_a)
+    _replace_leaf(tree, leaves["B"], new_b)
+    return rebuild(tree)
