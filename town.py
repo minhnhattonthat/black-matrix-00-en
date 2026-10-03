@@ -47,3 +47,59 @@ def rebuild(node) -> bytes:
     for x in blobs:
         out += x
     return bytes(out) + tail
+
+
+def text_entries(leaf: bytes):
+    """[(lines, terminated) per entry] or None; lines = [(param, sjis), ...].
+    Entry = (0001 [param] str 0000)* [0000]. The closing 0000 is missing on some
+    entries (the shop list) and present on some empty ones, so it is kept as a flag."""
+    if len(leaf) < 4 or len(leaf) % 2:
+        return None
+    first = struct.unpack_from("<H", leaf, 0)[0]
+    if first < 2 or first % 2 or first > len(leaf):
+        return None
+    offs = [struct.unpack_from("<H", leaf, 2 * i)[0] for i in range(first // 2)] + [len(leaf)]
+    if any(a > b for a, b in zip(offs, offs[1:])):
+        return None
+    entries = []
+    for a, b in zip(offs, offs[1:]):
+        e, pos, lines, terminated = leaf[a:b], 0, [], False
+        while pos < len(e):
+            op = struct.unpack_from("<H", e, pos)[0]
+            pos += 2
+            if op == 0:
+                if pos != len(e):
+                    return None
+                terminated = True
+                break
+            if op != 1 or pos + 2 > len(e):
+                return None
+            param = None
+            if e[pos + 1] == 0 and e[pos] < 0x20:      # a string never starts with a control byte
+                param, pos = e[pos], pos + 2
+            end = pos
+            while e[end:end + 2] != b"\0\0":
+                end += 2
+                if end >= len(e):
+                    return None
+            lines.append((param, e[pos:end]))
+            pos = end + 2
+        entries.append((lines, terminated))
+    return entries
+
+
+def text_leaf(entries) -> bytes:
+    body, offs, pos = bytearray(), [], 2 * len(entries)
+    for lines, terminated in entries:
+        offs.append(pos)
+        e = bytearray()
+        for param, s in lines:
+            assert len(s) % 2 == 0 and b"\0\0" not in s
+            e += b"\x01\x00" + (struct.pack("<H", param) if param is not None else b"") + s + b"\0\0"
+        if terminated:
+            e += b"\0\0"
+        body += e
+        pos += len(e)
+    if pos > 0xFFFF:
+        raise ValueError(f"text leaf too large: {pos} bytes")
+    return b"".join(struct.pack("<H", o) for o in offs) + bytes(body)
