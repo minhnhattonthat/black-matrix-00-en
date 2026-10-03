@@ -1,0 +1,254 @@
+[
+ {
+  "id": "SYSTEM/7/00004",
+  "jp": "装備",
+  "en": "Eqp.",
+  "width": 4
+ },
+ {
+  "id": "SYSTEM/7/0000c",
+  "jp": "装備解除",
+  "en": "Unequip",
+  "width": 8
+ },
+ {
+  "id": "SYSTEM/7/00018",
+  "jp": "スキル",
+  "en": "Skill",
+  "width": 6
+ },
+ {
+  "id": "SYSTEM/7/00020",
+  "jp": "捨てる",
+  "en": "Drop",
+  "width": 6
+ },
+ {
+  "id": "SYSTEM/7/00028",
+  "jp": "ページ切替",
+  "en": "Page",
+  "width": 10
+ },
+ {
+  "id": "SYSTEM/7/00034",
+  "jp": "決定",
+  "en": "OK",
+  "width": 4
+ },
+ {
+  "id": "SYSTEM/7/0003c",
+  "jp": "キャンセル",
+  "en": "Cancel",
+  "width": 10
+ },
+ {
+  "id": "SYSTEM/7/00048",
+  "jp": "数量選択",
+  "en": "Amount",
+  "width": 8
+ },
+ {
+  "id": "SYSTEM/7/00054",
+  "jp": "変更できる武器がありません",
+  "en": "No weapon to switch to",
+  "width": 26
+ },
+ {
+  "id": "SYSTEM/7/00070",
+  "jp": "いくつ捨てますか？",
+  "en": "Drop how many?",
+  "width": 18
+ },
+ {
+  "id": "SYSTEM/7/00084",
+  "jp": "装備を外せません",
+  "en": "Can't unequip",
+  "width": 16
+ },
+ {
+  "id": "SYSTEM/7/0011c",
+  "jp": "武器は外せません",
+  "en": "Can't go unarmed",
+  "width": 16
+ },
+ {
+  "id": "SYSTEM/7/00130",
+  "jp": "変更できるアクセサリがありません",
+  "en": "No accessory to switch to",
+  "width": 32
+ },
+ {
+  "id": "SYSTEM/7/00214",
+  "jp": "変更できるスキルがありません",
+  "en": "No skill to switch to",
+  "width": 28
+ },
+ {
+  "id": "SYSTEM/7/0026c",
+  "jp": "変更できるリングがありません",
+  "en": "No ring to switch to",
+  "width": 28
+ },
+ {
+  "id": "SYSTEM/7/0028c",
+  "jp": "戦闘中に使用したリングは外せません",
+  "en": "Can't remove a ring used in battle",
+  "width": 34
+ },
+ {
+  "id": "SYSTEM/7/00934",
+  "jp": "状態",
+  "en": "Info",
+  "width": 4
+ },
+ {
+  "id": "SYSTEM/7/00974",
+  "jp": "武器",
+  "en": "Arms",
+  "width": 4
+ },
+ {
+  "id": "SYSTEM/7/0097c",
+  "jp": "リング",
+  "en": "Ring",
+  "width": 6
+ },
+ {
+  "id": "SYSTEM/7/00984",
+  "jp": "消耗品",
+  "en": "Items",
+  "width": 6
+ },
+ {
+  "id": "SYSTEM/7/0098c",
+  "jp": "アクセサリ",
+  "en": "Accessory",
+  "width": 10
+ },
+ {
+  "id": "SYSTEM/7/00998",
+  "jp": "終了",
+  "en": "Exit",
+  "width": 4
+ },
+ {
+  "id": "SYSTEM/8/00000",
+  "jp": "　出　る",
+  "en": " Exit",
+  "width": 8
+ },
+ {
+  "id": "SYSTEM/8/0000c",
+  "jp": "　売　る",
+  "en": " Sell",
+  "width": 8
+ },
+ {
+  "id": "SYSTEM/8/00018",
+  "jp": "　買　う",
+  "en": " Buy",
+  "width": 8
+ },
+ {
+  "id": "SYSTEM/8/000e4",
+  "jp": "決定",
+  "en": "OK",
+  "width": 4
+ },
+ {
+  "id": "SYSTEM/8/000ec",
+  "jp": "キャンセル",
+  "en": "Cancel",
+  "width": 10
+ },
+ {
+  "id": "SYSTEM/8/000f8",
+  "jp": "数量選択",
+  "en": "Amount",
+  "width": 8
+ },
+ {
+  "id": "SYSTEM/8/00184",
+  "jp": "買いますか？",
+  "en": "Buy this?",
+  "width": 12
+ },
+ {
+  "id": "SYSTEM/8/00194",
+  "jp": "装備しますか？",
+  "en": "Equip it now?",
+  "width": 14
+ },
+ {
+  "id": "SYSTEM/8/001a4",
+  "jp": "装備を外せません",
+  "en": "Can't unequip",
+  "width": 16
+ },
+ {
+  "id": "SYSTEM/8/001b8",
+  "jp": "いくつ買いますか？",
+  "en": "Buy how many?",
+  "width": 18
+ },
+ {
+  "id": "SYSTEM/8/00380",
+  "jp": "売るものがありません",
+  "en": "Nothing to sell",
+  "width": 20
+ },
+ {
+  "id": "SYSTEM/8/0043c",
+  "jp": "いくつ売りますか？",
+  "en": "Sell how many?",
+  "width": 18
+ },
+ {
+  "id": "SYSTEM/9/000d4",
+  "jp": "Ｌｖアップ",
+  "en": "Level Up",
+  "width": 10
+ },
+ {
+  "id": "SYSTEM/9/000e0",
+  "jp": "終了",
+  "en": "Exit",
+  "width": 4
+ },
+ {
+  "id": "SYSTEM/9/000e8",
+  "jp": "レベルアップしますか？",
+  "en": "Level up?",
+  "width": 22
+ },
+ {
+  "id": "SYSTEM/9/00100",
+  "jp": "レベルアップを終了しますか？",
+  "en": "Finish leveling up?",
+  "width": 28
+ },
+ {
+  "id": "SYSTEM/9/0020c",
+  "jp": "ＢＰ配分",
+  "en": "Spend BP",
+  "width": 8
+ },
+ {
+  "id": "SYSTEM/9/00218",
+  "jp": "配分終了",
+  "en": "Done",
+  "width": 8
+ },
+ {
+  "id": "SYSTEM/9/002cc",
+  "jp": "ボーナスポイントが残っています",
+  "en": "You still have bonus points.",
+  "width": 30
+ },
+ {
+  "id": "SYSTEM/9/002ec",
+  "jp": "これでよろしいですか？",
+  "en": "Is this all right?",
+  "width": 22
+ }
+]

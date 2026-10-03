@@ -83,6 +83,9 @@ def patch_system():
     system[2] = tables.insert_fixed(system[2], fixed)
     system[10] = pointers.insert(system[10], _system_json("messages"))
     system[4] = tables.insert_overlay(system[4], _system_json("overlay"))
+    menus = _system_json("menus")                  # equip (7), shop (8), level-up (9) overlays; ids are SYSTEM/<sub>/<offset>
+    for n in (7, 8, 9):
+        system[n] = tables.insert_overlay(system[n], [e for e in menus if e["id"].split("/")[1] == str(n)])
     (EXTRACTED / "SYSTEM.DAT").write_bytes(dat.pack(system))
     # battle names: their own list first, then the unit table (SYSTEM table 2) fills any gap
     unit_lo, unit_hi = tables._directory(system[2])[2]
