@@ -23,6 +23,8 @@
 ; English that only tears words apart ("Sa  ve"). original: andi v1, v1, 0x80
 .org 0x80013598
     andi  v1, v1, 0
+.org 0x80013800                ; same test in the layout branch used by menus (flags without 0xe00)
+    andi  v1, v1, 0
 
 ; ---- font, glyphs 0x20-0x5F ------------------------------------------------
 .org 0x800604A0
