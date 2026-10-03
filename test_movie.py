@@ -71,6 +71,11 @@ def test_cache_key_follows_cues():
     assert movie.cache_path(SRC, c1) == movie.cache_path(SRC, list(c1))
 
 
+def test_phrases_cut_at_pauses():
+    words = [(1.0, 1.2, "a"), (1.3, 1.5, "b"), (9.0, 9.4, "c"), (9.5, 9.9, "d "), (20.0, 20.1, " ")]
+    assert movie.phrases(words) == [(1.0, 1.5, "ab"), (9.0, 9.9, "cd")]
+
+
 if __name__ == "__main__":
     for name, fn in list(globals().items()):
         if name.startswith("test_"):

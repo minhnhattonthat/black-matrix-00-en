@@ -1,0 +1,58 @@
+[
+ {
+  "id": "MOVIE/006/00",
+  "start": 0.72,
+  "end": 2.9,
+  "jp": "いつもの夢？",
+  "en": "The usual dream...?",
+  "check": true
+ },
+ {
+  "id": "MOVIE/006/01",
+  "start": 6.8,
+  "end": 8.0,
+  "jp": "見たくない！",
+  "en": "I don't want to see it!",
+  "check": true
+ },
+ {
+  "id": "MOVIE/006/02",
+  "start": 8.0,
+  "end": 10.0,
+  "jp": "その目に焼き付けろ",
+  "en": "Burn it into your eyes.",
+  "check": true
+ },
+ {
+  "id": "MOVIE/006/03",
+  "start": 10.0,
+  "end": 11.0,
+  "jp": "やめて",
+  "en": "Stop...",
+  "check": true
+ },
+ {
+  "id": "MOVIE/006/04",
+  "start": 11.0,
+  "end": 12.0,
+  "jp": "これが",
+  "en": "This is...",
+  "check": true
+ },
+ {
+  "id": "MOVIE/006/05",
+  "start": 12.0,
+  "end": 13.0,
+  "jp": "やめて！",
+  "en": "Stop it!",
+  "check": true
+ },
+ {
+  "id": "MOVIE/006/06",
+  "start": 13.0,
+  "end": 14.4,
+  "jp": "世界の終わりだ",
+  "en": "...the end of the world.",
+  "check": true
+ }
+]

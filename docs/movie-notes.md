@@ -18,3 +18,20 @@
   the current directory: run it with cwd = the directory holding the stream.
 
 Constants for `movie.py`: `FRAME_BASE = 0`, bare stream (no wrapping for jPSXdec).
+
+## Content of the Disc 1 streams
+
+| stream | speech | subtitles |
+|--------|--------|-----------|
+| BMM_001 (36 s) | battle lines, Pain Ring calls | 8 cues |
+| BMM_002 (101 s) | opening narration | 13 cues |
+| BMM_003, 004, 007, 011 | none (music; Whisper invents a line over music) | none |
+| BMM_005 (149 s) | Cain / inner voice; 20-90 s is a song, not transcribed | 16 cues |
+| BMM_006 (16 s) | dream voices | 7 cues, all flagged `check` |
+| BMM_013..018 (10 s) | chapter start card, title visible 4.0-7.0 s | title cue |
+| BMM_023..028 (6 s) | eyecatch, title visible 3.0-4.6 s | title cue |
+| BMM_035 | logo only | none |
+
+Transcription: faster-whisper large-v3 on CPU (no cuBLAS here), word timestamps, phrases cut
+at pauses over 0.6 s, then corrected by hand. `work/movie/make_cues.py` holds the corrected
+cues that produced `script/MOVIE/*.json`.

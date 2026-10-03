@@ -136,3 +136,50 @@ def cached(src: Path, cues: list) -> Path:
         patch(src, cues, tmp)
         tmp.replace(path)
     return path
+
+
+def transcribe(name: str) -> list:
+    """Whisper segments of work/orig/MOVIE/<name>.STR as untranslated cues."""
+    from faster_whisper import WhisperModel
+    src = ROOT / "work" / "orig" / "MOVIE" / f"{name}.STR"
+    with tempfile.TemporaryDirectory() as d:
+        d = Path(d)
+        (d / "in.bin").write_bytes(wrap(src.read_bytes()))
+        subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "psxstr", "-i", "in.bin", "-vn",
+                        "-ar", "16000", "-ac", "1", "a.wav"], cwd=d, check=True)
+        model = WhisperModel("large-v3", device="cpu", compute_type="int8")   # cuBLAS/cuDNN are not installed here
+        import wave
+        import numpy as np
+        with wave.open(str(d / "a.wav")) as w:           # samples, not a path: skips faster-whisper's PyAV loader
+            audio = np.frombuffer(w.readframes(w.getnframes()), dtype=np.int16).astype(np.float32) / 32768
+        segments, _ = model.transcribe(audio, language="ja", vad_filter=True, word_timestamps=True,
+                                       condition_on_previous_text=False)
+        words = [(w.start, w.end, w.word) for s in segments for w in s.words]
+    num = name.split("_")[1]
+    return [{"id": f"MOVIE/{num}/{i:02d}", "start": round(a, 2), "end": round(b, 2), "jp": t, "en": ""}
+            for i, (a, b, t) in enumerate(phrases(words))]
+
+
+def phrases(words: list, gap: float = 0.6) -> list:
+    """(start, end, text) runs of words: Whisper segments can span a minute of music, so cut at pauses."""
+    out = []
+    for a, b, t in words:
+        if out and a - out[-1][1] <= gap:
+            out[-1][1] = b
+            out[-1][2] += t
+        else:
+            out.append([a, b, t])
+    return [(a, b, t.strip()) for a, b, t in out if t.strip()]
+
+
+if __name__ == "__main__":
+    if sys.argv[1:2] != ["transcribe"]:
+        sys.exit(__doc__)
+    for name in sys.argv[2:]:
+        out = ROOT / "script" / "MOVIE" / f"{name}.json"
+        if out.exists():
+            print("exists, skipped:", out)
+            continue
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text(json.dumps(transcribe(name), ensure_ascii=False, indent=1), encoding="utf-8")
+        print(out)

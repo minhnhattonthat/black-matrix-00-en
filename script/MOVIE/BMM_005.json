@@ -1,0 +1,117 @@
+[
+ {
+  "id": "MOVIE/005/00",
+  "start": 1.2,
+  "end": 4.0,
+  "jp": "マティア、ごめん",
+  "en": "Matia... I'm sorry."
+ },
+ {
+  "id": "MOVIE/005/01",
+  "start": 5.22,
+  "end": 9.2,
+  "jp": "もう、僕は・・・",
+  "en": "I just... can't...",
+  "check": true
+ },
+ {
+  "id": "MOVIE/005/02",
+  "start": 17.14,
+  "end": 20.2,
+  "jp": "ここにいるのは、誰？",
+  "en": "Who is it... that's here?",
+  "check": true
+ },
+ {
+  "id": "MOVIE/005/03",
+  "start": 90.2,
+  "end": 92.0,
+  "jp": "聞こえなくなればいいのに",
+  "en": "If only it would just stop..."
+ },
+ {
+  "id": "MOVIE/005/04",
+  "start": 92.64,
+  "end": 93.7,
+  "jp": "誰？",
+  "en": "Who's there?"
+ },
+ {
+  "id": "MOVIE/005/05",
+  "start": 93.88,
+  "end": 95.2,
+  "jp": "そうさ",
+  "en": "That's right."
+ },
+ {
+  "id": "MOVIE/005/06",
+  "start": 95.54,
+  "end": 97.6,
+  "jp": "それで全て静かになる",
+  "en": "Then everything goes quiet.",
+  "check": true
+ },
+ {
+  "id": "MOVIE/005/07",
+  "start": 98.68,
+  "end": 100.7,
+  "jp": "全部死んでしまえばいい",
+  "en": "Everything should just die."
+ },
+ {
+  "id": "MOVIE/005/08",
+  "start": 101.06,
+  "end": 105.3,
+  "jp": "そうすれば、苛立ちから、煩わしさから",
+  "en": "Then, from the irritation, from all that vexes you..."
+ },
+ {
+  "id": "MOVIE/005/09",
+  "start": 105.98,
+  "end": 107.4,
+  "jp": "何を言って・・・？",
+  "en": "What are you saying...?"
+ },
+ {
+  "id": "MOVIE/005/10",
+  "start": 109.73,
+  "end": 111.7,
+  "jp": "全て解放してやる",
+  "en": "I'll set you free of it all."
+ },
+ {
+  "id": "MOVIE/005/11",
+  "start": 112.29,
+  "end": 116.6,
+  "jp": "憎しみも、苛立ちも、衝動も、全てだ",
+  "en": "Hatred, irritation, urges... all of it."
+ },
+ {
+  "id": "MOVIE/005/12",
+  "start": 120.08,
+  "end": 122.6,
+  "jp": "俺は生きてやる",
+  "en": "I am going to live."
+ },
+ {
+  "id": "MOVIE/005/13",
+  "start": 125.64,
+  "end": 127.9,
+  "jp": "お前が知る必要はない",
+  "en": "You don't need to know."
+ },
+ {
+  "id": "MOVIE/005/14",
+  "start": 128.76,
+  "end": 131.2,
+  "jp": "全てから解放される",
+  "en": "You'll be free of everything."
+ },
+ {
+  "id": "MOVIE/005/15",
+  "start": 143.6,
+  "end": 146.2,
+  "jp": "消えるのはお前だ",
+  "en": "The one who vanishes is you."
+ }
+]

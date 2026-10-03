@@ -2,7 +2,7 @@
 import json, shutil, subprocess, sys
 from pathlib import Path
 
-import dat, exe, halfwidth, pointers, script, tables, town
+import dat, exe, halfwidth, movie, pointers, script, tables, town
 
 ROOT = Path(__file__).parent
 ROM = ROOT / "rom" / "Black-Matrix 00 (Japan) (Disc 1).bin"
@@ -28,6 +28,7 @@ def extract():
     ORIG.mkdir(exist_ok=True)
     for name in ARCHIVES + ["SLPS_035.73"]:
         shutil.copy2(EXTRACTED / name, ORIG / name)
+    shutil.copytree(EXTRACTED / "MOVIE", ORIG / "MOVIE", dirs_exist_ok=True)
 
 
 SCRIPT = ROOT / "script"
@@ -104,9 +105,19 @@ def patch_town():
     (EXTRACTED / "TOWN.DAT").write_bytes(dat.pack(subs))
 
 
+def patch_movies():
+    """Subtitled streams from the cache (rendered on a miss); movies without English cues are the originals."""
+    for src in sorted((ORIG / "MOVIE").glob("*.STR")):
+        cue_file = SCRIPT / "MOVIE" / f"{src.stem}.json"
+        cues = json.loads(cue_file.read_text(encoding="utf-8")) if cue_file.exists() else []
+        shutil.copyfile(movie.cached(src, cues) if any(c["en"] for c in cues) else src,
+                        EXTRACTED / "MOVIE" / src.name)
+
+
 def patch():
     patch_system()
     patch_town()
+    patch_movies()
     files = dat.unpack((ORIG / "SCENARIO.DAT").read_bytes())
     for path in sorted((SCRIPT / "SCENARIO").glob("*.json")):
         i = int(path.stem)
