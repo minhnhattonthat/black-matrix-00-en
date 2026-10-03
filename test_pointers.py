@@ -54,6 +54,22 @@ def test_run_overflow_raises_instead_of_spilling():
     assert False, "expected ValueError"
 
 
+def test_code_references_follow_moved_messages():
+    refs = pointers.code_refs(SUB10)
+    assert len(refs) >= 50
+    starts = {off for _, items, _ in pointers._runs(SUB10) for off, *_ in items}
+    assert all(t in starts for _, _, t in refs)
+    entries = pointers.extract(SUB10, "S")
+    entries[0]["en"] = "Closes this screen plus more"      # shifts every later message in run 1
+    entries[1]["en"] = "Vibration"
+    out = pointers.insert(SUB10, entries)
+    by_off = {int(e["id"].rsplit("/", 1)[1], 16): e for e in entries}
+    for lui_at, addiu_at, target in refs:
+        e = by_off[target]
+        expected = script.encode(e["en"]) if e["en"] else script.encode(e["jp"])
+        new_target = next(t for _, a, t in pointers.code_refs(out) if a == addiu_at)
+        assert out[new_target:].startswith(expected + bytes(1)), hex(addiu_at)
+
 def test_data_word_in_pointer_range_raises():
     bad = bytearray(SUB10)
     struct.pack_into("<I", bad, 0xC000, pointers.BASE + 1)     # a data word pointing inside a string

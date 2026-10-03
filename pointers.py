@@ -54,6 +54,23 @@ def _messages(b: bytes, start: int):
         p = z
 
 
+def code_refs(b: bytes) -> list[tuple[int, int, int]]:
+    """(lui offset, addiu offset, target offset) for every `lui rX, hi` / `addiu rY, rX, lo`
+    pair in the overlay's code whose address is a message start."""
+    starts = {off for _, items, _ in _runs(b) for off, *_ in items}
+    refs, luis = [], {}
+    for o in range(0, len(b) - 3, 4):
+        w = struct.unpack_from("<I", b, o)[0]
+        op, rs, rt, imm = w >> 26, w >> 21 & 31, w >> 16 & 31, w & 0xFFFF
+        if op == 0x0F:                                  # lui
+            luis[rt] = (o, imm << 16)
+        elif op == 0x09 and rs in luis:                 # addiu
+            addr = (luis[rs][1] + (imm - 0x10000 if imm >= 0x8000 else imm)) & 0xFFFFFFFF
+            if addr - BASE in starts:
+                refs.append((luis[rs][0], o, addr - BASE))
+    return refs
+
+
 def _runs(b: bytes):
     for start in RUN_STARTS:
         items = list(_messages(b, start))
@@ -107,4 +124,10 @@ def insert(b: bytes, entries: list[dict]) -> bytes:
         if target not in moved:
             raise ValueError(f"pointer at {pos:#x} targets {target:#x}, which is not a message")
         struct.pack_into("<I", out, pos, BASE + moved[target])
+    for lui_at, addiu_at, target in code_refs(b):       # instruction immediates in the overlay code
+        addr = BASE + moved[target]
+        hi, lo = (addr + 0x8000) >> 16, addr & 0xFFFF
+        for at, imm in ((lui_at, hi), (addiu_at, lo)):
+            w = struct.unpack_from("<I", out, at)[0]
+            struct.pack_into("<I", out, at, (w & 0xFFFF0000) | imm)
     return bytes(out)
