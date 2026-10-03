@@ -18,6 +18,12 @@
     j     hw_glyph
     sltu  t5, zero, s4         ; delay slot: first displaced instruction
 
+; ---- text objects: never spread glyphs across the field width ---------------
+; Japanese menus justified 2-cell labels into 4-cell slots; with halfwidth
+; English that only tears words apart ("Sa  ve"). original: andi v1, v1, 0x80
+.org 0x80013598
+    andi  v1, v1, 0
+
 ; ---- font, glyphs 0x20-0x5F ------------------------------------------------
 .org 0x800604A0
 .area 0x80060848 - 0x800604A0

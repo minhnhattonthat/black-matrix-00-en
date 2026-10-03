@@ -46,7 +46,7 @@ def _patched():
 
 def test_table_ranges_are_zero_in_the_original():
     exe = EXE.read_bytes()
-    for lo, hi in halfwidth.RANGES[2:]:
+    for lo, hi in halfwidth.RANGES[3:]:
         assert not any(exe[lo - BASE:hi - BASE]), hex(lo)
 
 
@@ -57,6 +57,14 @@ def test_patch_touches_only_declared_ranges():
     assert changed, "patch changed nothing"
     stray = [hex(x) for x in changed if not any(lo <= x < hi for lo, hi in halfwidth.RANGES)]
     assert not stray, stray[:8]
+
+
+def test_justify_spread_is_disabled():
+    # 0x80013598: andi v1, v1, 0x80 (text object flag "spread glyphs across the field")
+    import struct
+    b = _patched()
+    word = struct.unpack_from("<I", b, 0x80013598 - BASE)[0]
+    assert word == 0x30630000                    # andi $v1, $v1, 0 -> the branch below always skips the spread
 
 
 def test_patched_exe_contains_the_font():
@@ -114,7 +122,7 @@ def test_patch_never_reads_a_register_in_its_load_delay_slot():
     import struct
     b = _patched()
     word = lambda addr: struct.unpack_from("<I", b, addr - BASE)[0]
-    lo, hi = halfwidth.RANGES[3]
+    lo, hi = halfwidth.RANGES[4]                      # the code area
     addrs = [site for site, _ in halfwidth.RANGES[:2]] + list(range(lo, hi - 4, 4))
     assert not _load_delay_hazards(word, addrs)
 
