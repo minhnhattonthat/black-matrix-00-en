@@ -98,3 +98,14 @@ the three yes/no prompts. Leaves are padded to a word; a leaf must stay under
 JSON: `script/TOWN/notebook.json` (one entry per article, `en` with `\n` hard
 breaks, auto-wrapped at 32 bytes, an empty paragraph becomes a `　` line) and
 `script/TOWN/town.json` (one entry per line, no wrapping, 28-byte cap).
+
+## EXE strings (SLPS_035.73)
+
+21 fixed slots, patched in place by `exe.py` after the armips step
+(`script/EXE/strings.json`, width = slot - 2). Reward messages are three text
+objects: item name, a template, and a one-cell string from the pointer table at
+0x8005F0FC (digits ０-９, マ, 覚) drawn over the template's cell 1 (13 px per
+cell). English templates therefore keep cell 1 blank: ` x` `９` ` obtained`,
+` m` `as` `tered`, ` l` `ea` `rned`. The seven 8-byte names at 0x8006B30C are
+only read by the 18-byte default-name copy for the hero; `ヨハネ` is left as is
+(no room for "Johannes").

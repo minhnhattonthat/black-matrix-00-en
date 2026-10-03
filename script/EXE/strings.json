@@ -1,0 +1,128 @@
+[
+ {
+  "id": "EXE/80010064",
+  "jp": "を　個入手した",
+  "en": " x   obtained",
+  "width": 14
+ },
+ {
+  "id": "EXE/80010074",
+  "jp": "を　スターした",
+  "en": " m  tered",
+  "width": 14
+ },
+ {
+  "id": "EXE/80010084",
+  "jp": "を　えた",
+  "en": " l  rned",
+  "width": 10
+ },
+ {
+  "id": "EXE/80010090",
+  "jp": "Ｇを入手した",
+  "en": "G obtained",
+  "width": 14
+ },
+ {
+  "id": "EXE/8006b22c",
+  "jp": "は　い",
+  "en": "Yes",
+  "width": 6
+ },
+ {
+  "id": "EXE/8006b234",
+  "jp": "いいえ",
+  "en": "No",
+  "width": 6
+ },
+ {
+  "id": "EXE/8006b23c",
+  "jp": "覚",
+  "en": "ea",
+  "width": 2
+ },
+ {
+  "id": "EXE/8006b240",
+  "jp": "マ",
+  "en": "as",
+  "width": 2
+ },
+ {
+  "id": "EXE/80011044",
+  "jp": "エクサル",
+  "en": "Exal",
+  "width": 10
+ },
+ {
+  "id": "EXE/80011050",
+  "jp": "ザイオン",
+  "en": "Zion",
+  "width": 10
+ },
+ {
+  "id": "EXE/8001105c",
+  "jp": "ステイエン",
+  "en": "Stayen",
+  "width": 10
+ },
+ {
+  "id": "EXE/80011068",
+  "jp": "ヴァルトス",
+  "en": "Valtoss",
+  "width": 10
+ },
+ {
+  "id": "EXE/80011074",
+  "jp": "クレイス",
+  "en": "Kreis",
+  "width": 10
+ },
+ {
+  "id": "EXE/80011080",
+  "jp": "リプサリス",
+  "en": "Rhipsalis",
+  "width": 10
+ },
+ {
+  "id": "EXE/8006b30c",
+  "jp": "カイン",
+  "en": "Cain",
+  "width": 6
+ },
+ {
+  "id": "EXE/8006b314",
+  "jp": "ヨハネ",
+  "en": "",
+  "width": 6
+ },
+ {
+  "id": "EXE/8006b31c",
+  "jp": "ルカ",
+  "en": "Luca",
+  "width": 6
+ },
+ {
+  "id": "EXE/8006b324",
+  "jp": "シリア",
+  "en": "Syria",
+  "width": 6
+ },
+ {
+  "id": "EXE/8006b32c",
+  "jp": "リリス",
+  "en": "Lilis",
+  "width": 6
+ },
+ {
+  "id": "EXE/8006b334",
+  "jp": "キロタ",
+  "en": "Kilota",
+  "width": 6
+ },
+ {
+  "id": "EXE/8006b33c",
+  "jp": "ベイル",
+  "en": "Bale",
+  "width": 6
+ }
+]

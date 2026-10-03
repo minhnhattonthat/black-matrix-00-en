@@ -2,7 +2,7 @@
 import json, shutil, subprocess, sys
 from pathlib import Path
 
-import dat, halfwidth, pointers, script, tables, town
+import dat, exe, halfwidth, pointers, script, tables, town
 
 ROOT = Path(__file__).parent
 ROM = ROOT / "rom" / "Black-Matrix 00 (Japan) (Disc 1).bin"
@@ -55,6 +55,12 @@ def dump():
         if not path.exists():
             path.write_text(json.dumps(entries, ensure_ascii=False, indent=1), encoding="utf-8")
 
+    exedir = SCRIPT / "EXE"
+    exedir.mkdir(exist_ok=True)
+    if not (exedir / "strings.json").exists():
+        entries = exe.extract((ORIG / "SLPS_035.73").read_bytes())
+        (exedir / "strings.json").write_text(json.dumps(entries, ensure_ascii=False, indent=1), encoding="utf-8")
+
 
 def _system_json(name):
     return json.loads((SCRIPT / "SYSTEM" / f"{name}.json").read_text(encoding="utf-8"))
@@ -104,6 +110,9 @@ def patch():
             print("spilled:", spill)
     (EXTRACTED / "SCENARIO.DAT").write_bytes(dat.pack(files))
     halfwidth.assemble(ORIG / "SLPS_035.73", EXTRACTED / "SLPS_035.73")
+    strings = json.loads((SCRIPT / "EXE" / "strings.json").read_text(encoding="utf-8"))
+    patched = exe.insert((EXTRACTED / "SLPS_035.73").read_bytes(), strings)
+    (EXTRACTED / "SLPS_035.73").write_bytes(patched)
 
 
 def make_iso() -> Path:
