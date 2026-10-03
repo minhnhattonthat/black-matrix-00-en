@@ -30,7 +30,7 @@ def test_fields_hold_only_shift_jis_text():
     # insert zero-fills a field after the English, so a field must hold text only
     for off, w in tables.fields(SUB2):
         text = SUB2[off:off + w].rstrip(b"\0")
-        assert all(b == 0 or 0x20 <= b for b in text), hex(off)       # no flag bytes mixed in
+        assert not text or tables._is_sjis(text), hex(off)   # whole 2-byte Shift-JIS: no flag bytes, no hidden 2nd line
 
 
 def test_insert_zero_fills_and_enforces_width():
@@ -59,6 +59,8 @@ def test_battle_names_are_found_in_most_files_and_listed_once():
     names = tables.battle_name_list(BATTLE)
     assert 60 <= len(names) <= 80 and len(names) == len(set(names))
     assert "グリシナ" in names                      # グリシナ: a boss not in SYSTEM table 2
+    assert "ホワイトフェイス" in names   # ホワイトフェイス fills all 16 bytes, no terminator
+    assert len(tables.battle_names(BATTLE[222])) >= 11 and len(tables.battle_names(BATTLE[219])) >= 14
     assert len(UNIT_NAMES & set(names)) > 40                        # most are shared with the unit table
 
 
@@ -93,8 +95,15 @@ def test_overlay_round_trip_and_in_place_limit():
         tables.insert_overlay(sub4, entries)
     except ValueError as err:
         assert e["id"] in str(err)
-        return
-    assert False, "expected ValueError"
+    else:
+        assert False, "expected ValueError"
+    for bad in ({"id": "SYSTEM/4/00010", "en": "XX", "width": 2},          # not a string start
+                {"id": e["id"], "en": "Configuration", "width": 14}):     # width edited by hand
+        try:
+            tables.insert_overlay(sub4, [bad])
+        except ValueError:
+            continue
+        assert False, bad
 
 
 if __name__ == "__main__":

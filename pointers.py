@@ -84,6 +84,9 @@ def extract(b: bytes, prefix: str) -> list[dict]:
 
 def insert(b: bytes, entries: list[dict]) -> bytes:
     english = {int(e["id"].rsplit("/", 1)[1], 16): e for e in entries if e["en"]}
+    starts = {off for _, items, _ in _runs(b) for off, *_ in items}
+    if english.keys() - starts:
+        raise ValueError("no message at: " + ", ".join(english[o]["id"] for o in english.keys() - starts))
     out = bytearray(b)
     moved, spans, fixups = {}, [], []                # fixups: (position, original target)
 
@@ -123,11 +126,14 @@ def insert(b: bytes, entries: list[dict]) -> bytes:
     for pos, target in fixups:
         if target not in moved:
             raise ValueError(f"pointer at {pos:#x} targets {target:#x}, which is not a message")
+        if pos % 4:
+            raise ValueError(f"pointer at {pos:#x} is not 4-byte aligned after relayout")
         struct.pack_into("<I", out, pos, BASE + moved[target])
     for lui_at, addiu_at, target in code_refs(b):       # instruction immediates in the overlay code
         addr = BASE + moved[target]
         hi, lo = (addr + 0x8000) >> 16, addr & 0xFFFF
-        for at, imm in ((lui_at, hi), (addiu_at, lo)):
-            w = struct.unpack_from("<I", out, at)[0]
-            struct.pack_into("<I", out, at, (w & 0xFFFF0000) | imm)
+        if hi != struct.unpack_from("<I", b, lui_at)[0] & 0xFFFF:
+            raise ValueError(f"lui at {lui_at:#x} would change its upper half; a mis-attributed pair?")
+        w = struct.unpack_from("<I", out, addiu_at)[0]
+        struct.pack_into("<I", out, addiu_at, (w & 0xFFFF0000) | lo)
     return bytes(out)

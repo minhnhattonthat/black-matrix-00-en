@@ -41,6 +41,9 @@ def test_growth_within_a_run_relayouts_and_pointers_follow():
         expected = script.encode(e["en"]) if e["en"] else script.encode(e["jp"])
         assert any(out[t:].startswith(expected + bytes(1)) for t in targets), e["id"]
     assert out[0x178:0xBE0] == SUB10[0x178:0xBE0]         # the other runs are untouched
+    tail_changed = [o for o in range(0xBE0, len(SUB10)) if out[o] != SUB10[o]]
+    allowed = {p for p, _ in [(o, 0) for o, v in _pointer_words(SUB10)]} | {a for _, a, _ in pointers.code_refs(SUB10)}
+    assert all(any(p <= o < p + 4 for p in allowed) for o in tail_changed)   # only pointer words / addiu immediates
 
 
 def test_run_overflow_raises_instead_of_spilling():
@@ -67,8 +70,19 @@ def test_code_references_follow_moved_messages():
     for lui_at, addiu_at, target in refs:
         e = by_off[target]
         expected = script.encode(e["en"]) if e["en"] else script.encode(e["jp"])
-        new_target = next(t for _, a, t in pointers.code_refs(out) if a == addiu_at)
+        hi = struct.unpack_from("<I", out, lui_at)[0] & 0xFFFF
+        lo = struct.unpack_from("<I", out, addiu_at)[0] & 0xFFFF
+        new_target = ((hi << 16) + (lo - 0x10000 if lo >= 0x8000 else lo)) - pointers.BASE
         assert out[new_target:].startswith(expected + bytes(1)), hex(addiu_at)
+
+
+def test_unknown_message_id_raises():
+    try:
+        pointers.insert(SUB10, [{"id": "X/00002", "en": "zzz"}])
+    except ValueError as err:
+        assert "no message" in str(err)
+        return
+    assert False, "expected ValueError"
 
 def test_data_word_in_pointer_range_raises():
     bad = bytearray(SUB10)

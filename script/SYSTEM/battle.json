@@ -406,5 +406,23 @@
   "jp": "天兵騎士",
   "en": "Angel Knight",
   "width": 16
+ },
+ {
+  "id": "BATTLE/068",
+  "jp": "ホワイトフェイス",
+  "en": "Whiteface",
+  "width": 16
+ },
+ {
+  "id": "BATTLE/069",
+  "jp": "インセストの少女",
+  "en": "Incest Girl",
+  "width": 16
+ },
+ {
+  "id": "BATTLE/070",
+  "jp": "レッド・ムフロン",
+  "en": "Red Mouflon",
+  "width": 16
  }
 ]

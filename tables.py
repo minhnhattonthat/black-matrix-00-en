@@ -10,7 +10,7 @@ SYSTEM_TABLES = [
     (2, 20, [(0, 18)]),                                   # unit names
     *[(i, *WEAPON) for i in range(6, 21)],                # fifteen weapon classes
     (21, 96, [(0, 16), (28, 34), (62, 34)]),              # gems: flag bytes follow the name at +17
-    (22, 122, [(0, 18), (20, 100)]),                      # items: one record has a 2nd line after the 1st's terminator
+    (22, 122, [(0, 18), (20, 34), (54, 34), (88, 34)]),   # items: three description lines
     (23, 98, [(0, 24), (30, 32), (64, 34)]),              # rings: second description starts at 64
     (24, 94, [(0, 14), (26, 34), (60, 34)]),              # skills: flag bytes follow the name at +15
 ]
@@ -70,10 +70,18 @@ def _lead(c: int) -> bool:
     return 0x81 <= c <= 0x9F or 0xE0 <= c <= 0xFC
 
 
+def _is_sjis(text: bytes) -> bool:
+    """Whole text is 2-byte Shift-JIS characters (names may fill all 16 bytes, no terminator)."""
+    if not text or len(text) % 2:
+        return False
+    return all(_lead(text[i]) and 0x40 <= text[i + 1] <= 0xFC and text[i + 1] != 0x7F
+               for i in range(0, len(text), 2))
+
+
 def battle_names(sub: bytes) -> list[int]:
     """Offsets of unit-name fields; the table ends at the first record without a name."""
     out, off = [], _UNITS
-    while off + _NAME <= len(sub) and _lead(sub[off]) and b"\0" in sub[off:off + _NAME]:
+    while off + _NAME <= len(sub) and _is_sjis(_text(sub, off, _NAME)):
         out.append(off)
         off += _UNIT
     return out
@@ -103,9 +111,12 @@ def extract_overlay(sub4: bytes, prefix: str) -> list[dict]:
 
 def insert_overlay(sub4: bytes, entries: list[dict]) -> bytes:
     out = bytearray(sub4)
+    widths = {int(x["id"].rsplit("/", 1)[1], 16): x["width"] for x in extract_overlay(sub4, "")}
     for e in entries:
         if e["en"]:
             off = int(e["id"].rsplit("/", 1)[1], 16)
+            if widths.get(off) != e["width"]:          # the JSON must match the overlay, never the other way round
+                raise ValueError(f'{e["id"]}: not an overlay string of width {e["width"]}')
             out[off:off + e["width"]] = _fit(e, e["width"])
     return bytes(out)
 

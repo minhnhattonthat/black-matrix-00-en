@@ -6057,7 +6057,7 @@
   "id": "SYSTEM/2/152e4",
   "jp": "対象のＨＰを１５回復する",
   "en": "Restores 15 HP to a target",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/1534a",
@@ -6069,7 +6069,7 @@
   "id": "SYSTEM/2/1535e",
   "jp": "対象のＨＰを３０回復する",
   "en": "Restores 30 HP to a target",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/153c4",
@@ -6081,7 +6081,7 @@
   "id": "SYSTEM/2/153d8",
   "jp": "対象のＨＰを５０回復する",
   "en": "Restores 50 HP to a target",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/1543e",
@@ -6093,7 +6093,7 @@
   "id": "SYSTEM/2/15452",
   "jp": "対象のＨＰを全回復する",
   "en": "Fully restores a target's HP",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/154b8",
@@ -6105,7 +6105,7 @@
   "id": "SYSTEM/2/154cc",
   "jp": "対象のＰＰを１０回復する",
   "en": "Restores 10 PP to a target",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/15532",
@@ -6117,7 +6117,7 @@
   "id": "SYSTEM/2/15546",
   "jp": "対象のＰＰを３０回復する",
   "en": "Restores 30 PP to a target",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/155ac",
@@ -6129,7 +6129,7 @@
   "id": "SYSTEM/2/155c0",
   "jp": "対象のＰＰを５０回復する",
   "en": "Restores 50 PP to a target",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/15626",
@@ -6141,7 +6141,7 @@
   "id": "SYSTEM/2/1563a",
   "jp": "対象のＰＰを全回復する",
   "en": "Fully restores a target's PP",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/156a0",
@@ -6153,7 +6153,7 @@
   "id": "SYSTEM/2/156b4",
   "jp": "対象の睡眠を治療する",
   "en": "Cures a target of sleep",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/1571a",
@@ -6165,7 +6165,7 @@
   "id": "SYSTEM/2/1572e",
   "jp": "対象の暗闇を治療する",
   "en": "Cures a target of darkness",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/15794",
@@ -6177,7 +6177,7 @@
   "id": "SYSTEM/2/157a8",
   "jp": "対象の毒を治療する",
   "en": "Cures a target of poison",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/1580e",
@@ -6189,7 +6189,7 @@
   "id": "SYSTEM/2/15822",
   "jp": "対象の麻痺を治療する",
   "en": "Cures a target of paralysis",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/15888",
@@ -6201,7 +6201,7 @@
   "id": "SYSTEM/2/1589c",
   "jp": "対象の破壊されたリズムを治療する",
   "en": "Restores a target's broken rhythm",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/15902",
@@ -6213,7 +6213,7 @@
   "id": "SYSTEM/2/15916",
   "jp": "対象の低下した攻撃力を治療する",
   "en": "Restores a target's lowered attack",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/1597c",
@@ -6225,7 +6225,7 @@
   "id": "SYSTEM/2/15990",
   "jp": "対象の低下した魔力を治療する",
   "en": "Restores a target's lowered magic",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/159f6",
@@ -6237,7 +6237,7 @@
   "id": "SYSTEM/2/15a0a",
   "jp": "対象の石化を治療する",
   "en": "Cures a target of petrification",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/15a70",
@@ -6247,9 +6247,15 @@
  },
  {
   "id": "SYSTEM/2/15a84",
-  "jp": "対象のＨＰ・ＰＰを全回復し{00}{00}{00}{00}{00}{00}{00}{00}異常ステータスを全て治療する",
-  "en": "Fully restores HP and PP  {00}{00}Cures all status ailments",
-  "width": 100
+  "jp": "対象のＨＰ・ＰＰを全回復し",
+  "en": "Fully restores HP and PP",
+  "width": 34
+ },
+ {
+  "id": "SYSTEM/2/15aa6",
+  "jp": "異常ステータスを全て治療する",
+  "en": "Cures all status ailments",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/15aea",
@@ -6261,7 +6267,7 @@
   "id": "SYSTEM/2/15afe",
   "jp": "対象を眠らせる",
   "en": "Puts a target to sleep",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/15b64",
@@ -6273,7 +6279,7 @@
   "id": "SYSTEM/2/15b78",
   "jp": "対象に暗闇を与える",
   "en": "Inflicts darkness on a target",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/15bde",
@@ -6285,7 +6291,7 @@
   "id": "SYSTEM/2/15bf2",
   "jp": "対象に毒を与える",
   "en": "Poisons a target",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/15c58",
@@ -6297,7 +6303,7 @@
   "id": "SYSTEM/2/15c6c",
   "jp": "対象を麻痺させる",
   "en": "Paralyzes a target",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/15cd2",
@@ -6309,7 +6315,7 @@
   "id": "SYSTEM/2/15ce6",
   "jp": "対象の攻撃力を低下させる",
   "en": "Lowers a target's attack",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/15d4c",
@@ -6321,7 +6327,7 @@
   "id": "SYSTEM/2/15d60",
   "jp": "対象の魔力を低下させる",
   "en": "Lowers a target's magic",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/15dc6",
@@ -6333,7 +6339,7 @@
   "id": "SYSTEM/2/15dda",
   "jp": "対象に１０のダメージを与える",
   "en": "Deals 10 damage to a target",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/15e40",
@@ -6345,7 +6351,7 @@
   "id": "SYSTEM/2/15e54",
   "jp": "対象に１５のダメージを与える",
   "en": "Deals 15 damage to a target",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/15eba",
@@ -6357,7 +6363,7 @@
   "id": "SYSTEM/2/15ece",
   "jp": "対象に２０のダメージを与える",
   "en": "Deals 20 damage to a target",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/15f34",
@@ -6369,7 +6375,7 @@
   "id": "SYSTEM/2/15f48",
   "jp": "対象に３０のダメージを与える",
   "en": "Deals 30 damage to a target",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/15fae",
@@ -6381,7 +6387,7 @@
   "id": "SYSTEM/2/15fc2",
   "jp": "対象に４０のダメージを与える",
   "en": "Deals 40 damage to a target",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/16028",
@@ -6393,7 +6399,7 @@
   "id": "SYSTEM/2/1603c",
   "jp": "対象に６０のダメージを与える",
   "en": "Deals 60 damage to a target",
-  "width": 100
+  "width": 34
  },
  {
   "id": "SYSTEM/2/160a4",
