@@ -110,6 +110,8 @@ def patch_town():
 def patch_movies(orig: Path = ORIG / "MOVIE", out: Path = EXTRACTED / "MOVIE"):
     """Subtitled streams from the cache (rendered on a miss); movies without English cues are the originals.
     Cue files are shared by both discs: a stream name means the same movie on either disc."""
+    if not orig.is_dir():                          # glob on a missing folder is empty: no subtitles, no error
+        raise FileNotFoundError(f"{orig}: no pristine movies; run `python build.py extract`")
     for src in sorted(orig.glob("*.STR")):
         cue_file = SCRIPT / "MOVIE" / f"{src.stem}.json"
         cues = json.loads(cue_file.read_text(encoding="utf-8")) if cue_file.exists() else []

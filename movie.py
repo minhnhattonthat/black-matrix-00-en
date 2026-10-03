@@ -117,6 +117,8 @@ def patch(src: Path, cues: list, dst: Path) -> None:
         out = (d / "movie.STR").read_bytes()
     if len(out) != len(data):
         raise ValueError(f"{src.name}: size changed {len(data)} -> {len(out)}")
+    if out == data:                                # jPSXdec exits 0 when no frame number matched
+        raise RuntimeError(f"{src.name}: jPSXdec replaced nothing; the stream would ship without subtitles")
     dst.write_bytes(out)
 
 

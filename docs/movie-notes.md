@@ -4,7 +4,7 @@
 
 - jPSXdec 2.0: `tools/jpsxdec/jpsxdec_v2.0/jpsxdec.jar` (Java 8).
 - ffmpeg reads a stream with `-f psxstr` once it is wrapped into 2352-byte raw sectors (`movie.wrap`).
-- faster-whisper 1.2.1, CUDA visible to ctranslate2 (transcription only).
+- faster-whisper 1.2.1 on CPU (cuBLAS/cuDNN are not installed, so CUDA does not work; transcription only).
 
 ## Probe (BMM_003.STR, 14 s)
 

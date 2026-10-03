@@ -76,6 +76,31 @@ def test_phrases_cut_at_pauses():
     assert movie.phrases(words) == [(1.0, 1.5, "ab"), (9.0, 9.9, "cd")]
 
 
+def test_patch_raises_when_jpsxdec_replaces_nothing():
+    cues = [{"id": "MOVIE/003/00", "start": 2.0, "end": 3.0, "jp": "", "en": "Never lands"}]
+    base, movie.FRAME_BASE = movie.FRAME_BASE, 100000          # frame numbers jPSXdec cannot match: it exits 0
+    try:
+        with tempfile.TemporaryDirectory() as d:
+            movie.patch(SRC, cues, Path(d) / "out.STR")
+    except RuntimeError as err:
+        assert "BMM_003" in str(err)
+    else:
+        assert False, "expected RuntimeError"
+    finally:
+        movie.FRAME_BASE = base
+
+
+def test_patch_movies_refuses_a_missing_pristine_folder():
+    import build
+    with tempfile.TemporaryDirectory() as d:
+        try:
+            build.patch_movies(Path(d) / "absent", Path(d))
+        except FileNotFoundError as err:
+            assert "absent" in str(err)
+            return
+    assert False, "expected FileNotFoundError"
+
+
 if __name__ == "__main__":
     for name, fn in list(globals().items()):
         if name.startswith("test_"):
