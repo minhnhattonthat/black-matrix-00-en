@@ -4911,7 +4911,7 @@
   "id": "SYSTEM/2/13770",
   "jp": "ルビー",
   "en": "Ruby",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1378c",
@@ -4929,7 +4929,7 @@
   "id": "SYSTEM/2/137d0",
   "jp": "アゲート",
   "en": "Agate",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/137ec",
@@ -4947,7 +4947,7 @@
   "id": "SYSTEM/2/13830",
   "jp": "アメジスト",
   "en": "Amethyst",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1384c",
@@ -4965,7 +4965,7 @@
   "id": "SYSTEM/2/13890",
   "jp": "ジャスパー",
   "en": "Jasper",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/138ac",
@@ -4983,7 +4983,7 @@
   "id": "SYSTEM/2/138f0",
   "jp": "サファイア",
   "en": "Sapphire",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1390c",
@@ -5001,7 +5001,7 @@
   "id": "SYSTEM/2/13950",
   "jp": "ジェード",
   "en": "Jade",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1396c",
@@ -5019,7 +5019,7 @@
   "id": "SYSTEM/2/139b0",
   "jp": "エメラルド",
   "en": "Emerald",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/139cc",
@@ -5037,7 +5037,7 @@
   "id": "SYSTEM/2/13a10",
   "jp": "オニキス",
   "en": "Onyx",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/13a2c",
@@ -5055,7 +5055,7 @@
   "id": "SYSTEM/2/13a70",
   "jp": "カーネリアン",
   "en": "Carnelian",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/13a8c",
@@ -5073,7 +5073,7 @@
   "id": "SYSTEM/2/13ad0",
   "jp": "ラピスラズリ",
   "en": "Lapis Lazuli",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/13aec",
@@ -5091,7 +5091,7 @@
   "id": "SYSTEM/2/13b30",
   "jp": "オパール",
   "en": "Opal",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/13b4c",
@@ -5109,7 +5109,7 @@
   "id": "SYSTEM/2/13b90",
   "jp": "トパーズ",
   "en": "Topaz",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/13bac",
@@ -5127,7 +5127,7 @@
   "id": "SYSTEM/2/13bf0",
   "jp": "目覚めの護符",
   "en": "Awakening Charm",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/13c0c",
@@ -5139,7 +5139,7 @@
   "id": "SYSTEM/2/13c50",
   "jp": "抗毒の護符",
   "en": "Antivenom Charm",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/13c6c",
@@ -5151,7 +5151,7 @@
   "id": "SYSTEM/2/13cb0",
   "jp": "気付けの護符",
   "en": "Reviving Charm",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/13ccc",
@@ -5163,7 +5163,7 @@
   "id": "SYSTEM/2/13d10",
   "jp": "安寧の護符",
   "en": "Serenity Charm",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/13d2c",
@@ -5175,7 +5175,7 @@
   "id": "SYSTEM/2/13d70",
   "jp": "光明の護符",
   "en": "Radiance Charm",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/13d8c",
@@ -5187,7 +5187,7 @@
   "id": "SYSTEM/2/13dd0",
   "jp": "反応の護符",
   "en": "Reflex Charm",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/13dec",
@@ -5199,7 +5199,7 @@
   "id": "SYSTEM/2/13e30",
   "jp": "破魔の護符",
   "en": "Exorcism Charm",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/13e4c",
@@ -5211,7 +5211,7 @@
   "id": "SYSTEM/2/13e90",
   "jp": "精神の護符",
   "en": "Spirit Charm",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/13eac",
@@ -5222,8 +5222,8 @@
  {
   "id": "SYSTEM/2/13ef0",
   "jp": "金針の護符",
-  "en": "Gold Needle Charm",
-  "width": 22
+  "en": "Gold Pin Charm",
+  "width": 16
  },
  {
   "id": "SYSTEM/2/13f0c",
@@ -5234,8 +5234,8 @@
  {
   "id": "SYSTEM/2/13f50",
   "jp": "気合いの護符",
-  "en": "Fighting Spirit Charm",
-  "width": 22
+  "en": "Spirit Charm",
+  "width": 16
  },
  {
   "id": "SYSTEM/2/13f6c",
@@ -5247,7 +5247,7 @@
   "id": "SYSTEM/2/13fb0",
   "jp": "マスク",
   "en": "Mask",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/13fcc",
@@ -5259,7 +5259,7 @@
   "id": "SYSTEM/2/14010",
   "jp": "緑のアンク",
   "en": "Green Ankh",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1402c",
@@ -5271,7 +5271,7 @@
   "id": "SYSTEM/2/14070",
   "jp": "防寒マント",
   "en": "Winter Cloak",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1408c",
@@ -5283,7 +5283,7 @@
   "id": "SYSTEM/2/140d0",
   "jp": "革のコート",
   "en": "Leather Coat",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/140ec",
@@ -5295,7 +5295,7 @@
   "id": "SYSTEM/2/14130",
   "jp": "ミントマスク",
   "en": "Mint Mask",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1414c",
@@ -5307,7 +5307,7 @@
   "id": "SYSTEM/2/14190",
   "jp": "レッドスカーフ",
   "en": "Red Scarf",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/141ac",
@@ -5325,7 +5325,7 @@
   "id": "SYSTEM/2/141f0",
   "jp": "水晶のペンダント",
   "en": "Crystal Pendant",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1420c",
@@ -5337,7 +5337,7 @@
   "id": "SYSTEM/2/14250",
   "jp": "ガスマスク",
   "en": "Gas Mask",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1426c",
@@ -5355,7 +5355,7 @@
   "id": "SYSTEM/2/142b0",
   "jp": "蒼のアンク",
   "en": "Blue Ankh",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/142cc",
@@ -5367,7 +5367,7 @@
   "id": "SYSTEM/2/14310",
   "jp": "スネークベルト",
   "en": "Snake Belt",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1432c",
@@ -5385,7 +5385,7 @@
   "id": "SYSTEM/2/14370",
   "jp": "精霊のバンダナ",
   "en": "Spirit Bandana",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1438c",
@@ -5396,8 +5396,8 @@
  {
   "id": "SYSTEM/2/143d0",
   "jp": "錬金術師のマント",
-  "en": "Alchemist's Cloak",
-  "width": 22
+  "en": "Alchemist Cloak",
+  "width": 16
  },
  {
   "id": "SYSTEM/2/143ec",
@@ -5409,7 +5409,7 @@
   "id": "SYSTEM/2/14430",
   "jp": "紅のアンク",
   "en": "Crimson Ankh",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1444c",
@@ -5420,8 +5420,8 @@
  {
   "id": "SYSTEM/2/14490",
   "jp": "金糸のマント",
-  "en": "Gold Thread Cloak",
-  "width": 22
+  "en": "Gold Cloak",
+  "width": 16
  },
  {
   "id": "SYSTEM/2/144ac",
@@ -5439,7 +5439,7 @@
   "id": "SYSTEM/2/144f0",
   "jp": "紋章の手袋",
   "en": "Crest Gloves",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1450c",
@@ -5451,7 +5451,7 @@
   "id": "SYSTEM/2/14550",
   "jp": "信念のアンク",
   "en": "Conviction Ankh",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1456c",
@@ -5469,7 +5469,7 @@
   "id": "SYSTEM/2/145b0",
   "jp": "ハートのブローチ",
   "en": "Heart Brooch",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/145cc",
@@ -5481,7 +5481,7 @@
   "id": "SYSTEM/2/14610",
   "jp": "銀のアンク",
   "en": "Silver Ankh",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1462c",
@@ -5493,7 +5493,7 @@
   "id": "SYSTEM/2/14670",
   "jp": "金のアンク",
   "en": "Gold Ankh",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1468c",
@@ -5505,7 +5505,7 @@
   "id": "SYSTEM/2/146d0",
   "jp": "炎のサークレット",
   "en": "Flame Circlet",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/146ec",
@@ -5523,7 +5523,7 @@
   "id": "SYSTEM/2/14730",
   "jp": "秘儀のベルト",
   "en": "Arcane Belt",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1474c",
@@ -5535,7 +5535,7 @@
   "id": "SYSTEM/2/14790",
   "jp": "賢者のマント",
   "en": "Sage's Cloak",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/147ac",
@@ -5553,7 +5553,7 @@
   "id": "SYSTEM/2/147f0",
   "jp": "神秘のアンク",
   "en": "Mystic Ankh",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1480c",
@@ -5564,8 +5564,8 @@
  {
   "id": "SYSTEM/2/14850",
   "jp": "風霊のピアス",
-  "en": "Wind Spirit Earring",
-  "width": 22
+  "en": "Wind Earring",
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1486c",
@@ -5582,8 +5582,8 @@
  {
   "id": "SYSTEM/2/148b0",
   "jp": "水霊のピアス",
-  "en": "Water Spirit Earring",
-  "width": 22
+  "en": "Water Earring",
+  "width": 16
  },
  {
   "id": "SYSTEM/2/148cc",
@@ -5600,8 +5600,8 @@
  {
   "id": "SYSTEM/2/14910",
   "jp": "火霊のピアス",
-  "en": "Fire Spirit Earring",
-  "width": 22
+  "en": "Fire Earring",
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1492c",
@@ -5618,8 +5618,8 @@
  {
   "id": "SYSTEM/2/14970",
   "jp": "土霊のピアス",
-  "en": "Earth Spirit Earring",
-  "width": 22
+  "en": "Earth Earring",
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1498c",
@@ -5636,8 +5636,8 @@
  {
   "id": "SYSTEM/2/149d0",
   "jp": "雷霊のピアス",
-  "en": "Storm Spirit Earring",
-  "width": 22
+  "en": "Storm Earring",
+  "width": 16
  },
  {
   "id": "SYSTEM/2/149ec",
@@ -5654,8 +5654,8 @@
  {
   "id": "SYSTEM/2/14a30",
   "jp": "光霊のピアス",
-  "en": "Light Spirit Earring",
-  "width": 22
+  "en": "Light Earring",
+  "width": 16
  },
  {
   "id": "SYSTEM/2/14a4c",
@@ -5673,7 +5673,7 @@
   "id": "SYSTEM/2/14a90",
   "jp": "骨のピアス",
   "en": "Bone Earring",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/14aac",
@@ -5690,8 +5690,8 @@
  {
   "id": "SYSTEM/2/14af0",
   "jp": "竜骨のピアス",
-  "en": "Dragonbone Earring",
-  "width": 22
+  "en": "Bone Earring",
+  "width": 16
  },
  {
   "id": "SYSTEM/2/14b0c",
@@ -5709,7 +5709,7 @@
   "id": "SYSTEM/2/14b50",
   "jp": "魔性のピアス",
   "en": "Fiendish Earring",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/14b6c",
@@ -5727,7 +5727,7 @@
   "id": "SYSTEM/2/14bb0",
   "jp": "陽光の腕章",
   "en": "Sunlight Armband",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/14bcc",
@@ -5745,7 +5745,7 @@
   "id": "SYSTEM/2/14c10",
   "jp": "閃光の腕章",
   "en": "Flash Armband",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/14c2c",
@@ -5763,7 +5763,7 @@
   "id": "SYSTEM/2/14c70",
   "jp": "虚ろのベルト",
   "en": "Hollow Belt",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/14c8c",
@@ -5781,7 +5781,7 @@
   "id": "SYSTEM/2/14cd0",
   "jp": "憂いのベルト",
   "en": "Sorrow Belt",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/14cec",
@@ -5799,7 +5799,7 @@
   "id": "SYSTEM/2/14d30",
   "jp": "天聖のマント",
   "en": "Celestial Cloak",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/14d4c",
@@ -5817,7 +5817,7 @@
   "id": "SYSTEM/2/14d90",
   "jp": "プリティードール",
   "en": "Pretty Doll",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/14dac",
@@ -5835,7 +5835,7 @@
   "id": "SYSTEM/2/14df0",
   "jp": "クールドール",
   "en": "Cool Doll",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/14e0c",
@@ -5853,7 +5853,7 @@
   "id": "SYSTEM/2/14e50",
   "jp": "深紅のベルト",
   "en": "Scarlet Belt",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/14e6c",
@@ -5871,7 +5871,7 @@
   "id": "SYSTEM/2/14eb0",
   "jp": "真紅のベルト",
   "en": "Crimson Belt",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/14ecc",
@@ -5889,7 +5889,7 @@
   "id": "SYSTEM/2/14f10",
   "jp": "青いリボン",
   "en": "Blue Ribbon",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/14f2c",
@@ -5907,7 +5907,7 @@
   "id": "SYSTEM/2/14f70",
   "jp": "秘儀の腕輪",
   "en": "Arcane Bracelet",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/14f8c",
@@ -5924,8 +5924,8 @@
  {
   "id": "SYSTEM/2/14fd0",
   "jp": "審判の腕輪",
-  "en": "Judgment Bracelet",
-  "width": 22
+  "en": "Judge Bracelet",
+  "width": 16
  },
  {
   "id": "SYSTEM/2/14fec",
@@ -5942,8 +5942,8 @@
  {
   "id": "SYSTEM/2/15030",
   "jp": "探求の腕輪",
-  "en": "Seeker's Bracelet",
-  "width": 22
+  "en": "Seeker Bracelet",
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1504c",
@@ -5960,8 +5960,8 @@
  {
   "id": "SYSTEM/2/15090",
   "jp": "邪香の札",
-  "en": "Foul Incense Talisman",
-  "width": 22
+  "en": "Foul Talisman",
+  "width": 16
  },
  {
   "id": "SYSTEM/2/150ac",
@@ -5973,7 +5973,7 @@
   "id": "SYSTEM/2/150f0",
   "jp": "ＡＣ６９",
   "en": "AC69",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1510c",
@@ -5991,7 +5991,7 @@
   "id": "SYSTEM/2/15150",
   "jp": "エーユー証明書",
   "en": "AU Certificate",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1516c",
@@ -6009,7 +6009,7 @@
   "id": "SYSTEM/2/151b0",
   "jp": "エーユー証明書",
   "en": "AU Certificate+",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/151cc",
@@ -6026,14 +6026,14 @@
  {
   "id": "SYSTEM/2/15210",
   "jp": "新しき神の福音書",
-  "en": "Gospel of the New God",
-  "width": 22
+  "en": "New God Gospel",
+  "width": 16
  },
  {
   "id": "SYSTEM/2/15270",
   "jp": "セングラー",
   "en": "Sengler",
-  "width": 22
+  "width": 16
  },
  {
   "id": "SYSTEM/2/1528c",
@@ -6247,8 +6247,8 @@
  },
  {
   "id": "SYSTEM/2/15a84",
-  "jp": "対象のＨＰ・ＰＰを全回復し",
-  "en": "Fully restores a target's HP and PP",
+  "jp": "対象のＨＰ・ＰＰを全回復し{00}{00}{00}{00}{00}{00}{00}{00}異常ステータスを全て治療する",
+  "en": "Fully restores HP and PP  {00}{00}Cures all status ailments",
   "width": 100
  },
  {
@@ -6408,6 +6408,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/160e4",
+  "jp": "宿りしは影ならぬ「詩人」",
+  "en": "No shade: \"the Poet\"",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/16106",
   "jp": "裁きの鉄槌",
   "en": "Hammer of Judgment",
@@ -6418,6 +6424,12 @@
   "jp": "縦を使いし者にのみ許されたリング",
   "en": "Only for those who use Downward",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/16146",
+  "jp": "宿りしは影ならぬ「暴君」",
+  "en": "No shade: \"the Tyrant\"",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/16168",
@@ -6432,6 +6444,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/161a8",
+  "jp": "宿りしは影ならぬ「紳士」",
+  "en": "No shade: \"the Gent\"",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/161ca",
   "jp": "破滅の降罪",
   "en": "Sentence of Doom",
@@ -6442,6 +6460,12 @@
   "jp": "射を使いし者にのみ許されたリング",
   "en": "Only for those who use Shot",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/1620a",
+  "jp": "宿りしは影ならぬ「羊」",
+  "en": "No shade: \"the Lamb\"",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/1622c",
@@ -6456,6 +6480,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/1626c",
+  "jp": "宿りしは影ならぬ「女神」",
+  "en": "No shade: \"the Goddess\"",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/1628e",
   "jp": "拷責の神音",
   "en": "Divine Tone of Torment",
@@ -6466,6 +6496,12 @@
   "jp": "異形の翼を継ぐ者のみが使うリング",
   "en": "Only for heirs of twisted wings",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/162ce",
+  "jp": "宿りしは影ならぬ「王」",
+  "en": "No shade: \"the King\"",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/162f0",
@@ -6480,6 +6516,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/16330",
+  "jp": "宿りしは影ならぬ「混沌」",
+  "en": "No shade: \"Chaos\"",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/16352",
   "jp": "冥府より来る者",
   "en": "One Come from Hades",
@@ -6490,6 +6532,12 @@
   "jp": "大罪を背負った者が独占するリング",
   "en": "Held by a bearer of great sin",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/16392",
+  "jp": "宿りしは影ならぬ「竜」",
+  "en": "No shade: \"the Dragon\"",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/163b4",
@@ -6504,6 +6552,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/163f4",
+  "jp": "宿りしは影ならぬ「刻印者」",
+  "en": "No shade: \"the Engraver\"",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/16416",
   "jp": "再起する胎動",
   "en": "Resurgent Quickening",
@@ -6514,6 +6568,12 @@
   "jp": "死を操る魔眼の力を宿すリング",
   "en": "Holds the death-ruling Evil Eye",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/16456",
+  "jp": "宿りしは負を超越する力",
+  "en": "Within: power beyond negation",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/16478",
@@ -6528,6 +6588,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/164b8",
+  "jp": "宿りしはヒトの持つ虚栄の力",
+  "en": "Within: the vanity of Man",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/164da",
   "jp": "凍える錬金術師",
   "en": "Freezing Alchemist",
@@ -6538,6 +6604,12 @@
   "jp": "知識に溺れた愚者が残したリング",
   "en": "Left by a fool drowning in lore",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/1651a",
+  "jp": "宿りしは痛みを封じる力",
+  "en": "Within: power to seal pain",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/1653c",
@@ -6552,6 +6624,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/1657c",
+  "jp": "宿りしはペインリングを封じる力",
+  "en": "Within: power to seal Pain Rings",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/1659e",
   "jp": "守護の誓い",
   "en": "Oath of Protection",
@@ -6562,6 +6640,12 @@
   "jp": "主に絶対の忠誠を誓う騎士のリング",
   "en": "Knight sworn wholly to his lord",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/165de",
+  "jp": "宿りしは全てを無効にする力",
+  "en": "Within: power to nullify all",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/16600",
@@ -6576,6 +6660,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/16640",
+  "jp": "宿りしはヒトの持つ無限の力",
+  "en": "Within: the infinity of Man",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/16662",
   "jp": "独善たる使者",
   "en": "Self-Righteous Envoy",
@@ -6586,6 +6676,12 @@
   "jp": "高慢な偽善者のリング",
   "en": "Ring of an arrogant hypocrite",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/166a2",
+  "jp": "宿りしは天使の持つ排除の力",
+  "en": "Within: the angels' exclusion",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/166c4",
@@ -6600,6 +6696,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/16704",
+  "jp": "宿りしは悪魔の持つ破壊の力",
+  "en": "Within: the demons' destruction",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/16726",
   "jp": "望んだ世界",
   "en": "Desired World",
@@ -6610,6 +6712,12 @@
   "jp": "創り出す力のみ封じたリング",
   "en": "Seals only the power to create",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/16766",
+  "jp": "宿りしは創り出す際の熱量の力",
+  "en": "Within: the heat of creation",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/16788",
@@ -6624,6 +6732,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/167c8",
+  "jp": "宿りしは絶対なる邪心排除の力",
+  "en": "Within: absolute purging of evil",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/167ea",
   "jp": "終わりの始まり",
   "en": "Beginning of the End",
@@ -6634,6 +6748,12 @@
   "jp": "禁断の滅びと再生を表すリング",
   "en": "Of forbidden ruin and rebirth",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/1682a",
+  "jp": "宿りしは理の域に外れた力",
+  "en": "Within: power outside all reason",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/1684c",
@@ -6648,6 +6768,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/1688c",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/168ae",
   "jp": "ささやく精霊",
   "en": "Whispering Spirit",
@@ -6658,6 +6784,12 @@
   "jp": "「女神の詩に憩う子羊の群れ」",
   "en": "\"Lambs lulled by Goddess' song\"",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/168ee",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/16910",
@@ -6672,6 +6804,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/16950",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/16972",
   "jp": "巡礼する精霊",
   "en": "Pilgrim Spirit",
@@ -6682,6 +6820,12 @@
   "jp": "「病に伏せる子羊を抱く女神」",
   "en": "\"Goddess cradling a sick Lamb\"",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/169b2",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/169d4",
@@ -6696,6 +6840,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/16a14",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/16a36",
   "jp": "絶えない夜",
   "en": "Endless Night",
@@ -6706,6 +6856,12 @@
   "jp": "「混沌に囚われた竜の暴君」",
   "en": "\"Dragon Tyrant held by Chaos\"",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/16a76",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/16a98",
@@ -6720,6 +6876,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/16ad8",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/16afa",
   "jp": "過酷な抱擁",
   "en": "Cruel Embrace",
@@ -6730,6 +6892,12 @@
   "jp": "「女神の愛に囚われた子羊」",
   "en": "\"Lamb bound by Goddess's love\"",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/16b3a",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/16b5c",
@@ -6744,6 +6912,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/16b9c",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/16bbe",
   "jp": "誘う眠り姫",
   "en": "Luring Sleeping Beauty",
@@ -6754,6 +6928,12 @@
   "jp": "「誘惑の女神に囚われた詩人」",
   "en": "\"Poet held by a Goddess's lure\"",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/16bfe",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/16c20",
@@ -6768,6 +6948,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/16c60",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/16c82",
   "jp": "傷負いの剣士",
   "en": "Wounded Swordsman",
@@ -6778,6 +6964,12 @@
   "jp": "「王に忠誠を捧げる紳士」",
   "en": "\"Gent sworn to the King\"",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/16cc2",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/16ce4",
@@ -6792,6 +6984,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/16d24",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/16d46",
   "jp": "怠慢な衛兵",
   "en": "Negligent Guard",
@@ -6802,6 +7000,12 @@
   "jp": "「王に口先の忠誠を捧げる紳士」",
   "en": "\"Gent's empty vows to the King\"",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/16d86",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/16da8",
@@ -6816,6 +7020,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/16de8",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/16e0a",
   "jp": "病める旅人",
   "en": "Ailing Traveler",
@@ -6826,6 +7036,12 @@
   "jp": "「放浪の王に捧げる詩」",
   "en": "\"A poem for the wandering King\"",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/16e4a",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/16e6c",
@@ -6840,6 +7056,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/16eac",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/16ece",
   "jp": "引退した技術者",
   "en": "Retired Engineer",
@@ -6850,6 +7072,12 @@
   "jp": "「混沌に全てを捧げた男の詩」",
   "en": "\"Poem of a man given to Chaos\"",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/16f0e",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/16f30",
@@ -6864,6 +7092,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/16f70",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/16f92",
   "jp": "秩序の烙印",
   "en": "Brand of Order",
@@ -6874,6 +7108,12 @@
   "jp": "「暴君が掲げる竜の烙印」",
   "en": "\"Dragon brand the Tyrant bears\"",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/16fd2",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/16ff4",
@@ -6888,6 +7128,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/17034",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/17056",
   "jp": "火精の溜め息",
   "en": "Fire Sprite's Sigh",
@@ -6898,6 +7144,12 @@
   "jp": "「暴君を焦がす竜の息吹」",
   "en": "\"Dragonbreath sears the Tyrant\"",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/17096",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/170b8",
@@ -6912,6 +7164,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/170f8",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/1711a",
   "jp": "戯れる氷精",
   "en": "Playful Ice Sprite",
@@ -6922,6 +7180,12 @@
   "jp": "「冷血の紳士が招く混沌の叫び」",
   "en": "\"Cold Gent beckons Chaos's cry\"",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/1715a",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/1717c",
@@ -6936,6 +7200,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/171bc",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/171de",
   "jp": "雪原の雷雨",
   "en": "Snowfield Thunderstorm",
@@ -6946,6 +7216,12 @@
   "jp": "「紳士たる王を守護する女神の剣」",
   "en": "\"Goddess' sword over Gent King\"",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/1721e",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/17240",
@@ -6960,6 +7236,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/17280",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/172a2",
   "jp": "収束する暗黒",
   "en": "Converging Darkness",
@@ -6970,6 +7252,12 @@
   "jp": "「混沌を望む暴君の化身たる竜」",
   "en": "\"Dragon, Chaos-craving Tyrant\"",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/172e2",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/17304",
@@ -6984,6 +7272,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/17344",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/17366",
   "jp": "拡散する閃光",
   "en": "Spreading Flash",
@@ -6994,6 +7288,12 @@
   "jp": "「詩に詠われし古の女神の奇跡」",
   "en": "\"Old Goddess' miracle, as sung\"",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/173a6",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/173c8",
@@ -7008,6 +7308,12 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/17408",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/1742a",
   "jp": "究極の愛",
   "en": "Ultimate Love",
@@ -7018,6 +7324,12 @@
   "jp": "「女神に癒された暴君の詩」",
   "en": "\"Poem of Goddess-healed Tyrant\"",
   "width": 32
+ },
+ {
+  "id": "SYSTEM/2/1746a",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
  },
  {
   "id": "SYSTEM/2/1748c",
@@ -7032,10 +7344,16 @@
   "width": 32
  },
  {
+  "id": "SYSTEM/2/174cc",
+  "jp": "と刻まれている",
+  "en": "so reads the inscription",
+  "width": 34
+ },
+ {
   "id": "SYSTEM/2/174f0",
   "jp": "自動反撃",
   "en": "Auto Counter",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/1750a",
@@ -7047,7 +7365,7 @@
   "id": "SYSTEM/2/1754e",
   "jp": "自動回復",
   "en": "Auto Heal",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17568",
@@ -7065,7 +7383,7 @@
   "id": "SYSTEM/2/175ac",
   "jp": "飛行移動",
   "en": "Flight",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/175c6",
@@ -7077,7 +7395,7 @@
   "id": "SYSTEM/2/1760a",
   "jp": "瞬間移動",
   "en": "Teleport",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17624",
@@ -7089,7 +7407,7 @@
   "id": "SYSTEM/2/17668",
   "jp": "地中移動",
   "en": "Burrowing",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17682",
@@ -7101,7 +7419,7 @@
   "id": "SYSTEM/2/176c6",
   "jp": "空間移動",
   "en": "Spatial Shift",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/176e0",
@@ -7113,7 +7431,7 @@
   "id": "SYSTEM/2/17724",
   "jp": "背後攻撃",
   "en": "Rear Attack",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/1773e",
@@ -7131,7 +7449,7 @@
   "id": "SYSTEM/2/17782",
   "jp": "強奪攻撃",
   "en": "Plunder Attack",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/1779c",
@@ -7149,7 +7467,7 @@
   "id": "SYSTEM/2/177e0",
   "jp": "鉄壁",
   "en": "Iron Wall",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/177fa",
@@ -7166,8 +7484,8 @@
  {
   "id": "SYSTEM/2/1783e",
   "jp": "注目の的",
-  "en": "Center of Attention",
-  "width": 26
+  "en": "Spotlight",
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17858",
@@ -7185,7 +7503,7 @@
   "id": "SYSTEM/2/1789c",
   "jp": "移動＋",
   "en": "Move+",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/178b6",
@@ -7197,7 +7515,7 @@
   "id": "SYSTEM/2/178fa",
   "jp": "行動＋",
   "en": "Action+",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17914",
@@ -7209,7 +7527,7 @@
   "id": "SYSTEM/2/17958",
   "jp": "経験＋",
   "en": "EXP+",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17972",
@@ -7227,7 +7545,7 @@
   "id": "SYSTEM/2/179b6",
   "jp": "報酬＋",
   "en": "Reward+",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/179d0",
@@ -7245,7 +7563,7 @@
   "id": "SYSTEM/2/17a14",
   "jp": "移動ＳＰ",
   "en": "Move SP",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17a2e",
@@ -7263,7 +7581,7 @@
   "id": "SYSTEM/2/17a72",
   "jp": "攻撃ＳＰ",
   "en": "Attack SP",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17a8c",
@@ -7281,7 +7599,7 @@
   "id": "SYSTEM/2/17ad0",
   "jp": "道具ＳＰ",
   "en": "Item SP",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17aea",
@@ -7299,7 +7617,7 @@
   "id": "SYSTEM/2/17b2e",
   "jp": "ツールマスター",
   "en": "Tool Master",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17b48",
@@ -7311,7 +7629,7 @@
   "id": "SYSTEM/2/17b8c",
   "jp": "スキルマスター",
   "en": "Skill Master",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17ba6",
@@ -7329,7 +7647,7 @@
   "id": "SYSTEM/2/17bea",
   "jp": "ギャザペイン",
   "en": "Gather Pain",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17c04",
@@ -7341,7 +7659,7 @@
   "id": "SYSTEM/2/17c48",
   "jp": "サクリファイス",
   "en": "Sacrifice",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17c62",
@@ -7353,7 +7671,7 @@
   "id": "SYSTEM/2/17ca6",
   "jp": "サバイブペイン",
   "en": "Survive Pain",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17cc0",
@@ -7365,7 +7683,7 @@
   "id": "SYSTEM/2/17d04",
   "jp": "ブラッドメモリ",
   "en": "Blood Memory",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17d1e",
@@ -7383,7 +7701,7 @@
   "id": "SYSTEM/2/17d62",
   "jp": "コマンドバンク",
   "en": "Command Bank",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17d7c",
@@ -7401,7 +7719,7 @@
   "id": "SYSTEM/2/17dc0",
   "jp": "エクストレンジ",
   "en": "Extra Range",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17dda",
@@ -7413,7 +7731,7 @@
   "id": "SYSTEM/2/17e1e",
   "jp": "リアクイレイス",
   "en": "React Erase",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17e38",
@@ -7425,7 +7743,7 @@
   "id": "SYSTEM/2/17e7c",
   "jp": "ガードイレイス",
   "en": "Guard Erase",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17e96",
@@ -7437,7 +7755,7 @@
   "id": "SYSTEM/2/17eda",
   "jp": "ノックバック",
   "en": "Knockback",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17ef4",
@@ -7449,7 +7767,7 @@
   "id": "SYSTEM/2/17f38",
   "jp": "ヒール",
   "en": "Heal",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17f52",
@@ -7461,7 +7779,7 @@
   "id": "SYSTEM/2/17f96",
   "jp": "ミストヒール",
   "en": "Mist Heal",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/17fb0",
@@ -7473,7 +7791,7 @@
   "id": "SYSTEM/2/17ff4",
   "jp": "プログヒール",
   "en": "Prog Heal",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/1800e",
@@ -7485,7 +7803,7 @@
   "id": "SYSTEM/2/18052",
   "jp": "キュアトリート",
   "en": "Cure Treat",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/1806c",
@@ -7497,7 +7815,7 @@
   "id": "SYSTEM/2/180b0",
   "jp": "オーライクスト",
   "en": "Aura Extend",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/180ca",
@@ -7509,7 +7827,7 @@
   "id": "SYSTEM/2/1810e",
   "jp": "フィズバリア",
   "en": "Phys Barrier",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18128",
@@ -7527,7 +7845,7 @@
   "id": "SYSTEM/2/1816c",
   "jp": "スピリバリア",
   "en": "Spirit Barrier",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18186",
@@ -7544,8 +7862,8 @@
  {
   "id": "SYSTEM/2/181ca",
   "jp": "パフェクバリア",
-  "en": "Perfect Barrier",
-  "width": 26
+  "en": "Perfect Wall",
+  "width": 14
  },
  {
   "id": "SYSTEM/2/181e4",
@@ -7563,7 +7881,7 @@
   "id": "SYSTEM/2/18228",
   "jp": "リザレクション",
   "en": "Resurrection",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18242",
@@ -7574,8 +7892,8 @@
  {
   "id": "SYSTEM/2/18286",
   "jp": "ポジチェンジ",
-  "en": "Position Change",
-  "width": 26
+  "en": "Pos. Change",
+  "width": 14
  },
  {
   "id": "SYSTEM/2/182a0",
@@ -7587,7 +7905,7 @@
   "id": "SYSTEM/2/182e4",
   "jp": "ＬＶダメージ",
   "en": "LV Damage",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/182fe",
@@ -7605,7 +7923,7 @@
   "id": "SYSTEM/2/18342",
   "jp": "ＨＰダメージ",
   "en": "HP Damage",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/1835c",
@@ -7623,7 +7941,7 @@
   "id": "SYSTEM/2/183a0",
   "jp": "ＨＰスティル",
   "en": "HP Steal",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/183ba",
@@ -7641,7 +7959,7 @@
   "id": "SYSTEM/2/183fe",
   "jp": "ＰＰスティル",
   "en": "PP Steal",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18418",
@@ -7659,7 +7977,7 @@
   "id": "SYSTEM/2/1845c",
   "jp": "ペトリファイ",
   "en": "Petrify",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18476",
@@ -7671,7 +7989,7 @@
   "id": "SYSTEM/2/184ba",
   "jp": "ダーク",
   "en": "Dark",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/184d4",
@@ -7683,7 +8001,7 @@
   "id": "SYSTEM/2/18518",
   "jp": "パニック",
   "en": "Panic",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18532",
@@ -7695,7 +8013,7 @@
   "id": "SYSTEM/2/18576",
   "jp": "パラライズ",
   "en": "Paralyze",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18590",
@@ -7707,7 +8025,7 @@
   "id": "SYSTEM/2/185d4",
   "jp": "ポイズン",
   "en": "Poison",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/185ee",
@@ -7719,7 +8037,7 @@
   "id": "SYSTEM/2/18632",
   "jp": "スリープ",
   "en": "Sleep",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/1864c",
@@ -7731,7 +8049,7 @@
   "id": "SYSTEM/2/18690",
   "jp": "リズムブレイク",
   "en": "Rhythm Break",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/186aa",
@@ -7743,7 +8061,7 @@
   "id": "SYSTEM/2/186ee",
   "jp": "ニューロダウン",
   "en": "Neuro Down",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18708",
@@ -7755,7 +8073,7 @@
   "id": "SYSTEM/2/1874c",
   "jp": "マギダウン",
   "en": "Magi Down",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18766",
@@ -7767,7 +8085,7 @@
   "id": "SYSTEM/2/187aa",
   "jp": "オーライレイス",
   "en": "Aura Erase",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/187c4",
@@ -7779,7 +8097,7 @@
   "id": "SYSTEM/2/18808",
   "jp": "ムーブシール",
   "en": "Move Seal",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18822",
@@ -7797,7 +8115,7 @@
   "id": "SYSTEM/2/18866",
   "jp": "アタックシール",
   "en": "Attack Seal",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18880",
@@ -7815,7 +8133,7 @@
   "id": "SYSTEM/2/188c4",
   "jp": "アイテムシール",
   "en": "Item Seal",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/188de",
@@ -7833,7 +8151,7 @@
   "id": "SYSTEM/2/18922",
   "jp": "エモフレア",
   "en": "Emo Flare",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/1893c",
@@ -7845,7 +8163,7 @@
   "id": "SYSTEM/2/18980",
   "jp": "コアフレア",
   "en": "Core Flare",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/1899a",
@@ -7857,7 +8175,7 @@
   "id": "SYSTEM/2/189de",
   "jp": "ソリッドブリザ",
   "en": "Solid Blizzard",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/189f8",
@@ -7868,8 +8186,8 @@
  {
   "id": "SYSTEM/2/18a3c",
   "jp": "ピラーブリザ",
-  "en": "Pillar Blizzard",
-  "width": 26
+  "en": "Pillar Blizz.",
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18a56",
@@ -7881,7 +8199,7 @@
   "id": "SYSTEM/2/18a9a",
   "jp": "テクサンダ",
   "en": "Tech Thunder",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18ab4",
@@ -7893,7 +8211,7 @@
   "id": "SYSTEM/2/18af8",
   "jp": "オルタサンダ",
   "en": "Alter Thunder",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18b12",
@@ -7905,7 +8223,7 @@
   "id": "SYSTEM/2/18b56",
   "jp": "カースダーク",
   "en": "Curse Dark",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18b70",
@@ -7917,7 +8235,7 @@
   "id": "SYSTEM/2/18bb4",
   "jp": "ゴシックダーク",
   "en": "Gothic Dark",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18bce",
@@ -7929,7 +8247,7 @@
   "id": "SYSTEM/2/18c12",
   "jp": "セルライト",
   "en": "Cell Light",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18c2c",
@@ -7941,7 +8259,7 @@
   "id": "SYSTEM/2/18c70",
   "jp": "スラッジライト",
   "en": "Sludge Light",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18c8a",
@@ -7953,7 +8271,7 @@
   "id": "SYSTEM/2/18cce",
   "jp": "ロウクレスト",
   "en": "Law Crest",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18ce8",
@@ -7965,7 +8283,7 @@
   "id": "SYSTEM/2/18d2c",
   "jp": "カオスクレスト",
   "en": "Chaos Crest",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18d46",
@@ -7983,7 +8301,7 @@
   "id": "SYSTEM/2/18d8a",
   "jp": "トランスニュー",
   "en": "Trans Neutral",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18da4",
@@ -8001,7 +8319,7 @@
   "id": "SYSTEM/2/18de8",
   "jp": "トランスロウ",
   "en": "Trans Law",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18e02",
@@ -8019,7 +8337,7 @@
   "id": "SYSTEM/2/18e46",
   "jp": "トランスカオス",
   "en": "Trans Chaos",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18e60",
@@ -8037,7 +8355,7 @@
   "id": "SYSTEM/2/18ea4",
   "jp": "ＰＰフリーズ",
   "en": "PP Freeze",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18ebe",
@@ -8049,7 +8367,7 @@
   "id": "SYSTEM/2/18f02",
   "jp": "リングシール",
   "en": "Ring Seal",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18f1c",
@@ -8061,7 +8379,7 @@
   "id": "SYSTEM/2/18f60",
   "jp": "アドファシネ",
   "en": "Ad Fascine",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18f7a",
@@ -8073,7 +8391,7 @@
   "id": "SYSTEM/2/18fbe",
   "jp": "デスフレア",
   "en": "Death Flare",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/18fd8",
@@ -8085,7 +8403,7 @@
   "id": "SYSTEM/2/1901c",
   "jp": "バウブリザ",
   "en": "Bow Blizzard",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/19036",
@@ -8097,7 +8415,7 @@
   "id": "SYSTEM/2/1907a",
   "jp": "トランスサンダ",
   "en": "Trans Thunder",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/19094",
@@ -8109,7 +8427,7 @@
   "id": "SYSTEM/2/190d8",
   "jp": "ドゥームダーク",
   "en": "Doom Dark",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/190f2",
@@ -8121,7 +8439,7 @@
   "id": "SYSTEM/2/19136",
   "jp": "クラストライト",
   "en": "Crust Light",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/19150",
@@ -8133,7 +8451,7 @@
   "id": "SYSTEM/2/19194",
   "jp": "インフェルノ",
   "en": "Inferno",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/191ae",
@@ -8145,7 +8463,7 @@
   "id": "SYSTEM/2/191f2",
   "jp": "ブルータルレイ",
   "en": "Brutal Ray",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/1920c",
@@ -8157,7 +8475,7 @@
   "id": "SYSTEM/2/19250",
   "jp": "ラストワード",
   "en": "Last Word",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/1926a",
@@ -8169,7 +8487,7 @@
   "id": "SYSTEM/2/192ae",
   "jp": "ニューメテオ",
   "en": "Neutral Meteor",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/192c8",
@@ -8181,7 +8499,7 @@
   "id": "SYSTEM/2/1930c",
   "jp": "エレクメテオ",
   "en": "Elec Meteor",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/19326",
@@ -8193,7 +8511,7 @@
   "id": "SYSTEM/2/1936a",
   "jp": "アルマメテオ",
   "en": "Arma Meteor",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/19384",
@@ -8204,8 +8522,8 @@
  {
   "id": "SYSTEM/2/193c8",
   "jp": "収束する定理",
-  "en": "Converging Theorem",
-  "width": 26
+  "en": "Convergence",
+  "width": 14
  },
  {
   "id": "SYSTEM/2/193e2",
@@ -8217,7 +8535,7 @@
   "id": "SYSTEM/2/19426",
   "jp": "誠実な証明",
   "en": "Honest Proof",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/19440",
@@ -8229,7 +8547,7 @@
   "id": "SYSTEM/2/19484",
   "jp": "絶対的な存在",
   "en": "Absolute Being",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/1949e",
@@ -8240,8 +8558,8 @@
  {
   "id": "SYSTEM/2/194e2",
   "jp": "超越する摂理",
-  "en": "Transcendent Providence",
-  "width": 26
+  "en": "Transcendence",
+  "width": 14
  },
  {
   "id": "SYSTEM/2/194fc",
@@ -8252,8 +8570,8 @@
  {
   "id": "SYSTEM/2/19540",
   "jp": "再生する論理",
-  "en": "Regenerating Logic",
-  "width": 26
+  "en": "Regeneration",
+  "width": 14
  },
  {
   "id": "SYSTEM/2/1955a",
@@ -8265,7 +8583,7 @@
   "id": "SYSTEM/2/1959e",
   "jp": "ライフブレス",
   "en": "Life Breath",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/195b8",
@@ -8277,7 +8595,7 @@
   "id": "SYSTEM/2/195fc",
   "jp": "ゴッドスペイル",
   "en": "God Spale",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/19616",
@@ -8289,7 +8607,7 @@
   "id": "SYSTEM/2/1965a",
   "jp": "ラプソドス",
   "en": "Rhapsodos",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/19674",
@@ -8307,7 +8625,7 @@
   "id": "SYSTEM/2/196b8",
   "jp": "テュラント",
   "en": "Tyrant",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/196d2",
@@ -8325,7 +8643,7 @@
   "id": "SYSTEM/2/19716",
   "jp": "ジェント",
   "en": "Gent",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/19730",
@@ -8343,7 +8661,7 @@
   "id": "SYSTEM/2/19774",
   "jp": "ラムノス",
   "en": "Lamnos",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/1978e",
@@ -8361,7 +8679,7 @@
   "id": "SYSTEM/2/197d2",
   "jp": "ティアー",
   "en": "Tear",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/197ec",
@@ -8373,7 +8691,7 @@
   "id": "SYSTEM/2/19830",
   "jp": "バクトウス",
   "en": "Bactous",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/1984a",
@@ -8385,7 +8703,7 @@
   "id": "SYSTEM/2/1988e",
   "jp": "カオシーカー",
   "en": "Chaoseeker",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/198a8",
@@ -8397,7 +8715,7 @@
   "id": "SYSTEM/2/198ec",
   "jp": "ドラッグル",
   "en": "Draggle",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/19906",
@@ -8409,7 +8727,7 @@
   "id": "SYSTEM/2/1994a",
   "jp": "ベルカティア",
   "en": "Belcatia",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/19964",
@@ -8421,7 +8739,7 @@
   "id": "SYSTEM/2/199a8",
   "jp": "コンフェション",
   "en": "Confession",
-  "width": 26
+  "width": 14
  },
  {
   "id": "SYSTEM/2/199c2",

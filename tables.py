@@ -9,10 +9,10 @@ WEAPON = (128, [(0, 20), (26, 34), (60, 34), (94, 34)])
 SYSTEM_TABLES = [
     (2, 20, [(0, 18)]),                                   # unit names
     *[(i, *WEAPON) for i in range(6, 21)],                # fifteen weapon classes
-    (21, 96, [(0, 22), (28, 34), (62, 34)]),              # gems
-    (22, 122, [(0, 18), (20, 100)]),                      # items
-    (23, 98, [(0, 24), (30, 32), (62, 34)]),              # rings
-    (24, 94, [(0, 26), (26, 34), (60, 34)]),              # skills
+    (21, 96, [(0, 16), (28, 34), (62, 34)]),              # gems: flag bytes follow the name at +17
+    (22, 122, [(0, 18), (20, 100)]),                      # items: one record has a 2nd line after the 1st's terminator
+    (23, 98, [(0, 24), (30, 32), (64, 34)]),              # rings: second description starts at 64
+    (24, 94, [(0, 14), (26, 34), (60, 34)]),              # skills: flag bytes follow the name at +15
 ]
 
 
@@ -31,7 +31,8 @@ def fields(sub2: bytes) -> list[tuple[int, int]]:
 
 
 def _text(buf: bytes, off: int, width: int) -> bytes:
-    return buf[off:off + width].split(b"\0")[0]
+    """Up to the last non-zero byte: an embedded 00 00 (a second line) survives as {00}{00}."""
+    return buf[off:off + width].rstrip(b"\0")
 
 
 def extract_fixed(sub2: bytes, prefix: str) -> list[dict]:

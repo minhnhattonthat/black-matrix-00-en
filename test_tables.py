@@ -22,8 +22,15 @@ def test_every_kana_run_lies_inside_a_declared_field():
 def test_field_text_fits_its_width():
     # some ring descriptions fill all 32 bytes with no terminator, so the game reads by width
     for off, w in tables.fields(SUB2):
-        text = SUB2[off:off + w].split(b"\0")[0]
+        text = SUB2[off:off + w].rstrip(b"\0")
         assert len(text) <= w, hex(off)
+
+
+def test_fields_hold_only_shift_jis_text():
+    # insert zero-fills a field after the English, so a field must hold text only
+    for off, w in tables.fields(SUB2):
+        text = SUB2[off:off + w].rstrip(b"\0")
+        assert all(b == 0 or 0x20 <= b for b in text), hex(off)       # no flag bytes mixed in
 
 
 def test_insert_zero_fills_and_enforces_width():
