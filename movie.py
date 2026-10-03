@@ -139,9 +139,9 @@ def cached(src: Path, cues: list) -> Path:
 
 
 def transcribe(name: str) -> list:
-    """Whisper segments of work/orig/MOVIE/<name>.STR as untranslated cues."""
+    """Whisper segments of <name>.STR (Disc 1 copy, else Disc 2) as untranslated cues."""
     from faster_whisper import WhisperModel
-    src = ROOT / "work" / "orig" / "MOVIE" / f"{name}.STR"
+    src = next(p for p in (ROOT / "work" / d / "MOVIE" / f"{name}.STR" for d in ("orig", "orig2")) if p.exists())
     with tempfile.TemporaryDirectory() as d:
         d = Path(d)
         (d / "in.bin").write_bytes(wrap(src.read_bytes()))

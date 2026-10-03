@@ -39,3 +39,16 @@ off**. With the filter on, speech under music was dropped silently: two narratio
 BMM_002, most of BMM_005, all of BMM_007. Without it Whisper adds stock hallucinations over
 pure music (high no-speech probability; discard them by hand). `work/movie/make_cues.py`
 holds the hand-corrected cues that produced `script/MOVIE/*.json`.
+
+## Disc 2
+
+Pristine copies live in `work/orig2/MOVIE`; `build.patch_movies(ORIG2/MOVIE, DISC2/MOVIE)` uses the
+same cue files (a stream name is the same movie on either disc: 001, 002, 011, 035 are
+byte-identical across discs).
+
+| stream | speech | subtitles |
+|--------|--------|-----------|
+| BMM_008 (36 s) | Cain | 4 cues |
+| BMM_009 / 010 (47 s) | two variants of the same scene (rule / destroy) | 5 / 3 cues; 010 may have an unheard line near 30 s |
+| BMM_012, 033, 034 | none | none |
+| BMM_019..022 / 029..032 | chapter 7, 8, 9 and final chapter cards | title cue |

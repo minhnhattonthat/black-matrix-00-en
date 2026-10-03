@@ -16,6 +16,7 @@ ARCHIVES = ["SCENARIO.DAT", "TOWN.DAT", "EVENT.DAT", "SYSTEM.DAT", "BATTLE.DAT"]
 ROM2 = ROOT / "rom" / "Black-Matrix 00 (Japan) (Disc 2).bin"
 DISC2 = ROOT / "work" / "d2"               # Disc 2 tree: same archives and EXE (named SLPS_035.74), other XA/STR
 EXE2 = "SLPS_035.74"
+ORIG2 = ROOT / "work" / "orig2"            # pristine Disc 2 movies (the only Disc 2 files we patch separately)
 
 
 def extract():
@@ -25,6 +26,7 @@ def extract():
     if ROM2.exists():
         DISC2.mkdir(parents=True, exist_ok=True)
         subprocess.run([MKPSXISO / "dumpsxiso.exe", "-x", DISC2, "-s", DISC2 / "layout.xml", ROM2], check=True)
+        shutil.copytree(DISC2 / "MOVIE", ORIG2 / "MOVIE", dirs_exist_ok=True)
     ORIG.mkdir(exist_ok=True)
     for name in ARCHIVES + ["SLPS_035.73"]:
         shutil.copy2(EXTRACTED / name, ORIG / name)
@@ -105,13 +107,13 @@ def patch_town():
     (EXTRACTED / "TOWN.DAT").write_bytes(dat.pack(subs))
 
 
-def patch_movies():
-    """Subtitled streams from the cache (rendered on a miss); movies without English cues are the originals."""
-    for src in sorted((ORIG / "MOVIE").glob("*.STR")):
+def patch_movies(orig: Path = ORIG / "MOVIE", out: Path = EXTRACTED / "MOVIE"):
+    """Subtitled streams from the cache (rendered on a miss); movies without English cues are the originals.
+    Cue files are shared by both discs: a stream name means the same movie on either disc."""
+    for src in sorted(orig.glob("*.STR")):
         cue_file = SCRIPT / "MOVIE" / f"{src.stem}.json"
         cues = json.loads(cue_file.read_text(encoding="utf-8")) if cue_file.exists() else []
-        shutil.copyfile(movie.cached(src, cues) if any(c["en"] for c in cues) else src,
-                        EXTRACTED / "MOVIE" / src.name)
+        shutil.copyfile(movie.cached(src, cues) if any(c["en"] for c in cues) else src, out / src.name)
 
 
 def patch():
@@ -161,6 +163,7 @@ if __name__ == "__main__":
         patch()
         print(make_iso())
         if (DISC2 / "layout.xml").exists():
+            patch_movies(ORIG2 / "MOVIE", DISC2 / "MOVIE")
             print(make_iso2())
     else:
         sys.exit("usage: python build.py [extract|dump]")

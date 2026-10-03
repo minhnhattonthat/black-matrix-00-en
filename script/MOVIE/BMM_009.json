@@ -1,0 +1,38 @@
+[
+ {
+  "id": "MOVIE/009/00",
+  "start": 30.0,
+  "end": 32.6,
+  "jp": "この力、喜べよ！",
+  "en": "This power... rejoice!",
+  "check": true
+ },
+ {
+  "id": "MOVIE/009/01",
+  "start": 32.9,
+  "end": 35.7,
+  "jp": "全てを支配する神の誕生だ！",
+  "en": "The birth of a god who rules all!"
+ },
+ {
+  "id": "MOVIE/009/02",
+  "start": 36.14,
+  "end": 38.1,
+  "jp": "俺は全てを支配する",
+  "en": "I will rule everything."
+ },
+ {
+  "id": "MOVIE/009/03",
+  "start": 38.84,
+  "end": 41.84,
+  "jp": "人も、悪魔も、天使もすべて",
+  "en": "Man, demon, angel, every one of them..."
+ },
+ {
+  "id": "MOVIE/009/04",
+  "start": 41.84,
+  "end": 44.2,
+  "jp": "この俺が支配してやる！",
+  "en": "I will rule them all!"
+ }
+]

@@ -24,6 +24,7 @@ def test_disc2_shares_disc1_files_and_rebuilds_identically():
         return
     for name in build.ARCHIVES + ["SLPS_035.73"]:          # test 1 left the originals in EXTRACTED
         shutil.copy2(build.ORIG / name, build.EXTRACTED / name)
+    shutil.copytree(build.ORIG2 / "MOVIE", build.DISC2 / "MOVIE", dirs_exist_ok=True)   # undo subtitled movies
     out = build.make_iso2()
     assert sha(out) == sha(build.ROM2)                     # so Disc 1's originals ARE Disc 2's files
 

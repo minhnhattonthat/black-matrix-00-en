@@ -258,3 +258,11 @@ Lilis's hiragana-only articles are rendered all-lowercase with a lisp ("solitawy
 | ボトル/ポット/フラガン/デカンタペイン | Pain Bottle / Pot / Flagon / Decanter | PP items |
 | 見習い神官兵 / 僧兵 / 中位僧兵 / 高位僧兵 | Novice Priest / Monk Soldier / Monk Sergeant / Monk Captain | unit names |
 | 護法兵 / 準護法兵 / 護法天使兵 / 護法天使長 | Law Guard / Jr. Law Guard / Law Angel / Law Archangel | |
+
+## Movie subtitles
+
+| Japanese | English | notes |
+|---|---|---|
+| 第N章 titles (cards) | Chapter 1: The Beginning of Everything / 2: On the Mainland / 3: A Girl's Prayer / 4: Each One's Resolve / 5: A Shattering Heart / 6: The Tragedy of San Bartelmi / 7: The Underground World / 8: Blade of Betrayal / 9: Awakening / Final Chapter: The Wings Dance | full forms; the save screen uses shortened ones |
+| 白き翼 / 黒き翼 (narration) | the white wings / the black wings | |
+| 発動 | activate | "Pain Ring, activate!" |

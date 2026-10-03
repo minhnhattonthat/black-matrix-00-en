@@ -1,0 +1,30 @@
+[
+ {
+  "id": "MOVIE/008/00",
+  "start": 7.18,
+  "end": 9.9,
+  "jp": "もう・・・見たくない・・・",
+  "en": "No more... I don't want to see it..."
+ },
+ {
+  "id": "MOVIE/008/01",
+  "start": 11.06,
+  "end": 13.2,
+  "jp": "滅びの時を・・・",
+  "en": "...the hour of ruin."
+ },
+ {
+  "id": "MOVIE/008/02",
+  "start": 26.02,
+  "end": 29.5,
+  "jp": "この世界の未来を",
+  "en": "The future of this world..."
+ },
+ {
+  "id": "MOVIE/008/03",
+  "start": 33.9,
+  "end": 36.3,
+  "jp": "僕に見せるな！",
+  "en": "Don't show it to me!"
+ }
+]
