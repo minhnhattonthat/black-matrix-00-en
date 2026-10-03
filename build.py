@@ -13,10 +13,18 @@ BUILD = ROOT / "build"
 ARCHIVES = ["SCENARIO.DAT", "TOWN.DAT", "EVENT.DAT", "SYSTEM.DAT", "BATTLE.DAT"]
 
 
+ROM2 = ROOT / "rom" / "Black-Matrix 00 (Japan) (Disc 2).bin"
+DISC2 = ROOT / "work" / "d2"               # Disc 2 tree: same archives and EXE (named SLPS_035.74), other XA/STR
+EXE2 = "SLPS_035.74"
+
+
 def extract():
     EXTRACTED.mkdir(parents=True, exist_ok=True)
     subprocess.run([MKPSXISO / "dumpsxiso.exe", "-x", EXTRACTED,
                     "-s", EXTRACTED / "layout.xml", ROM], check=True)
+    if ROM2.exists():
+        DISC2.mkdir(parents=True, exist_ok=True)
+        subprocess.run([MKPSXISO / "dumpsxiso.exe", "-x", DISC2, "-s", DISC2 / "layout.xml", ROM2], check=True)
     ORIG.mkdir(exist_ok=True)
     for name in ARCHIVES + ["SLPS_035.73"]:
         shutil.copy2(EXTRACTED / name, ORIG / name)
@@ -115,14 +123,22 @@ def patch():
     (EXTRACTED / "SLPS_035.73").write_bytes(patched)
 
 
-def make_iso() -> Path:
+def make_iso(tree: Path = EXTRACTED, name: str = "bm00-en") -> Path:
     BUILD.mkdir(exist_ok=True)
-    out = BUILD / "bm00-en.bin"
+    out = BUILD / f"{name}.bin"
     # cwd is the dump dir: layout.xml refers to its files by relative path
     subprocess.run([MKPSXISO / "mkpsxiso.exe", "-y", "-o", out,
-                    "-c", BUILD / "bm00-en.cue", "layout.xml"],
-                   cwd=EXTRACTED, check=True)
+                    "-c", BUILD / f"{name}.cue", "layout.xml"],
+                   cwd=tree, check=True)
     return out
+
+
+def make_iso2() -> Path:
+    """Disc 2 carries the same archives and executable as Disc 1: reuse whatever is in EXTRACTED."""
+    for name in ARCHIVES:
+        shutil.copy2(EXTRACTED / name, DISC2 / name)
+    shutil.copy2(EXTRACTED / "SLPS_035.73", DISC2 / EXE2)
+    return make_iso(DISC2, "bm00-en-disc2")
 
 
 if __name__ == "__main__":
@@ -133,5 +149,7 @@ if __name__ == "__main__":
     elif not sys.argv[1:]:
         patch()
         print(make_iso())
+        if (DISC2 / "layout.xml").exists():
+            print(make_iso2())
     else:
         sys.exit("usage: python build.py [extract|dump]")

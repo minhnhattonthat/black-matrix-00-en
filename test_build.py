@@ -18,6 +18,16 @@ def test_unmodified_rebuild_matches_original():
     assert sha(out) == sha(build.ROM)
 
 
+def test_disc2_shares_disc1_files_and_rebuilds_identically():
+    if not build.ROM2.exists():
+        return
+    for name in build.ARCHIVES + ["SLPS_035.73"]:          # test 1 left the originals in EXTRACTED
+        shutil.copy2(build.ORIG / name, build.EXTRACTED / name)
+    out = build.make_iso2()
+    assert sha(out) == sha(build.ROM2)                     # so Disc 1's originals ARE Disc 2's files
+
+
 if __name__ == "__main__":
     test_unmodified_rebuild_matches_original()
+    test_disc2_shares_disc1_files_and_rebuilds_identically()
     print("ok")
