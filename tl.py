@@ -22,7 +22,8 @@ def lines(entries: list[dict]) -> list[str]:
         if e["en"]:
             continue
         jp = " / ".join(e["jp"]) if isinstance(e["jp"], list) else e["jp"]
-        col = f'w{e["width"]}' if "width" in e else e.get("speaker")   # wN = byte limit of a fixed field, else portrait slot
+        # wN = byte limit of a fixed field, aN = byte limit per auto-wrapped line, else portrait slot
+        col = f'{"a" if e.get("wrap") else "w"}{e["width"]}' if "width" in e else e.get("speaker")
         out.append(f'{e["id"]}\t{"-" if col is None else col}\t{jp}')
     return out
 
@@ -49,8 +50,8 @@ def apply(js: Path, answers: Path) -> list[str]:
 def check(src_lines: list[str], answer_lines: list[str], limit: int = 85) -> list[str]:
     """Problems in a translator's answer file against the source listing it was made from."""
     wanted = [l.split("\t")[0] for l in src_lines if l.strip()]
-    limits = {p[0]: int(p[1][1:]) for p in (l.split("\t") for l in src_lines)
-              if len(p) > 1 and p[1][:1] == "w" and p[1][1:].isdigit()}
+    limits = {p[0]: (p[1][0], int(p[1][1:])) for p in (l.split("\t") for l in src_lines)
+              if len(p) > 1 and p[1][:1] in "wa" and p[1][1:].isdigit()}
     seen, problems = {}, []
     for raw in answer_lines:
         if not raw.strip():
@@ -63,14 +64,22 @@ def check(src_lines: list[str], answer_lines: list[str], limit: int = 85) -> lis
             problems.append(f"unknown id: {id_}")
         if not en.strip():
             problems.append(f"empty: {id_}")
-        if not en.isascii():
+        clean = all(c.isascii() or c in "『』　" for c in en)   # 『 』 and the blank-line space
+        if not clean:
             problems.append(f"non-ascii: {id_}: {en!r}")
         if "\t" in en:
             problems.append(f"tab in text: {id_}")
         if id_ in limits:
-            n = len(script.encode(en.replace("\\n", " "))) if en.isascii() else len(en) * 2
-            if n > limits[id_]:
-                problems.append(f"over width: {id_} ({n} > {limits[id_]})")
+            kind, lim = limits[id_]
+            text = en.replace("\\n", "\n")
+            if not clean:
+                n = len(en) * 2
+            elif kind == "a":
+                n = max((len(script.encode(l)) for l in script.wrap(text, lim)), default=0)
+            else:
+                n = len(script.encode(text.replace("\n", " ")))
+            if n > lim:
+                problems.append(f"over width: {id_} ({n} > {lim})")
         elif len(en.replace("\\n", " ")) > limit or any(len(w) > 30 for w in en.split()):
             problems.append(f"long: {id_} ({len(en)} chars)")
     problems += [f"missing id: {i}" for i in wanted if i not in seen]

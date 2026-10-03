@@ -2,7 +2,7 @@
 import json, shutil, subprocess, sys
 from pathlib import Path
 
-import dat, halfwidth, pointers, script, tables
+import dat, halfwidth, pointers, script, tables, town
 
 ROOT = Path(__file__).parent
 ROM = ROOT / "rom" / "Black-Matrix 00 (Japan) (Disc 1).bin"
@@ -47,6 +47,14 @@ def dump():
         if not path.exists():
             path.write_text(json.dumps(entries, ensure_ascii=False, indent=1), encoding="utf-8")
 
+    towndir = SCRIPT / "TOWN"
+    towndir.mkdir(exist_ok=True)
+    nb, ui = town.extract(dat.unpack((ORIG / "TOWN.DAT").read_bytes())[4])   # every copy is identical
+    for name, entries in (("notebook", nb), ("town", ui)):
+        path = towndir / f"{name}.json"
+        if not path.exists():
+            path.write_text(json.dumps(entries, ensure_ascii=False, indent=1), encoding="utf-8")
+
 
 def _system_json(name):
     return json.loads((SCRIPT / "SYSTEM" / f"{name}.json").read_text(encoding="utf-8"))
@@ -69,8 +77,22 @@ def patch_system():
     (EXTRACTED / "BATTLE.DAT").write_bytes(dat.pack(battle))
 
 
+def patch_town():
+    nb = json.loads((SCRIPT / "TOWN" / "notebook.json").read_text(encoding="utf-8"))
+    ui = json.loads((SCRIPT / "TOWN" / "town.json").read_text(encoding="utf-8"))
+    subs = dat.unpack((ORIG / "TOWN.DAT").read_bytes())
+    grown = 0
+    for i, b in enumerate(subs):
+        if b and town.has_text(b):
+            subs[i] = town.insert(b, nb, ui)
+            grown = max(grown, len(subs[i]) - len(b))
+    print(f"TOWN: largest sub-file growth {grown} bytes")
+    (EXTRACTED / "TOWN.DAT").write_bytes(dat.pack(subs))
+
+
 def patch():
     patch_system()
+    patch_town()
     files = dat.unpack((ORIG / "SCENARIO.DAT").read_bytes())
     for path in sorted((SCRIPT / "SCENARIO").glob("*.json")):
         i = int(path.stem)

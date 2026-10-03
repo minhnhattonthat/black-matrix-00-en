@@ -59,6 +59,15 @@ def test_check_reports_missing_extra_nonascii_and_long_lines():
     assert tl.check(src, ["x/1\tHi", "x/2\tMenu", "x/3\tThree"]) == []
 
 
+def test_wrap_entries_check_per_wrapped_line():
+    entries = [{"id": "T/1", "jp": ["a"], "en": "", "width": 32, "wrap": True}]
+    assert tl.lines(entries) == ["T/1\ta32\ta"]
+    src = ["T/1\ta32\ta"]
+    assert tl.check(src, ["T/1\t" + ("word " * 30).strip()]) == []            # wraps fine
+    assert tl.check(src, ["T/1\t『Title』\\nbody"]) == []              # 『』 allowed in titles
+    assert any("over width" in p for p in tl.check(src, ["T/1\t" + "x" * 33]))  # unbreakable word
+
+
 if __name__ == "__main__":
     for name, fn in list(globals().items()):
         if name.startswith("test_"):
