@@ -22,6 +22,8 @@ def lines(entries: list[dict]) -> list[str]:
         if e["en"]:
             continue
         jp = " / ".join(e["jp"]) if isinstance(e["jp"], list) else e["jp"]
+        if not jp.strip():                 # 　 placeholders: nothing to translate, insert keeps them
+            continue
         # wN = byte limit of a fixed field, aN = byte limit per auto-wrapped line, else portrait slot
         col = f'{"a" if e.get("wrap") else "w"}{e["width"]}' if "width" in e else e.get("speaker")
         out.append(f'{e["id"]}\t{"-" if col is None else col}\t{jp}')

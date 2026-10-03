@@ -2,61 +2,61 @@
  {
   "id": "TOWN/B/00/00",
   "jp": "街を出ますか？",
-  "en": "",
+  "en": "Leave town?",
   "width": 28
  },
  {
   "id": "TOWN/B/00/01",
   "jp": "これでよろしいですか？",
-  "en": "",
+  "en": "Is this all right?",
   "width": 28
  },
  {
   "id": "TOWN/B/00/02",
   "jp": "この機材を購入しますか？",
-  "en": "",
+  "en": "Buy this equipment?",
   "width": 28
  },
  {
   "id": "TOWN/B/01/00",
   "jp": "セーブ",
-  "en": "",
+  "en": "Save",
   "width": 28
  },
  {
   "id": "TOWN/B/01/01",
   "jp": "ロード",
-  "en": "",
+  "en": "Load",
   "width": 28
  },
  {
   "id": "TOWN/B/01/02",
   "jp": "コンフィグ",
-  "en": "",
+  "en": "Config",
   "width": 28
  },
  {
   "id": "TOWN/B/01/03",
   "jp": "せぇ～ぶ",
-  "en": "",
+  "en": "Sa~ve",
   "width": 28
  },
  {
   "id": "TOWN/B/01/04",
   "jp": "ろぉ～ど",
-  "en": "",
+  "en": "Lo~ad",
   "width": 28
  },
  {
   "id": "TOWN/B/01/05",
   "jp": "こんふぃぐ",
-  "en": "",
+  "en": "Con~fig",
   "width": 28
  },
  {
   "id": "TOWN/B/02/00",
   "jp": "ここから先へは行けません！",
-  "en": "",
+  "en": "You can't go any further!",
   "width": 28
  },
  {
@@ -68,379 +68,379 @@
  {
   "id": "TOWN/B/05/00",
   "jp": "ビラを配って沢山のお客さんに",
-  "en": "",
+  "en": "Hand out flyers so lots of",
   "width": 28
  },
  {
   "id": "TOWN/B/05/01",
   "jp": "サーカスを見て頂かないとね！",
-  "en": "",
+  "en": "folks come and see the show!",
   "width": 28
  },
  {
   "id": "TOWN/B/05/02",
   "jp": "しっかり宣伝をしてきてね！",
-  "en": "",
+  "en": "Now go spread the word!",
   "width": 28
  },
  {
   "id": "TOWN/B/06/00",
   "jp": "ビラ配りだからと言って",
-  "en": "",
+  "en": "Just because it's flyers",
   "width": 28
  },
  {
   "id": "TOWN/B/06/01",
   "jp": "舐めてかかると、",
-  "en": "",
+  "en": "doesn't mean you can slack,",
   "width": 28
  },
  {
   "id": "TOWN/B/06/02",
   "jp": "痛い目を見るわよ！",
-  "en": "",
+  "en": "or you'll regret it!",
   "width": 28
  },
  {
   "id": "TOWN/B/07/00",
   "jp": "ビラ配りは基本中の基本だから",
-  "en": "",
+  "en": "Flyers are the most basic",
   "width": 28
  },
  {
   "id": "TOWN/B/07/01",
   "jp": "これがうまく出来ない様なら",
-  "en": "",
+  "en": "of basics. If you can't do",
   "width": 28
  },
  {
   "id": "TOWN/B/07/02",
   "jp": "カネル団には必要無いわ！",
-  "en": "",
+  "en": "this, Kanel can't use you!",
   "width": 28
  },
  {
   "id": "TOWN/B/08/00",
   "jp": "ナイフ投げは正確性が命！",
-  "en": "",
+  "en": "Knife throwing is all about",
   "width": 28
  },
  {
   "id": "TOWN/B/08/01",
   "jp": "的のど真ん中に命中させるのは",
-  "en": "",
+  "en": "accuracy! A dead-center hit",
   "width": 28
  },
  {
   "id": "TOWN/B/08/02",
   "jp": "至難の技よ！",
-  "en": "",
+  "en": "is the hardest trick of all!",
   "width": 28
  },
  {
   "id": "TOWN/B/09/00",
   "jp": "ナイフ投げは危険な技だから、",
-  "en": "",
+  "en": "Knife throwing is dangerous,",
   "width": 28
  },
  {
   "id": "TOWN/B/09/01",
   "jp": "絶対に人に向けて投げては",
-  "en": "",
+  "en": "so never, ever throw one at",
   "width": 28
  },
  {
   "id": "TOWN/B/09/02",
   "jp": "駄目だからね！絶対だよ！",
-  "en": "",
+  "en": "a person! Never! Got it?",
   "width": 28
  },
  {
   "id": "TOWN/B/10/00",
   "jp": "目隠ししてもど真ん中！",
-  "en": "",
+  "en": "Blindfolded? Dead center!",
   "width": 28
  },
  {
   "id": "TOWN/B/10/01",
   "jp": "二本投げてもど真ん中！",
-  "en": "",
+  "en": "Two at once? Dead center!",
   "width": 28
  },
  {
   "id": "TOWN/B/10/02",
   "jp": "回転してもど真ん中！",
-  "en": "",
+  "en": "Spinning? Dead center!",
   "width": 28
  },
  {
   "id": "TOWN/B/11/00",
   "jp": "ジャグリングは二人の呼吸が",
-  "en": "",
+  "en": "Juggling never works unless",
   "width": 28
  },
  {
   "id": "TOWN/B/11/01",
   "jp": "合わないと絶対に成功しないわ",
-  "en": "",
+  "en": "both partners are in sync.",
   "width": 28
  },
  {
   "id": "TOWN/B/11/02",
   "jp": "相手との息を合わせてね！",
-  "en": "",
+  "en": "Match your partner's rhythm!",
   "width": 28
  },
  {
   "id": "TOWN/B/12/00",
   "jp": "決めポーズはしっかりとね！",
-  "en": "",
+  "en": "Nail that finishing pose!",
   "width": 28
  },
  {
   "id": "TOWN/B/12/01",
   "jp": "同じ事を繰り返してたら",
-  "en": "",
+  "en": "Do the same thing every time",
   "width": 28
  },
  {
   "id": "TOWN/B/12/02",
   "jp": "マンネリって言われちゃうわよ",
-  "en": "",
+  "en": "and they'll call it stale!",
   "width": 28
  },
  {
   "id": "TOWN/B/13/00",
   "jp": "落としてばっかりいたら",
-  "en": "",
+  "en": "Keep dropping things and",
   "width": 28
  },
  {
   "id": "TOWN/B/13/01",
   "jp": "道具が壊れちゃうわよ！",
-  "en": "",
+  "en": "the props will break!",
   "width": 28
  },
  {
   "id": "TOWN/B/13/02",
   "jp": "お金が無いから気を付けてね！",
-  "en": "",
+  "en": "We're broke, so be careful!",
   "width": 28
  },
  {
   "id": "TOWN/B/14/00",
   "jp": "バランス感覚と常に冷静な",
-  "en": "",
+  "en": "Without balance and a cool,",
   "width": 28
  },
  {
   "id": "TOWN/B/14/01",
   "jp": "判断が出来ないと駄目だよ！",
-  "en": "",
+  "en": "level head, it's hopeless!",
   "width": 28
  },
  {
   "id": "TOWN/B/14/02",
   "jp": "慌てず焦らずに頑張ってね！",
-  "en": "",
+  "en": "Don't rush, don't panic!",
   "width": 28
  },
  {
   "id": "TOWN/B/15/00",
   "jp": "命綱のない綱渡り、",
-  "en": "",
+  "en": "Tightrope with no lifeline,",
   "width": 28
  },
  {
   "id": "TOWN/B/15/01",
   "jp": "だから命の保証はないわよ！",
-  "en": "",
+  "en": "so your life's not insured!",
   "width": 28
  },
  {
   "id": "TOWN/B/15/02",
   "jp": "落ちたらゲームオーバーよ！",
-  "en": "",
+  "en": "Fall and it's game over!",
   "width": 28
  },
  {
   "id": "TOWN/B/16/00",
   "jp": "綱の上であんな事や",
-  "en": "",
+  "en": "Doing this and that and even",
   "width": 28
  },
  {
   "id": "TOWN/B/16/01",
   "jp": "こんな事までやってしまう、",
-  "en": "",
+  "en": "THAT up on the wire...",
   "width": 28
  },
  {
   "id": "TOWN/B/16/02",
   "jp": "我らがネキンター・カネル団！",
-  "en": "",
+  "en": "that's our Nekinter Kanel!",
   "width": 28
  },
  {
   "id": "TOWN/B/17/00",
   "jp": "ライオンは気性が荒いから",
-  "en": "",
+  "en": "Lions have nasty tempers,",
   "width": 28
  },
  {
   "id": "TOWN/B/17/01",
   "jp": "怒らせないように注意してね！",
-  "en": "",
+  "en": "so be careful not to anger",
   "width": 28
  },
  {
   "id": "TOWN/B/17/02",
   "jp": "じゃあ頑張ってね！",
-  "en": "",
+  "en": "him! Now, good luck!",
   "width": 28
  },
  {
   "id": "TOWN/B/18/00",
   "jp": "大丈夫、人を襲うライオンでは",
-  "en": "",
+  "en": "Don't worry, this lion won't",
   "width": 28
  },
  {
   "id": "TOWN/B/18/01",
   "jp": "ないから安心して！",
-  "en": "",
+  "en": "attack people, so relax!",
   "width": 28
  },
  {
   "id": "TOWN/B/18/02",
   "jp": "演技に集中して頑張ってね！",
-  "en": "",
+  "en": "Focus on the act. Good luck!",
   "width": 28
  },
  {
   "id": "TOWN/B/19/00",
   "jp": "あのサバンナライオンを",
-  "en": "",
+  "en": "Commanding that savanna lion",
   "width": 28
  },
  {
   "id": "TOWN/B/19/01",
   "jp": "いとも簡単に操ってしまう！",
-  "en": "",
+  "en": "like it's nothing at all!",
   "width": 28
  },
  {
   "id": "TOWN/B/19/02",
   "jp": "ライオンとの夢の競演だよ！",
-  "en": "",
+  "en": "A dream duet with a lion!",
   "width": 28
  },
  {
   "id": "TOWN/B/20/00",
   "jp": "サーカスと言えば空中ブランコ",
-  "en": "",
+  "en": "Circus means flying trapeze!",
   "width": 28
  },
  {
   "id": "TOWN/B/20/01",
   "jp": "これが無きゃサーカスとは",
-  "en": "",
+  "en": "No trapeze, no circus,",
   "width": 28
  },
  {
   "id": "TOWN/B/20/02",
   "jp": "言えないよ！頑張らなくちゃ！",
-  "en": "",
+  "en": "plain and simple! Work hard!",
   "width": 28
  },
  {
   "id": "TOWN/B/21/00",
   "jp": "演出って大事だよね！",
-  "en": "",
+  "en": "Staging really matters!",
   "width": 28
  },
  {
   "id": "TOWN/B/21/01",
   "jp": "ＢＧＭや照明とかね・・・",
-  "en": "",
+  "en": "The BGM, the lighting...",
   "width": 28
  },
  {
   "id": "TOWN/B/21/02",
   "jp": "まぁ頑張ってね！",
-  "en": "",
+  "en": "Well, good luck with it!",
   "width": 28
  },
  {
   "id": "TOWN/B/22/00",
   "jp": "やったぁ！空中ブラソコだ！",
-  "en": "",
+  "en": "Yay! The flying trapezo!",
   "width": 28
  },
  {
   "id": "TOWN/B/22/01",
   "jp": "あれ？・・・ブラソコ！！",
-  "en": "",
+  "en": "Huh? ...Trapezo!!",
   "width": 28
  },
  {
   "id": "TOWN/B/22/02",
   "jp": "ん？まぁいいや。あははは・・",
-  "en": "",
+  "en": "Hm? Oh well. Ahahaha...",
   "width": 28
  },
  {
   "id": "TOWN/B/23/00",
   "jp": "タイミングはシビアよ！",
-  "en": "",
+  "en": "The timing is brutal!",
   "width": 28
  },
  {
   "id": "TOWN/B/23/01",
   "jp": "空中でキャッチしたら",
-  "en": "",
+  "en": "Once you catch in midair,",
   "width": 28
  },
  {
   "id": "TOWN/B/23/02",
   "jp": "絶対に離しちゃ駄目だよ！",
-  "en": "",
+  "en": "don't you dare let go!",
   "width": 28
  },
  {
   "id": "TOWN/B/24/00",
   "jp": "空中で合体するのよ、",
-  "en": "",
+  "en": "You join up in midair... Ah,",
   "width": 28
  },
  {
   "id": "TOWN/B/24/01",
   "jp": "あぁ、ホクトとミナミを",
-  "en": "",
+  "en": "it takes me back to Hokuto",
   "width": 28
  },
  {
   "id": "TOWN/B/24/02",
   "jp": "思い出しちゃうわ。エース！",
-  "en": "",
+  "en": "and Minami. Ace!",
   "width": 28
  },
  {
   "id": "TOWN/B/25/00",
   "jp": "つ、ついにここまで来たんだわ",
-  "en": "",
+  "en": "W-we finally made it here!",
   "width": 28
  },
  {
   "id": "TOWN/B/25/01",
   "jp": "最後にこれを完成させれば、",
-  "en": "",
+  "en": "Complete this last one, and",
   "width": 28
  },
  {
   "id": "TOWN/B/25/02",
   "jp": "我々の野望が達成される！！！",
-  "en": "",
+  "en": "our ambition is fulfilled!!!",
   "width": 28
  },
  {
@@ -452,7 +452,7 @@
  {
   "id": "TOWN/B/26/01",
   "jp": "　　　公　演　終　了",
-  "en": "",
+  "en": "      Show's Over",
   "width": 28
  },
  {
@@ -482,385 +482,385 @@
  {
   "id": "TOWN/B/30/00",
   "jp": "少林ナイフ",
-  "en": "",
+  "en": "Shaolin Knives",
   "width": 28
  },
  {
   "id": "TOWN/B/30/01",
   "jp": "ファイアーボール",
-  "en": "",
+  "en": "Fireball",
   "width": 28
  },
  {
   "id": "TOWN/B/30/02",
   "jp": "ロープ・ア・ドープ",
-  "en": "",
+  "en": "Rope-a-Dope",
   "width": 28
  },
  {
   "id": "TOWN/B/30/03",
   "jp": "マッドライオン",
-  "en": "",
+  "en": "Mad Lion",
   "width": 28
  },
  {
   "id": "TOWN/B/30/04",
   "jp": "ボンボンブランコ",
-  "en": "",
+  "en": "Bonbon Trapeze",
   "width": 28
  },
  {
   "id": "TOWN/B/30/05",
   "jp": "Ｄ・Ｊ",
-  "en": "",
+  "en": "D.J.",
   "width": 28
  },
  {
   "id": "TOWN/B/30/06",
   "jp": "セングラー",
-  "en": "",
+  "en": "Sengler",
   "width": 28
  },
  {
   "id": "TOWN/B/30/07",
   "jp": "達人ノ書～渡～",
-  "en": "",
+  "en": "Master's Tome ~Cross~",
   "width": 28
  },
  {
   "id": "TOWN/B/30/08",
   "jp": "達人ノ書～投～",
-  "en": "",
+  "en": "Master's Tome ~Throw~",
   "width": 28
  },
  {
   "id": "TOWN/B/30/09",
   "jp": "達人ノ書～球～",
-  "en": "",
+  "en": "Master's Tome ~Ball~",
   "width": 28
  },
  {
   "id": "TOWN/B/30/10",
   "jp": "達人ノ書～綱～",
-  "en": "",
+  "en": "Master's Tome ~Rope~",
   "width": 28
  },
  {
   "id": "TOWN/B/30/11",
   "jp": "達人ノ書～獣～",
-  "en": "",
+  "en": "Master's Tome ~Beast~",
   "width": 28
  },
  {
   "id": "TOWN/B/30/12",
   "jp": "達人ノ書～輝～",
-  "en": "",
+  "en": "Master's Tome ~Shine~",
   "width": 28
  },
  {
   "id": "TOWN/B/30/13",
   "jp": "達人ノ書～舞～",
-  "en": "",
+  "en": "Master's Tome ~Dance~",
   "width": 28
  },
  {
   "id": "TOWN/B/30/14",
   "jp": "達人ノ書～完～",
-  "en": "",
+  "en": "Master's Tome ~End~",
   "width": 28
  },
  {
   "id": "TOWN/B/30/15",
   "jp": "プレミアムチケット",
-  "en": "",
+  "en": "Premium Ticket",
   "width": 28
  },
  {
   "id": "TOWN/B/31/00",
   "jp": "ナイフ投げの道具～",
-  "en": "",
+  "en": "Knife-throwing gear~",
   "width": 28
  },
  {
   "id": "TOWN/B/31/01",
   "jp": "的を見ずに後ろ向きで狙うから",
-  "en": "",
+  "en": "You aim backwards without",
   "width": 28
  },
  {
   "id": "TOWN/B/31/02",
   "jp": "意外に難しいよ～",
-  "en": "",
+  "en": "looking, so it's tricky~",
   "width": 28
  },
  {
   "id": "TOWN/B/32/00",
   "jp": "ジャグリングの道具～",
-  "en": "",
+  "en": "Juggling gear~",
   "width": 28
  },
  {
   "id": "TOWN/B/32/01",
   "jp": "飛んできた玉を取るだけだから",
-  "en": "",
+  "en": "You just catch the balls",
   "width": 28
  },
  {
   "id": "TOWN/B/32/02",
   "jp": "簡単だよ～",
-  "en": "",
+  "en": "as they fly in. Easy~",
   "width": 28
  },
  {
   "id": "TOWN/B/33/00",
   "jp": "綱渡りの道具～",
-  "en": "",
+  "en": "Tightrope gear~",
   "width": 28
  },
  {
   "id": "TOWN/B/33/01",
   "jp": "高所恐怖症だったら止めた方が",
-  "en": "",
+  "en": "If you're scared of heights,",
   "width": 28
  },
  {
   "id": "TOWN/B/33/02",
   "jp": "いいかもしれないね～",
-  "en": "",
+  "en": "maybe give it a miss~",
   "width": 28
  },
  {
   "id": "TOWN/B/34/00",
   "jp": "火の輪くぐりのライオン～",
-  "en": "",
+  "en": "A lion for the ring of fire~",
   "width": 28
  },
  {
   "id": "TOWN/B/34/01",
   "jp": "百獣の王だから",
-  "en": "",
+  "en": "King of beasts, so a bite",
   "width": 28
  },
  {
   "id": "TOWN/B/34/02",
   "jp": "噛まれたら痛いよ～",
-  "en": "",
+  "en": "really hurts~",
   "width": 28
  },
  {
   "id": "TOWN/B/35/00",
   "jp": "空中ブランコの道具～",
-  "en": "",
+  "en": "Flying trapeze gear~",
   "width": 28
  },
  {
   "id": "TOWN/B/35/01",
   "jp": "すっごく難しいよ～",
-  "en": "",
+  "en": "It's reeeally hard~",
   "width": 28
  },
  {
   "id": "TOWN/B/35/02",
   "jp": "でも欲しいよ～",
-  "en": "",
+  "en": "But I want it~",
   "width": 28
  },
  {
   "id": "TOWN/B/36/00",
   "jp": "皿回しの道具～",
-  "en": "",
+  "en": "Plate-spinning gear~",
   "width": 28
  },
  {
   "id": "TOWN/B/36/01",
   "jp": "皿回しは究極の伝統芸能～",
-  "en": "",
+  "en": "The ultimate classic act~",
   "width": 28
  },
  {
   "id": "TOWN/B/36/02",
   "jp": "だＹＯ～",
-  "en": "",
+  "en": "YO~",
   "width": 28
  },
  {
   "id": "TOWN/B/37/00",
   "jp": "たいへん高価なアクセサリ～",
-  "en": "",
+  "en": "A very pricey accessory~",
   "width": 28
  },
  {
   "id": "TOWN/B/37/01",
   "jp": "ネキンター・カネル団では",
-  "en": "",
+  "en": "The Nekinter Kanel Troupe",
   "width": 28
  },
  {
   "id": "TOWN/B/37/02",
   "jp": "買うことが出来ないよ～",
-  "en": "",
+  "en": "can't afford this one~",
   "width": 28
  },
  {
   "id": "TOWN/B/38/00",
   "jp": "達人ノ書～渡～",
-  "en": "",
+  "en": "Master's Tome ~Cross~",
   "width": 28
  },
  {
   "id": "TOWN/B/38/01",
   "jp": "これを読めば誰でも達人",
-  "en": "",
+  "en": "Read this and anyone's a",
   "width": 28
  },
  {
   "id": "TOWN/B/38/02",
   "jp": "さぁ君もレッツ　チャレンジ！",
-  "en": "",
+  "en": "master. Come on, you try it!",
   "width": 28
  },
  {
   "id": "TOWN/B/39/00",
   "jp": "達人ノ書～投～",
-  "en": "",
+  "en": "Master's Tome ~Throw~",
   "width": 28
  },
  {
   "id": "TOWN/B/39/01",
   "jp": "これを読めば誰でも達人",
-  "en": "",
+  "en": "Read this and anyone's a",
   "width": 28
  },
  {
   "id": "TOWN/B/39/02",
   "jp": "さぁ君もレッツ　チャレンジ！",
-  "en": "",
+  "en": "master. Come on, you try it!",
   "width": 28
  },
  {
   "id": "TOWN/B/40/00",
   "jp": "達人ノ書～球～",
-  "en": "",
+  "en": "Master's Tome ~Ball~",
   "width": 28
  },
  {
   "id": "TOWN/B/40/01",
   "jp": "これを読めば誰でも達人",
-  "en": "",
+  "en": "Read this and anyone's a",
   "width": 28
  },
  {
   "id": "TOWN/B/40/02",
   "jp": "さぁ君もレッツ　チャレンジ！",
-  "en": "",
+  "en": "master. Come on, you try it!",
   "width": 28
  },
  {
   "id": "TOWN/B/41/00",
   "jp": "達人ノ書～綱～",
-  "en": "",
+  "en": "Master's Tome ~Rope~",
   "width": 28
  },
  {
   "id": "TOWN/B/41/01",
   "jp": "これを読めば誰でも達人",
-  "en": "",
+  "en": "Read this and anyone's a",
   "width": 28
  },
  {
   "id": "TOWN/B/41/02",
   "jp": "さぁ君もレッツ　チャレンジ！",
-  "en": "",
+  "en": "master. Come on, you try it!",
   "width": 28
  },
  {
   "id": "TOWN/B/42/00",
   "jp": "達人ノ書～獣～",
-  "en": "",
+  "en": "Master's Tome ~Beast~",
   "width": 28
  },
  {
   "id": "TOWN/B/42/01",
   "jp": "これを読めば誰でも達人",
-  "en": "",
+  "en": "Read this and anyone's a",
   "width": 28
  },
  {
   "id": "TOWN/B/42/02",
   "jp": "さぁ君もレッツ　チャレンジ！",
-  "en": "",
+  "en": "master. Come on, you try it!",
   "width": 28
  },
  {
   "id": "TOWN/B/43/00",
   "jp": "達人ノ書～輝～",
-  "en": "",
+  "en": "Master's Tome ~Shine~",
   "width": 28
  },
  {
   "id": "TOWN/B/43/01",
   "jp": "これを読めば誰でも達人",
-  "en": "",
+  "en": "Read this and anyone's a",
   "width": 28
  },
  {
   "id": "TOWN/B/43/02",
   "jp": "さぁ君もレッツ　チャレンジ！",
-  "en": "",
+  "en": "master. Come on, you try it!",
   "width": 28
  },
  {
   "id": "TOWN/B/44/00",
   "jp": "達人ノ書～舞～",
-  "en": "",
+  "en": "Master's Tome ~Dance~",
   "width": 28
  },
  {
   "id": "TOWN/B/44/01",
   "jp": "これを読めば誰でも達人",
-  "en": "",
+  "en": "Read this and anyone's a",
   "width": 28
  },
  {
   "id": "TOWN/B/44/02",
   "jp": "さぁ君もレッツ　チャレンジ！",
-  "en": "",
+  "en": "master. Come on, you try it!",
   "width": 28
  },
  {
   "id": "TOWN/B/45/00",
   "jp": "達人ノ書～完・永遠に～",
-  "en": "",
+  "en": "Master's Tome ~End, Forever~",
   "width": 28
  },
  {
   "id": "TOWN/B/45/01",
   "jp": "お主がここまで出来るとは・・",
-  "en": "",
+  "en": "So you have come this far...",
   "width": 28
  },
  {
   "id": "TOWN/B/45/02",
   "jp": "お主が望んだ道だ！",
-  "en": "",
+  "en": "This is the path you chose!",
   "width": 28
  },
  {
   "id": "TOWN/B/46/00",
   "jp": "超プレミアムチケット～",
-  "en": "",
+  "en": "Super Premium Ticket~",
   "width": 28
  },
  {
   "id": "TOWN/B/46/01",
   "jp": "このチケットさえあれば・・・",
-  "en": "",
+  "en": "With this ticket alone...",
   "width": 28
  },
  {
   "id": "TOWN/B/46/02",
   "jp": "転売は禁止だよ～",
-  "en": "",
+  "en": "No reselling, okay~",
   "width": 28
  },
  {
@@ -872,7 +872,7 @@
  {
   "id": "TOWN/B/47/01",
   "jp": "　　　　売り切れ～！",
-  "en": "",
+  "en": "      Sold out~!",
   "width": 28
  },
  {

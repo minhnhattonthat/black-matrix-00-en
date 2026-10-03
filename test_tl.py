@@ -43,7 +43,8 @@ def test_lines_show_width_and_check_enforces_it():
 def test_show_lists_only_untranslated_windows_and_strings():
     entries = [{"id": "x/1", "speaker": 3, "jp": ["one", "two"], "en": ""},
                {"id": "x/2", "jp": "menu", "en": ""},
-               {"id": "x/3", "jp": ["done"], "en": "Done"}]
+               {"id": "x/3", "jp": ["done"], "en": "Done"},
+               {"id": "x/4", "jp": "　", "en": "", "width": 28}]        # a blank-line placeholder: nothing to translate
     assert tl.lines(entries) == ["x/1\t3\tone / two", "x/2\t-\tmenu"]
 
 
