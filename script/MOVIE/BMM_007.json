@@ -1,0 +1,30 @@
+[
+ {
+  "id": "MOVIE/007/00",
+  "start": 30.02,
+  "end": 31.4,
+  "jp": "痛い",
+  "en": "It hurts..."
+ },
+ {
+  "id": "MOVIE/007/01",
+  "start": 33.48,
+  "end": 35.4,
+  "jp": "もうやめて",
+  "en": "Stop... no more..."
+ },
+ {
+  "id": "MOVIE/007/02",
+  "start": 39.16,
+  "end": 43.2,
+  "jp": "お願い、悲しみに囚われないで",
+  "en": "Please... don't be a prisoner of sorrow."
+ },
+ {
+  "id": "MOVIE/007/03",
+  "start": 44.76,
+  "end": 49.7,
+  "jp": "怒りに飲み込まれないで",
+  "en": "Don't let rage swallow you."
+ }
+]

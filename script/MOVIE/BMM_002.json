@@ -1,96 +1,107 @@
 [
  {
   "id": "MOVIE/002/00",
-  "start": 3.89,
+  "start": 3.72,
   "end": 6.4,
   "jp": "遥かなる神話の時代",
   "en": "In the distant age of myth,"
  },
  {
   "id": "MOVIE/002/01",
-  "start": 7.05,
+  "start": 7.08,
   "end": 9.8,
   "jp": "翼を持つ者たちの世界",
   "en": "a world of those who bore wings."
  },
  {
   "id": "MOVIE/002/02",
-  "start": 17.19,
+  "start": 17.14,
   "end": 21.8,
   "jp": "世界には３種類の人間が存在していた",
   "en": "Three kinds of people existed in the world."
  },
  {
   "id": "MOVIE/002/03",
-  "start": 24.08,
-  "end": 28.2,
+  "start": 24.06,
+  "end": 28.0,
   "jp": "白き鳥類の翼を持つ天使",
   "en": "Angels, with the white wings of birds."
  },
  {
   "id": "MOVIE/002/04",
-  "start": 30.9,
-  "end": 35.0,
+  "start": 31.2,
+  "end": 34.9,
   "jp": "黒きコウモリの羽を持つ悪魔",
-  "en": "Demons, with the black wings of bats.",
-  "check": true
+  "en": "Demons, with the black wings of bats."
  },
  {
   "id": "MOVIE/002/05",
-  "start": 38.0,
-  "end": 41.6,
-  "jp": "そして翼なきか弱き者たち",
-  "en": "And the frail ones without wings.",
-  "check": true
+  "start": 38.5,
+  "end": 42.4,
+  "jp": "そして翼なきか弱き者たち、人",
+  "en": "And the frail ones without wings: Man."
  },
  {
   "id": "MOVIE/002/06",
-  "start": 45.11,
-  "end": 47.2,
+  "start": 44.58,
+  "end": 46.94,
   "jp": "地上の支配権をめぐり",
   "en": "Over dominion of the surface,"
  },
  {
   "id": "MOVIE/002/07",
-  "start": 47.2,
-  "end": 52.5,
-  "jp": "白き翼と黒き翼は幾度となく戦い続けた",
+  "start": 46.94,
+  "end": 52.4,
+  "jp": "白き翼と黒き翼は幾度となく戦い続け",
   "en": "the white wings and the black wings fought again and again."
  },
  {
   "id": "MOVIE/002/08",
-  "start": 53.49,
+  "start": 53.48,
   "end": 57.6,
   "jp": "５５５日もの間続いた戦いの果てに",
   "en": "At the end of a war that raged for 555 days,"
  },
  {
   "id": "MOVIE/002/09",
-  "start": 58.49,
+  "start": 58.52,
   "end": 62.6,
   "jp": "白き翼はついに勝利を手にする",
   "en": "the white wings at last seized victory."
  },
  {
   "id": "MOVIE/002/10",
-  "start": 71.97,
-  "end": 77.2,
-  "jp": "白き翼にその運命を握られた翼なき者たちは",
-  "en": "The wingless, their fate in the hands of the white wings,"
+  "start": 64.26,
+  "end": 67.74,
+  "jp": "黒き翼は地上から姿を消し",
+  "en": "The black wings vanished from the surface,"
  },
  {
   "id": "MOVIE/002/11",
-  "start": 77.2,
-  "end": 81.0,
-  "jp": "翼の庇護の下",
-  "en": "beneath the shelter of those wings,"
+  "start": 67.74,
+  "end": 70.2,
+  "jp": "何処かへと消え去り",
+  "en": "disappearing to parts unknown."
  },
  {
   "id": "MOVIE/002/12",
-  "start": 81.0,
-  "end": 86.0,
-  "jp": "従順な家畜の身へと・・・",
-  "en": "were reduced to docile livestock.",
-  "check": true
+  "start": 71.7,
+  "end": 77.3,
+  "jp": "そして白き翼にその運命を握られた翼なき者たちは",
+  "en": "And the wingless, their fate in the hands of the white wings,"
+ },
+ {
+  "id": "MOVIE/002/13",
+  "start": 78.84,
+  "end": 81.1,
+  "jp": "白き翼の庇護の下",
+  "en": "beneath the shelter of the white wings,"
+ },
+ {
+  "id": "MOVIE/002/14",
+  "start": 81.52,
+  "end": 87.0,
+  "jp": "従順な家畜の身へと堕ちた",
+  "en": "fell to the state of docile livestock."
  }
 ]

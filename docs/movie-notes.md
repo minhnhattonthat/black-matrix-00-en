@@ -24,14 +24,18 @@ Constants for `movie.py`: `FRAME_BASE = 0`, bare stream (no wrapping for jPSXdec
 | stream | speech | subtitles |
 |--------|--------|-----------|
 | BMM_001 (36 s) | battle lines, Pain Ring calls | 8 cues |
-| BMM_002 (101 s) | opening narration | 13 cues |
-| BMM_003, 004, 007, 011 | none (music; Whisper invents a line over music) | none |
-| BMM_005 (149 s) | Cain / inner voice; 20-90 s is a song, not transcribed | 16 cues |
-| BMM_006 (16 s) | dream voices | 7 cues, all flagged `check` |
+| BMM_002 (101 s) | opening narration | 15 cues |
+| BMM_003, 011 | none (Whisper invents a stock line over music) | none |
+| BMM_004 (40 s) | one line at the end | 1 cue, flagged |
+| BMM_005 (149 s) | Cain and the inner voice, throughout | 40 cues |
+| BMM_006 (16 s) | dream voices | 6 cues |
+| BMM_007 (50 s) | four lines from 30 s | 4 cues |
 | BMM_013..018 (10 s) | chapter start card, title visible 4.0-7.0 s | title cue |
 | BMM_023..028 (6 s) | eyecatch, title visible 3.0-4.6 s | title cue |
 | BMM_035 | logo only | none |
 
-Transcription: faster-whisper large-v3 on CPU (no cuBLAS here), word timestamps, phrases cut
-at pauses over 0.6 s, then corrected by hand. `work/movie/make_cues.py` holds the corrected
-cues that produced `script/MOVIE/*.json`.
+Transcription: faster-whisper large-v3 on CPU (no cuBLAS here), word timestamps, **VAD filter
+off**. With the filter on, speech under music was dropped silently: two narration lines in
+BMM_002, most of BMM_005, all of BMM_007. Without it Whisper adds stock hallucinations over
+pure music (high no-speech probability; discard them by hand). `work/movie/make_cues.py`
+holds the hand-corrected cues that produced `script/MOVIE/*.json`.

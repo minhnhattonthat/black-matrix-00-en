@@ -1,115 +1,287 @@
 [
  {
   "id": "MOVIE/005/00",
-  "start": 1.2,
+  "start": 0.98,
   "end": 4.0,
-  "jp": "マティア、ごめん",
-  "en": "Matia... I'm sorry."
+  "jp": "マティア、ごめん・・・",
+  "en": "Matia... I'm sorry..."
  },
  {
   "id": "MOVIE/005/01",
-  "start": 5.22,
-  "end": 9.2,
-  "jp": "もう、僕は・・・",
-  "en": "I just... can't...",
+  "start": 4.94,
+  "end": 8.6,
+  "jp": "もう・・・僕は・・・",
+  "en": "I... can't go on...",
   "check": true
  },
  {
   "id": "MOVIE/005/02",
-  "start": 17.14,
-  "end": 20.2,
-  "jp": "ここにいるのは、誰？",
-  "en": "Who is it... that's here?",
-  "check": true
+  "start": 13.3,
+  "end": 14.4,
+  "jp": "誰？",
+  "en": "Who...?"
  },
  {
   "id": "MOVIE/005/03",
-  "start": 90.2,
+  "start": 16.2,
+  "end": 19.6,
+  "jp": "そこにいるのは・・・誰？",
+  "en": "Who is it... that's there?"
+ },
+ {
+  "id": "MOVIE/005/04",
+  "start": 28.14,
+  "end": 30.1,
+  "jp": "マティアの歌だ",
+  "en": "It's Matia's song."
+ },
+ {
+  "id": "MOVIE/005/05",
+  "start": 30.78,
+  "end": 32.6,
+  "jp": "あったかい",
+  "en": "So warm..."
+ },
+ {
+  "id": "MOVIE/005/06",
+  "start": 32.6,
+  "end": 35.2,
+  "jp": "愛しき歌声",
+  "en": "That dear singing voice..."
+ },
+ {
+  "id": "MOVIE/005/07",
+  "start": 37.06,
+  "end": 38.84,
+  "jp": "でも悲しい",
+  "en": "But sad..."
+ },
+ {
+  "id": "MOVIE/005/08",
+  "start": 38.84,
+  "end": 42.2,
+  "jp": "優しい子供たち",
+  "en": "Gentle children...",
+  "check": true
+ },
+ {
+  "id": "MOVIE/005/09",
+  "start": 43.7,
+  "end": 45.7,
+  "jp": "我が思いを",
+  "en": "My will...",
+  "check": true
+ },
+ {
+  "id": "MOVIE/005/10",
+  "start": 47.6,
+  "end": 51.56,
+  "jp": "何かが流れ込んでくる",
+  "en": "Something is flowing into me..."
+ },
+ {
+  "id": "MOVIE/005/11",
+  "start": 51.56,
+  "end": 53.88,
+  "jp": "我が翼",
+  "en": "My wings."
+ },
+ {
+  "id": "MOVIE/005/12",
+  "start": 53.88,
+  "end": 56.8,
+  "jp": "我が力",
+  "en": "My power."
+ },
+ {
+  "id": "MOVIE/005/13",
+  "start": 58.14,
+  "end": 60.9,
+  "jp": "我が狂気",
+  "en": "My madness."
+ },
+ {
+  "id": "MOVIE/005/14",
+  "start": 73.9,
+  "end": 77.3,
+  "jp": "これは・・・一体・・・",
+  "en": "What... on earth is this?"
+ },
+ {
+  "id": "MOVIE/005/15",
+  "start": 78.24,
+  "end": 79.9,
+  "jp": "不愉快だ",
+  "en": "How unpleasant."
+ },
+ {
+  "id": "MOVIE/005/16",
+  "start": 80.7,
+  "end": 82.2,
+  "jp": "この声は",
+  "en": "This voice..."
+ },
+ {
+  "id": "MOVIE/005/17",
+  "start": 82.2,
+  "end": 84.8,
+  "jp": "不快な歌声だ",
+  "en": "What a hateful song..."
+ },
+ {
+  "id": "MOVIE/005/18",
+  "start": 85.7,
+  "end": 89.0,
+  "jp": "全て、消えてしまえばいいのに",
+  "en": "If only it would all vanish."
+ },
+ {
+  "id": "MOVIE/005/19",
+  "start": 89.76,
   "end": 92.0,
   "jp": "聞こえなくなればいいのに",
   "en": "If only it would just stop..."
  },
  {
-  "id": "MOVIE/005/04",
-  "start": 92.64,
-  "end": 93.7,
+  "id": "MOVIE/005/20",
+  "start": 92.62,
+  "end": 93.6,
   "jp": "誰？",
   "en": "Who's there?"
  },
  {
-  "id": "MOVIE/005/05",
-  "start": 93.88,
+  "id": "MOVIE/005/21",
+  "start": 93.94,
   "end": 95.2,
   "jp": "そうさ",
   "en": "That's right."
  },
  {
-  "id": "MOVIE/005/06",
-  "start": 95.54,
+  "id": "MOVIE/005/22",
+  "start": 95.52,
   "end": 97.6,
   "jp": "それで全て静かになる",
   "en": "Then everything goes quiet.",
   "check": true
  },
  {
-  "id": "MOVIE/005/07",
-  "start": 98.68,
-  "end": 100.7,
+  "id": "MOVIE/005/23",
+  "start": 98.48,
+  "end": 100.52,
   "jp": "全部死んでしまえばいい",
   "en": "Everything should just die."
  },
  {
-  "id": "MOVIE/005/08",
-  "start": 101.06,
-  "end": 105.3,
-  "jp": "そうすれば、苛立ちから、煩わしさから",
-  "en": "Then, from the irritation, from all that vexes you..."
+  "id": "MOVIE/005/24",
+  "start": 100.52,
+  "end": 102.2,
+  "jp": "そうすれば",
+  "en": "Do that, and..."
  },
  {
-  "id": "MOVIE/005/09",
+  "id": "MOVIE/005/25",
+  "start": 102.56,
+  "end": 105.4,
+  "jp": "苛立ちから、煩わしさから",
+  "en": "from the irritation, from all that vexes you..."
+ },
+ {
+  "id": "MOVIE/005/26",
   "start": 105.98,
-  "end": 107.4,
-  "jp": "何を言って・・・？",
-  "en": "What are you saying...?"
+  "end": 107.7,
+  "jp": "何を言っているの？",
+  "en": "What are you saying?"
  },
  {
-  "id": "MOVIE/005/10",
-  "start": 109.73,
-  "end": 111.7,
+  "id": "MOVIE/005/27",
+  "start": 108.2,
+  "end": 109.4,
+  "jp": "そうさ",
+  "en": "That's right."
+ },
+ {
+  "id": "MOVIE/005/28",
+  "start": 109.8,
+  "end": 111.8,
   "jp": "全て解放してやる",
   "en": "I'll set you free of it all."
  },
  {
-  "id": "MOVIE/005/11",
-  "start": 112.29,
+  "id": "MOVIE/005/29",
+  "start": 112.28,
   "end": 116.6,
   "jp": "憎しみも、苛立ちも、衝動も、全てだ",
   "en": "Hatred, irritation, urges... all of it."
  },
  {
-  "id": "MOVIE/005/12",
-  "start": 120.08,
+  "id": "MOVIE/005/30",
+  "start": 117.1,
+  "end": 119.3,
+  "jp": "俺は消えたりしない",
+  "en": "I won't vanish."
+ },
+ {
+  "id": "MOVIE/005/31",
+  "start": 119.94,
   "end": 122.6,
   "jp": "俺は生きてやる",
   "en": "I am going to live."
  },
  {
-  "id": "MOVIE/005/13",
-  "start": 125.64,
+  "id": "MOVIE/005/32",
+  "start": 123.44,
+  "end": 124.8,
+  "jp": "君は・・・",
+  "en": "You are...?"
+ },
+ {
+  "id": "MOVIE/005/33",
+  "start": 125.4,
   "end": 127.9,
   "jp": "お前が知る必要はない",
   "en": "You don't need to know."
  },
  {
-  "id": "MOVIE/005/14",
-  "start": 128.76,
-  "end": 131.2,
+  "id": "MOVIE/005/34",
+  "start": 128.64,
+  "end": 130.9,
   "jp": "全てから解放される",
   "en": "You'll be free of everything."
  },
  {
-  "id": "MOVIE/005/15",
-  "start": 143.6,
+  "id": "MOVIE/005/35",
+  "start": 131.68,
+  "end": 133.1,
+  "jp": "痛い",
+  "en": "It hurts..."
+ },
+ {
+  "id": "MOVIE/005/36",
+  "start": 133.56,
+  "end": 135.9,
+  "jp": "頭が割れそうだ",
+  "en": "My head feels like it's splitting...",
+  "check": true
+ },
+ {
+  "id": "MOVIE/005/37",
+  "start": 136.68,
+  "end": 139.8,
+  "jp": "このイメージは何",
+  "en": "What is this image...?",
+  "check": true
+ },
+ {
+  "id": "MOVIE/005/38",
+  "start": 141.34,
+  "end": 143.16,
+  "jp": "死ぬのか",
+  "en": "Am I going to die...?",
+  "check": true
+ },
+ {
+  "id": "MOVIE/005/39",
+  "start": 143.16,
   "end": 146.2,
   "jp": "消えるのはお前だ",
   "en": "The one who vanishes is you."

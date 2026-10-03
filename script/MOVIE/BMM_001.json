@@ -1,59 +1,59 @@
 [
  {
   "id": "MOVIE/001/00",
-  "start": 0.18,
-  "end": 1.4,
+  "start": 0.2,
+  "end": 1.8,
   "jp": "くそっ！",
   "en": "Damn it!",
   "check": true
  },
  {
   "id": "MOVIE/001/01",
-  "start": 9.17,
+  "start": 9.1,
   "end": 10.9,
   "jp": "汚らわしき悪魔よ",
   "en": "Filthy demon..."
  },
  {
   "id": "MOVIE/001/02",
-  "start": 11.63,
-  "end": 13.6,
+  "start": 11.54,
+  "end": 13.7,
   "jp": "永遠の眠りにつくがいい",
   "en": "Sink into eternal sleep!"
  },
  {
   "id": "MOVIE/001/03",
-  "start": 15.55,
+  "start": 15.52,
   "end": 18.5,
   "jp": "集え、ファントム・ペイン",
   "en": "Gather... Phantom Pain!"
  },
  {
   "id": "MOVIE/001/04",
-  "start": 19.09,
+  "start": 19.3,
   "end": 21.3,
   "jp": "ふん、ペインリング",
   "en": "Hmph. A Pain Ring..."
  },
  {
   "id": "MOVIE/001/05",
-  "start": 22.03,
-  "end": 24.0,
+  "start": 21.92,
+  "end": 23.9,
   "jp": "物騒なもん出しやがって",
   "en": "Pulling out a nasty thing like that..."
  },
  {
   "id": "MOVIE/001/06",
-  "start": 25.27,
-  "end": 29.5,
+  "start": 25.22,
+  "end": 29.4,
   "jp": "浄化の光、かの者を焼き尽くせ！",
   "en": "Light of purification, burn him to ashes!"
  },
  {
   "id": "MOVIE/001/07",
-  "start": 30.23,
-  "end": 31.6,
-  "jp": "ペインリング",
-  "en": "Pain Ring!"
+  "start": 30.16,
+  "end": 32.4,
+  "jp": "ペインリング、発動！",
+  "en": "Pain Ring, activate!"
  }
 ]

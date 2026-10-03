@@ -152,7 +152,8 @@ def transcribe(name: str) -> list:
         import numpy as np
         with wave.open(str(d / "a.wav")) as w:           # samples, not a path: skips faster-whisper's PyAV loader
             audio = np.frombuffer(w.readframes(w.getnframes()), dtype=np.int16).astype(np.float32) / 32768
-        segments, _ = model.transcribe(audio, language="ja", vad_filter=True, word_timestamps=True,
+        # no VAD filter: it drops speech under music (it hid half of BMM_005)
+        segments, _ = model.transcribe(audio, language="ja", vad_filter=False, beam_size=8, word_timestamps=True,
                                        condition_on_previous_text=False)
         words = [(w.start, w.end, w.word) for s in segments for w in s.words]
     num = name.split("_")[1]
