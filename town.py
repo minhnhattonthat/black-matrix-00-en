@@ -171,8 +171,12 @@ def insert(sub: bytes, notebook: list, ui: list) -> bytes:
         e = by_id.pop(f"TOWN/A/{i:02d}", None)
         if e is None:
             new_a.append((lines, terminated))
-        else:
-            new_a.append(([(None, script.encode(l)) for l in _article_lines(e)], terminated))
+            continue
+        encoded = [script.encode(l) for l in _article_lines(e)]
+        for s in encoded:
+            if len(s) > A_WIDTH:                   # wrap keeps an unbreakable word whole
+                raise ValueError(f"{e['id']}: line of {len(s)} bytes > {A_WIDTH}")
+        new_a.append(([(None, s) for s in encoded], terminated))
     by_id.update({e["id"]: e for e in ui})
     new_b = []
     for i, (lines, terminated) in enumerate(leaves["B"]):

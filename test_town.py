@@ -81,6 +81,26 @@ def test_insert_wraps_articles_relayouts_and_keeps_params():
     assert town.text_entries(leaf)[0][0][0][0] == 7               # param kept
 
 
+def test_insert_rejects_unbreakable_article_line():
+    nb, ui = town.extract(TOWN[4])
+    nb[1]["en"] = "『" + "x" * 31 + "』"                 # 35 bytes, no space to wrap at
+    try:
+        town.insert(TOWN[4], nb, ui)
+    except ValueError as err:
+        assert "TOWN/A/01" in str(err) and "32" in str(err)
+        return
+    assert False, "expected ValueError"
+
+
+def test_translated_articles_stay_within_the_original_line_count():
+    import json
+    from build import SCRIPT
+    nb = json.loads((SCRIPT / "TOWN" / "notebook.json").read_text(encoding="utf-8"))
+    longest = max(len(e["jp"]) for e in nb)                       # 25 in the original: the only known-safe envelope
+    too_long = [(e["id"], len(town._article_lines(e))) for e in nb if len(town._article_lines(e)) > longest]
+    assert not too_long, too_long
+
+
 def test_insert_rejects_wide_ui_line_and_unknown_id():
     nb, ui = town.extract(TOWN[4])
     ui[0]["en"] = "x" * 29
