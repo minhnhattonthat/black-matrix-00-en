@@ -52,16 +52,21 @@ def _system_json(name):
     return json.loads((SCRIPT / "SYSTEM" / f"{name}.json").read_text(encoding="utf-8"))
 
 
+SYSTEM_PARTS = {"tables", "messages", "overlay", "battle"}   # trimmed only when bisecting a boot failure
+
+
 def patch_system():
     system = dat.unpack((ORIG / "SYSTEM.DAT").read_bytes())
-    fixed = _system_json("tables")
+    fixed = _system_json("tables") if "tables" in SYSTEM_PARTS else []
     system[2] = tables.insert_fixed(system[2], fixed)
-    system[10] = pointers.insert(system[10], _system_json("messages"))
-    system[4] = tables.insert_overlay(system[4], _system_json("overlay"))
+    if "messages" in SYSTEM_PARTS:
+        system[10] = pointers.insert(system[10], _system_json("messages"))
+    if "overlay" in SYSTEM_PARTS:
+        system[4] = tables.insert_overlay(system[4], _system_json("overlay"))
     (EXTRACTED / "SYSTEM.DAT").write_bytes(dat.pack(system))
     # battle names: their own list first, then the unit table's translations fill any gap
     names = {e["jp"]: e["en"] for e in fixed if e["width"] == 18 and e["en"]}
-    names.update({e["jp"]: e["en"] for e in _system_json("battle") if e["en"]})
+    names.update({e["jp"]: e["en"] for e in _system_json("battle") if e["en"]} if "battle" in SYSTEM_PARTS else {})
     battle = dat.unpack((ORIG / "BATTLE.DAT").read_bytes())
     battle = [tables.insert_battle(b, names) if b[:4] == tables.BATTLE_MAGIC else b for b in battle]
     (EXTRACTED / "BATTLE.DAT").write_bytes(dat.pack(battle))

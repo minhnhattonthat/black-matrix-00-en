@@ -29,10 +29,10 @@ def test_every_pointer_into_a_run_targets_a_message():
     assert checked > 100            # 78 inline/table pointers plus the chapter titles
 
 
-def test_growth_keeps_every_message_reachable_through_a_pointer():
+def test_growth_within_a_run_relayouts_and_pointers_follow():
     entries = pointers.extract(SUB10, "S")
-    entries[0]["en"] = "This closes the screen. " * 3           # far longer: pushes later messages to the tail
-    entries[1]["en"] = "Vibration"
+    entries[0]["en"] = "Closes this screen plus more"      # longer than the Japanese
+    entries[1]["en"] = "Vibration"                         # shorter: the run still fits
     out = pointers.insert(SUB10, entries)
     assert len(out) == len(SUB10)
     assert len(_pointer_words(out)) == len(_pointer_words(SUB10))
@@ -40,6 +40,18 @@ def test_growth_keeps_every_message_reachable_through_a_pointer():
     for e in entries:
         expected = script.encode(e["en"]) if e["en"] else script.encode(e["jp"])
         assert any(out[t:].startswith(expected + bytes(1)) for t in targets), e["id"]
+    assert out[0x178:0xBE0] == SUB10[0x178:0xBE0]         # the other runs are untouched
+
+
+def test_run_overflow_raises_instead_of_spilling():
+    entries = pointers.extract(SUB10, "S")
+    entries[0]["en"] = "This closes the screen. " * 3
+    try:
+        pointers.insert(SUB10, entries)
+    except ValueError as err:
+        assert "shorten" in str(err)
+        return
+    assert False, "expected ValueError"
 
 
 def test_data_word_in_pointer_range_raises():

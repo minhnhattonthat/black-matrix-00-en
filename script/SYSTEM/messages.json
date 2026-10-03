@@ -2,32 +2,32 @@
  {
   "id": "SYSTEM/10/00000",
   "jp": "この画面を終了します",
-  "en": "Closes this screen."
+  "en": "Close this screen."
  },
  {
   "id": "SYSTEM/10/00018",
   "jp": "振動機能の有無を設定します",
-  "en": "Turns vibration on or off."
+  "en": "Vibration on or off."
  },
  {
   "id": "SYSTEM/10/00034",
   "jp": "効果音の有無を設定します",
-  "en": "Turns sound effects on or off."
+  "en": "Sound effects on or off."
  },
  {
   "id": "SYSTEM/10/00050",
   "jp": "音声の有無を設定します",
-  "en": "Turns voices on or off."
+  "en": "Voices on or off."
  },
  {
   "id": "SYSTEM/10/00068",
   "jp": "音声出力のタイプを設定します",
-  "en": "Sets the audio output type."
+  "en": "Audio output type."
  },
  {
   "id": "SYSTEM/10/00088",
   "jp": "音量を変更します",
-  "en": "Changes the volume."
+  "en": "Change the volume."
  },
  {
   "id": "SYSTEM/10/0009c",
@@ -37,7 +37,7 @@
  {
   "id": "SYSTEM/10/000a0",
   "jp": "メッセージ速度を変更します",
-  "en": "Changes the message speed."
+  "en": "Message speed."
  },
  {
   "id": "SYSTEM/10/00178",
@@ -212,7 +212,7 @@
  {
   "id": "SYSTEM/10/006b4",
   "jp": "翼は踊る",
-  "en": "The Wings Dance"
+  "en": "Wings Dance"
  },
  {
   "id": "SYSTEM/10/006c0",
@@ -222,17 +222,17 @@
  {
   "id": "SYSTEM/10/006c8",
   "jp": "裏切りの刃",
-  "en": "Blade of Betrayal"
+  "en": "Traitor's Blade"
  },
  {
   "id": "SYSTEM/10/006d4",
   "jp": "地下世界",
-  "en": "The Underground World"
+  "en": "Underground"
  },
  {
   "id": "SYSTEM/10/006e0",
   "jp": "サンバルテルミの悲劇",
-  "en": "Tragedy at San Bartelmi"
+  "en": "Bartelmi Falls"
  },
  {
   "id": "SYSTEM/10/006f8",
@@ -242,7 +242,7 @@
  {
   "id": "SYSTEM/10/00704",
   "jp": "それぞれの決意",
-  "en": "Each Their Own Resolve"
+  "en": "Each Resolve"
  },
  {
   "id": "SYSTEM/10/00714",
@@ -252,17 +252,17 @@
  {
   "id": "SYSTEM/10/00720",
   "jp": "大陸にて",
-  "en": "On the Mainland"
+  "en": "The Mainland"
  },
  {
   "id": "SYSTEM/10/0072c",
   "jp": "全ての始まり",
-  "en": "Where It All Began"
+  "en": "The Beginning"
  },
  {
   "id": "SYSTEM/10/0073c",
   "jp": "それぞれの明日へ",
-  "en": "Toward Each Tomorrow"
+  "en": "Each Tomorrow"
  },
  {
   "id": "SYSTEM/10/00750",
@@ -277,17 +277,17 @@
  {
   "id": "SYSTEM/10/00768",
   "jp": "キミといつまでも",
-  "en": "With You, Always"
+  "en": "With You Always"
  },
  {
   "id": "SYSTEM/10/0077c",
   "jp": "一緒に帰ろう",
-  "en": "Let's Go Home Together"
+  "en": "Going Home"
  },
  {
   "id": "SYSTEM/10/0078c",
   "jp": "全ての痛みを越えろ",
-  "en": "Overcome All Pain"
+  "en": "Beyond All Pain"
  },
  {
   "id": "SYSTEM/10/007a0",
@@ -297,7 +297,7 @@
  {
   "id": "SYSTEM/10/007b0",
   "jp": "ハラカラの闇",
-  "en": "Darkness of Kin"
+  "en": "Dark of Kin"
  },
  {
   "id": "SYSTEM/10/007c0",
@@ -312,32 +312,32 @@
  {
   "id": "SYSTEM/10/007e4",
   "jp": "永劫の律を守る者",
-  "en": "Keeper of the Eternal Law"
+  "en": "Eternal Law"
  },
  {
   "id": "SYSTEM/10/007f8",
   "jp": "白き死の運び手",
-  "en": "Bearer of White Death"
+  "en": "White Death"
  },
  {
   "id": "SYSTEM/10/00808",
   "jp": "理念の灯火",
-  "en": "The Light of an Ideal"
+  "en": "Ideal's Light"
  },
  {
   "id": "SYSTEM/10/00814",
   "jp": "残響する赤い叫び",
-  "en": "Echoing Red Scream"
+  "en": "Red Echo"
  },
  {
   "id": "SYSTEM/10/00828",
   "jp": "死を呼ぶ黒き翼",
-  "en": "Black Wings That Call Death"
+  "en": "Deathly Wings"
  },
  {
   "id": "SYSTEM/10/00838",
   "jp": "その目を塞ぐ恐怖",
-  "en": "The Fear That Blinds"
+  "en": "Blinding Fear"
  },
  {
   "id": "SYSTEM/10/0084c",
@@ -347,22 +347,22 @@
  {
   "id": "SYSTEM/10/0085c",
   "jp": "烈火のごとく",
-  "en": "Like a Raging Fire"
+  "en": "Like Wildfire"
  },
  {
   "id": "SYSTEM/10/0086c",
   "jp": "闇にうごめく玩具",
-  "en": "Toys Squirming in the Dark"
+  "en": "Dark Toys"
  },
  {
   "id": "SYSTEM/10/00880",
   "jp": "赤い牙の再撃",
-  "en": "The Red Fang Strikes Again"
+  "en": "Red Fang Again"
  },
  {
   "id": "SYSTEM/10/00890",
   "jp": "惨劇の広場",
-  "en": "Square of Carnage"
+  "en": "Carnage Square"
  },
  {
   "id": "SYSTEM/10/0089c",
@@ -372,12 +372,12 @@
  {
   "id": "SYSTEM/10/008a4",
   "jp": "嘆きの赤い牙",
-  "en": "The Grieving Red Fang"
+  "en": "Grieving Fang"
  },
  {
   "id": "SYSTEM/10/008b4",
   "jp": "消えない傷痕",
-  "en": "Scars That Never Fade"
+  "en": "Lasting Scars"
  },
  {
   "id": "SYSTEM/10/008c4",
@@ -392,22 +392,22 @@
  {
   "id": "SYSTEM/10/008dc",
   "jp": "廃棄された実験体",
-  "en": "Discarded Test Subjects"
+  "en": "Discarded Ones"
  },
  {
   "id": "SYSTEM/10/008f0",
   "jp": "強剣士クレイス",
-  "en": "Kreis the Mighty Blade"
+  "en": "Kreis the Blade"
  },
  {
   "id": "SYSTEM/10/00900",
   "jp": "悪魔のささやき",
-  "en": "The Demon's Whisper"
+  "en": "Demon's Whisper"
  },
  {
   "id": "SYSTEM/10/00910",
   "jp": "異形の化身",
-  "en": "Misshapen Incarnation"
+  "en": "Misshapen One"
  },
  {
   "id": "SYSTEM/10/0091c",
@@ -417,42 +417,42 @@
  {
   "id": "SYSTEM/10/00924",
   "jp": "黒き翼のアベル",
-  "en": "Black-Winged Abel"
+  "en": "Black-Wing Abel"
  },
  {
   "id": "SYSTEM/10/00934",
   "jp": "闇にうごめく者",
-  "en": "Those Who Squirm in the Dark"
+  "en": "Dark Crawlers"
  },
  {
   "id": "SYSTEM/10/00944",
   "jp": "悪魔討伐部隊",
-  "en": "Demon-Hunting Squad"
+  "en": "Demon Hunters"
  },
  {
   "id": "SYSTEM/10/00954",
   "jp": "乙女の一徹",
-  "en": "A Maiden's Resolve"
+  "en": "Maiden's Will"
  },
  {
   "id": "SYSTEM/10/00960",
   "jp": "前略サーカスにて",
-  "en": "Greetings from the Circus"
+  "en": "Circus Letter"
  },
  {
   "id": "SYSTEM/10/00974",
   "jp": "偽翼のカイン",
-  "en": "Cain of the False Wings"
+  "en": "False-Wing Cain"
  },
  {
   "id": "SYSTEM/10/00984",
   "jp": "死の天使グリシナ",
-  "en": "Grisina, Angel of Death"
+  "en": "Reaper Grisina"
  },
  {
   "id": "SYSTEM/10/00998",
   "jp": "招かれざる訪問者",
-  "en": "Uninvited Visitors"
+  "en": "Uninvited"
  },
  {
   "id": "SYSTEM/10/009ac",
@@ -472,7 +472,7 @@
  {
   "id": "SYSTEM/10/009e0",
   "jp": "問答無用",
-  "en": "No Questions Asked"
+  "en": "No Questions"
  },
  {
   "id": "SYSTEM/10/009ec",
@@ -487,22 +487,22 @@
  {
   "id": "SYSTEM/10/00a08",
   "jp": "カルディアの眠る場所",
-  "en": "Where Cardia Sleeps"
+  "en": "Cardia's Rest"
  },
  {
   "id": "SYSTEM/10/00a20",
   "jp": "悲しみを乗り越え",
-  "en": "Beyond the Sorrow"
+  "en": "Beyond Sorrow"
  },
  {
   "id": "SYSTEM/10/00a34",
   "jp": "動き出した狂気",
-  "en": "Madness Set in Motion"
+  "en": "Madness Stirs"
  },
  {
   "id": "SYSTEM/10/00a44",
   "jp": "裏切り者ヴァルトス",
-  "en": "Valtoss the Traitor"
+  "en": "Valtoss Betrays"
  },
  {
   "id": "SYSTEM/10/00a58",
@@ -512,17 +512,17 @@
  {
   "id": "SYSTEM/10/00a70",
   "jp": "優しさでは癒えない傷",
-  "en": "Wounds Kindness Cannot Heal"
+  "en": "Unhealed Wounds"
  },
  {
   "id": "SYSTEM/10/00a88",
   "jp": "ひとときの休息",
-  "en": "A Moment's Rest"
+  "en": "A Brief Rest"
  },
  {
   "id": "SYSTEM/10/00a98",
   "jp": "悪魔の住む街",
-  "en": "The Town Where Demons Live"
+  "en": "Town of Demons"
  },
  {
   "id": "SYSTEM/10/00aa8",
@@ -532,22 +532,22 @@
  {
   "id": "SYSTEM/10/00ac0",
   "jp": "みんなの心を一つに",
-  "en": "All Hearts as One"
+  "en": "Hearts as One"
  },
  {
   "id": "SYSTEM/10/00ad4",
   "jp": "嵐の前の静けさ",
-  "en": "The Calm Before the Storm"
+  "en": "Storm's Eve"
  },
  {
   "id": "SYSTEM/10/00ae4",
   "jp": "ヨハネはどこに？",
-  "en": "Where Is Johannes?"
+  "en": "Johannes Gone"
  },
  {
   "id": "SYSTEM/10/00af8",
   "jp": "ステイエンへの手紙",
-  "en": "A Letter to Stayen"
+  "en": "To Stayen"
  },
  {
   "id": "SYSTEM/10/00b0c",
@@ -557,17 +557,17 @@
  {
   "id": "SYSTEM/10/00b20",
   "jp": "つかの間の幸せ",
-  "en": "Fleeting Happiness"
+  "en": "Fleeting Joy"
  },
  {
   "id": "SYSTEM/10/00b30",
   "jp": "誰がための剣",
-  "en": "A Sword for Whom?"
+  "en": "Whose Sword?"
  },
  {
   "id": "SYSTEM/10/00b40",
   "jp": "書き残された想い",
-  "en": "Feelings Left in Writing"
+  "en": "Last Words"
  },
  {
   "id": "SYSTEM/10/00b54",
@@ -577,36 +577,36 @@
  {
   "id": "SYSTEM/10/00b64",
   "jp": "託された想い",
-  "en": "Entrusted Feelings"
+  "en": "Entrusted Hopes"
  },
  {
   "id": "SYSTEM/10/00b74",
   "jp": "四翼の天使シリア",
-  "en": "Syria, Four-Winged Angel"
+  "en": "Four-Wing Syria"
  },
  {
   "id": "SYSTEM/10/00b88",
   "jp": "不吉なうわさ",
-  "en": "An Ominous Rumor"
+  "en": "Ominous Rumor"
  },
  {
   "id": "SYSTEM/10/00b98",
   "jp": "インセストを求めて",
-  "en": "In Search of the Incest"
+  "en": "Seeking Incest"
  },
  {
   "id": "SYSTEM/10/00bac",
   "jp": "エクサル探してます。",
-  "en": "Looking for Exal."
+  "en": "Wanted: Exal"
  },
  {
   "id": "SYSTEM/10/00bc4",
   "jp": "書の配給日",
-  "en": "Book Distribution Day"
+  "en": "Book Day"
  },
  {
   "id": "SYSTEM/10/00bd0",
   "jp": "ヴェローナの街",
-  "en": "The City of Verona"
+  "en": "City of Verona"
  }
 ]

@@ -1,11 +1,11 @@
 """SYSTEM.DAT sub-file 10: option messages, memory-card messages and chapter titles.
 
-Three message runs, each a sequence of zero-terminated Shift-JIS strings (2-byte
-aligned) that ends at the first byte that is not a Shift-JIS lead. A record may be
-preceded by 4-byte-aligned u32 pointers to other messages and (run 2) followed by a
-pointer to itself. All pointers are BASE + offset. Each run is boxed in by other
-data, so a string that no longer fits its run is placed in the zero tail of the
-sub-file and every pointer to it follows."""
+The sub-file is a code overlay loaded at BASE (the EXE jumps into it right after
+loading), so nothing outside its three message runs is free: the zero tail is its
+bss. Each run is a sequence of zero-terminated Shift-JIS strings (2-byte aligned)
+that ends at the first byte that is not a Shift-JIS lead. A record may be preceded
+by 4-byte-aligned u32 pointers to other messages and (run 2) followed by a pointer
+to itself. All pointers are BASE + offset. English must fit each run in place."""
 import struct
 
 from script import decode, encode
@@ -68,7 +68,6 @@ def extract(b: bytes, prefix: str) -> list[dict]:
 def insert(b: bytes, entries: list[dict]) -> bytes:
     english = {int(e["id"].rsplit("/", 1)[1], 16): e for e in entries if e["en"]}
     out = bytearray(b)
-    tail = (len(b.rstrip(b"\0")) + 3) & ~3          # free space starts here
     moved, spans, fixups = {}, [], []                # fixups: (position, original target)
 
     def record(at, off, text, pre, selfptr, zeros):
@@ -86,32 +85,20 @@ def insert(b: bytes, entries: list[dict]) -> bytes:
         return rec + b"\0" * zeros
 
     for start, items, end in _runs(b):
-        pos, overflow = start, []
+        buf = bytearray()
         for off, text, pre, selfptr, zeros in items:
             if off in english:
                 try:
                     text = encode(english[off]["en"])
                 except ValueError as err:
                     raise ValueError(f'{english[off]["id"]}: {err}') from None
-            saved = (dict(moved), list(fixups))
-            rec = record(pos, off, text, pre, selfptr, zeros)
-            if pos + len(rec) <= end:
-                out[pos:pos + len(rec)] = rec
-                pos += len(rec)
-            else:
-                moved.clear(); moved.update(saved[0]); fixups[:] = saved[1]
-                overflow.append((off, text, pre, selfptr))
-        out[pos:end] = b"\0" * (end - pos)
+            buf += record(start + len(buf), off, text, pre, selfptr, zeros)
+        if len(buf) > end - start:
+            raise ValueError(f"messages at {start:#x} need {len(buf)} bytes, room for {end - start}; shorten them")
+        out[start:end] = buf.ljust(end - start, b"\0")
         spans.append((start, end))
-        for off, text, pre, selfptr in overflow:
-            rec = record(tail, off, text, pre, selfptr, 0)
-            rec += b"\0" * (-len(rec) % 4)
-            if tail + len(rec) > len(out):
-                raise ValueError(f"no free space left in sub-file 10 for message {off:#x}")
-            out[tail:tail + len(rec)] = rec
-            tail += len(rec)
     for o in range(0, len(out) - 3, 4):
-        if any(lo <= o < hi for lo, hi in spans) or o >= (len(b.rstrip(b"\0")) + 3) & ~3:
+        if any(lo <= o < hi for lo, hi in spans):
             continue
         target = _pointer_at(b, o)
         if target is not None and any(lo <= target < hi for lo, hi in spans):
