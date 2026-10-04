@@ -1,0 +1,78 @@
+BLACK/MATRIX 00 - English translation patch
+===========================================
+
+This patch turns your own copy of Black/Matrix 00 (PlayStation, Japan,
+SLPS-03573 / SLPS-03574) into English. It contains no game: you need
+disc images you dumped from discs you own.
+
+
+WHAT YOU NEED
+
+1. Both discs as .bin files (one track each, 2352 bytes per sector).
+   The patch only works on images identical to these:
+
+   Disc 1   680,527,680 bytes
+            SHA-1  f205c8382149cef508dbfbc79dd35e344ff35337
+            MD5    dacad0037bd5f96f68876513d1e4304a
+            CRC32  f7c44a85
+
+   Disc 2   613,655,616 bytes
+            SHA-1  bd2e111a087b2dc5cb041a6b7643e6743da281ef
+            MD5    2c9fb19007be4efda1d92bb17b7af257
+            CRC32  ee1e0369
+
+2. An xdelta patcher. Any of these works:
+   - Delta Patcher (Windows / Linux / macOS, has a window)
+   - xdelta UI (Windows)
+   - xdelta3 on the command line
+
+
+HOW TO PATCH
+
+With Delta Patcher or xdelta UI, once per disc:
+
+   Original file : your Disc 1 .bin
+   Patch file    : bm00-en-v1.0-disc1.xdelta
+   Output file   : Black-Matrix 00 (English) (Disc 1).bin
+
+   Then the same for Disc 2 with bm00-en-v1.0-disc2.xdelta, saved as
+   Black-Matrix 00 (English) (Disc 2).bin
+
+   In Delta Patcher, leave "checksum validation" on. If it complains,
+   your image is not the one listed above.
+
+With xdelta3:
+
+   xdelta3 -d -s "Disc 1.bin" bm00-en-v1.0-disc1.xdelta "Black-Matrix 00 (English) (Disc 1).bin"
+   xdelta3 -d -s "Disc 2.bin" bm00-en-v1.0-disc2.xdelta "Black-Matrix 00 (English) (Disc 2).bin"
+
+Keep the two .cue files from this archive next to the patched .bin
+files (they expect exactly the output names above) and open the .cue
+in your emulator.
+
+
+PLAYING
+
+- Tested in DuckStation. It should run anywhere the original runs.
+- Old Japanese saves load: unit names are turned into English on load.
+- Start the patched game from a cold boot. A save state made with the
+  Japanese game keeps the Japanese program in memory.
+- At the disc change, swap to the patched Disc 2.
+
+
+WHAT IS TRANSLATED
+
+All story dialogue, menus, items, skills, unit names, town text, the
+Notebook, shops, the circus mini-games, the save screen, name plates,
+place names, battle objectives and stage titles. The movies have
+English subtitles. Voices stay Japanese.
+
+Honorifics (-san, -sama ...) are kept on purpose.
+
+See README.md in the project repository for the full status and known
+issues.
+
+
+This is an unofficial fan patch, not affiliated with or endorsed by
+the game's developer or publisher. Do not sell it and do not
+distribute it pre-applied to a disc image.
