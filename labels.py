@@ -130,3 +130,96 @@ if __name__ == "__main__":
             blob = redraw(blob, *label)
         gfx.to_image(blob, palette).save(OUT / f"{name}.png")
         print(OUT / f"{name}.png")
+
+
+# ---- NPC name plates in the towns ------------------------------------------------------------------
+# Each town file has a 256-wide sheet of names (16 px rows) and a sprite table whose last section lists
+# rectangles (u, v, w, h bytes). English names are wider, so the names are repacked and the table rewritten.
+# Keys are the Japanese name's (v, u) on the sheet; two layouts exist (human towns, the demon village).
+HUMAN = {
+    (0, 72): "Flower Seller", (0, 136): "Member (Man)", (0, 192): "Member (Woman)",
+    (16, 0): "Member (Youth)", (16, 64): "Dahlia", (16, 96): "Waiter", (16, 152): "Swordsman",
+    (16, 176): "Middle-aged Man", (16, 200): "One-winged Angel",
+    (32, 0): "Syria", (32, 32): "Old Man", (32, 56): "Young Man", (32, 80): "Old Woman",
+    (32, 104): "Boyfriend", (32, 160): "Girlfriend", (32, 216): "Priest",
+    (48, 0): "Bran", (48, 32): "Fly", (48, 64): "Boy", (48, 96): "Girl", (48, 128): "Clown",
+    (48, 160): "Soldier", (48, 184): "Lilis", (48, 216): "Kilota",
+    (64, 0): "Johannes", (64, 32): "Valtoss", (64, 88): "Stayen", (64, 144): "Boy", (64, 176): "Exal",
+    (64, 216): "Postbox", (80, 0): "Swordsman's Lover", (80, 56): "Old Woman's Son", (80, 112): "Mailbox",
+}
+# cells that hold another name in some towns: (v, u) -> {signature of the pixels: name}
+HUMAN_ALT = {(16, 64): {"fdaebc7b51b4": "Mistress"}, (64, 144): {"cb77bf87ac42": "Abel"}}
+DEMON = {
+    (0, 72): "Unda", (0, 104): "Chief's Aide", (0, 152): "Watch Captain", (0, 200): "Demon (Girl)",
+    (16, 0): "Mistress", (16, 32): "Waitress", (16, 80): "Demon (Swordsman)", (16, 128): "Demon (Older Man)",
+    (16, 176): "Watchman", (32, 0): "Demon (Man)", (32, 40): "Demon (Woman)", (32, 80): "Watchwoman",
+    (32, 136): "Demon (Boy)", (32, 192): "Demon (Little Girl)",
+    (48, 0): "One-winged Angel", (48, 48): "Bran", (48, 80): "Fly", (48, 112): "Clown", (48, 144): "Postbox",
+    (48, 176): "Mailbox", (64, 0): "Syria",
+}
+PLATE_ROWS, PLATE_H, BAR_W = 96, 16, 72        # names live in the top 96 rows; the underline bar is at (0,0)-(72,16)
+
+
+def _plate(text: str) -> list[list[int]]:
+    """A name as a 16-row strip of colour indices: white-to-cream letters with a dark outline."""
+    font = ImageFont.truetype(str(FONTS / "tahoma.ttf"), 11)     # hinted for small sizes: stays legible in 1 bit
+    im = Image.new("1", (300, PLATE_H))
+    d = ImageDraw.Draw(im)
+    d.fontmode = "1"
+    d.text((1, 11), text, 1, font=font, anchor="ls")
+    w = im.getbbox()[2] + 1
+    on = {(x, y) for y in range(PLATE_H) for x in range(w) if im.getpixel((x, y))}
+    rows = [[0] * w for _ in range(PLATE_H)]
+    for x, y in on:
+        for dx in (-1, 0, 1):
+            for dy in (-1, 0, 1):
+                if 0 <= x + dx < w and 0 <= y + dy < PLATE_H:
+                    rows[y + dy][x + dx] = 1
+    for x, y in on:
+        rows[y][x] = 0xB if y <= 7 else 8 if y <= 9 else 0xE
+    return rows
+
+
+def nameplates(sheet: bytes, table: bytes) -> tuple[bytes, bytes]:
+    """The name sheet and its sprite table with every referenced name in English."""
+    import hashlib, struct
+    o2, o3 = struct.unpack_from("<II", table, 8)
+    count = struct.unpack_from("<I", table, o3)[0]
+    rects = [tuple(table[o3 + 4 + 4 * i:o3 + 8 + 4 * i]) for i in range(count)]
+    cells = sorted({(v, u, w) for u, v, w, h in rects
+                    if v < PLATE_ROWS and h == PLATE_H and not (v == 0 and u + w <= BAR_W)})
+    names = HUMAN if (0, 136, 56) in cells else DEMON
+    width = gfx.header(sheet)[1]
+    sheet = gfx.paste(sheet, BAR_W, 0, [[0] * (width - BAR_W)] * PLATE_H)
+    old = sheet
+    sheet = gfx.paste(sheet, 0, PLATE_H, [[0] * width] * (PLATE_ROWS - PLATE_H))
+    shelves = [BAR_W] + [0] * (PLATE_ROWS // PLATE_H - 1)          # next free x on each 16-px row
+    moved = {}                                                     # (u, v) -> (u, v, w) in English
+    for v, u, w in cells:
+        text = names[v, u]
+        if (v, u) == (48, 0) and w == 24 and names is HUMAN:
+            text = "Girl"
+        if names is HUMAN and (v, u) in HUMAN_ALT and v:
+            pixels = bytes(gfx.get(old, x, y) for y in range(v, v + PLATE_H) for x in range(u, u + w))
+            text = HUMAN_ALT[v, u].get(hashlib.sha1(pixels).hexdigest()[:12], text)
+        rows = _plate(text)
+        row = next((i for i, x in enumerate(shelves) if x + len(rows[0]) <= width), None)
+        if row is None:
+            raise ValueError(f"name plates do not fit the sheet (at {text!r})")
+        sheet = gfx.paste(sheet, shelves[row], row * PLATE_H, rows)
+        moved[u, v] = (shelves[row], row * PLATE_H, len(rows[0]))
+        shelves[row] += len(rows[0])
+    out = bytearray(table)
+    grown = {}                                                     # rect index -> extra width
+    for i, (u, v, w, h) in enumerate(rects):
+        if (u, v) in moved and h == PLATE_H and (v, u, w) in cells:
+            out[o3 + 4 + 4 * i:o3 + 8 + 4 * i] = bytes([*moved[u, v], h])
+            grown[i] = moved[u, v][2] - w
+    frames = struct.unpack_from("<I", table, o2)[0]
+    for f in struct.unpack_from(f"<{frames}H", table, o2 + 4):
+        parts = struct.unpack_from("<I", table, o2 + f)[0]
+        for p in range(o2 + f + 4, o2 + f + 4 + 8 * parts, 8):
+            rect, x = table[p + 1], table[p + 2]
+            if rect in grown and x >= 0x80:                        # plate right of the NPC: keep its far edge where
+                out[p + 2] = max(x - grown[rect], 0)               # the Japanese one ended, so it cannot leave the screen
+    return sheet, bytes(out)

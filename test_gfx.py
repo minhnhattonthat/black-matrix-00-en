@@ -18,7 +18,22 @@ def test_redraw_stays_inside_its_rectangle():
     assert changed and all(rect[0] <= x < rect[2] and rect[1] <= y < rect[3] for x, y in changed)
 
 
+def test_nameplates_keep_sizes_and_stay_in_the_name_rows():
+    import struct, town
+    ch = town.parse(dat.unpack((build.ORIG / "TOWN.DAT").read_bytes())[4])[0]
+    sheet, table = labels.nameplates(ch[7], ch[6])
+    assert (len(sheet), len(table)) == (len(ch[7]), len(ch[6])) and sheet != ch[7] and table != ch[6]
+    w = gfx.header(sheet)[1]
+    assert all(gfx.get(sheet, x, y) == gfx.get(ch[7], x, y) for y in range(96, gfx.height(sheet)) for x in range(w))
+    o3 = struct.unpack_from("<I", table, 12)[0]
+    assert table[o3:o3 + 4] == ch[6][o3:o3 + 4]
+    for i in range(struct.unpack_from("<I", table, o3)[0]):
+        u, v, rw, h = table[o3 + 4 + 4 * i:o3 + 8 + 4 * i]
+        assert u + rw <= 256
+
+
 if __name__ == "__main__":
     test_sheet_round_trips_through_an_image_and_paste_touches_one_pixel()
     test_redraw_stays_inside_its_rectangle()
+    test_nameplates_keep_sizes_and_stay_in_the_name_rows()
     print("ok")

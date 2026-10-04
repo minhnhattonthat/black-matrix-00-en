@@ -120,12 +120,20 @@ def patch_town():
     old = town.parse(subs[4])[0][0][0][1]          # the town menu sheet: the same picture in every town file
     new = gfx.from_image(old, Image.open(SCRIPT / "GFX" / "town_menu.png"))
     grown = 0
+    plates = {}
     for i, b in enumerate(subs):
         if b and town.has_text(b):
             tree = town.parse(b)
             first = tree[0][0]                     # towns: a container whose entry 1 is the sheet; the circus has none
-            if not isinstance(first, bytes) and len(first[0]) > 1 and first[0][1] == old:
+            is_town = not isinstance(first, bytes) and len(first[0]) > 1 and first[0][1] == old
+            if is_town:
                 first[0][1] = new
+            ch = tree[0]                           # entries 6 and 7: NPC name plates (sprite table, sheet)
+            if len(ch) > 7 and isinstance(ch[6], bytes) and isinstance(ch[7], bytes) and is_town:
+                key = (ch[7], ch[6])
+                if key not in plates:
+                    plates[key] = labels.nameplates(*key)
+                ch[7], ch[6] = plates[key]
             subs[i] = town.insert(town.rebuild(tree), nb, ui)
             grown = max(grown, len(subs[i]) - len(b))
     print(f"TOWN: largest sub-file growth {grown} bytes")
