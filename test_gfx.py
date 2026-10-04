@@ -39,9 +39,22 @@ def test_disc_screen_keeps_size_and_leaves_other_frames_alone():
     assert out[labels.DISC_TABLE + 0x504:labels.DISC_SHEET] == sub[labels.DISC_TABLE + 0x504:labels.DISC_SHEET]   # background
 
 
+def test_instruction_page_keeps_sizes_and_only_moves_its_own_frame():
+    import town
+    sub = dat.unpack((build.ORIG / "TOWN.DAT").read_bytes())[36]
+    ch = town.parse(sub)[0]
+    spec = labels.PANELS[36]
+    sheet, table = labels.panel(ch[spec["sheet"]], ch[spec["table"]], spec)
+    assert (len(sheet), len(table)) == (len(ch[spec["sheet"]]), len(ch[spec["table"]]))
+    changed = [i for i in range(len(table)) if table[i] != ch[spec["table"]][i]]
+    assert changed
+    assert sheet[:gfx.header(sheet)[2]] == ch[spec["sheet"]][:gfx.header(sheet)[2]]      # palette untouched
+
+
 if __name__ == "__main__":
     test_sheet_round_trips_through_an_image_and_paste_touches_one_pixel()
     test_redraw_stays_inside_its_rectangle()
     test_nameplates_keep_sizes_and_stay_in_the_name_rows()
     test_disc_screen_keeps_size_and_leaves_other_frames_alone()
+    test_instruction_page_keeps_sizes_and_only_moves_its_own_frame()
     print("ok")

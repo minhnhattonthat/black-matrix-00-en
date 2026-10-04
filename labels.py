@@ -296,3 +296,124 @@ def disc_screen(sub: bytes) -> bytes:
             elif r != 4:
                 raise ValueError(f"disc screen frame {f}: unexpected sprite {r}")
     return bytes(out)
+
+
+# ---- circus mini-game instruction pages (TOWN.DAT sub-files 36-42) ----------------------------------
+# A page is one frame of a sprite table: every line of text is one or two 16-px strips cut from the sheet.
+# English lines are drawn, cut into as many strips as the Japanese line had, packed into the space the
+# Japanese strips occupied, and the frame's x positions are rewritten.
+#   lines: (rect indices of the line left to right, English, "centre" | "left" | "keep")
+#   title / bubble: redrawn inside their own rectangle
+#   fixed: (rect, English, first column) for a strip that keeps its place: text replaced from that column on
+PANELS = {
+    36: dict(table=26, sheet=8, frame=4, title=(4, "Flyers"), bubble=(8, ["Beware of", "these people~!!"]), lines=[
+        ((9, 10), "Hand out lots of flyers to passers-by", "centre"),
+        ((11, 12), "and promote our Nekintar Kanel Troupe~", "centre"),
+        ((13, 14), "But some people take one and toss it,", "centre"),
+        ((15,), "so watch out for them~", "centre"),
+        ((16,), "Move Cain", "left"),
+        ((17, 18), "Hold to hand out, release to stop", "left"),
+        ((19,), "Press START to begin!!", "centre"),
+    ]),
+    37: dict(table=22, sheet=8, frame=4, title=(4, "Knife Throw"), bubble=(12, ["Press twice", "for this one!"]),
+             fixed=[(21, "target", 33)], lines=[
+        ((15, 16), "Hit the targets that appear within the", "centre"),
+        ((17,), "time limit with your knives~", "centre"),
+        ((18,), "But no peeking at them!", "centre"),
+        ((19, 20), "Why? ...Because this is a circus!!", "centre"),
+        ((22,), "Press START to begin!!", "centre"),
+    ]),
+}
+PANEL_CENTRE = 160
+
+
+def _strip(text: str, lead: int = 0) -> list[list[int]]:
+    """Text as a 16-row strip of indices: anti-aliased light letters on a dark (index 1) outline."""
+    font = ImageFont.truetype(str(FONTS / "tahoma.ttf"), 11)
+    im = Image.new("L", (400, PLATE_H))
+    ImageDraw.Draw(im).text((1 + lead, 12), text, 255, font=font, anchor="ls")
+    w = im.getbbox()[2] + 1
+    cov = [[im.getpixel((x, y)) for x in range(w)] for y in range(PLATE_H)]
+    rows = [[0] * w for _ in range(PLATE_H)]
+    for y in range(PLATE_H):
+        for x in range(w):
+            if cov[y][x] >= 64:
+                rows[y][x] = 3 + round(cov[y][x] * 12 / 255)
+            elif any(cov[j][i] >= 96 for j in range(max(y - 1, 0), min(y + 2, PLATE_H))
+                     for i in range(max(x - 1, 0), min(x + 2, w))):
+                rows[y][x] = 1
+    return rows
+
+
+def panel(sheet: bytes, table: bytes, spec: dict) -> tuple[bytes, bytes]:
+    """A mini-game's instruction sheet and sprite table in English."""
+    import struct
+    o2, o3 = struct.unpack_from("<II", table, 8)
+    rect = lambda i: tuple(table[o3 + 4 + 4 * i:o3 + 8 + 4 * i])
+    out = bytearray(table)
+    width = gfx.header(sheet)[1]
+    lines = [(ids, _strip(text), align) for ids, text, align in spec["lines"]]
+    free = {}                                                # row -> merged [start, end) runs the old strips used
+    for ids, _, _ in lines:
+        for u, v, w, h in map(rect, ids):
+            sheet = gfx.paste(sheet, u, v, [[0] * w] * h)
+            free.setdefault(v, []).append([u, u + w])
+    runs = []
+    for v, row in free.items():
+        for a, b in sorted(row):
+            if runs and runs[-1][0] == v and a <= runs[-1][2]:
+                runs[-1][2] = max(runs[-1][2], b)
+            else:
+                runs.append([v, a, b])
+    room = lambda run: run[2] - run[1]
+    placed = {}                                              # rect index -> (x offset in its line, strip width)
+    for ids, rows, _ in sorted(lines, key=lambda t: (len(t[0]) > 1, -len(t[1][0]))):   # uncuttable lines first
+        x, total = 0, len(rows[0])                           # a line may be cut anywhere: its strips meet on screen
+        for k, i in enumerate(ids):
+            left, last = total - x, k == len(ids) - 1
+            if not left:
+                break
+            fits = [run for run in runs if room(run) >= left]
+            run = min(fits, key=room) if fits else max(runs, key=room)
+            w = min(left, room(run))
+            if w == 0 or (last and w < left):
+                raise ValueError(f"instruction page: no room for {left} more pixels (free: {sorted(map(room, runs))})")
+            sheet = gfx.paste(sheet, run[1], run[0], [r[x:x + w] for r in rows])
+            out[o3 + 4 + 4 * i:o3 + 8 + 4 * i] = bytes([run[1], run[0], w, PLATE_H])
+            placed[i] = (x, w)
+            run[1] += w
+            x += w
+    base = o2 + struct.unpack_from("<H", table, o2 + 4 + 2 * spec["frame"])[0]
+    parts = {table[p + 1]: p for p in range(base + 4, base + 4 + 8 * struct.unpack_from("<I", table, base)[0], 8)}
+    for ids, pieces, align in lines:
+        used = [i for i in ids if i in placed]
+        total = max(placed[i][0] + placed[i][1] for i in used)
+        start = {"centre": PANEL_CENTRE - total // 2, "left": table[parts[ids[0]] + 2]}.get(align)
+        for i in ids:
+            if i not in placed:                              # the English needed fewer strips: park the spare one
+                out[o3 + 4 + 4 * i:o3 + 8 + 4 * i] = bytes([0, 248, 8, 8])
+            elif start is not None:
+                if not 0 <= start + placed[i][0] <= 255:
+                    raise ValueError("instruction page: line starts off screen")
+                out[parts[i] + 2] = start + placed[i][0]
+    for key, style in (("title", dict(fonts=["arialbd.ttf", "ARIALNB.TTF"], outline=1, under=None, drop=False, pick="brightest")),):
+        i, text = spec[key]
+        u, v, w, h = rect(i)
+        sheet = redraw(sheet, (u, v, u + w, v + h), text, style, "left")
+    for i, text, col in spec.get("fixed", ()):
+        u, v, w, h = rect(i)
+        rows = _strip(text)
+        if col + len(rows[0]) > w:
+            raise ValueError(f"{text!r} is wider than its strip")
+        sheet = gfx.paste(sheet, u + col, v, [[0] * (w - col)] * h)
+        sheet = gfx.paste(sheet, u + col, v, rows)
+    i, texts = spec["bubble"]
+    u, v, w, h = rect(i)
+    sheet = gfx.paste(sheet, u, v, [[0] * w] * h)
+    for n, text in enumerate(texts):
+        rows = _strip(text)
+        if len(rows[0]) > w:
+            raise ValueError(f"bubble line {text!r} is wider than the bubble")
+        top = v + (h - 13 * len(texts)) // 2 + 13 * n - 2
+        sheet = gfx.paste(sheet, u + (w - len(rows[0])) // 2, top, [r for r in rows[2:15]])
+    return sheet, bytes(out)

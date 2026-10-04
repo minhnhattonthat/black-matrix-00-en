@@ -121,6 +121,11 @@ def patch_town():
     first4 = town.parse(subs[4])[0][0][0]          # picture sheets shared by every town file, see labels.py
     sheets = {i: (first4[i], gfx.from_image(first4[i], Image.open(SCRIPT / "GFX" / f"{name}.png")))
               for name, i in labels.TOWN_SHEETS.items()}
+    for i, spec in labels.PANELS.items():          # circus mini-games: instruction pages
+        tree = town.parse(subs[i])
+        ch = tree[0]
+        ch[spec["sheet"]], ch[spec["table"]] = labels.panel(ch[spec["sheet"]], ch[spec["table"]], spec)
+        subs[i] = town.rebuild(tree)
     grown = 0
     plates = {}
     for i, b in enumerate(subs):
