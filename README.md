@@ -9,7 +9,7 @@ for the PlayStation, plus every tool used to make it.
 | Serial | SLPS-03573 (Disc 1), SLPS-03574 (Disc 2) |
 | Developer / publisher | Flight-Plan / NEC Interchannel |
 | Released | 2004, Japan only |
-| Patch version | 1.0 |
+| Patch version | 00.9 |
 
 ## The game
 
@@ -21,7 +21,7 @@ mini-games. The game was never released outside Japan.
 
 ## Download and patch
 
-Get `bm00-en-v1.0.zip` from the [Releases](../../releases) page. It holds one xdelta patch per disc, two cue
+Get `bm00-en-v00.9.zip` from the [Releases](../../releases) page. It holds one xdelta patch per disc, two cue
 sheets and `PATCHING.txt`.
 
 The patch contains no game. You need your own images of both discs, identical to these:
@@ -35,8 +35,8 @@ Apply each patch to its disc with [Delta Patcher](https://github.com/marco-calau
 or `xdelta3`:
 
 ```
-xdelta3 -d -s "Disc 1.bin" bm00-en-v1.0-disc1.xdelta "Black-Matrix 00 (English) (Disc 1).bin"
-xdelta3 -d -s "Disc 2.bin" bm00-en-v1.0-disc2.xdelta "Black-Matrix 00 (English) (Disc 2).bin"
+xdelta3 -d -s "Disc 1.bin" bm00-en-v00.9-disc1.xdelta "Black-Matrix 00 (English) (Disc 1).bin"
+xdelta3 -d -s "Disc 2.bin" bm00-en-v00.9-disc2.xdelta "Black-Matrix 00 (English) (Disc 2).bin"
 ```
 
 Save the output under exactly those names, keep the two `.cue` files from the zip beside them, and open the
