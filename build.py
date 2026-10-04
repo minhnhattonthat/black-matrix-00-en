@@ -4,7 +4,7 @@ from pathlib import Path
 
 from PIL import Image
 
-import dat, exe, gfx, halfwidth, movie, pointers, script, tables, town
+import dat, exe, gfx, halfwidth, labels, movie, pointers, script, tables, town
 
 ROOT = Path(__file__).parent
 ROM = ROOT / "rom" / "Black-Matrix 00 (Japan) (Disc 1).bin"
@@ -79,16 +79,29 @@ def _system_json(name):
     return json.loads((SCRIPT / "SYSTEM" / f"{name}.json").read_text(encoding="utf-8"))
 
 
+def save_title(sub10: bytes) -> bytes:
+    """English memory-card titles: asm/savetitle.asm replaces the routine that builds them."""
+    (ROOT / "work" / "sub10.bin").write_bytes(sub10)
+    subprocess.run([halfwidth.ARMIPS, "asm/savetitle.asm"], cwd=ROOT, check=True)
+    out = (ROOT / "work" / "sub10.out").read_bytes()
+    if len(out) != len(sub10):
+        raise ValueError("save-title patch changed the overlay's size")
+    return out
+
+
 def patch_system():
     system = dat.unpack((ORIG / "SYSTEM.DAT").read_bytes())
     fixed = _system_json("tables")
     system[2] = tables.insert_fixed(system[2], fixed)
     system[10] = pointers.insert(system[10], _system_json("messages"))
+    system[10] = save_title(system[10])
     system[4] = tables.insert_overlay(system[4], _system_json("overlay"))
     menus = _system_json("menus")                  # equip (7), shop (8), level-up (9) overlays; ids are SYSTEM/<sub>/<offset>
     for n in (7, 8, 9):
         system[n] = tables.insert_overlay(system[n], [e for e in menus if e["id"].split("/")[1] == str(n)])
-    system[1] = gfx.from_image(system[1], Image.open(SCRIPT / "GFX" / "system_ui.png"))   # picture labels, see labels.py
+    for name, (n, off) in labels.SYSTEM_SHEETS.items():        # picture labels, see labels.py
+        sheet = gfx.from_image(system[n][off:], Image.open(SCRIPT / "GFX" / f"{name}.png"))
+        system[n] = system[n][:off] + sheet
     (EXTRACTED / "SYSTEM.DAT").write_bytes(dat.pack(system))
     # battle names: their own list first, then the unit table (SYSTEM table 2) fills any gap
     unit_lo, unit_hi = tables._directory(system[2])[2]

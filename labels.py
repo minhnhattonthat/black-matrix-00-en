@@ -12,11 +12,15 @@ ROOT = Path(__file__).parent
 OUT = ROOT / "script" / "GFX"
 FONTS = Path("C:/Windows/Fonts")
 
-# style: fonts widest first, pick = which of a row's indices is the letter colour (the rest is anti-aliasing),
+# style: fonts widest first, height = cap on the letter height (default: as tall as the Japanese),
+# pick = which of a row's indices is the letter colour (the rest is anti-aliasing),
 # outline index (ring around the letters), under index (1 px below), drop shadow of the outline
 TITLE = dict(fonts=["arialbd.ttf", "ARIALNB.TTF"], outline=None, under=3, drop=False, pick="common")
 MENU = dict(fonts=["arialbi.ttf", "ARIALNBI.TTF"], outline=1, under=None, drop=True, pick="brightest")
 SMALL = dict(fonts=["arialbd.ttf", "ARIALNB.TTF"], outline=3, under=None, drop=False, pick="brightest")
+
+SAVE = dict(fonts=["ARIALNB.TTF"], height=10, outline=5, under=None, drop=False, pick="brightest")
+SLOT = dict(SAVE, outline=4)
 
 # (x0, y0, x1, y1) of the Japanese label, English, style, alignment
 SYSTEM_UI = [
@@ -41,6 +45,16 @@ TOWN_MENU = [
     ((150, 128, 216, 143), "CONFIG", MENU, "left"),
     ((212, 0, 248, 13), "LEAVE", SMALL, "left"),
 ]
+
+SAVE_LABELS = [
+    ((0, 32, 39, 47), "SLOT", SLOT, "left"),            # the slot digit beside it is its own sprite
+    ((17, 48, 48, 63), "OK", SAVE, "left"),
+    ((17, 64, 48, 79), "DEL", SAVE, "left"),
+    ((17, 80, 48, 95), "BACK", SAVE, "left"),
+]
+# sheets inside SYSTEM.DAT: name -> (sub-file, offset of the image blob in it)
+SYSTEM_SHEETS = {"system_ui": (1, 0), "save_labels": (80, 0x4DC)}
+WORK = {"system_ui": (SYSTEM_UI, 15), "town_menu": (TOWN_MENU, 0), "save_labels": (SAVE_LABELS, 0)}   # labels, preview palette
 
 
 def mask(text: str, font_file: str, height: int) -> list[list[int]]:
@@ -73,7 +87,7 @@ def redraw(blob: bytes, rect, text: str, style: dict, align: str) -> bytes:
     top, span = min(face), max(face) - min(face) + 1
     pad = 1 if style["outline"] is not None else 0
     room = w - 2 * pad - (1 if style["drop"] else 0)
-    fits = (m for height in range(span, 6, -1) for font in style["fonts"]      # full height first, then smaller
+    fits = (m for height in range(min(span, style.get("height", span)), 6, -1) for font in style["fonts"]      # full height first, then smaller
             if len((m := mask(text, font, height))[0]) <= room)
     m = next(fits, None)
     if m is None:
@@ -105,12 +119,13 @@ def sheets() -> dict[str, bytes]:
     orig = ROOT / "work" / "orig"
     system = dat.unpack((orig / "SYSTEM.DAT").read_bytes())
     menu = town.parse(dat.unpack((orig / "TOWN.DAT").read_bytes())[4])[0][0][0][1]
-    return {"system_ui": system[1], "town_menu": menu}
+    return {"town_menu": menu} | {name: system[n][off:] for name, (n, off) in SYSTEM_SHEETS.items()}
 
 
 if __name__ == "__main__":
     OUT.mkdir(parents=True, exist_ok=True)
-    for (name, blob), labels, palette in zip(sheets().items(), (SYSTEM_UI, TOWN_MENU), (15, 0)):
+    for name, blob in sheets().items():
+        labels, palette = WORK[name]
         for label in labels:
             blob = redraw(blob, *label)
         gfx.to_image(blob, palette).save(OUT / f"{name}.png")
