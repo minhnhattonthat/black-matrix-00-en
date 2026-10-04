@@ -51,10 +51,21 @@ def test_instruction_page_keeps_sizes_and_only_moves_its_own_frame():
     assert sheet[:gfx.header(sheet)[2]] == ch[spec["sheet"]][:gfx.header(sheet)[2]]      # palette untouched
 
 
+def test_circus_pictures_keep_every_file_the_same_size():
+    import town
+    subs = dat.unpack((build.ORIG / "TOWN.DAT").read_bytes())
+    for i in labels.CIRCUS_FILES:
+        tree = town.parse(subs[i])
+        labels.circus(i, tree)
+        out = town.rebuild(tree)
+        assert len(out) == len(subs[i]) and out != subs[i], i
+
+
 if __name__ == "__main__":
     test_sheet_round_trips_through_an_image_and_paste_touches_one_pixel()
     test_redraw_stays_inside_its_rectangle()
     test_nameplates_keep_sizes_and_stay_in_the_name_rows()
     test_disc_screen_keeps_size_and_leaves_other_frames_alone()
     test_instruction_page_keeps_sizes_and_only_moves_its_own_frame()
+    test_circus_pictures_keep_every_file_the_same_size()
     print("ok")

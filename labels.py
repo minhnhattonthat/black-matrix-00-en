@@ -377,8 +377,9 @@ PANEL_CENTRE = 160
 TITLE = dict(fonts=["arialbd.ttf", "ARIALNB.TTF"], outline=1, under=None, drop=False, pick="brightest")
 
 
-def _strip(text: str) -> list[list[int]]:
-    """Text as a 16-row strip of indices: anti-aliased light letters on a dark (index 1) outline."""
+def _strip(text: str, cheer: bool = False) -> list[list[int]]:
+    """Text as a 16-row strip of indices: anti-aliased light letters on a dark (index 1) outline.
+    `cheer`: the knife game's shout palette instead - index 1 is the full colour, 8 the faintest, 15 the rim."""
     font = ImageFont.truetype(str(FONTS / "tahoma.ttf"), 11)
     im = Image.new("L", (400, PLATE_H))
     ImageDraw.Draw(im).text((1, 12), text, 255, font=font, anchor="ls")
@@ -388,20 +389,20 @@ def _strip(text: str) -> list[list[int]]:
     for y in range(PLATE_H):
         for x in range(w):
             if cov[y][x] >= 64:
-                rows[y][x] = 3 + round(cov[y][x] * 12 / 255)
+                rows[y][x] = 8 - round(cov[y][x] * 7 / 255) if cheer else 3 + round(cov[y][x] * 12 / 255)
             elif any(cov[j][i] >= 96 for j in range(max(y - 1, 0), min(y + 2, PLATE_H))
                      for i in range(max(x - 1, 0), min(x + 2, w))):
-                rows[y][x] = 1
+                rows[y][x] = 15 if cheer else 1
     return rows
 
 
-def _block(sheet: bytes, rect: tuple, clear_from: int, texts: list) -> bytes:
+def _block(sheet: bytes, rect: tuple, clear_from: int, texts: list, cheer: bool = False) -> bytes:
     """Lines drawn inside one rectangle: (text, top row, "centre" | "right:COL" | left column). Pixels of
     the rectangle left of `clear_from` are kept (a leading "..." that the English reuses)."""
     u, v, w, h = rect
     area = [[gfx.get(sheet, u + x, v + y) if x < clear_from else 0 for x in range(w)] for y in range(h)]
     for text, top, align in texts:
-        rows = _strip(text)
+        rows = _strip(text, cheer)
         tw = len(rows[0])
         left = (w - tw) // 2 if align == "centre" else int(align[6:]) - tw if isinstance(align, str) else align
         if left < clear_from or left + tw > w:
@@ -466,3 +467,123 @@ def panel(sheet: bytes, table: bytes, spec: dict) -> tuple[bytes, bytes]:
     for i, clear_from, texts in spec["blocks"]:
         sheet = _block(sheet, rect(i), clear_from, texts)
     return sheet, bytes(out)
+
+
+# ---- circus mini-game HUD (entry 7 of TOWN.DAT sub-files 36-42) -------------------------------------
+# Labels keep their rectangles. Each is named by a point inside it; the rectangle is the smallest one any
+# of the file's sprite tables has around that point (or given outright as x0, y0, x1, y1).
+HUD_SHEET = 7
+HUD_COMMON = [((120, 24, 192, 40), "RESULTS"), ((213, 24, 240, 40), "END"), ((64, 104, 104, 120), "QUOTA"),
+              ((104, 104, 144, 120), "MET!"), ((144, 104, 184, 120), "QUOTA"), ((80, 120, 128, 136), "MISSED"),
+              ((192, 104, 248, 120), "EARNED"), ((192, 120, 240, 136), "TIPS!")]   # "EARNED 3050 TIPS!"
+HUD = {
+    36: [((120, 152), "HANDED OUT"), ((112, 168), "QUOTA"), ((160, 168), ""), ((248, 128), ""),
+         ((16, 192), "QUOTA"), ((40, 192), "")],
+    37: [((120, 153), "QUOTA"), ((105, 168), "HITS"), ((32, 193), "QUOTA"), ((176, 192), "x")],
+    38: [((115, 192), "QUOTA"), ((63, 208), "CAUGHT"), ((130, 209), "QUOTA"), ((63, 225), "DROPPED"),
+         ((160, 192), "x"), ((143, 223), "x")],
+    39: [((17, 191), "AIM"), ((53, 191), "POSES"), ((72, 184, 104, 200), "PASS"), ((104, 184, 136, 200), "MARK"), ((0, 200, 104, 216), "POSES"),
+         ((223, 192), "GOAL"), ((217, 208), "IN!"), ((248, 128), "")],
+    40: [((216, 40, 248, 56), "DIST"), ((110, 151), "MISS"), ((135, 151), ""), ((92, 168), "RANK"),
+         ],
+    41: [((112, 161), "TOTAL"), ((130, 178), ""), ((38, 194), "QUOTA"), ((138, 194), "QUOTA")],
+}
+HUD[42] = HUD[41]
+
+
+def _rects(node, page: int) -> tuple[set, set]:
+    """Rectangles of the sprite tables under a parsed TOWN node that draw from texture page `page`
+    (a sprite's page is the low 3 bits of its last word; entry 5 + page of the file is its sheet):
+    (those a frame uses on that page, every other rectangle of such tables - the game also draws
+    rectangles by number, without a frame, so the second set holds real labels among strangers)."""
+    import struct
+    if isinstance(node, tuple):
+        found = [_rects(c, page) for c in node[0]]
+        return set().union(*(f[0] for f in found)), set().union(*(f[1] for f in found))
+    if len(node) < 0x20 or struct.unpack_from("<II", node, 0) != (0, 0x10):
+        return set(), set()
+    o2, o3 = struct.unpack_from("<II", node, 8)
+    if not 0x14 <= o2 < o3 <= len(node) - 4:
+        return set(), set()
+    count = struct.unpack_from("<I", node, o3)[0]
+    frames = struct.unpack_from("<I", node, o2)[0]
+    if o3 + 4 + 4 * count > len(node) or o2 + 4 + 2 * frames > o3:
+        return set(), set()
+    used = set()
+    for f in struct.unpack_from(f"<{frames}H", node, o2 + 4):
+        parts = struct.unpack_from("<I", node, o2 + f)[0]
+        for p in range(o2 + f + 4, min(o2 + f + 4 + 8 * parts, o3), 8):
+            if node[p + 1] < count and node[p + 4] & 7 == page and not node[p + 5:p + 8].strip(bytes(1)):
+                used.add(tuple(node[o3 + 4 + 4 * node[p + 1]:o3 + 8 + 4 * node[p + 1]]))
+    every = {tuple(node[o3 + 4 + 4 * i:o3 + 8 + 4 * i]) for i in range(count)} if used else set()
+    return used, every - used
+
+
+def hud(sheet: bytes, rects: tuple, labels: list, debug: bool = False) -> bytes:
+    width, height = gfx.header(sheet)[1], gfx.height(sheet)
+    for where, text in labels:
+        if len(where) == 4:
+            box = where
+        else:
+            x, y = where
+            holds = lambda r: (r[0] <= x < r[0] + r[2] and r[1] <= y < r[1] + r[3] and 8 <= r[3] <= 24
+                               and r[2] >= (24 if len(text) > 1 else 8)
+                               and r[0] + r[2] <= width and r[1] + r[3] <= height)
+            around = [r for r in rects[0] if holds(r)] or [r for r in rects[1] if holds(r) and r[3] == 16]
+            if not around:
+                raise ValueError(f"HUD label {text!r}: no rectangle around {where}")
+            u, v, w, h = min(around, key=lambda r: r[2] * r[3])
+            box = (u, v, u + w, v + h)
+            if debug:
+                print(text or 'blank', where, '->', (u, v, w, h))
+        old = [gfx.get(sheet, x, y) for y in range(box[1], box[3]) for x in range(box[0], box[2])]
+        if not text:
+            sheet = gfx.paste(sheet, box[0], box[1], [[0] * (box[2] - box[0])] * (box[3] - box[1]))
+            continue
+        dark = Counter(v for v in old if 0 < v <= 3)
+        if not dark:
+            raise ValueError(f"HUD label {text!r}: nothing drawn in {box}")
+        style = dict(fonts=["arialbd.ttf", "ARIALNB.TTF"], outline=dark.most_common(1)[0][0], under=None,
+                     drop=False, pick="brightest")
+        sheet = redraw(sheet, box, text, style, "centre")
+    return sheet
+
+
+# circus menu (sub-file 34) and equipment shop (35): entry 5 = texture page 0
+CIRCUS = {
+    34: [((168, 0, 216, 16), "TIPS"), ((168, 16, 256, 32), "SHOWS LEFT:"), ((0, 56, 88, 80), "END SHOW"),
+         ((0, 80, 88, 120), "SELECT ACT"), ((64, 160, 120, 192), "PRACTICE"), ((64, 192, 120, 224), "PERFORM")],
+    35: [((168, 0, 216, 16), "TIPS"), ((233, 0, 256, 16), "EXIT"), ((168, 16, 256, 56), "BUY GEAR")],
+}
+# shouts in the knife game (sub-file 38, entry 6): rectangle -> English; two-piece shouts read left to right
+CHEERS = {
+    (104, 128, 48, 16): "Let's go!", (96, 144, 56, 16): "Phew...", (24, 160, 56, 16): "Yay!", (80, 160, 48, 16): "On it!",
+    (24, 176, 32, 16): "Nice!", (56, 176, 40, 16): "Did it!", (96, 176, 56, 16): "Easy!",
+    (24, 192, 56, 16): "Thanks!", (80, 192, 64, 16): "Now for the", (96, 208, 56, 16): "real show!",
+    (0, 208, 48, 16): "Superb!!", (48, 208, 48, 16): "Ta-da!!",
+    (0, 224, 56, 16): "Applause!", (56, 224, 24, 16): "Ah,", (80, 224, 64, 16): "I blew it...",
+    (0, 240, 56, 16): "Close...", (56, 240, 48, 16): "Not done", (104, 240, 40, 16): "yet!",
+}
+
+
+def cheers(sheet: bytes) -> bytes:
+    for rect, text in CHEERS.items():
+        sheet = _block(sheet, rect, 0, [(text, 0, 1)], cheer=True)
+    return sheet
+
+
+CIRCUS_FILES = range(34, 43)
+
+
+def circus(index: int, tree) -> None:
+    """Every English picture of one circus sub-file, written into its parsed tree."""
+    ch = tree[0]
+    if index in PANELS:
+        spec = PANELS[index]
+        ch[spec["sheet"]], ch[spec["table"]] = panel(ch[spec["sheet"]], ch[spec["table"]], spec)
+    if index in HUD:
+        ch[HUD_SHEET] = hud(ch[HUD_SHEET], _rects(tree, HUD_SHEET - 5), HUD_COMMON + HUD[index])
+    if index in CIRCUS:
+        ch[5] = hud(ch[5], (set(), set()), CIRCUS[index])
+    if index == 38:
+        ch[6] = cheers(ch[6])
