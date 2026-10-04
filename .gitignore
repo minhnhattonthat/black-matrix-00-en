@@ -3,3 +3,4 @@ work/
 build/
 tools/
 __pycache__/
+savestates/
