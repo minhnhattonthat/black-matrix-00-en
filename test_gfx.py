@@ -72,6 +72,19 @@ def test_cards_and_banners_keep_their_size():
         assert len(out) == len(battle[i]) and out != battle[i], i
 
 
+def test_battle_pictures_keep_every_file_the_same_size():
+    import town
+    orig = dat.unpack((build.ORIG / "BATTLE.DAT").read_bytes())
+    subs = list(orig)
+    labels.battle(subs)
+    changed = {i for i, (a, b) in enumerate(zip(orig, subs)) if a != b}
+    assert changed == {2} | set(labels.TITLES) | {i for i in range(252, 277) if orig[i]}
+    assert all(len(a) == len(b) for a, b in zip(orig, subs))
+    old, new = town.parse(orig[203])[0][3], town.parse(subs[203])[0][3]
+    moved = [i for i, (a, b) in enumerate(zip(old, new)) if a != b]
+    assert moved and len(moved) < 1000 and len(old) == len(new)      # cell positions and slide offsets only
+
+
 if __name__ == "__main__":
     test_sheet_round_trips_through_an_image_and_paste_touches_one_pixel()
     test_redraw_stays_inside_its_rectangle()
@@ -80,4 +93,5 @@ if __name__ == "__main__":
     test_instruction_page_keeps_sizes_and_only_moves_its_own_frame()
     test_circus_pictures_keep_every_file_the_same_size()
     test_cards_and_banners_keep_their_size()
+    test_battle_pictures_keep_every_file_the_same_size()
     print("ok")

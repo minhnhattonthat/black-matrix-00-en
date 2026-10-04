@@ -754,3 +754,252 @@ def catalogue(sheet: bytes) -> bytes:
         sheet = gfx.paste(sheet, u, v, [r[x:x + pw] for r in rows])
         x += pw
     return sheet
+
+
+# ---- victory / defeat headings beside the objective banners (BATTLE.DAT sub-file 2, sheet at 0xC2C) -----
+CONDITION_SHEET = 0xC2C
+# one word each: "Condition" is unreadable at 40 pixels, and the banner beside it states the condition
+CONDITIONS = [((80, 0, 120, 32), ("Victory",)), ((120, 0, 160, 32), ("Defeat",))]
+
+
+def heading(sheet: bytes, box: tuple, lines: tuple) -> bytes:
+    """Short italic lines in a grey ramp (15 = white) with a dark rim, each as large as its box allows."""
+    width, height = box[2] - box[0], box[3] - box[1]
+    im = Image.new("L", (width, height))
+    for n, line in enumerate(lines):
+        for size in range(14, 7, -1):
+            font = ImageFont.truetype(str(FONTS / "ARIALNBI.TTF"), size)
+            if font.getlength(line) <= width - 3:
+                break
+        else:
+            raise ValueError(f"{line!r} is too long for a condition heading")
+        ImageDraw.Draw(im).text((width // 2, height * (2 * n + 1) // (2 * len(lines)) + 1), line, 255, font=font, anchor="mm")
+    cov = [[im.getpixel((x, y)) for x in range(width)] for y in range(height)]
+    rows = [[0] * width for _ in range(height)]
+    for y in range(height):
+        for x in range(width):
+            if cov[y][x] >= 40:
+                rows[y][x] = max(2, round(cov[y][x] / 17))
+            elif any(cov[j][i] >= 96 for j in range(max(y - 1, 0), min(y + 2, height))
+                     for i in range(max(x - 1, 0), min(x + 2, width))):
+                rows[y][x] = 1
+    return gfx.paste(sheet, box[0], box[1], rows)
+
+
+# ---- stage title cards (BATTLE.DAT sub-files 203-240: entry 1 = sheet, entry 3 = shared sprite tables) -----
+# The title is one line of 32x32 cells kept as two rows of four at (64, 88). Three layouts exist: eight cells,
+# seven cells (the last one unused), and sub-file 236 with two 128-pixel strips around a ninth cell at (192, 184).
+TITLES = {
+    203: "The Uninvited Visitor", 204: "Grisina, Angel of Death", 205: "Cain of the False Wings",
+    206: "Greetings from the Circus", 207: "A Maiden's Stubbornness", 208: "Demon-Hunting Squad",
+    209: "Those Who Stir in the Dark", 210: "Abel of the Black Wings", 211: "Assault",
+    212: "Grotesque Incarnation", 213: "The Demon's Whisper", 214: "Kreis the Swordsman",
+    215: "The Discarded Test Subject", 216: "Forced Breakthrough", 217: "Swirling Fate",
+    218: "Scars That Never Fade", 219: "Red Fang of Lament", 220: "Aragi", 221: "Plaza of Tragedy",
+    222: "The Red Fang Strikes Again", 223: "Toys That Stir in the Dark", 224: "Like a Raging Fire",
+    225: "The Sneering Aragi", 226: "Terror That Blinds the Eyes", 227: "Black Wings That Call Death",
+    228: "Echoing Red Scream", 229: "The Flame of Ideals", 230: "White Bearer of Death",
+    231: "Keeper of the Eternal Law", 232: "Whiteface", 233: "He Who Laughs Last",
+    234: "Darkness of the Brethren", 235: "Shattered Hope", 236: "Overcome All Pain", 237: "No Use Arguing",
+    238: "Defeat Kutta!", 239: "Dana's Trial", 240: "Finish Off Kutta!",
+}
+_ROWS = ((64, 88), (64, 120))
+_NINTH = (192, 184)
+# The game spaces the cells unevenly (tighter towards the middle; fine for kanji, not for a line cut in
+# pieces): resting x of each cell -> an even 32-pixel pitch, the line still centred on x = 160. The second
+# row belongs to an object drawn 40 pixels further right in the eight-cell layout only.
+# Keys are (rectangle, x); the two tables number the cells from 1 and 4.
+_EIGHT = dict(zip((39, 76, 107, 133, 115, 141, 172, 209), (32, 64, 96, 128, 120, 152, 184, 216)))
+_SEVEN = dict(zip((50, 87, 118, 144, 170, 201, 238), (48, 80, 112, 144, 176, 208, 240)))
+# The title opens with the cells bunched in the middle, sliding apart one by one. Each slide animation
+# of the first table moves one cell a pixel per step towards the old resting place; the same steps now
+# cover the distance to the new one (total x travel per animation). Cells 4 and 5 part in six frames instead.
+_SLIDES = {8: {0: -70, 1: -50, 2: -30, 5: 30, 6: 50, 7: 70}, 7: {0: -48, 1: -32, 2: -16, 5: 16, 6: 32, 7: 48}}
+_PAIR = {(4, x): 2 * x - 138 for x in range(134, 139)} | {(5, x): 2 * x - 150 for x in range(150, 156)}
+
+
+def _slide(out: bytearray, cells: int) -> None:
+    """Stretch the slide animations. An entry is u8 frame, u16 (duration in 5 bits, then a 10-bit signed
+    x offset), u8 y."""
+    import struct
+    for base in range(0, len(out) - 0x18, 2):
+        if out[base:base + 8] == bytes([0, 0, 0, 0, 0x10, 0, 0, 0]) and out[base + 0x10:base + 0x14] == bytes([16, 0, 0, 0]):
+            starts = struct.unpack_from("<16H", out, base + 0x14)
+            for k, travel in _SLIDES[cells].items():
+                at = base + 0x10 + starts[k]
+                count = struct.unpack_from("<I", out, at)[0]
+                for n in range(count):
+                    e = at + 4 + 4 * n
+                    word = struct.unpack_from("<H", out, e + 1)[0]
+                    x = round(travel * n / (count - 1)) & 0x3FF
+                    struct.pack_into("<H", out, e + 1, word & 0x801F | x << 5)
+            return
+    raise ValueError("title slide animations not found")
+
+
+def _cells(tables: bytes) -> int:
+    """How many pieces the title line has in these sprite tables: 7, 8, or 9 for the strip layout."""
+    if bytes([64, 88, 128, 32]) in tables:
+        return 9
+    at = tables.index(bytes([64, 88, 32, 32]))
+    return sum(tables[at + 4 * n + 2:at + 4 * n + 4] == bytes([32, 32]) for n in range(8))
+
+
+def title(sheet: bytes, text: str, cells: int) -> bytes:
+    """White serif letters with a soft glow on one line across the cells, as large as fits."""
+    from PIL import ImageChops, ImageFilter
+    width = {7: 224, 8: 256, 9: 288}[cells]
+    for size in range(26, 11, -1):
+        font = ImageFont.truetype(str(FONTS / "timesbd.ttf"), size)
+        if font.getlength(text) <= width - 8:
+            break
+    else:
+        raise ValueError(f"{text!r} is too long for a stage title")
+    im = Image.new("L", (288, 32))
+    ImageDraw.Draw(im).text((width // 2, 16 + size // 3), text, 255, font=font, anchor="ms")
+    halo = im.filter(ImageFilter.GaussianBlur(1.4)).point(lambda v: min(90, v * 2))
+    data = [round(v / 17) for v in ImageChops.lighter(im, halo).getdata()]
+    cut = lambda a, b: [data[y * 288 + a:y * 288 + b] for y in range(32)]
+    sheet = gfx.paste(sheet, *_ROWS[0], cut(0, 128))
+    if cells == 9:
+        sheet = gfx.paste(sheet, *_NINTH, cut(128, 160))
+        return gfx.paste(sheet, *_ROWS[1], cut(160, 288))
+    return gfx.paste(sheet, *_ROWS[1], cut(128, 256))
+
+
+def title_tables(tables: bytes) -> bytes:
+    """The shared sprite tables with the title cells on an even pitch (the strip layout needs nothing)."""
+    cells = _cells(tables)
+    if cells == 9:
+        return tables
+    moves = {(first + n, old): new for first in (1, 4)
+             for n, (old, new) in enumerate((_EIGHT if cells == 8 else _SEVEN).items())}
+    if cells == 8:
+        moves.update(_PAIR)
+    out, hits = bytearray(tables), 0
+    _slide(out, cells)
+    for i in range(len(out) - 7):
+        if out[i] in (0x10, 0x14) and out[i + 3] == 0x70 and out[i + 4:i + 8] == bytes([0x24, 0, 0, 0]):
+            new = moves.get((out[i + 1], out[i + 2]))
+            if new is not None:
+                out[i + 2] = new
+                hits += 1
+    if hits < 2 * cells:
+        raise ValueError("title cells not found in the sprite tables")
+    return bytes(out)
+
+
+# ---- free-battle intro screens (BATTLE.DAT sub-files 252-276, entry 2: a tile-mapped full-screen picture) -----
+# Kind 0x111: a 304x256 4-bit sheet of 16x16 tiles; at extra_off u32 columns, u32 rows, then for each screen
+# tile u8 u, u8 v, u8 CLUT row, u8 0x80 | texture page (page 1 = u + 256). The place name is part of the picture.
+PLACES = {
+    252: "Outskirts of Verona", 255: "Ramel Church", 256: "Ruined Church", 257: "Halfort Church",
+    258: "Spectral Catacombs", 259: "Prodevon Church Prison", 260: "Fetus Church",
+    261: "Abandoned Church Test Facility", 263: "Leniam Plaza", 265: "Cypherpunk Facility",
+    267: "Kalhin Village", 269: "Fario Village", 270: "Pasca Temple", 275: "Johannes's Laboratory",
+    276: "Temple Gate",
+}
+PLACE_ROWS = (93, 138)          # the dark band that holds the name
+PLACE_RIGHT = 304               # the names end here
+
+
+def _rgb(c: int) -> tuple:
+    return ((c & 31) << 3, (c >> 5 & 31) << 3, (c >> 10 & 31) << 3)
+
+
+def _screen(blob: bytes):
+    """(CLUT, sheet width, first pixel byte, columns, rows, offset of the tile entries)."""
+    import struct
+    kind, ten, pix, extra = struct.unpack_from("<4I", blob, 0)
+    cw, ch = struct.unpack_from("<HH", blob, 0x10)
+    if kind != 0x111 or ten != 0x10:
+        raise ValueError("not a tile-mapped picture")
+    cols, rows = struct.unpack_from("<II", blob, extra)
+    return (struct.unpack_from(f"<{cw * ch}H", blob, 0x14), struct.unpack_from("<H", blob, pix)[0] * 4, pix + 4,
+            cols, rows, extra + 8)
+
+
+def screen_image(blob: bytes):
+    """The picture as the game shows it."""
+    clut, width, base, cols, rows, at = _screen(blob)
+    im = Image.new("RGB", (cols * 16, rows * 16))
+    px = im.load()
+    for i in range(cols * rows):
+        u, v, pal, page = blob[at + 4 * i:at + 4 * i + 4]
+        u += 256 * (page & 1)
+        for y in range(16):
+            for x in range(16):
+                p = (v + y) * width + u + x
+                px[i % cols * 16 + x, i // cols * 16 + y] = _rgb(clut[pal * 16 + (blob[base + p // 2] >> 4 * (p & 1) & 15)])
+    return im
+
+
+def _retile(blob: bytes, im, top: int, bottom: int) -> bytes:
+    """The picture with the tile rows touching [top, bottom) taken from `im`: every tile gets the CLUT row
+    that shows it best. Colour 0x0000 is see-through on the PlayStation, so it is never chosen."""
+    clut, width, base, cols, rows, at = _screen(blob)
+    out, px = bytearray(blob), im.load()
+    palettes = [[(n, _rgb(c)) for n, c in enumerate(clut[r * 16:r * 16 + 16]) if c] for r in range(len(clut) // 16)]
+    near = [{} for _ in palettes]
+
+    def pick(row: int, colour: tuple) -> tuple:
+        if colour not in near[row]:
+            near[row][colour] = min((sum((a - b) ** 2 for a, b in zip(colour, rgb)), n) for n, rgb in palettes[row])
+        return near[row][colour]
+
+    for i in range(top // 16 * cols, -(-bottom // 16) * cols):
+        tile = [px[i % cols * 16 + x, i // cols * 16 + y] for y in range(16) for x in range(16)]
+        _, row = min((sum(pick(r, c)[0] for c in tile), r) for r in range(len(palettes)) if palettes[r])
+        u, v, _, page = out[at + 4 * i:at + 4 * i + 4]
+        u += 256 * (page & 1)
+        out[at + 4 * i + 2] = row
+        for n, colour in enumerate(tile):
+            p = (v + n // 16) * width + u + n % 16
+            shift = 4 * (p & 1)
+            out[base + p // 2] = out[base + p // 2] & ~(15 << shift) & 255 | pick(row, colour)[1] << shift
+    return bytes(out)
+
+
+def places(screens: dict) -> dict:
+    """{sub-file: picture} -> the same with English place names. The band behind a name is rebuilt from all
+    the pictures together: per pixel the median one, which is background wherever the names differ."""
+    top, bottom = PLACE_ROWS
+    shown = {n: screen_image(blob) for n, blob in screens.items() if n in PLACES}
+    stack = [im.crop((0, top, 320, bottom)) for im in shown.values()]
+    band = Image.new("RGB", stack[0].size)
+    for xy in ((x, y) for y in range(band.height) for x in range(band.width)):
+        band.putpixel(xy, sorted((im.getpixel(xy) for im in stack), key=sum)[len(stack) // 2])
+    done, new = {}, {}
+    for n, blob in screens.items():
+        text = PLACES.get(n) or PLACES[next(m for m in PLACES if screens[m] == blob)]     # some are stored twice
+        if text not in done:
+            im = (shown.get(n) or screen_image(blob)).copy()
+            im.paste(band, (0, top))
+            for size in range(34, 15, -1):
+                font = ImageFont.truetype(str(FONTS / "impact.ttf"), size)
+                if font.getlength(text) <= PLACE_RIGHT - 14:
+                    break
+            draw = ImageDraw.Draw(im)
+            at = (PLACE_RIGHT, (top + bottom) // 2 + 1)
+            draw.text((at[0] + 2, at[1] + 2), text, (40, 40, 40), font=font, anchor="rm", stroke_width=2, stroke_fill=(40, 40, 40))
+            draw.text(at, text, (248, 248, 248), font=font, anchor="rm", stroke_width=2, stroke_fill=(8, 8, 8))
+            done[text] = _retile(blob, im, top, bottom)
+        new[n] = done[text]
+    return new
+
+
+def battle(subs: list) -> None:
+    """BATTLE.DAT sub-files, in place: condition headings, stage titles, free-battle place names."""
+    import town
+    at = CONDITION_SHEET
+    for box, lines in CONDITIONS:
+        subs[2] = subs[2][:at] + heading(subs[2][at:], box, lines)
+    for i, text in TITLES.items():
+        children, tail = town.parse(subs[i])
+        children[1] = title(children[1], text, _cells(children[3]))
+        children[3] = title_tables(children[3])
+        subs[i] = town.rebuild((children, tail))
+    free = {i: town.parse(subs[i]) for i in range(min(PLACES), max(PLACES) + 1) if subs[i]}
+    for i, picture in places({i: tree[0][2] for i, tree in free.items()}).items():
+        free[i][0][2] = picture
+        subs[i] = town.rebuild(free[i])
