@@ -585,6 +585,8 @@ def circus(index: int, tree) -> None:
         ch[HUD_SHEET] = hud(ch[HUD_SHEET], _rects(tree, HUD_SHEET - 5), HUD_COMMON + HUD[index])
     if index in CIRCUS:
         ch[5] = hud(ch[5], (set(), set()), CIRCUS[index])
+    if index == 35:
+        ch[5] = catalogue(ch[5])
     if index == 38:
         ch[6] = cheers(ch[6])
 
@@ -722,3 +724,33 @@ def plate(packed: bytes, text: str) -> bytes:
     blob = _fill(blob, rows, (width - w) // 2, 0)
     data = data[:4 + off] + blob + data[4 + off + len(blob):]
     return lz.pack(data, packed[:3])
+
+
+# equipment shop (sub-file 35): the catalogue heading is one 96x32 picture cut into a 56-px and a 40-px piece
+CATALOGUE = (("CIRCUS GEAR", 2, 10, 0xA, 0xC), ("CATALOGUE", 15, 14, 0xE, 0xF))   # text, top row, height, upper/lower colour
+CATALOGUE_PIECES = ((192, 128, 56), (192, 160, 40))
+
+
+def catalogue(sheet: bytes) -> bytes:
+    w, h = sum(p[2] for p in CATALOGUE_PIECES), 32
+    face = {}
+    for text, top, height, upper, lower in CATALOGUE:
+        m = next((m for size in range(height, 7, -1) for font in ("arialbd.ttf", "ARIALNB.TTF")
+                  if len((m := mask(text, font, size))[0]) <= w - 6), None)
+        if m is None:
+            raise ValueError(f"{text!r} is too wide for the catalogue heading")
+        left = (w - len(m[0])) // 2
+        for y, row in enumerate(m):
+            for x, v in enumerate(row):
+                if v:
+                    face[left + x, top + y] = upper if y < len(m) * 2 // 3 else lower
+    rows = [[0] * w for _ in range(h)]
+    near = lambda x, y, r: any((x + dx, y + dy) in face for dx in range(-r, r + 1) for dy in range(-r, r + 1))
+    for y in range(h):
+        for x in range(w):
+            rows[y][x] = face.get((x, y)) or (2 if near(x, y, 1) else 0xB if near(x, y, 2) else 0)   # dark rim, pale halo
+    x = 0
+    for u, v, pw in CATALOGUE_PIECES:
+        sheet = gfx.paste(sheet, u, v, [r[x:x + pw] for r in rows])
+        x += pw
+    return sheet
