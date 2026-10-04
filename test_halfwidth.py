@@ -46,7 +46,7 @@ def _patched():
 
 def test_table_ranges_are_zero_in_the_original():
     exe = EXE.read_bytes()
-    for lo, hi in halfwidth.RANGES[4:]:
+    for lo, hi in halfwidth.FREE:
         assert not any(exe[lo - BASE:hi - BASE]), hex(lo)
 
 
@@ -126,6 +126,19 @@ def test_patch_never_reads_a_register_in_its_load_delay_slot():
     lo, hi = halfwidth.RANGES[5]                      # the code area
     addrs = [site for site, _ in halfwidth.RANGES[:2]] + list(range(lo, hi - 4, 4))
     assert not _load_delay_hazards(word, addrs)
+
+
+def test_unit_names_are_fixed_after_set_name_and_after_load():
+    import struct
+    b = _patched()
+    word = lambda addr: struct.unpack_from("<I", b, addr - BASE)[0]
+    assert word(0x8003CDA0) >> 26 == 2 and word(0x80039CC4) >> 26 == 3      # j / jal into the patch
+    one = (word(0x8003CDA0) & 0x3FFFFFF) << 2 | 0x80000000
+    lo, hi = halfwidth.RANGES[6]
+    assert lo <= one < hi
+    table = b.find(bytes.fromhex("834a8343") + b"Cain", lo - BASE, hi - BASE)
+    assert table > 0 and b[table + 16:table + 20] == bytes.fromhex("83888366".replace("66", "6e")) and b[table + 20:table + 28] == b"Johannes"
+    assert not _load_delay_hazards(word, list(range(one, one + 0x90, 4)))
 
 
 if __name__ == "__main__":

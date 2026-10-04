@@ -150,7 +150,7 @@ HUMAN = {
     (16, 176): "Middle-aged Man", (16, 200): "One-winged Angel",
     (32, 0): "Syria", (32, 32): "Old Man", (32, 56): "Young Man", (32, 80): "Old Woman",
     (32, 104): "Boyfriend", (32, 160): "Girlfriend", (32, 216): "Priest",
-    (48, 0): "Bran", (48, 32): "Fly", (48, 64): "Boy", (48, 96): "Girl", (48, 128): "Clown",
+    (48, 0): "Plan", (48, 32): "Fly", (48, 64): "Boy", (48, 96): "Girl", (48, 128): "Clown",
     (48, 160): "Soldier", (48, 184): "Lilis", (48, 216): "Kilota",
     (64, 0): "Johannes", (64, 32): "Valtoss", (64, 88): "Stayen", (64, 144): "Boy", (64, 176): "Exal",
     (64, 216): "Postbox", (80, 0): "Swordsman's Lover", (80, 56): "Old Woman's Son", (80, 112): "Mailbox",
@@ -162,7 +162,7 @@ DEMON = {
     (16, 0): "Mistress", (16, 32): "Waitress", (16, 80): "Demon (Swordsman)", (16, 128): "Demon (Older Man)",
     (16, 176): "Watchman", (32, 0): "Demon (Man)", (32, 40): "Demon (Woman)", (32, 80): "Watchwoman",
     (32, 136): "Demon (Boy)", (32, 192): "Demon (Little Girl)",
-    (48, 0): "One-winged Angel", (48, 48): "Bran", (48, 80): "Fly", (48, 112): "Clown", (48, 144): "Postbox",
+    (48, 0): "One-winged Angel", (48, 48): "Plan", (48, 80): "Fly", (48, 112): "Clown", (48, 144): "Postbox",
     (48, 176): "Mailbox", (64, 0): "Syria",
 }
 PLATE_ROWS, PLATE_H, BAR_W = 96, 16, 72        # names live in the top 96 rows; the underline bar is at (0,0)-(72,16)
@@ -679,7 +679,7 @@ PLATES = {
     190: "Cain", 191: "Abel", 192: "Matia", 193: "Johannes", 194: "Luca", 195: "Zion", 196: "Exal", 197: "Stayen",
     198: "Kilota", 199: "Lilis", 200: "Valtoss", 201: "Syria", 202: "Bale", 203: "Cardia", 204: "Unda", 205: "Aragi",
     206: "Whiteface", 207: "Red Mouflon", 208: "Terios", 209: "Kreis", 210: "Rubiel", 211: "Rhipsalis",
-    212: "Grisina", 214: "Nico", 215: "Father Frie", 216: "Tavern Owner", 217: "Kutta", 218: "Bran", 219: "Fly",
+    212: "Grisina", 214: "Nico", 215: "Father Frie", 216: "Tavern Owner", 217: "Kutta", 218: "Plan", 219: "Fly",
     220: "Incest Girl", 221: "Rea", 223: "Cain", 224: "Syria", 225: "Dahlia", 226: "Matia", 227: "Aragi",
     228: "Luca", 229: "Aragi", 230: "Luca", 231: "Lilis", 232: "Dana", 233: "Zero", 234: "Matia", 235: "Abel",
     236: "Johannes", 239: "Soryu", 240: "Terga", 241: "Pasca", 242: "Eerie Demon", 243: "Mithras",

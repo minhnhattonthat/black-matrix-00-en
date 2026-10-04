@@ -29,8 +29,11 @@ RANGES = [
     (0x80013800, 0x80013804),          # justify spread disabled (menu branch)
     (0x800604A0, 0x80060848),          # font 0x20-0x5F   } zero runs of the SJIS
     (0x8006087C, 0x80060A8C),          # code             } index table: codes no
-    (0x8006292C, 0x80062C4C),          # font 0x60-0x7E   } glyph in the font uses
+    (0x8006292C, 0x80062C4C),          # font 0x60-0x7E   } glyph in the font uses; also the unit-name fix
+    (0x8003CDA0, 0x8003CDA8),          # unit names: hook after set-name
+    (0x80039CC4, 0x80039CC8),          # unit names: hook after loading a save
 ]
+FREE = RANGES[4:7]                     # must be empty in the original executable
 ARMIPS = ROOT / "tools" / "armips" / "armips.exe"
 
 
@@ -38,7 +41,7 @@ def assemble(src: Path, dst: Path) -> None:
     """Check the patch ranges are free in `src`, then assemble asm/halfwidth.asm into `dst`.
     The .asm names its own input, work/orig/SLPS_035.73, which is what `src` must be."""
     exe = src.read_bytes()
-    for lo, hi in RANGES[4:]:
+    for lo, hi in FREE:
         if any(exe[lo - BASE:hi - BASE]):
             raise ValueError(f"patch range {lo:#x}-{hi:#x} is not empty in {src}")
     subprocess.run([ARMIPS, "asm/halfwidth.asm"], cwd=ROOT, check=True)
