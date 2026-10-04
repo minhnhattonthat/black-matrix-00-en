@@ -587,3 +587,86 @@ def circus(index: int, tree) -> None:
         ch[5] = hud(ch[5], (set(), set()), CIRCUS[index])
     if index == 38:
         ch[6] = cheers(ch[6])
+
+
+# ---- place-name cards (EVENT.DAT, one 160x24 picture per sub-file) and battle objective banners -----
+CARDS = {
+    10: "Cain's House", 11: "Johannes's Underground Lab", 12: "Outside the Ruins", 13: "Island Church",
+    14: "Altar Room", 15: "Prodevon Church", 16: "City of Verona", 17: "Nekintar Kanel Troupe", 18: "Dahlia Beer",
+    20: "Diribel Church", 21: "Back Alley", 22: "Spectral Catacombs", 23: "Church Prison", 24: "Church of Rigor",
+    25: "Chapel", 26: "Skies over Rigor", 27: "Incest Holding Cell", 28: "Edge of Town",
+    30: "Demons' Underground Passage", 31: "Hunting Ground of Lament", 32: "Ramstein Cathedral",
+    33: "Inside the Cathedral", 34: "Leniam Plaza", 35: "Fetus Church", 36: "Inside the Church",
+    37: "Abandoned Church Facility", 38: "Former Test Facility", 39: "Tribunal Generals' Trial",
+    40: "Mephisto's Prison", 41: "Kibotos Island", 42: "God Core's Prison", 43: "Kanel Troupe Stage",
+    44: "Underground World", 45: "Elder's Mansion", 46: "Saint Helena Street", 47: "Pasca Temple",
+    48: "San Bartelmi Church", 49: "San Bartelmi Underground", 50: "God Core Control Room",
+    51: "God Core Test Facility", 52: "Kalhin Settlement", 53: "Demon Army Facility", 54: "Cypherpunk Facility",
+    55: "Cryo-Sentence Prison", 56: "Graveyard", 57: "Johannes's Laboratory", 58: "World Tree of Kibotos",
+    59: "Atop the World Tree", 60: "Greyhen Chamber", 61: "God Core Tree-Womb Device", 63: "Ruins",
+    64: "Site of the Ruins",
+}
+# BATTLE.DAT sub-file -> (English, alignment): victory conditions on the left, defeat conditions on the right
+BANNERS = {
+    4: ("Annihilate the enemy", "left"), 5: ("Defeat the target", "left"), 6: ("Protect Luca", "left"),
+    7: ("Defeat Aragi", "left"), 8: ("Defeat Bale", "left"), 9: ("Withstand the onslaught", "left"),
+    10: ("Attack the strange demon", "left"), 11: ("Destroy the core", "left"),
+    20: ("All allies defeated", "right"), 21: ("Main unit incapacitated", "right"),
+}
+
+
+def _fill(blob: bytes, rows: list, left: int, top: int) -> bytes:
+    """The whole picture cleared, then `rows` drawn at (left, top)."""
+    width, height = gfx.header(blob)[1], gfx.height(blob)
+    if left < 0 or top < 0 or left + len(rows[0]) > width or top + len(rows) > height:
+        raise ValueError("text does not fit its picture")
+    blob = gfx.paste(blob, 0, 0, [[0] * width] * height)
+    return gfx.paste(blob, left, top, rows)
+
+
+def card(blob: bytes, text: str) -> bytes:
+    """A place-name card: white letters with a dark rim, centred, in the largest size that fits."""
+    width, height = gfx.header(blob)[1], gfx.height(blob)
+    for name, size in [("tahomabd.ttf", n) for n in (15, 14, 13, 12, 11)] + [("tahoma.ttf", 11), ("tahoma.ttf", 10)]:
+        font = ImageFont.truetype(str(FONTS / name), size)
+        im = Image.new("L", (400, height))
+        ImageDraw.Draw(im).text((2, height // 2 + size // 2 - 2), text, 255, font=font, anchor="ls")
+        box = im.getbbox()
+        if box[2] + 2 <= width:
+            break
+    else:
+        raise ValueError(f"{text!r} is too long for a place-name card")
+    w = box[2] + 2
+    cov = [[im.getpixel((x, y)) for x in range(w)] for y in range(height)]
+    rows = [[0] * w for _ in range(height)]
+    for y in range(height):
+        for x in range(w):
+            if cov[y][x] >= 48:
+                rows[y][x] = 3 + round(cov[y][x] * 12 / 255)
+            elif any(cov[j][i] >= 96 for j in range(max(y - 1, 0), min(y + 2, height))
+                     for i in range(max(x - 1, 0), min(x + 2, w))):
+                rows[y][x] = 1
+    return _fill(blob, rows, (width - w) // 2, 0)
+
+
+def banner(blob: bytes, text: str, align: str) -> bytes:
+    """A battle objective: glowing italic serif letters, as large as the Japanese where they fit."""
+    from PIL import ImageChops, ImageFilter
+    width, height = gfx.header(blob)[1], gfx.height(blob)
+    for size in range(26 if align == "left" else 18, 11, -1):
+        font = ImageFont.truetype(str(FONTS / ("timesbi.ttf" if size >= 20 else "timesi.ttf")), size)   # bold clogs when small
+        im = Image.new("L", (500, height))
+        ImageDraw.Draw(im).text((6, height // 2 + size // 3), text, 255, font=font, anchor="ls")
+        if im.getbbox()[2] + 6 <= width:
+            break
+    else:
+        raise ValueError(f"{text!r} is too long for an objective banner")
+    halo = im.filter(ImageFilter.GaussianBlur(1.6)).point(lambda v: min(110, v))     # a dim halo: letter holes stay open
+    im = ImageChops.lighter(im, halo).crop((0, 0, im.getbbox()[2] + 6, height))
+    data = [round(v / 17) for v in im.getdata()]
+    rows = [data[y * im.width:(y + 1) * im.width] for y in range(height)]
+    return _fill(blob, rows, 0 if align == "left" else width - im.width, 0)
+
+
+BATTLE_UI = 0x2C                                   # the battle UI sheet inside BATTLE.DAT sub-file 1
+BATTLE_LABELS = [((0, 193, 40, 206), "THINK")]     # shown while the enemy decides its move

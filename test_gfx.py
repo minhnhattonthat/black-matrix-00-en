@@ -61,6 +61,17 @@ def test_circus_pictures_keep_every_file_the_same_size():
         assert len(out) == len(subs[i]) and out != subs[i], i
 
 
+def test_cards_and_banners_keep_their_size():
+    event = dat.unpack((build.ORIG / "EVENT.DAT").read_bytes())
+    battle = dat.unpack((build.ORIG / "BATTLE.DAT").read_bytes())
+    for i, text in labels.CARDS.items():
+        out = labels.card(event[i], text)
+        assert len(out) == len(event[i]) and out != event[i], i
+    for i, (text, align) in labels.BANNERS.items():
+        out = labels.banner(battle[i], text, align)
+        assert len(out) == len(battle[i]) and out != battle[i], i
+
+
 if __name__ == "__main__":
     test_sheet_round_trips_through_an_image_and_paste_touches_one_pixel()
     test_redraw_stays_inside_its_rectangle()
@@ -68,4 +79,5 @@ if __name__ == "__main__":
     test_disc_screen_keeps_size_and_leaves_other_frames_alone()
     test_instruction_page_keeps_sizes_and_only_moves_its_own_frame()
     test_circus_pictures_keep_every_file_the_same_size()
+    test_cards_and_banners_keep_their_size()
     print("ok")

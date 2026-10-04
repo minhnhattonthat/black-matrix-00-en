@@ -111,7 +111,19 @@ def patch_system():
     names.update({e["jp"]: e["en"] for e in _system_json("battle") if e["en"]})
     battle = dat.unpack((ORIG / "BATTLE.DAT").read_bytes())
     battle = [tables.insert_battle(b, names) if b[:4] == tables.BATTLE_MAGIC else b for b in battle]
+    for i, (text, align) in labels.BANNERS.items():            # objective banners; "thinking" on the battle UI sheet
+        battle[i] = labels.banner(battle[i], text, align)
+    ui = labels.BATTLE_UI
+    battle[1] = battle[1][:ui] + labels.hud(battle[1][ui:], (set(), set()), labels.BATTLE_LABELS)
     (EXTRACTED / "BATTLE.DAT").write_bytes(dat.pack(battle))
+
+
+def patch_event():
+    """Place-name cards: each is one small picture in EVENT.DAT."""
+    event = dat.unpack((ORIG / "EVENT.DAT").read_bytes())
+    for i, text in labels.CARDS.items():
+        event[i] = labels.card(event[i], text)
+    (EXTRACTED / "EVENT.DAT").write_bytes(dat.pack(event))
 
 
 def patch_town():
@@ -162,6 +174,7 @@ def patch_movies(orig: Path = ORIG / "MOVIE", out: Path = EXTRACTED / "MOVIE"):
 def patch():
     patch_system()
     patch_town()
+    patch_event()
     patch_movies()
     files = dat.unpack((ORIG / "SCENARIO.DAT").read_bytes())
     for path in sorted((SCRIPT / "SCENARIO").glob("*.json")):
