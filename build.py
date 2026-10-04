@@ -128,6 +128,9 @@ def patch_event():
     (EXTRACTED / "EVENT.DAT").write_bytes(dat.pack(event))
 
 
+TEXT_BUFFER = 0x7000          # room the game gives a town file's text container; more gets overwritten
+
+
 def patch_town():
     nb = json.loads((SCRIPT / "TOWN" / "notebook.json").read_text(encoding="utf-8"))
     ui = json.loads((SCRIPT / "TOWN" / "town.json").read_text(encoding="utf-8"))
@@ -157,6 +160,11 @@ def patch_town():
                     plates[key] = labels.nameplates(*key)
                 ch[7], ch[6] = plates[key]
             subs[i] = town.insert(town.rebuild(tree), nb, ui)
+            for c in town.parse(subs[i])[0]:           # the game loads the text container into a fixed buffer
+                if not isinstance(c, bytes) and any(isinstance(x, bytes) and town.text_entries(x) for x in c[0]):
+                    if len(town.rebuild(c)) > TEXT_BUFFER:
+                        raise ValueError(f"TOWN sub {i}: text is {len(town.rebuild(c)) - TEXT_BUFFER} bytes "
+                                         f"over the game's {TEXT_BUFFER:#x}-byte buffer; shorten the Notebook")
             grown = max(grown, len(subs[i]) - len(b))
     print(f"TOWN: largest sub-file growth {grown} bytes")
     (EXTRACTED / "TOWN.DAT").write_bytes(dat.pack(subs))
