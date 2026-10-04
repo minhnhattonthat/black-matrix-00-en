@@ -606,6 +606,7 @@ CARDS = {
     59: "Atop the World Tree", 60: "Greyhen Chamber", 61: "God Core Tree-Womb Device", 63: "Ruins",
     64: "Site of the Ruins",
 }
+CARDS[19], CARDS[29] = CARDS[16], CARDS[18]      # the same pictures stored twice
 # BATTLE.DAT sub-file -> (English, alignment): victory conditions on the left, defeat conditions on the right
 BANNERS = {
     4: ("Annihilate the enemy", "left"), 5: ("Defeat the target", "left"), 6: ("Protect Luca", "left"),
