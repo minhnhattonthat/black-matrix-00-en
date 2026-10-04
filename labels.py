@@ -303,35 +303,85 @@ def disc_screen(sub: bytes) -> bytes:
 # English lines are drawn, cut into as many strips as the Japanese line had, packed into the space the
 # Japanese strips occupied, and the frame's x positions are rewritten.
 #   lines: (rect indices of the line left to right, English, "centre" | "left" | "keep")
-#   title / bubble: redrawn inside their own rectangle
-#   fixed: (rect, English, first column) for a strip that keeps its place: text replaced from that column on
+#   title: redrawn inside its own rectangle
+#   blocks: (rect, first column to clear, lines) for text that keeps its rectangle - bubbles, multi-line blocks
+START = "Press START to begin!!"
 PANELS = {
-    36: dict(table=26, sheet=8, frame=4, title=(4, "Flyers"), bubble=(8, ["Beware of", "these people~!!"]), lines=[
+    36: dict(table=26, sheet=8, frames=(4,), title=(4, "Flyers"), lines=[
         ((9, 10), "Hand out lots of flyers to passers-by", "centre"),
         ((11, 12), "and promote our Nekintar Kanel Troupe~", "centre"),
         ((13, 14), "But some people take one and toss it,", "centre"),
         ((15,), "so watch out for them~", "centre"),
         ((16,), "Move Cain", "left"),
         ((17, 18), "Hold to hand out, release to stop", "left"),
-        ((19,), "Press START to begin!!", "centre"),
-    ]),
-    37: dict(table=22, sheet=8, frame=4, title=(4, "Knife Throw"), bubble=(12, ["Press twice", "for this one!"]),
-             fixed=[(21, "target", 33)], lines=[
+        ((19,), START, "centre"),
+    ], blocks=[(8, 0, [("Beware of", 2, "centre"), ("these people~!!", 15, "centre")])]),
+    37: dict(table=22, sheet=8, frames=(4,), title=(4, "Knife Throw"), lines=[
         ((15, 16), "Hit the targets that appear within the", "centre"),
         ((17,), "time limit with your knives~", "centre"),
         ((18,), "But no peeking at them!", "centre"),
         ((19, 20), "Why? ...Because this is a circus!!", "centre"),
-        ((22,), "Press START to begin!!", "centre"),
+        ((22,), START, "centre"),
+    ], blocks=[(21, 33, [("target", 0, 33)]),
+               (12, 0, [("Press twice", 2, "centre"), ("for this one!", 15, "centre")])]),
+    38: dict(table=22, sheet=8, frames=(4, 5), title=(4, "Juggling"), lines=[
+        ((16, 17), "Catch the balls I throw!!", "centre"),
+        ((18,), "I throw one every so often,", "centre"),
+        ((19,), "so press the button shown", "centre"),
+        ((20, 21), "mid-screen in time to catch it!!", "centre"),
+        ((22,), START, "centre"),
+    ], blocks=[(28, 15, [("Red", -3, "right:47"), ("Blue", 11, "right:47"), ("Pink", 25, "right:47"), ("Green", 39, "right:47")]),
+               (30, 0, [("ball", 0, 4)]),
+               (29, 17, [("Catchphrase", 0, 19)]),
+               (12, 0, [("mark:", -2, 27), ("press any", 11, "centre"), ("button!", 25, "centre")])]),
+    39: dict(table=22, sheet=8, frames=(3, 4, 6), title=(4, "Tightrope"), lines=[
+        ((5, 6), "Cross the rope, deflecting the balls that", "centre"),
+        ((7, 8), "fly at you, and pop balloons on the way~", "centre"),
+        ((9, 10), "Iron balls come flying too, so watch out~", "centre"),
+        ((11, 12), START, "centre"),
+        ((13, 14), "Auto-move", "left"),
+        ((18,), "… Back", "left"),
+        ((20,), "… Balance", "left"),
+        ((22,), "… Jump", "left"),
+        ((24,), "… Hit", "left"),
+        ((36,), "Beware this", "left"),
+        ((37,), "balloon!", "left"),
+    ], blocks=[(32, 0, [("After popping a", -2, "centre"), ("balloon, don't forget", 12, "centre"), ("to strike a pose!", 24, "centre")])]),
+    40: dict(table=22, sheet=8, frames=(), title=(4, "Beast Tamer"), lines=[], blocks=[
+        (5, 0, [("Signal the lion to dodge", -3, "centre"), ("the obstacles nicely~", 8, "centre")]),
+        (6, 0, [("But there's a short delay before the lion", 2, "centre"), ("responds to a signal, so be careful~", 15, "centre")]),
+        (8, 13, [("Left/Right changes the lion's speed", -2, 14), ("Lion jumps; hold for a high jump", 12, 14),
+                 ("Slide (only when in a good mood)", 26, 14), (START, 40, 46)]),
+        (16, 0, [("Meat restores", 0, "centre")]),
+        (17, 0, [("its mood~", 0, "centre")]),
     ]),
+    41: dict(table=22, sheet=8, frames=(3,), title=(4, "Trapeze"), lines=[
+        ((5, 6), "You're not ready to perform yet,", "centre"),
+        ((7, 8), "so learn backstage on the spotlight~", "centre"),
+        ((9, 10), "Just lighting us is easy, right!?", "centre"),
+        ((12,), "Move the spotlight", "left"),
+        ((13,), START, "centre"),
+    ], blocks=[(17, 0, [("Light Fly", 2, "centre"), ("up nicely!", 15, "centre")])]),
+    42: dict(table=22, sheet=8, frames=(3,), title=(4, "Trapeze"), lines=[
+        ((5, 6), "So we finally share the same stage!", "centre"),
+        ((7, 8), "Three stunts! Time it right and", "centre"),
+        ((9, 10), "leap over to my trapeze quickly~", "centre"),
+        ((11,), "Or blood rushes to my head", "centre"),
+        ((12,), "and I can't perform!", "centre"),
+        ((15,), "Adjust swing speed", "left"),
+        ((18,), START, "centre"),
+    ], blocks=[(13, 26, [("Cain jumps", 0, 28)]),
+               (21, 0, [("Don't keep", 2, "centre"), ("me waiting~", 15, "centre")])]),
 }
 PANEL_CENTRE = 160
+TITLE = dict(fonts=["arialbd.ttf", "ARIALNB.TTF"], outline=1, under=None, drop=False, pick="brightest")
 
 
-def _strip(text: str, lead: int = 0) -> list[list[int]]:
+def _strip(text: str) -> list[list[int]]:
     """Text as a 16-row strip of indices: anti-aliased light letters on a dark (index 1) outline."""
     font = ImageFont.truetype(str(FONTS / "tahoma.ttf"), 11)
     im = Image.new("L", (400, PLATE_H))
-    ImageDraw.Draw(im).text((1 + lead, 12), text, 255, font=font, anchor="ls")
+    ImageDraw.Draw(im).text((1, 12), text, 255, font=font, anchor="ls")
     w = im.getbbox()[2] + 1
     cov = [[im.getpixel((x, y)) for x in range(w)] for y in range(PLATE_H)]
     rows = [[0] * w for _ in range(PLATE_H)]
@@ -345,75 +395,74 @@ def _strip(text: str, lead: int = 0) -> list[list[int]]:
     return rows
 
 
+def _block(sheet: bytes, rect: tuple, clear_from: int, texts: list) -> bytes:
+    """Lines drawn inside one rectangle: (text, top row, "centre" | "right:COL" | left column). Pixels of
+    the rectangle left of `clear_from` are kept (a leading "..." that the English reuses)."""
+    u, v, w, h = rect
+    area = [[gfx.get(sheet, u + x, v + y) if x < clear_from else 0 for x in range(w)] for y in range(h)]
+    for text, top, align in texts:
+        rows = _strip(text)
+        tw = len(rows[0])
+        left = (w - tw) // 2 if align == "centre" else int(align[6:]) - tw if isinstance(align, str) else align
+        if left < clear_from or left + tw > w:
+            raise ValueError(f"{text!r} ({tw} px) does not fit its {w}-pixel block")
+        for y, row in enumerate(rows):
+            for x, value in enumerate(row):
+                if value and 0 <= top + y < h:
+                    area[top + y][left + x] = value
+    return gfx.paste(sheet, u, v, area)
+
+
 def panel(sheet: bytes, table: bytes, spec: dict) -> tuple[bytes, bytes]:
     """A mini-game's instruction sheet and sprite table in English."""
     import struct
     o2, o3 = struct.unpack_from("<II", table, 8)
     rect = lambda i: tuple(table[o3 + 4 + 4 * i:o3 + 8 + 4 * i])
     out = bytearray(table)
-    width = gfx.header(sheet)[1]
     lines = [(ids, _strip(text), align) for ids, text, align in spec["lines"]]
-    free = {}                                                # row -> merged [start, end) runs the old strips used
-    for ids, _, _ in lines:
-        for u, v, w, h in map(rect, ids):
-            sheet = gfx.paste(sheet, u, v, [[0] * w] * h)
-            free.setdefault(v, []).append([u, u + w])
-    runs = []
-    for v, row in free.items():
-        for a, b in sorted(row):
-            if runs and runs[-1][0] == v and a <= runs[-1][2]:
-                runs[-1][2] = max(runs[-1][2], b)
-            else:
-                runs.append([v, a, b])
+    runs = []                                                # [row, start, end): space the old strips used
+    for u, v, w, h in sorted((rect(i) for ids, _, _ in lines for i in ids), key=lambda r: (r[1], r[0])):
+        sheet = gfx.paste(sheet, u, v, [[0] * w] * h)
+        if runs and runs[-1][0] == v and u <= runs[-1][2]:
+            runs[-1][2] = max(runs[-1][2], u + w)
+        else:
+            runs.append([v, u, u + w])
     room = lambda run: run[2] - run[1]
     placed = {}                                              # rect index -> (x offset in its line, strip width)
     for ids, rows, _ in sorted(lines, key=lambda t: (len(t[0]) > 1, -len(t[1][0]))):   # uncuttable lines first
         x, total = 0, len(rows[0])                           # a line may be cut anywhere: its strips meet on screen
         for k, i in enumerate(ids):
-            left, last = total - x, k == len(ids) - 1
+            left = total - x
             if not left:
                 break
             fits = [run for run in runs if room(run) >= left]
             run = min(fits, key=room) if fits else max(runs, key=room)
             w = min(left, room(run))
-            if w == 0 or (last and w < left):
+            if w == 0 or (k == len(ids) - 1 and w < left):
                 raise ValueError(f"instruction page: no room for {left} more pixels (free: {sorted(map(room, runs))})")
             sheet = gfx.paste(sheet, run[1], run[0], [r[x:x + w] for r in rows])
             out[o3 + 4 + 4 * i:o3 + 8 + 4 * i] = bytes([run[1], run[0], w, PLATE_H])
             placed[i] = (x, w)
             run[1] += w
             x += w
-    base = o2 + struct.unpack_from("<H", table, o2 + 4 + 2 * spec["frame"])[0]
-    parts = {table[p + 1]: p for p in range(base + 4, base + 4 + 8 * struct.unpack_from("<I", table, base)[0], 8)}
-    for ids, pieces, align in lines:
-        used = [i for i in ids if i in placed]
-        total = max(placed[i][0] + placed[i][1] for i in used)
-        start = {"centre": PANEL_CENTRE - total // 2, "left": table[parts[ids[0]] + 2]}.get(align)
+    parts = {}                                               # rect index -> where its sprites sit in the frames
+    for f in spec["frames"]:
+        base = o2 + struct.unpack_from("<H", table, o2 + 4 + 2 * f)[0]
+        for p in range(base + 4, base + 4 + 8 * struct.unpack_from("<I", table, base)[0], 8):
+            parts.setdefault(table[p + 1], []).append(p)
+    for ids, rows, align in lines:
+        start = PANEL_CENTRE - len(rows[0]) // 2 if align == "centre" else table[parts[ids[0]][0] + 2]
         for i in ids:
             if i not in placed:                              # the English needed fewer strips: park the spare one
-                out[o3 + 4 + 4 * i:o3 + 8 + 4 * i] = bytes([0, 248, 8, 8])
-            elif start is not None:
-                if not 0 <= start + placed[i][0] <= 255:
-                    raise ValueError("instruction page: line starts off screen")
-                out[parts[i] + 2] = start + placed[i][0]
-    for key, style in (("title", dict(fonts=["arialbd.ttf", "ARIALNB.TTF"], outline=1, under=None, drop=False, pick="brightest")),):
-        i, text = spec[key]
-        u, v, w, h = rect(i)
-        sheet = redraw(sheet, (u, v, u + w, v + h), text, style, "left")
-    for i, text, col in spec.get("fixed", ()):
-        u, v, w, h = rect(i)
-        rows = _strip(text)
-        if col + len(rows[0]) > w:
-            raise ValueError(f"{text!r} is wider than its strip")
-        sheet = gfx.paste(sheet, u + col, v, [[0] * (w - col)] * h)
-        sheet = gfx.paste(sheet, u + col, v, rows)
-    i, texts = spec["bubble"]
+                out[o3 + 4 + 4 * i:o3 + 8 + 4 * i] = bytes(rect(0))        # rect 0 is every table's blank
+                continue
+            if not 0 <= start + placed[i][0] <= 255:
+                raise ValueError("instruction page: line starts off screen")
+            for p in parts[i]:
+                out[p + 2] = start + placed[i][0]
+    i, text = spec["title"]
     u, v, w, h = rect(i)
-    sheet = gfx.paste(sheet, u, v, [[0] * w] * h)
-    for n, text in enumerate(texts):
-        rows = _strip(text)
-        if len(rows[0]) > w:
-            raise ValueError(f"bubble line {text!r} is wider than the bubble")
-        top = v + (h - 13 * len(texts)) // 2 + 13 * n - 2
-        sheet = gfx.paste(sheet, u + (w - len(rows[0])) // 2, top, [r for r in rows[2:15]])
+    sheet = redraw(sheet, (u, v, u + w, v + h), text, TITLE, "left")
+    for i, clear_from, texts in spec["blocks"]:
+        sheet = _block(sheet, rect(i), clear_from, texts)
     return sheet, bytes(out)
