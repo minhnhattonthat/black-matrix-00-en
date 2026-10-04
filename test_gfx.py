@@ -32,8 +32,16 @@ def test_nameplates_keep_sizes_and_stay_in_the_name_rows():
         assert u + rw <= 256
 
 
+def test_disc_screen_keeps_size_and_leaves_other_frames_alone():
+    sub = dat.unpack((build.ORIG / "SYSTEM.DAT").read_bytes())[100]
+    out = labels.disc_screen(sub)
+    assert len(out) == len(sub) and out != sub
+    assert out[labels.DISC_TABLE + 0x504:labels.DISC_SHEET] == sub[labels.DISC_TABLE + 0x504:labels.DISC_SHEET]   # background
+
+
 if __name__ == "__main__":
     test_sheet_round_trips_through_an_image_and_paste_touches_one_pixel()
     test_redraw_stays_inside_its_rectangle()
     test_nameplates_keep_sizes_and_stay_in_the_name_rows()
+    test_disc_screen_keeps_size_and_leaves_other_frames_alone()
     print("ok")

@@ -231,3 +231,68 @@ def nameplates(sheet: bytes, table: bytes) -> tuple[bytes, bytes]:
             if rect in grown and x >= 0x80:                        # plate right of the NPC: keep its far edge where
                 out[p + 2] = max(x - grown[rect], 0)               # the Japanese one ended, so it cannot leave the screen
     return sheet, bytes(out)
+
+
+# ---- disc-change screen (SYSTEM.DAT sub-file 100) ----------------------------------------------------
+# Glowing serif words on a sheet at DISC_SHEET, composed by the sprite table at DISC_TABLE. English puts
+# the verb first ("Insert DISC 1"), so the words are redrawn and the five message frames laid out again.
+DISC_TABLE, DISC_SHEET = 0x14, 0xA3E8
+DISC_WORDS = {5: "Insert", 7: "Checking", 8: "Wrong", 4: ""}        # rect index -> word ("" = the particle, blanked)
+DISC_CENTRE, DISC_GAP = 160, -6       # rectangles carry their own halo padding, so they overlap a little
+
+
+def _glow(text: str) -> list[list[int]]:
+    """A word as 32 rows of indices 0-15: serif letters sized and placed like the sheet's own "DISC" (capitals on rows 8-22) with a soft halo."""
+    from PIL import ImageChops, ImageFilter
+    font = ImageFont.truetype(str(FONTS / "times.ttf"), 23)
+    im = Image.new("L", (260, 32))
+    ImageDraw.Draw(im).text((5, 23), text, 255, font=font, anchor="ls")
+    halo = im.filter(ImageFilter.GaussianBlur(2)).point(lambda v: min(255, v * 2))
+    im = ImageChops.lighter(im, halo).crop((0, 0, im.getbbox()[2] + 5, 32))
+    data = [round(v / 17) for v in im.getdata()]
+    return [data[y * im.width:(y + 1) * im.width] for y in range(32)]
+
+
+def disc_screen(sub: bytes) -> bytes:
+    import struct
+    sheet = sub[DISC_SHEET:]
+    o2, o3 = (DISC_TABLE + v for v in struct.unpack_from("<II", sub, DISC_TABLE + 8))
+    out = bytearray(sub)
+    rect = lambda i: out[o3 + 4 + 4 * i:o3 + 8 + 4 * i]
+    for i, word in DISC_WORDS.items():
+        u, v, w, h = rect(i)
+        sheet = gfx.paste(sheet, u, v, [[0] * w] * h)
+        if word:
+            rows = _glow(word)
+            if len(rows[0]) > 144:
+                raise ValueError(f"{word!r} is too wide for the disc screen sheet")
+            sheet = gfx.paste(sheet, u, v, rows)
+            out[o3 + 4 + 4 * i:o3 + 8 + 4 * i] = bytes([u, v, len(rows[0]), 32])
+    out[DISC_SHEET:] = sheet
+    width = lambda i: rect(i)[2]
+
+    def line(y, *rects):
+        """x, y for rects placed left to right as one centred line; a digit hugs its DISC as it did."""
+        steps = [65 if a in (0, 2) else width(a) + DISC_GAP for a in rects[:-1]]
+        x = DISC_CENTRE - (sum(steps) + width(rects[-1])) // 2
+        placed = {}
+        for r, step in zip(rects, steps + [0]):
+            placed[r] = (x, y)
+            x += step
+        return placed
+
+    frames = struct.unpack_from(f"<{struct.unpack_from('<I', sub, o2)[0]}H", sub, o2 + 4)
+    layouts = {25: line(91, 5) | line(120, 0, 1), 26: line(91, 5) | line(120, 2, 3),
+               27: line(94, 7) | line(120, 6),
+               28: line(91, 8, 6) | line(118, 5, 0, 1), 29: line(91, 8, 6) | line(118, 5, 2, 3)}
+    for f, placed in layouts.items():
+        base = o2 + frames[f]
+        seen = set()
+        for p in range(base + 4, base + 4 + 8 * struct.unpack_from("<I", sub, base)[0], 8):
+            r = sub[p + 1]
+            if r in placed and (f, r) not in seen:      # frames 28/29 use DISC twice: rect 6 above, 0/2 below
+                out[p + 2], out[p + 3] = placed[r]
+                seen.add((f, r))
+            elif r != 4:
+                raise ValueError(f"disc screen frame {f}: unexpected sprite {r}")
+    return bytes(out)

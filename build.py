@@ -102,6 +102,7 @@ def patch_system():
     for name, (n, off) in labels.SYSTEM_SHEETS.items():        # picture labels, see labels.py
         sheet = gfx.from_image(system[n][off:], Image.open(SCRIPT / "GFX" / f"{name}.png"))
         system[n] = system[n][:off] + sheet
+    system[100] = labels.disc_screen(system[100])
     (EXTRACTED / "SYSTEM.DAT").write_bytes(dat.pack(system))
     # battle names: their own list first, then the unit table (SYSTEM table 2) fills any gap
     unit_lo, unit_hi = tables._directory(system[2])[2]
