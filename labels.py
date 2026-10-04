@@ -52,9 +52,17 @@ SAVE_LABELS = [
     ((17, 64, 48, 79), "DEL", SAVE, "left"),
     ((17, 80, 48, 95), "BACK", SAVE, "left"),
 ]
+PROMPT = dict(fonts=["arialbd.ttf", "ARIALNB.TTF"], outline=4, under=None, drop=False, pick="brightest")
+TOWN_PROMPT = [
+    ((4, 112, 168, 127), "Choose a command", PROMPT, "left"),
+    ((0, 128, 88, 152), "FREE TIME", PROMPT, "centre"),
+]
+# sheets in every town file of TOWN.DAT: name -> entry of the file's first container
+TOWN_SHEETS = {"town_menu": 1, "town_prompt": 3}
 # sheets inside SYSTEM.DAT: name -> (sub-file, offset of the image blob in it)
 SYSTEM_SHEETS = {"system_ui": (1, 0), "save_labels": (80, 0x4DC)}
-WORK = {"system_ui": (SYSTEM_UI, 15), "town_menu": (TOWN_MENU, 0), "save_labels": (SAVE_LABELS, 0)}   # labels, preview palette
+WORK = {"system_ui": (SYSTEM_UI, 15), "town_menu": (TOWN_MENU, 0), "save_labels": (SAVE_LABELS, 0),
+        "town_prompt": (TOWN_PROMPT, 1)}   # labels, preview palette
 
 
 def mask(text: str, font_file: str, height: int) -> list[list[int]]:
@@ -118,8 +126,8 @@ def sheets() -> dict[str, bytes]:
     """The pristine sheets that carry Japanese labels."""
     orig = ROOT / "work" / "orig"
     system = dat.unpack((orig / "SYSTEM.DAT").read_bytes())
-    menu = town.parse(dat.unpack((orig / "TOWN.DAT").read_bytes())[4])[0][0][0][1]
-    return {"town_menu": menu} | {name: system[n][off:] for name, (n, off) in SYSTEM_SHEETS.items()}
+    first = town.parse(dat.unpack((orig / "TOWN.DAT").read_bytes())[4])[0][0][0]
+    return {name: first[i] for name, i in TOWN_SHEETS.items()} | {name: system[n][off:] for name, (n, off) in SYSTEM_SHEETS.items()}
 
 
 if __name__ == "__main__":

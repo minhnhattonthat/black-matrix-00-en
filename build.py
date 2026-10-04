@@ -117,17 +117,20 @@ def patch_town():
     nb = json.loads((SCRIPT / "TOWN" / "notebook.json").read_text(encoding="utf-8"))
     ui = json.loads((SCRIPT / "TOWN" / "town.json").read_text(encoding="utf-8"))
     subs = dat.unpack((ORIG / "TOWN.DAT").read_bytes())
-    old = town.parse(subs[4])[0][0][0][1]          # the town menu sheet: the same picture in every town file
-    new = gfx.from_image(old, Image.open(SCRIPT / "GFX" / "town_menu.png"))
+    first4 = town.parse(subs[4])[0][0][0]          # picture sheets shared by every town file, see labels.py
+    sheets = {i: (first4[i], gfx.from_image(first4[i], Image.open(SCRIPT / "GFX" / f"{name}.png")))
+              for name, i in labels.TOWN_SHEETS.items()}
     grown = 0
     plates = {}
     for i, b in enumerate(subs):
         if b and town.has_text(b):
             tree = town.parse(b)
             first = tree[0][0]                     # towns: a container whose entry 1 is the sheet; the circus has none
-            is_town = not isinstance(first, bytes) and len(first[0]) > 1 and first[0][1] == old
-            if is_town:
-                first[0][1] = new
+            is_town = not isinstance(first, bytes) and len(first[0]) > 3 and first[0][1] == sheets[1][0]
+            for j, (old, new) in sheets.items() if is_town else ():
+                if first[0][j] != old:
+                    raise ValueError(f"TOWN sub {i}: unexpected sheet {j}")
+                first[0][j] = new
             ch = tree[0]                           # entries 6 and 7: NPC name plates (sprite table, sheet)
             if len(ch) > 7 and isinstance(ch[6], bytes) and isinstance(ch[7], bytes) and is_town:
                 key = (ch[7], ch[6])
