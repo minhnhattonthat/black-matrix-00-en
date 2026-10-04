@@ -671,3 +671,54 @@ def banner(blob: bytes, text: str, align: str) -> bytes:
 
 BATTLE_UI = 0x2C                                   # the battle UI sheet inside BATTLE.DAT sub-file 1
 BATTLE_LABELS = [((0, 193, 40, 206), "THINK")]     # shown while the enemy decides its move
+
+
+# ---- speaker name plates (EVENT.DAT sub-files 190-260) ----------------------------------------------
+# Each is a packed file (lz.py) holding a container of two pictures: the bust and an 88x16 name plate.
+PLATES = {
+    190: "Cain", 191: "Abel", 192: "Matia", 193: "Johannes", 194: "Luca", 195: "Zion", 196: "Exal", 197: "Stayen",
+    198: "Kilota", 199: "Lilis", 200: "Valtoss", 201: "Syria", 202: "Bale", 203: "Cardia", 204: "Unda", 205: "Aragi",
+    206: "Whiteface", 207: "Red Mouflon", 208: "Terios", 209: "Kreis", 210: "Rubiel", 211: "Rhipsalis",
+    212: "Grisina", 214: "Nico", 215: "Father Frie", 216: "Tavern Owner", 217: "Kutta", 218: "Bran", 219: "Fly",
+    220: "Incest Girl", 221: "Rea", 223: "Cain", 224: "Syria", 225: "Dahlia", 226: "Matia", 227: "Aragi",
+    228: "Luca", 229: "Aragi", 230: "Luca", 231: "Lilis", 232: "Dana", 233: "Zero", 234: "Matia", 235: "Abel",
+    236: "Johannes", 239: "Soryu", 240: "Terga", 241: "Pasca", 242: "Eerie Demon", 243: "Mithras",
+    244: "Novice Monk", 245: "Priest Soldier", 246: "Monk Soldier", 247: "Punk Soldier", 248: "Priest",
+    249: "Resident", 250: "Resident", 251: "Resident", 252: "Angel Soldier", 253: "High Angel", 254: "Demon Soldier",
+    255: "Demon Officer", 256: "Embryon", 257: "Elder Armorer", 258: "Young Armorer", 259: "Monk Soldier",
+    260: "Echelon Soldier",
+}                                                  # 222 is "?????" and stays
+
+
+def plate(packed: bytes, text: str) -> bytes:
+    """A portrait file with its name plate redrawn: bold italic letters, light on a thick dark rim, centred."""
+    import struct
+    import lz
+    data, _ = lz.unpack(packed)
+    count = struct.unpack_from("<I", data, 4)[0]
+    off, size = (4 + 4 * v for v in struct.unpack_from("<HH", data, 12 + 4 * (count - 1)))
+    off -= 4
+    blob = data[4 + off:4 + off + size - 4]
+    width, height = gfx.header(blob)[1], gfx.height(blob)
+    for name, size_pt in [("arialbi.ttf", 13), ("arialbi.ttf", 12), ("ARIALNBI.TTF", 13), ("ARIALNBI.TTF", 12),
+                          ("ARIALNBI.TTF", 11), ("ARIALNBI.TTF", 10)]:
+        font = ImageFont.truetype(str(FONTS / name), size_pt)
+        im = Image.new("L", (300, height))
+        ImageDraw.Draw(im).text((3, 11), text, 255, font=font, anchor="ls")
+        w = im.getbbox()[2] + 3
+        if w <= width:
+            break
+    else:
+        raise ValueError(f"{text!r} is too long for a name plate")
+    cov = [[im.getpixel((x, y)) for x in range(w)] for y in range(height)]
+    rows = [[0] * w for _ in range(height)]
+    for y in range(height):
+        for x in range(w):
+            if cov[y][x] >= 56:
+                rows[y][x] = 3 + round(cov[y][x] * 12 / 255)
+            elif any(cov[j][i] >= 96 for j in range(max(y - 2, 0), min(y + 3, height))
+                     for i in range(max(x - 2, 0), min(x + 3, w)) if abs(j - y) + abs(i - x) < 4):
+                rows[y][x] = 1                    # a 2-pixel rim, corners rounded, like the Japanese plates
+    blob = _fill(blob, rows, (width - w) // 2, 0)
+    data = data[:4 + off] + blob + data[4 + off + len(blob):]
+    return lz.pack(data, packed[:3])

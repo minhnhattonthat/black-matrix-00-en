@@ -119,10 +119,12 @@ def patch_system():
 
 
 def patch_event():
-    """Place-name cards: each is one small picture in EVENT.DAT."""
+    """Place-name cards (one small picture each) and the name plates inside the packed portrait files."""
     event = dat.unpack((ORIG / "EVENT.DAT").read_bytes())
     for i, text in labels.CARDS.items():
         event[i] = labels.card(event[i], text)
+    for i, text in labels.PLATES.items():          # speaker name plates, packed with each bust
+        event[i] = labels.plate(event[i], text)
     (EXTRACTED / "EVENT.DAT").write_bytes(dat.pack(event))
 
 
