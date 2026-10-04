@@ -2,7 +2,9 @@
 import json, shutil, subprocess, sys
 from pathlib import Path
 
-import dat, exe, halfwidth, movie, pointers, script, tables, town
+from PIL import Image
+
+import dat, exe, gfx, halfwidth, movie, pointers, script, tables, town
 
 ROOT = Path(__file__).parent
 ROM = ROOT / "rom" / "Black-Matrix 00 (Japan) (Disc 1).bin"
@@ -86,6 +88,7 @@ def patch_system():
     menus = _system_json("menus")                  # equip (7), shop (8), level-up (9) overlays; ids are SYSTEM/<sub>/<offset>
     for n in (7, 8, 9):
         system[n] = tables.insert_overlay(system[n], [e for e in menus if e["id"].split("/")[1] == str(n)])
+    system[1] = gfx.from_image(system[1], Image.open(SCRIPT / "GFX" / "system_ui.png"))   # picture labels, see labels.py
     (EXTRACTED / "SYSTEM.DAT").write_bytes(dat.pack(system))
     # battle names: their own list first, then the unit table (SYSTEM table 2) fills any gap
     unit_lo, unit_hi = tables._directory(system[2])[2]
@@ -101,10 +104,16 @@ def patch_town():
     nb = json.loads((SCRIPT / "TOWN" / "notebook.json").read_text(encoding="utf-8"))
     ui = json.loads((SCRIPT / "TOWN" / "town.json").read_text(encoding="utf-8"))
     subs = dat.unpack((ORIG / "TOWN.DAT").read_bytes())
+    old = town.parse(subs[4])[0][0][0][1]          # the town menu sheet: the same picture in every town file
+    new = gfx.from_image(old, Image.open(SCRIPT / "GFX" / "town_menu.png"))
     grown = 0
     for i, b in enumerate(subs):
         if b and town.has_text(b):
-            subs[i] = town.insert(b, nb, ui)
+            tree = town.parse(b)
+            first = tree[0][0]                     # towns: a container whose entry 1 is the sheet; the circus has none
+            if not isinstance(first, bytes) and len(first[0]) > 1 and first[0][1] == old:
+                first[0][1] = new
+            subs[i] = town.insert(town.rebuild(tree), nb, ui)
             grown = max(grown, len(subs[i]) - len(b))
     print(f"TOWN: largest sub-file growth {grown} bytes")
     (EXTRACTED / "TOWN.DAT").write_bytes(dat.pack(subs))
