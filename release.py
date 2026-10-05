@@ -1,5 +1,5 @@
 """Make the release files in dist/: one xdelta patch per disc (original image -> English image), each
-checked by applying it, plus cue sheets and the player's readme, zipped. Needs xdelta3 on PATH and a
+checked by applying it, plus the player's readme, zipped. Needs xdelta3 on PATH and a
 finished `python build.py`. No game data goes into dist/ except the differences inside the patches."""
 import hashlib
 import shutil
@@ -37,9 +37,7 @@ def main():
         if sha1(check) != sha1(built):
             sys.exit(f"disc {n}: the patch does not reproduce the built image")
         check.unlink()
-        cue = DIST / f"Black-Matrix 00 (English) (Disc {n}).cue"
-        cue.write_text(f'FILE "{cue.stem}.bin" BINARY\n  TRACK 01 MODE2/2352\n    INDEX 01 00:00:00\n')
-        files += [patch, cue]
+        files.append(patch)
         print(f"disc {n}: original sha1 {sha1(rom)}  patch {patch.stat().st_size / 1e6:.1f} MB")
     out = DIST / f"bm00-en-v{VERSION}.zip"
     with zipfile.ZipFile(out, "w", zipfile.ZIP_STORED) as z:       # the patches are already compressed

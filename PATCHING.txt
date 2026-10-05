@@ -46,9 +46,10 @@ With xdelta3:
    xdelta3 -d -s "Disc 1.bin" bm00-en-v00.9-disc1.xdelta "Black-Matrix 00 (English) (Disc 1).bin"
    xdelta3 -d -s "Disc 2.bin" bm00-en-v00.9-disc2.xdelta "Black-Matrix 00 (English) (Disc 2).bin"
 
-Keep the two .cue files from this archive next to the patched .bin
-files (they expect exactly the output names above) and open the .cue
-in your emulator.
+The output name is up to you. Open the patched .bin in your emulator
+(each disc is a single data track, so no .cue file is needed; if your
+setup wants one, copy your original .cue and change the file name in
+it).
 
 
 PLAYING

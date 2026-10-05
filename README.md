@@ -21,8 +21,8 @@ mini-games. The game was never released outside Japan.
 
 ## Download and patch
 
-Get `bm00-en-v00.9.zip` from the [Releases](../../releases) page. It holds one xdelta patch per disc, two cue
-sheets and `PATCHING.txt`.
+Get `bm00-en-v00.9.zip` from the [Releases](../../releases) page. It holds one xdelta patch per disc and
+`PATCHING.txt`.
 
 The patch contains no game. You need your own images of both discs, identical to these:
 
@@ -39,8 +39,8 @@ xdelta3 -d -s "Disc 1.bin" bm00-en-v00.9-disc1.xdelta "Black-Matrix 00 (English)
 xdelta3 -d -s "Disc 2.bin" bm00-en-v00.9-disc2.xdelta "Black-Matrix 00 (English) (Disc 2).bin"
 ```
 
-Save the output under exactly those names, keep the two `.cue` files from the zip beside them, and open the
-`.cue` in your emulator. Full step-by-step instructions are in [PATCHING.txt](PATCHING.txt).
+Name the output anything you like and open the patched `.bin` in your emulator. Full step-by-step instructions
+are in [PATCHING.txt](PATCHING.txt).
 
 Notes for playing:
 
@@ -104,7 +104,7 @@ Needed:
 ```
 python build.py extract     # once: unpack both discs into work/
 python build.py             # build/bm00-en.bin + build/bm00-en-disc2.bin
-python release.py           # dist/: xdelta patches, cue sheets, zip (each patch is verified)
+python release.py           # dist/: xdelta patches and their zip (each patch is verified)
 ```
 
 Close the emulator before building: the image cannot be rewritten while it is open.
