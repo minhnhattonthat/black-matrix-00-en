@@ -7,12 +7,12 @@ Skill: translate-retro-game (H:/translation/.claude/skills/translate-retro-game/
 - Build:    `python -X utf8 build.py` -> build/bm00-en.bin/.cue + build/bm00-en-disc2.bin/.cue
 - Check:    `python -X utf8 check.py` (~50 s: every test except test_build + tl.check lint of script/**/*.json; the pre-commit hook runs this)
 - Identity: `python -X utf8 test_build.py` (slow; overwrites build/ and work/extracted with the original-disc rebuild; run before a final build, then rebuild)
-- Smoke:    no headless PS1 harness; boot the build in DuckStation (E:/DuckStation) from a cold boot before handing it over.
+- Smoke:    `python -X utf8 H:/translation/.claude/skills/translate-retro-game/scripts/emu.py build/bm00-en.cue --bios E:/DuckStation/bios/SCPH-5500.bin --out work/qa/smoke --route-str "1500 -;8 start;600 -" --smoke` (PCSX-Redux headless, real speed ~40 s; Start skips the intro FMV to the title)
 - Release:  `python -X utf8 release.py` -> dist/ xdelta per disc (re-applied and SHA-checked) + zip with PATCHING.txt. VERSION in release.py. Never publish without the user.
 - Translate: `python -X utf8 tl.py show|apply|check NNN [FILE]` (answer files in work/tl/)
 
 ## Paths
-- Discs: `rom/Black-Matrix 00 (Japan) (Disc 1|2).bin` (gitignored). Tools (gitignored, third-party): tools/mkpsxiso-2.30-win64, armips, jpsxdec (Java 8); ffmpeg + xdelta3 on PATH.
+- Discs: `rom/Black-Matrix 00 (Japan) (Disc 1|2).bin` (gitignored). Tools (gitignored, third-party): tools/pcsx-redux, tools/mkpsxiso-2.30-win64, armips, jpsxdec (Java 8); ffmpeg + xdelta3 on PATH.
 - Text: `script/{SCENARIO,SYSTEM,TOWN,EXE,MOVIE}/*.json` (jp beside en); redrawn picture text in script/GFX/*.png. Font/asm hacks: asm/ (halfwidth.asm, savetitle.asm).
 - Glossary and rulings: glossary.md; voices: docs/style-reference.md; translator brief: docs/translator-brief*.md; formats: docs/script-format.md, docs/movie-notes.md; design specs and plans: docs/superpowers/.
 - Savestates: savestates/ (DuckStation; zstd, RAM at +0x1a62, VRAM at +0x201ddb of the unpacked state).
