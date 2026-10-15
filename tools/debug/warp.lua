@@ -22,17 +22,34 @@ local function ok(a) return (a >= 0x80000000 and a < 0x80200000) or (a >= 0x1f80
 local GP = 0x8006B224
 local DATS = { [0] = "SYSTEM", "SCENARIO", "BATTLE", "EVENT", "TOWN" }
 
-local function var50()
+local function vars()   -- u16 array (0x260 entries) and u32 array (0x20) of script variables, or nil
   local interp = u32(GP + 0x15c)[0]
   if not ok(interp) then return nil end
-  local v16 = u32(interp + 0x10)[0]
-  if ok(v16) then return u16(v16 + 0x50 * 2) end
+  local v16, v32 = u32(interp + 0x10)[0], u32(interp + 0x14)[0]
+  if ok(v16) and ok(v32) then return v16, v32 end
+end
+local function var50()
+  local v16 = vars()
+  if v16 then return u16(v16 + 0x50 * 2) end
+end
+
+-- INJECT (from tools/debug/ds2inject.py): the regions the load-game routine (0x80039A30) fills from a save, taken
+-- from a DuckStation savestate's RAM, as { {addr, hexbytes}, ... }; "V16"/"V32" stand for the variable arrays.
+local function inject()
+  local v16, v32 = vars()
+  for _, e in ipairs(INJECT) do
+    local addr = e[1] == "V16" and v16 or e[1] == "V32" and v32 or e[1]
+    if addr then
+      local p = ptr(addr)
+      for i = 1, #e[2] / 2 do p[i - 1] = tonumber(e[2]:sub(2 * i - 1, 2 * i), 16) end
+    end
+  end
 end
 
 if SCENE then u32(0x80012328)[0] = 0x24050000 + SCENE end
 
 local jp = Support.File.open(OUT .. "jp.txt", "TRUNCATE")
-local seen, lastload, started = {}, "", false
+local seen, lastload, started, injected = {}, "", false, false
 L.on_frame(function(n)
   local req = u32(GP + 0x18c)[0]
   if ok(req) then
@@ -57,7 +74,16 @@ L.on_frame(function(n)
   if sc > 0 and not started then
     started = true
     if SCENE then v[0] = SCENE; sc = SCENE end
-    L.log(n .. " scenario " .. sc .. " running")
+    L.log(n .. " scenario " .. sc .. " running; vars at " .. string.format("%08X %08X", vars()))
+  end
+  if INJECT and started and not injected then
+    if lastload == "SCENARIO/" .. (SCENE or sc) then injectat = injectat or n + (INJECT_AFTER or 30) end
+    if injectat and n >= injectat then   -- after the scene's script has started
+      injected = true
+      inject()
+      if SCENE then var50()[0] = SCENE end
+      L.log(n .. " injected save regions")
+    end
   end
   if not started then
     -- FMV skip, warning, title, then the menu: Up first because the cursor starts on LOAD GAME
