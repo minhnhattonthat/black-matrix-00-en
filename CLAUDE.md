@@ -7,7 +7,8 @@ Skill: translate-retro-game (H:/translation/.claude/skills/translate-retro-game/
 - Build:    `python -X utf8 build.py` -> build/bm00-en.bin/.cue + build/bm00-en-disc2.bin/.cue
 - Check:    `python -X utf8 check.py` (~50 s: every test except test_build + tl.check lint of script/**/*.json; the pre-commit hook runs this)
 - Identity: `python -X utf8 test_build.py` (slow; overwrites build/ and work/extracted with the original-disc rebuild; run before a final build, then rebuild)
-- Smoke:    `python -X utf8 H:/translation/.claude/skills/translate-retro-game/scripts/emu.py build/bm00-en.cue --bios E:/DuckStation/bios/SCPH-5500.bin --out work/qa/smoke --route-str "1500 -;8 start;600 -" --smoke` (PCSX-Redux headless, real speed ~40 s; Start skips the intro FMV to the title)
+- Smoke:    `python -X utf8 .claude/skills/translate-retro-game/scripts/emu.py build/bm00-en.cue --out work/qa/smoke --route-str "1500 -;8 start;600 -" --smoke` (PCSX-Redux headless, ~40 s; Start skips the intro FMV to the title). BIOS: tools/bios/scph5500.bin (gitignored; copy of DuckStation's ps-30j.bin from %LOCALAPPDATA%\DuckStation\bios). Without it PCSX-Redux exits 1 with no output.
+- Tour:     `python -X utf8 tools/debug/tour.py [10 20-25] [--frames 6000 --jobs 3]` -> work/qa/tour/sNNN/ (frames, sheet.png, log.txt of DAT loads, jp.txt) + report.txt: per scenario, started/ended how, and every Japanese glyph the font cache drew. Exit 1 on any. ~1 min per scene at 3 jobs. Single scene: `emu.py build/bm00-en.cue --out work/qa/w020 --script tools/debug/warp.lua --var SCENE=20 --frames 6000 --mash 20 --shot-every 60 --sheet --sav work/qa/tour/blank.mcd`. The warp (tools/debug/warp.lua) cold-boots, picks NEW GAME and makes the first scenario load fetch SCENE; it ends when the script moves to another scenario.
 - Release:  `python -X utf8 release.py` -> dist/ xdelta per disc (re-applied and SHA-checked) + zip with PATCHING.txt. VERSION in release.py. Never publish without the user.
 - Translate: `python -X utf8 tl.py show|apply|check NNN [FILE]` (answer files in work/tl/)
 
@@ -24,6 +25,8 @@ Skill: translate-retro-game (H:/translation/.claude/skills/translate-retro-game/
 
 ## Gotchas
 - Close DuckStation before building: mkpsxiso fails with "Cannot open or create output image".
+- test_build.py leaves the ORIGINAL (Japanese) image in build/: rebuild before any emulator QA, or the tour reports Japanese everywhere (sha1 of the original Disc 1: f205c838...).
+- Overflow is not checked at runtime: tl.check lints widths at build time; read the tour's sheet.png per scene for spills.
 - Cold boot after EXE/asm/font/graphics changes: savestates keep the old program in RAM.
 - Town text container is limited to 0x7000 bytes (build.TEXT_BUFFER); the Notebook has ~92 bytes spare, so longer town text must be paid for elsewhere.
 - SYSTEM subs 4, 7-10 are code overlays: edit strings in place, never touch their tails.

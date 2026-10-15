@@ -1,7 +1,8 @@
 rom/
 work/
 build/
-tools/
+tools/*
+!tools/debug/
 __pycache__/
 savestates/
 dist/
