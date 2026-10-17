@@ -130,3 +130,9 @@ This is an unofficial fan project, not affiliated with or endorsed by Flight-Pla
 rights holder. Black/Matrix 00 and everything in it belong to their owners. No disc image is distributed
 here; the patch is useless without your own copy of the game. Do not sell the patch or distribute pre-patched
 images.
+
+## Support
+
+If you enjoy this translation, you can support my work on Ko-fi:
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/minhnhattonthat)
