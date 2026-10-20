@@ -24,6 +24,9 @@ mini-games. The game was never released outside Japan.
 Get `bm00-en-v00.9.zip` from the [Releases](../../releases) page. It holds one xdelta patch per disc and
 `PATCHING.txt`.
 
+**Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
+helps most.
+
 The patch contains no game. You need your own images of both discs, identical to the Redump dumps:
 
 | Disc | Size | SHA-1 | CRC32 | Redump |

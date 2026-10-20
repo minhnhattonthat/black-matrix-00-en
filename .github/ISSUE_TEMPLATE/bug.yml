@@ -1,0 +1,54 @@
+name: Bug report
+description: Untranslated or garbled text, typos, crashes, graphics glitches
+labels: [bug]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of bug?
+      options:
+        - Untranslated Japanese text
+        - Text overflows the box / garbled / cut off
+        - Typo or wrong translation
+        - Crash, freeze or softlock
+        - Graphics glitch
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Patch version
+      description: From the release you downloaded (e.g. v1.0), or the commit if you built it yourself.
+    validations:
+      required: true
+  - type: input
+    id: emulator
+    attributes:
+      label: Emulator or hardware, with version
+      placeholder: e.g. mGBA 0.10.3, melonDS 1.0, PPSSPP 1.18, real console + flashcart
+    validations:
+      required: true
+  - type: textarea
+    id: where
+    attributes:
+      label: Where in the game, and what happened
+      description: Chapter, town, menu or character you were talking to. For text bugs, quote the English (and the Japanese if you know it).
+    validations:
+      required: true
+  - type: textarea
+    id: files
+    attributes:
+      label: Screenshot and save
+      description: |
+        Drag files in here. A save lets us jump straight to the bug; zip it if GitHub refuses the file type.
+        - Savestate: use the emulator's "Save State" menu just before the bug, then attach the state file.
+        - Or the in-game save file (.sav / .dsv / PSP SAVEDATA folder, zipped).
+    validations:
+      required: true
+  - type: checkboxes
+    id: rom
+    attributes:
+      label: ROM check
+      options:
+        - label: I patched a clean Japanese dump matching the SHA-1 in the README.
