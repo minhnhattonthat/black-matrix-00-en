@@ -14,7 +14,7 @@
    "ベイルに渡す物があるって",
    "言ってたけど・・・"
   ],
-  "en": "You said you had something to give Bale..."
+  "en": "You said you had something to give Beir..."
  },
  {
   "id": "SCENARIO/325/001a0",
@@ -52,7 +52,7 @@
    "ベイル様へ渡すよう承った",
    "貴重な資料ですわ"
   ],
-  "en": "A precious document I was charged by Terios-sama to deliver to Bale-sama."
+  "en": "A precious document I was charged by Telios-sama to deliver to Beir-sama."
  },
  {
   "id": "SCENARIO/325/00328",
@@ -60,7 +60,7 @@
   "jp": [
    "テリオスから・・・私に？"
   ],
-  "en": "From Terios... to me?"
+  "en": "From Telios... to me?"
  },
  {
   "id": "SCENARIO/325/0035c",
@@ -178,7 +178,7 @@
    "お気づきになられましたか？",
    "そこにある違和感に"
   ],
-  "en": "You noticed it as well, Bale-sama? The wrongness in it."
+  "en": "You noticed it as well, Beir-sama? The wrongness in it."
  },
  {
   "id": "SCENARIO/325/007de",
@@ -204,7 +204,7 @@
    "ええ、テリオス様も",
    "それを不信に思われていました"
   ],
-  "en": "Yes, Terios-sama found it suspect as well."
+  "en": "Yes, Telios-sama found it suspect as well."
  },
  {
   "id": "SCENARIO/325/008ce",
@@ -532,7 +532,7 @@
    "探してみたが、教団が所蔵する",
    "本の中にはないそうだ"
   ],
-  "en": "Terios-sama searched high and low, but it is not among the books the Church holds."
+  "en": "Telios-sama searched high and low, but it is not among the books the Church holds."
  },
  {
   "id": "SCENARIO/325/0169e",
@@ -731,7 +731,7 @@
    "一番嫌いだったのはルカ達じゃ",
    "ないか"
   ],
-  "en": "Besides, you and Zion were the ones who hated wild goose chases most."
+  "en": "Besides, you and Zaion were the ones who hated wild goose chases most."
  },
  {
   "id": "SCENARIO/325/01dc2",

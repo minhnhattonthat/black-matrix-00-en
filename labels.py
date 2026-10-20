@@ -150,7 +150,7 @@ HUMAN = {
     (16, 176): "Middle-aged Man", (16, 200): "One-winged Angel",
     (32, 0): "Syria", (32, 32): "Old Man", (32, 56): "Young Man", (32, 80): "Old Woman",
     (32, 104): "Boyfriend", (32, 160): "Girlfriend", (32, 216): "Priest",
-    (48, 0): "Plan", (48, 32): "Fly", (48, 64): "Boy", (48, 96): "Girl", (48, 128): "Clown",
+    (48, 0): "Plan", (48, 32): "Flight", (48, 64): "Boy", (48, 96): "Girl", (48, 128): "Clown",
     (48, 160): "Soldier", (48, 184): "Lilis", (48, 216): "Kilota",
     (64, 0): "Johannes", (64, 32): "Valtoss", (64, 88): "Stayen", (64, 144): "Boy", (64, 176): "Exal",
     (64, 216): "Postbox", (80, 0): "Swordsman's Lover", (80, 56): "Old Woman's Son", (80, 112): "Mailbox",
@@ -162,7 +162,7 @@ DEMON = {
     (16, 0): "Mistress", (16, 32): "Waitress", (16, 80): "Demon (Swordsman)", (16, 128): "Demon (Older Man)",
     (16, 176): "Watchman", (32, 0): "Demon (Man)", (32, 40): "Demon (Woman)", (32, 80): "Watchwoman",
     (32, 136): "Demon (Boy)", (32, 192): "Demon (Little Girl)",
-    (48, 0): "One-winged Angel", (48, 48): "Plan", (48, 80): "Fly", (48, 112): "Clown", (48, 144): "Postbox",
+    (48, 0): "One-winged Angel", (48, 48): "Plan", (48, 80): "Flight", (48, 112): "Clown", (48, 144): "Postbox",
     (48, 176): "Mailbox", (64, 0): "Syria",
 }
 PLATE_ROWS, PLATE_H, BAR_W = 96, 16, 72        # names live in the top 96 rows; the underline bar is at (0,0)-(72,16)
@@ -361,7 +361,7 @@ PANELS = {
         ((9, 10), "Just lighting us is easy, right!?", "centre"),
         ((12,), "Move the spotlight", "left"),
         ((13,), START, "centre"),
-    ], blocks=[(17, 0, [("Light Fly", 2, "centre"), ("up nicely!", 15, "centre")])]),
+    ], blocks=[(17, 0, [("Light Flight", 2, "centre"), ("up nicely!", 15, "centre")])]),
     42: dict(table=22, sheet=8, frames=(3,), title=(4, "Trapeze"), lines=[
         ((5, 6), "So we finally share the same stage!", "centre"),
         ((7, 8), "Three stunts! Time it right and", "centre"),
@@ -600,7 +600,7 @@ CARDS = {
     30: "Demons' Underground Passage", 31: "Hunting Ground of Lament", 32: "Ramstein Cathedral",
     33: "Inside the Cathedral", 34: "Leniam Plaza", 35: "Fetus Church", 36: "Inside the Church",
     37: "Abandoned Church Facility", 38: "Former Test Facility", 39: "Tribunal Generals' Trial",
-    40: "Mephisto's Prison", 41: "Kibotos Island", 42: "God Core's Prison", 43: "Kanel Troupe Stage",
+    40: "Mephist's Prison", 41: "Kibotos Island", 42: "God Core's Prison", 43: "Kanel Troupe Stage",
     44: "Underground World", 45: "Elder's Mansion", 46: "Saint Helena Street", 47: "Pasca Temple",
     48: "San Bartelmi Church", 49: "San Bartelmi Underground", 50: "God Core Control Room",
     51: "God Core Test Facility", 52: "Kalhin Settlement", 53: "Demon Army Facility", 54: "Cypherpunk Facility",
@@ -612,7 +612,7 @@ CARDS[19], CARDS[29] = CARDS[16], CARDS[18]      # the same pictures stored twic
 # BATTLE.DAT sub-file -> (English, alignment): victory conditions on the left, defeat conditions on the right
 BANNERS = {
     4: ("Annihilate the enemy", "left"), 5: ("Defeat the target", "left"), 6: ("Protect Luca", "left"),
-    7: ("Defeat Aragi", "left"), 8: ("Defeat Bale", "left"), 9: ("Withstand the onslaught", "left"),
+    7: ("Defeat Aragi", "left"), 8: ("Defeat Beir", "left"), 9: ("Withstand the onslaught", "left"),
     10: ("Attack the strange demon", "left"), 11: ("Destroy the core", "left"),
     20: ("All allies defeated", "right"), 21: ("Main unit incapacitated", "right"),
 }
@@ -678,11 +678,11 @@ BATTLE_LABELS = [((0, 193, 40, 206), "THINK")]     # shown while the enemy decid
 # ---- speaker name plates (EVENT.DAT sub-files 190-260) ----------------------------------------------
 # Each is a packed file (lz.py) holding a container of two pictures: the bust and an 88x16 name plate.
 PLATES = {
-    190: "Cain", 191: "Abel", 192: "Matia", 193: "Johannes", 194: "Luca", 195: "Zion", 196: "Exal", 197: "Stayen",
-    198: "Kilota", 199: "Lilis", 200: "Valtoss", 201: "Syria", 202: "Bale", 203: "Cardia", 204: "Unda", 205: "Aragi",
-    206: "Whiteface", 207: "Red Mouflon", 208: "Terios", 209: "Kreis", 210: "Rubiel", 211: "Rhipsalis",
-    212: "Grisina", 214: "Nico", 215: "Father Frie", 216: "Tavern Owner", 217: "Kutta", 218: "Plan", 219: "Fly",
-    220: "Incest Girl", 221: "Rea", 223: "Cain", 224: "Syria", 225: "Dahlia", 226: "Matia", 227: "Aragi",
+    190: "Cain", 191: "Abel", 192: "Matia", 193: "Johannes", 194: "Luca", 195: "Zaion", 196: "Exal", 197: "Stayen",
+    198: "Kilota", 199: "Lilis", 200: "Valtoss", 201: "Syria", 202: "Beir", 203: "Caldia", 204: "Unda", 205: "Aragi",
+    206: "Whiteface", 207: "Red Mouflon", 208: "Telios", 209: "Crace", 210: "Rubiel", 211: "Rhipsalis",
+    212: "Glysina", 214: "Nico", 215: "Father Furie", 216: "Tavern Owner", 217: "Cutta", 218: "Plan", 219: "Flight",
+    220: "Incest Girl", 221: "Rhea", 223: "Cain", 224: "Syria", 225: "Dahlia", 226: "Matia", 227: "Aragi",
     228: "Luca", 229: "Aragi", 230: "Luca", 231: "Lilis", 232: "Dana", 233: "Zero", 234: "Matia", 235: "Abel",
     236: "Johannes", 239: "Soryu", 240: "Terga", 241: "Pasca", 242: "Eerie Demon", 243: "Mithras",
     244: "Novice Monk", 245: "Priest Soldier", 246: "Monk Soldier", 247: "Punk Soldier", 248: "Priest",
@@ -790,10 +790,10 @@ def heading(sheet: bytes, box: tuple, lines: tuple) -> bytes:
 # The title is one line of 32x32 cells kept as two rows of four at (64, 88). Three layouts exist: eight cells,
 # seven cells (the last one unused), and sub-file 236 with two 128-pixel strips around a ninth cell at (192, 184).
 TITLES = {
-    203: "The Uninvited Visitor", 204: "Grisina, Angel of Death", 205: "Cain of the False Wings",
+    203: "The Uninvited Visitor", 204: "Glysina, Angel of Death", 205: "Cain of the False Wings",
     206: "Greetings from the Circus", 207: "A Maiden's Stubbornness", 208: "Demon-Hunting Squad",
     209: "Those Who Stir in the Dark", 210: "Abel of the Black Wings", 211: "Assault",
-    212: "Grotesque Incarnation", 213: "The Demon's Whisper", 214: "Kreis the Swordsman",
+    212: "Grotesque Incarnation", 213: "The Demon's Whisper", 214: "Crace the Swordsman",
     215: "The Discarded Test Subject", 216: "Forced Breakthrough", 217: "Swirling Fate",
     218: "Scars That Never Fade", 219: "Red Fang of Lament", 220: "Aragi", 221: "Plaza of Tragedy",
     222: "The Red Fang Strikes Again", 223: "Toys That Stir in the Dark", 224: "Like a Raging Fire",
@@ -801,7 +801,7 @@ TITLES = {
     228: "Echoing Red Scream", 229: "The Flame of Ideals", 230: "White Bearer of Death",
     231: "Keeper of the Eternal Law", 232: "Whiteface", 233: "He Who Laughs Last",
     234: "Darkness of the Brethren", 235: "Shattered Hope", 236: "Overcome All Pain", 237: "No Use Arguing",
-    238: "Defeat Kutta!", 239: "Dana's Trial", 240: "Finish Off Kutta!",
+    238: "Defeat Cutta!", 239: "Dana's Trial", 240: "Finish Off Cutta!",
 }
 _ROWS = ((64, 88), (64, 120))
 _NINTH = (192, 184)

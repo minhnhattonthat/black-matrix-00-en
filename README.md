@@ -86,8 +86,7 @@ Style choices: faithful rather than localised; honorifics (-san, -sama …) are 
 - A few Notebook articles are worded tightly: the game keeps town text in a fixed-size buffer.
 - A few unused picture leftovers stay Japanese (spare circus HUD pieces, a placeholder title in the
   "BATTLE nn" files).
-- The stage cards' small English subtitles are the game's original art and are unchanged (they spell one
-  name "Crace"; the dialogue uses "Kreis").
+- The stage cards' small English subtitles are the game's original art and are unchanged.
 
 ## Building from source
 

@@ -8,9 +8,11 @@
 - `・・・` and `・・` → `...`; `～` after a vowel → drop or `~` when the drawl matters; `！？` → `!?`; `！！！` → `!!`; `「」` and `『』` → `"`; `＜＞` around proper nouns → dropped, or `"` for titles.
 - ASCII 0x20–0x7E only. Fullwidth digits → ASCII digits.
 - A window is one utterance: wrap freely across its 1–3 lines; stay inside the Japanese line count where it fits; 30 characters per line, spill (4+ lines) only when meaning needs it.
-- Character gender for pronouns: Cain, Johannes, Zion, Exal, Abel, Luca, Aragi, Valtoss, Bale, Terios male; Matia, Lilis, Stayen, Kilota, Syria, Cardia, Dahlia, Fly, Rea female. Correct as the pilot reveals.
+- Character gender for pronouns: Cain, Johannes, Zaion, Exal, Abel, Aragi, Valtoss, Beir, Telios, Kilota male; Matia, Luca, Lilis, Stayen, Syria, Caldia, Dahlia, Rhea female; Flight and Glysina pronoun-free.
 
 ## Names
+
+Official spellings from the Double O official site, via namu.wiki (Characters from Black Matrix 0/00): Beir, Caldia, Crace Raidillon, Cutta, Father Furie, Flight, Glysina Oyden, Mephist, Rhea, Telios Saintguilde, Zaion. Stayen is the 00 spelling (Zero: Stayene). Kept by ruling: Abel (site: "Able"), Aragi (site: "Arag").
 
 | Japanese | English | notes |
 |---|---|---|
@@ -18,32 +20,32 @@
 | アベル | Abel | black-winged look-alike |
 | マティア | Matia | Cain's childhood friend, an Incest |
 | ヨハネ | Johannes | Cain's guardian, "irregular" angel |
-| メフィスト | Mephisto | Johannes's sick companion on the island |
-| ルカ | Luca | demon, Zion's companion |
-| ザイオン | Zion | demon |
+| メフィスト | Mephist | Johannes's sick companion on the island |
+| ルカ | Luca | demon, Zaion's companion |
+| ザイオン | Zaion | demon |
 | エクサル | Exal | Cypherpunk member |
 | ステイエン / ステイ | Stayen / Stay | ex-monk soldier |
 | キロタ | Kilota | child, calls Stayen "big sis" |
 | リリス | Lilis | child |
 | ヴァルトス | Valtoss | Cypherpunk leader |
 | シリア | Syria | |
-| ベイル・ペレンデール | Bale Perendale ? | angel, Church |
-| カルディア | Cardia | Stayen's "big sister" in the Church |
+| ベイル・ペレンデール | Beir Perendale | angel, Church |
+| カルディア | Caldia | Stayen's "big sister" in the Church |
 | ウンダ | Unda | demon village elder |
 | アラギ | Aragi | demon, main antagonist |
 | ホワイトフェイス | Whiteface | |
 | レッド・ムフロン | Red Mouflon | one of the 十審将 |
-| テリオス | Terios | Church |
-| クレイス | Kreis ? | Church |
+| テリオス(・セントギルダ) | Telios (Saintguilde) | Church |
+| クレイス(・ラディオン) | Crace (Raidillon) | Church, Telios's lieutenant |
 | ルビエル | Rubiel | |
 | リプサリス | Rhipsalis | |
-| グリシナ | Grisina | |
+| グリシナ(・ウーデン) | Glysina (Oyden) | |
 | ニコ | Nico | island child |
-| フリエ神父 | Father Frie ? | island priest |
-| クッタ | Kutta | |
+| フリエ神父 | Father Furie | island priest |
+| クッタ | Cutta | |
 | プラン | Plan | |
-| フライ | Fly ? | Cypherpunk, odd remarks |
-| レア | Rea | Incest girl in the demon village |
+| フライ | Flight | Cypherpunk, odd remarks |
+| レア | Rhea | Incest girl in the demon village |
 | ダリア（・ビアー） | Dahlia (Beer) | tavern owner, "Auntie" |
 | ダーナ | Dana | |
 | ゼロ | Zero | |
@@ -69,7 +71,7 @@
 | 十審将 | the Ten Tribunal Generals ? | |
 | 構成員 | member (of Cypherpunk) | |
 | 黒羽根 / 白羽根 | black-wing / white-wing | as noun for the people |
-| 規格外 | irregular | the island's word for Johannes and Mephisto |
+| 規格外 | irregular | the island's word for Johannes and Mephist |
 | 世界樹 | World Tree | |
 | 倒立樹計画 | the Inverted Tree Plan | |
 | 大地母神 | the Earth Mother | |
@@ -80,7 +82,7 @@
 | ラムシュタイン大聖堂 | Ramstein Cathedral | |
 | ラメル教会 / リゴルの教会 / ハルフォルト教会 | Ramel Church / Rigor Church / Halfort Church | |
 | グーテンベルグ | Gutenberg | handout in Verona |
-| ペレンデール | Perendale | Bale's family name |
+| ペレンデール | Perendale | Beir's family name |
 | グレイヘン | Greyhen ? | |
 | ルオナ | Luona | |
 | ボーナスシナリオ | Bonus Scenario | scripts 020–037 |
@@ -104,16 +106,16 @@ The `speaker` field in the JSON is the `1058` value before a window. In the open
 | ＜書＞ | the Book | the Gutenberg handout |
 | 構成員・男 / 女 / 若者 | Member (Man) / Member (Woman) / Member (Youth) | speaker labels |
 | 片翼の天使 | One-winged Angel | |
-| ヒトの管理者 | overseer of Man | Bale's title |
+| ヒトの管理者 | overseer of Man | Beir's title |
 | キシャァ / ギシャァ / キシュルル | KSHAAAAAAA / GSHAAAAAAAA / Kshurururu | Embryon cries |
 
 Corrections: Kilota uses 僕 and is called 坊主 in script 111 — a boy, not a girl (gender list above is wrong on this point).
-| ジーナ | Gina | Kutta's "wife" |
-| セングラー | Sengler | Pain Ring product from Fly's shop |
-| 魔王クッタ / このクッタ様 | Demon King Kutta / the great Kutta | |
+| ジーナ | Gina | Cutta's "wife" |
+| セングラー | Sengler | Pain Ring product from Flight's shop |
+| 魔王クッタ / このクッタ様 | Demon King Cutta / the great Cutta | |
 | ネキンター・カネル団 | Nekintar Kanel Troupe | circus |
 | 大粛正 | the Great Purge | |
-| 悪魔討伐隊 | demon-hunting squad | Kreis's unit |
+| 悪魔討伐隊 | demon-hunting squad | Crace's unit |
 | 機械化僧兵 | mechanized monk soldier | |
 | ヒヨコ頭 | chick-head | nickname for Cain's hair |
 | 自由行動 | Free Roam | menu label |
@@ -135,22 +137,22 @@ Corrections: Kilota uses 僕 and is called 坊主 in script 111 — a boy, not a
 | シリアお姉ちゃん | Syria-neesan | |
 | ボーナスシナリオ titles | `Bonus Scenario NN\nSubtitle` | two lines |
 
-Fly uses 僕 in script 031: gender ambiguous, keep pronoun-free.
+Flight uses 僕 in script 031: gender ambiguous, keep pronoun-free.
 | 慟哭の５５５日戦争 | the 555-Day War of Lamentation | |
 | 幽葬の地下通路 | the Spectral Catacombs | |
 | 古の大悪魔 | Ancient Archdemon | |
 | 死者を操る魔眼 | the Evil Eye that commands the dead | Pasca's title |
 | 灰色の天使 | grey angel | Luca's epithet for Johannes |
-| 六翼の天使 | six-winged angel | Bale |
+| 六翼の天使 | six-winged angel | Beir |
 | グーテンベルグの戒律書 | Gutenberg Book of Precepts | |
 | 団長 | ringmaster | circus |
 | ＜特例＞ | special exception | |
 | ルオナ草 / ルオナの花 | Luona herb / Luona flower | |
-| 勇者ザイオーン / 木こりのザイオ | Zioon the Hero / Zio the Woodcutter | Lilis's picture book |
+| 勇者ザイオーン / 木こりのザイオ | Zaioon the Hero / Zaio the Woodcutter | Lilis's picture book |
 | 孤高の騎士 | Solitary Knight | |
-| ＜百人斬りのザイオン＞ | Zion the Hundred-Slayer | |
+| ＜百人斬りのザイオン＞ | Zaion the Hundred-Slayer | |
 | ＜冷血のルカ＞ | Cold-Blooded Luca | |
-| お兄様 (Syria → Bale) | Brother | |
+| お兄様 (Syria → Beir) | Brother | |
 | 中性体 | neuter | angel sexes |
 | 翼ある者 | the Winged Ones | |
 | 彼の者 | that One | creation myth |
@@ -158,12 +160,12 @@ Fly uses 僕 in script 031: gender ambiguous, keep pronoun-free.
 | NPC labels | Waiter, Swordsman, Middle-aged Man, Old Man, Old Woman, Couple (Man/Woman), Priest, Boy, Girl, Clown, Soldier | |
 | 力天使 | Virtue | angelic rank |
 | 神威の剱 | the Sword of Divine Might | |
-| ステイお姉ちゃん / カルディア姉さん / マティアお姉ちゃん | Stay-neesan / Cardia-neesan / Matia-neesan | |
+| ステイお姉ちゃん / カルディア姉さん / マティアお姉ちゃん | Stay-neesan / Caldia-neesan / Matia-neesan | |
 | 異端審問 | the Inquisition | |
 
-Grisina presents female but self-identifies as a man (195): pronoun-free.
+Glysina presents female but self-identifies as a man (195): pronoun-free.
 | 副官 | adjutant | |
-| 熾天使 | Seraph | Bale's rank |
+| 熾天使 | Seraph | Beir's rank |
 | 異端審査官 | Inquisitor | |
 | 両性体 | dual-sexed | |
 | レニアム坂広場 | Leniam Plaza | |
@@ -173,7 +175,7 @@ Grisina presents female but self-identifies as a man (195): pronoun-free.
 | 異端者 | heretic | |
 | 智天使 | Cherub | Whiteface's rank |
 | 法天使 | Angel of Law | Rubiel's rank |
-| 我らが母なる神 | Mother God | Bale's prayer |
+| 我らが母なる神 | Mother God | Beir's prayer |
 | ラムシュタイン要塞 | Fortress Ramstein | soldiers' nickname |
 | リプサリス・サファイア | Rhipsalis Sapphire | |
 | 白き翼の悪魔 | the White-Winged Demon | |
@@ -210,7 +212,7 @@ Correction: Luca uses アタシ (script 250) and 捜したわよ (056): Luca is 
 | 翼は踊る | The wings dance | title motif |
 | 動天使 / 能天使 / 儀天使 / 術天使 | Angel of Motion / Power / Rite / Art | Tribunal ranks |
 | ＜ヨハネの書＞ | the Book of Johannes | |
-| 臥天使 | Dormant Angel | Terios's rank |
+| 臥天使 | Dormant Angel | Telios's rank |
 | ＜ブランク＞ / アンノウン | Blank / the Unknown | Valtoss's lost page |
 | ＜翼ある者の年齢＞ | the Age of the Winged Ones | |
 | ギギ / ギギギ | Grrk... / Grrk-rrk... | Embryon rasp |
@@ -231,7 +233,7 @@ Correction: Luca uses アタシ (script 250) and 捜したわよ (056): Luca is 
 
 | Japanese | English | notes |
 |---|---|---|
-| ぷかぷか様 | Pukapuka-sama | Fly's hat creature |
+| ぷかぷか様 | Pukapuka-sama | Flight's hat creature |
 | ジョルノ教会 / フィータス教会 | Giorno Church / Fetus Church | |
 | 僕とご主人様 | My Master and Me | serial; ご主人様 changes sex per episode |
 | 達人ノ書～渡／投／球／綱／獣／輝／舞／完～ | Master's Tome ~Flyer/Throw/Ball/Rope/Beast/Shine/Dance/End~ | circus mini-game manuals |

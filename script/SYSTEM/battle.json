@@ -2,7 +2,7 @@
  {
   "id": "BATTLE/000",
   "jp": "グリシナ",
-  "en": "Grisina",
+  "en": "Glysina",
   "width": 16
  },
  {
@@ -14,7 +14,7 @@
  {
   "id": "BATTLE/002",
   "jp": "ベイル",
-  "en": "Bale",
+  "en": "Beir",
   "width": 16
  },
  {
@@ -152,7 +152,7 @@
  {
   "id": "BATTLE/025",
   "jp": "クレイス",
-  "en": "Kreis",
+  "en": "Crace",
   "width": 16
  },
  {
@@ -176,7 +176,7 @@
  {
   "id": "BATTLE/029",
   "jp": "テリオス",
-  "en": "Terios",
+  "en": "Telios",
   "width": 16
  },
  {
@@ -236,7 +236,7 @@
  {
   "id": "BATTLE/039",
   "jp": "ザイオン",
-  "en": "Zion",
+  "en": "Zaion",
   "width": 16
  },
  {
@@ -278,7 +278,7 @@
  {
   "id": "BATTLE/046",
   "jp": "レア",
-  "en": "Rea",
+  "en": "Rhea",
   "width": 16
  },
  {
@@ -368,7 +368,7 @@
  {
   "id": "BATTLE/061",
   "jp": "クッタ",
-  "en": "Kutta",
+  "en": "Cutta",
   "width": 16
  },
  {

@@ -169,7 +169,7 @@
    "クレイス様！",
    "不審者を見つけました！！"
   ],
-  "en": "Kreis-sama! We found a suspicious person!!"
+  "en": "Crace-sama! We found a suspicious person!!"
  },
  {
   "id": "SCENARIO/079/009ae",
@@ -222,7 +222,7 @@
    "クレイス様の手前でそのような",
    "こと・・・"
   ],
-  "en": "N-no! Never, not with Kreis-sama present..."
+  "en": "N-no! Never, not with Crace-sama present..."
  },
  {
   "id": "SCENARIO/079/00b9e",
@@ -261,7 +261,7 @@
    "テントの周囲にそれらしい",
    "痕跡はありませんでした！！"
   ],
-  "en": "Kreis-sama! No sign of anything around the tent!!"
+  "en": "Crace-sama! No sign of anything around the tent!!"
  },
  {
   "id": "SCENARIO/079/00d70",
@@ -432,7 +432,7 @@
   "jp": [
    "捕まえるわよフライ！！"
   ],
-  "en": "Catch him, Fly!!"
+  "en": "Catch him, Flight!!"
  },
  {
   "id": "SCENARIO/079/01650",
@@ -448,7 +448,7 @@
   "jp": [
    "フライ、行きまーす"
   ],
-  "en": "Fly, going in~"
+  "en": "Flight, going in~"
  },
  {
   "id": "SCENARIO/079/017e0",
@@ -473,7 +473,7 @@
   "jp": [
    "でかしたわフライ！"
   ],
-  "en": "Well done, Fly!"
+  "en": "Well done, Flight!"
  },
  {
   "id": "SCENARIO/079/018ec",
@@ -508,7 +508,7 @@
   "jp": [
    "フライで～す"
   ],
-  "en": "I'm Fly~"
+  "en": "I'm Flight~"
  },
  {
   "id": "SCENARIO/079/01a60",
@@ -589,7 +589,7 @@
    "余計なことは",
    "言わなくていいのよ！！"
   ],
-  "en": "Fly! Nobody asked for the extra details!!"
+  "en": "Flight! Nobody asked for the extra details!!"
  },
  {
   "id": "SCENARIO/079/01d7e",
@@ -676,7 +676,7 @@
    "そんな風には見えないけれど",
    "フライの直感は当たるのよね"
   ],
-  "en": "Hmm, I can't see it myself, but Fly's hunches do tend to be right."
+  "en": "Hmm, I can't see it myself, but Flight's hunches do tend to be right."
  },
  {
   "id": "SCENARIO/079/02050",
@@ -686,7 +686,7 @@
    "やっぱり人手は欲しいし・・",
    "ここはフライの直感を信じて、"
   ],
-  "en": "His face passes, and we do need the hands.. I'll trust Fly's hunch on this one,"
+  "en": "His face passes, and we do need the hands.. I'll trust Flight's hunch on this one,"
  },
  {
   "id": "SCENARIO/079/020bc",
