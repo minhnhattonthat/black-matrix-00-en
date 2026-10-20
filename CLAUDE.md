@@ -36,5 +36,5 @@ Skill: translate-retro-game (H:/translation/.claude/skills/translate-retro-game/
 - tools/ is gitignored: put reusable helpers at the repo root, or un-ignore a folder for them.
 
 ## Status
-- v00.9 released (dist/). All text translated on both discs, including picture text and movie subtitles.
+- v00.10 released (dist/). All text translated on both discs, including picture text and movie subtitles.
 - Not yet seen in game: the disc-change screen, the Disc 2 movies (008-010, cards 019-022/029-032), the final stage title card. Movie lines marked "check" in script/MOVIE are unverified.

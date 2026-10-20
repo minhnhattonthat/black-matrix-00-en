@@ -9,7 +9,7 @@ for the PlayStation, plus every tool used to make it.
 | Serial | SLPS-03573 (Disc 1), SLPS-03574 (Disc 2) |
 | Developer / publisher | Flight-Plan / NEC Interchannel |
 | Released | 2004, Japan only |
-| Patch version | 00.9 |
+| Patch version | 00.10 |
 
 ## The game
 
@@ -21,7 +21,7 @@ mini-games. The game was never released outside Japan.
 
 ## Download and patch
 
-Get `bm00-en-v00.9.zip` from the [Releases](../../releases) page. It holds one xdelta patch per disc and
+Get `bm00-en-v00.10.zip` from the [Releases](../../releases) page. It holds one xdelta patch per disc and
 `PATCHING.txt`.
 
 **Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
@@ -38,8 +38,8 @@ Apply each patch to its disc with [Delta Patcher](https://github.com/marco-calau
 or `xdelta3`:
 
 ```
-xdelta3 -d -s "Disc 1.bin" bm00-en-v00.9-disc1.xdelta "Black-Matrix 00 (English) (Disc 1).bin"
-xdelta3 -d -s "Disc 2.bin" bm00-en-v00.9-disc2.xdelta "Black-Matrix 00 (English) (Disc 2).bin"
+xdelta3 -d -s "Disc 1.bin" bm00-en-v00.10-disc1.xdelta "Black-Matrix 00 (English) (Disc 1).bin"
+xdelta3 -d -s "Disc 2.bin" bm00-en-v00.10-disc2.xdelta "Black-Matrix 00 (English) (Disc 2).bin"
 ```
 
 Name the output anything you like and open the patched `.bin` in your emulator. Full step-by-step instructions
