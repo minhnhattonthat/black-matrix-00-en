@@ -182,8 +182,9 @@
   "jp": [
    "ほんとにおしまい"
   ],
-  "en": "The End. For real this time.",
-  "spill": false
+  "en": "The End. For real.",
+  "spill": false,
+  "width": 20
  },
  {
   "id": "SCENARIO/405/0488c",
