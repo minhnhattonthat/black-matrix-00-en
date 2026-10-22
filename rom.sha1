@@ -1,0 +1,3 @@
+# SHA-1 of the supported dump, in sha1sum format (`sha1sum -c rom.sha1` works too). One line per file for discs.
+f205c8382149cef508dbfbc79dd35e344ff35337  rom/Black-Matrix 00 (Japan) (Disc 1).bin
+bd2e111a087b2dc5cb041a6b7643e6743da281ef  rom/Black-Matrix 00 (Japan) (Disc 2).bin

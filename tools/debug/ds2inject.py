@@ -1,5 +1,5 @@
 """Turn a DuckStation savestate of Black/Matrix 00 into save-game regions for tools/debug/warp.lua (--script after it):
-  python -X utf8 tools/debug/ds2inject.py savestates/savestate4.sav work/qa/inject4.lua [--v16 ADDR --v32 ADDR]
+  python -X utf8 tools/debug/ds2inject.py work/states/savestate4.sav work/qa/inject4.lua [--v16 ADDR --v32 ADDR]
 The regions are those the game's load routine (0x80039A30) copies out of a memory-card save: the 0x260 u16 and
 0x20 u32 script variables, the party flags around 0x8006F258 and the 16 unit records at 0x8006F458, plus 17 records
 at 0x800703d8. The variable arrays live at the addresses warp.lua logs ("vars at V16 V32"); the defaults are the

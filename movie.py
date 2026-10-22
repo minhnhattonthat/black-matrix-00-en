@@ -5,7 +5,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent
 JAR = ROOT / "tools" / "jpsxdec" / "jpsxdec_v2.0" / "jpsxdec.jar"
-FRAME_BASE = 0                         # jPSXdec's frame="N" is 0-based, like ffmpeg's output (docs/movie-notes.md)
+FRAME_BASE = 0                         # jPSXdec's frame="N" is 0-based, like ffmpeg's output (docs/re/movie-notes.md)
 CACHE = ROOT / "work" / "movie" / "cache"
 
 SECTOR, RAW = 2336, 2352

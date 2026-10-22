@@ -1,8 +1,15 @@
 * text=auto eol=lf
+*.sfc binary
+*.smc binary
+*.gba binary
+*.nds binary
 *.bin binary
+*.cue binary
 *.iso binary
 *.img binary
 *.png binary
 *.sav binary
+*.bps binary
+*.ips binary
 *.xdelta binary
 *.zip binary

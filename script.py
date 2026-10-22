@@ -1,5 +1,5 @@
 """SCENARIO script bytecode: tokenize, extract strings, reinsert with jump fixups.
-Format notes: docs/script-format.md"""
+Format notes: docs/re/script-format.md"""
 import re
 import struct
 from dataclasses import dataclass

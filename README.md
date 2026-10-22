@@ -101,7 +101,8 @@ Needed:
 - `tools/jpsxdec/jpsxdec_v2.0/jpsxdec.jar` ([jPSXdec](https://github.com/m35/jpsxdec)) and Java
 - `ffmpeg` on PATH
 - `xdelta3` on PATH (only for `release.py`)
-- your disc images in `rom/` as `Black-Matrix 00 (Japan) (Disc 1).bin` and `… (Disc 2).bin`
+- your disc images in `rom/` as `Black-Matrix 00 (Japan) (Disc 1).bin` and `… (Disc 2).bin` (the extract
+  step refuses any other dump, see `rom.sha1`)
 
 ```
 python build.py extract     # once: unpack both discs into work/
@@ -123,8 +124,20 @@ Close the emulator before building: the image cannot be rewritten while it is op
 | `movie.py` | Subtitle burning |
 | `asm/` | Half-width font hack, save-title routine, unit renaming |
 | `tl.py` | Helper for editing translation files |
-| `docs/` | Format notes and the design notes written along the way |
-| `test_*.py` | Tests (`python test_gfx.py`, …; most need the unpacked discs) |
+| `tools/` | Dump check (`check_rom.py`), disk cleanup (`clean.py`), emulator debug tools (`debug/`) |
+| `docs/re/` | Reverse-engineering notes |
+| `docs/decisions.md`, `docs/status.md` | Rulings with their reasons; current progress and open bugs |
+| `docs/fonts.md` | Fonts used and their licences |
+| `docs/` | Translator briefs, style reference, and the design notes written along the way |
+| `test_*.py` | Tests (`python check.py` runs them; most need the unpacked discs) |
+| `AGENTS.md` | Instructions for coding agents (`CLAUDE.md` points to it) |
+
+## Licence
+
+Tools and English translation: MIT. The original Japanese text in `script/` is the rights holders' and is included
+only so the translation can be checked against it.
+
+The translation was made with extensive AI assistance (Claude by Anthropic). Corrections are very welcome.
 
 ## Legal
 

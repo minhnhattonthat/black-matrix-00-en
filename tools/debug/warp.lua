@@ -4,7 +4,7 @@
 -- every full-width (Japanese) glyph the font cache rasterised once the scene runs: "frame code".
 --   python -X utf8 <skill>/scripts/emu.py build/bm00-en.cue --out work/qa/w020 --script tools/debug/warp.lua
 --          --var SCENE=20 --frames 6000 --mash 20 --shot-every 60 --sheet --sav work/qa/blank.mcd
--- RAM (SLPS_035.73, docs/script-format.md): gp = 0x8006B224; gp+0x15c -> interpreter (in scratchpad), +0x10 = u16
+-- RAM (SLPS_035.73, docs/re/script-format.md): gp = 0x8006B224; gp+0x15c -> interpreter (in scratchpad), +0x10 = u16
 -- script variables, var 0x50 = scenario to run; gp+0x18c -> CD request (+8 DAT index, +0xa sub);
 -- gp+0x1fc -> glyph cache (+8 w, +0xa h, +0x1c entries of 12 bytes: u16 code ...).
 -- The main loop loads var 0x50 at 0x8001231c: 0x80012328 `andi a1, v0, 0xffff` becomes `addiu a1, zero, SCENE`,

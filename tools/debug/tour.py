@@ -8,7 +8,8 @@ codes). Exit 1 when any scene drew Japanese or failed to start. Scenes run in pa
 import argparse, concurrent.futures, glob, os, subprocess, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-SCRIPTS = os.path.join(ROOT, ".claude", "skills", "translate-retro-game", "scripts")
+SKILL = os.environ.get("SKILL", os.path.expanduser("~/.claude/plugins/marketplaces/retro-translation/skills/translate-retro-game"))
+SCRIPTS = os.path.join(SKILL, "scripts")
 EMU = os.path.join(SCRIPTS, "emu.py")
 WARP = os.path.join(ROOT, "tools", "debug", "warp.lua")
 sys.path.insert(0, SCRIPTS)

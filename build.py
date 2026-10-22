@@ -7,6 +7,8 @@ from PIL import Image
 import dat, exe, gfx, halfwidth, labels, movie, pointers, script, tables, town
 
 ROOT = Path(__file__).parent
+sys.path.insert(0, str(ROOT / "tools"))
+import check_rom  # noqa: E402
 ROM = ROOT / "rom" / "Black-Matrix 00 (Japan) (Disc 1).bin"
 MKPSXISO = ROOT / "tools" / "mkpsxiso-2.30-win64"
 EXTRACTED = ROOT / "work" / "extracted"   # tree mkpsxiso builds from; DATs get overwritten
@@ -22,6 +24,7 @@ ORIG2 = ROOT / "work" / "orig2"            # pristine Disc 2 movies (the only Di
 
 
 def extract():
+    check_rom.check()
     EXTRACTED.mkdir(parents=True, exist_ok=True)
     subprocess.run([MKPSXISO / "dumpsxiso.exe", "-x", EXTRACTED,
                     "-s", EXTRACTED / "layout.xml", ROM], check=True)

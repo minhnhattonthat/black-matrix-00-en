@@ -1,5 +1,7 @@
 # Glossary and style guide — Black/Matrix 00
 
+Binding for every translator and reviewer. The user's rulings, with options and reasons: `docs/decisions.md`.
+
 ## Style
 
 - Faithful to the Japanese; sentence order followed where English allows.
