@@ -1,6 +1,6 @@
-import re
+import json, re
 import dat, script, tables
-from build import ORIG
+from build import ORIG, ROOT
 
 SYSTEM = dat.unpack((ORIG / "SYSTEM.DAT").read_bytes())
 SUB2 = SYSTEM[2]
@@ -104,6 +104,15 @@ def test_overlay_round_trip_and_in_place_limit():
         except ValueError:
             continue
         assert False, bad
+
+
+def test_english_fits_the_menu_boxes():
+    # measured in game (6-px glyphs): the shop/equip name column holds 16 chars before the count,
+    # the description box 32 per line; the byte widths of the fields allow more than the screen does
+    limits = {14: 16, 16: 16, 18: 16, 20: 16, 24: 16, 32: 32, 34: 32}
+    entries = json.loads((ROOT / "script" / "SYSTEM" / "tables.json").read_text(encoding="utf-8"))
+    over = [(e["id"], e["en"]) for e in entries if len(e["en"]) > limits[e["width"]]]
+    assert not over, over
 
 
 if __name__ == "__main__":

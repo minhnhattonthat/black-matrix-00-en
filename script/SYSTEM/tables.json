@@ -578,7 +578,7 @@
  {
   "id": "SYSTEM/2/0d370",
   "jp": "チタンナックル",
-  "en": "Titanium Knuckles",
+  "en": "Titan Knuckles",
   "width": 20
  },
  {
@@ -890,7 +890,7 @@
  {
   "id": "SYSTEM/2/0daac",
   "jp": "別名「慈愛の短剣」",
-  "en": "Also called the \"Dagger of Mercy\"",
+  "en": "Also known as \"Dagger of Mercy\"",
   "width": 34
  },
  {
@@ -962,7 +962,7 @@
  {
   "id": "SYSTEM/2/0dc2c",
   "jp": "貫通性を高めるため刃を",
-  "en": "A dagger with a needle-thin blade",
+  "en": "Dagger with a needle-thin blade",
   "width": 34
  },
  {
@@ -1004,7 +1004,7 @@
  {
   "id": "SYSTEM/2/0dd2c",
   "jp": "刃が黒い隠密用の短剣",
-  "en": "A black-bladed dagger for stealth",
+  "en": "Black-bladed dagger for stealth",
   "width": 34
  },
  {
@@ -1112,7 +1112,7 @@
  {
   "id": "SYSTEM/2/0dfac",
   "jp": "刀身がやや短い両刃の剣",
-  "en": "A short-bladed double-edged sword",
+  "en": "Short-bladed double-edged sword",
   "width": 34
  },
  {
@@ -1226,7 +1226,7 @@
  {
   "id": "SYSTEM/2/0e2ac",
   "jp": "刀身をできるだけ長くした剣",
-  "en": "A sword made as long as it can be",
+  "en": "A sword made as long as possible",
   "width": 34
  },
  {
@@ -1412,7 +1412,7 @@
  {
   "id": "SYSTEM/2/0e6ce",
   "jp": "闇に潜む邪悪な者達を浄化する",
-  "en": "Purifies evil lurking in the dark",
+  "en": "Purges evil lurking in the dark",
   "width": 34
  },
  {
@@ -1538,7 +1538,7 @@
  {
   "id": "SYSTEM/2/0e9f0",
   "jp": "銅の大剣",
-  "en": "Copper Greatsword",
+  "en": "Copper Claymore",
   "width": 20
  },
  {
@@ -1556,7 +1556,7 @@
  {
   "id": "SYSTEM/2/0ea70",
   "jp": "鉄の大剣",
-  "en": "Iron Greatsword",
+  "en": "Iron Claymore",
   "width": 20
  },
  {
@@ -1574,7 +1574,7 @@
  {
   "id": "SYSTEM/2/0eaf0",
   "jp": "錬鉄の大剣",
-  "en": "Wrought Greatsword",
+  "en": "Wrought Claymore",
   "width": 20
  },
  {
@@ -1598,7 +1598,7 @@
  {
   "id": "SYSTEM/2/0eb70",
   "jp": "憂いの大剣",
-  "en": "Sorrow Greatsword",
+  "en": "Sorrow Claymore",
   "width": 20
  },
  {
@@ -1616,7 +1616,7 @@
  {
   "id": "SYSTEM/2/0ebf0",
   "jp": "嘆きの大剣",
-  "en": "Grief Greatsword",
+  "en": "Grief Claymore",
   "width": 20
  },
  {
@@ -1634,7 +1634,7 @@
  {
   "id": "SYSTEM/2/0ec70",
   "jp": "悲壮の大剣",
-  "en": "Tragic Greatsword",
+  "en": "Tragic Claymore",
   "width": 20
  },
  {
@@ -1652,7 +1652,7 @@
  {
   "id": "SYSTEM/2/0ecf0",
   "jp": "哀悼の大剣",
-  "en": "Mourning Greatsword",
+  "en": "Lament Claymore",
   "width": 20
  },
  {
@@ -1670,7 +1670,7 @@
  {
   "id": "SYSTEM/2/0ed70",
   "jp": "奮迅の大剣",
-  "en": "Valiant Greatsword",
+  "en": "Valiant Claymore",
   "width": 20
  },
  {
@@ -1694,7 +1694,7 @@
  {
   "id": "SYSTEM/2/0edf0",
   "jp": "激震の大剣",
-  "en": "Quake Greatsword",
+  "en": "Quake Claymore",
   "width": 20
  },
  {
@@ -1718,7 +1718,7 @@
  {
   "id": "SYSTEM/2/0ee70",
   "jp": "赫怒の大剣",
-  "en": "Wrath Greatsword",
+  "en": "Wrath Claymore",
   "width": 20
  },
  {
@@ -1742,7 +1742,7 @@
  {
   "id": "SYSTEM/2/0eef0",
   "jp": "風虎双剣",
-  "en": "Wind Tiger Blades",
+  "en": "Windtiger Blades",
   "width": 20
  },
  {
@@ -1790,7 +1790,7 @@
  {
   "id": "SYSTEM/2/0eff0",
   "jp": "雷獅子双剣",
-  "en": "Thunder Lion Blades",
+  "en": "Bolt Lion Blades",
   "width": 20
  },
  {
@@ -1814,7 +1814,7 @@
  {
   "id": "SYSTEM/2/0f070",
   "jp": "天竜双剣",
-  "en": "Sky Dragon Blades",
+  "en": "Sky Drake Blades",
   "width": 20
  },
  {
@@ -1838,7 +1838,7 @@
  {
   "id": "SYSTEM/2/0f0f0",
   "jp": "星鳳双剣",
-  "en": "Star Phoenix Blades",
+  "en": "Phoenix Blades",
   "width": 20
  },
  {
@@ -1922,7 +1922,7 @@
  {
   "id": "SYSTEM/2/0f2ac",
   "jp": "右には「ファウスト」",
-  "en": "\"Faust\" is engraved on the right,",
+  "en": "\"Faust\" engraved on the right,",
   "width": 34
  },
  {
@@ -2162,7 +2162,7 @@
  {
   "id": "SYSTEM/2/0f92c",
   "jp": "幾百万の血を求める斧",
-  "en": "Thirsts for the blood of millions",
+  "en": "Craves the blood of millions",
   "width": 34
  },
  {
@@ -2180,7 +2180,7 @@
  {
   "id": "SYSTEM/2/0f9ac",
   "jp": "闇に潜む邪悪な者達を浄化する",
-  "en": "Purifies evil lurking in the dark",
+  "en": "Purges evil lurking in the dark",
   "width": 34
  },
  {
@@ -2438,7 +2438,7 @@
  {
   "id": "SYSTEM/2/1004e",
   "jp": "軽量化により攻撃力が犠牲になった",
-  "en": "Trades attack power for lightness",
+  "en": "Power traded away for lightness",
   "width": 34
  },
  {
@@ -2528,7 +2528,7 @@
  {
   "id": "SYSTEM/2/1024e",
   "jp": "三つの要素が強化されている",
-  "en": "Three elements have been enhanced",
+  "en": "Three elements are enhanced",
   "width": 34
  },
  {
@@ -2720,7 +2720,7 @@
  {
   "id": "SYSTEM/2/106ac",
   "jp": "クッタがジーナと勝手に名付けた",
-  "en": "Cutta's favorite rapier, which he",
+  "en": "Cutta's beloved rapier, which he",
   "width": 34
  },
  {
@@ -2744,7 +2744,7 @@
  {
   "id": "SYSTEM/2/1072c",
   "jp": "クッタがローズと勝手に名付けた",
-  "en": "Cutta's favorite rapier, which he",
+  "en": "Cutta's beloved rapier, which he",
   "width": 34
  },
  {
@@ -2942,7 +2942,7 @@
  {
   "id": "SYSTEM/2/10bf0",
   "jp": "断罪の槍",
-  "en": "Spear of Judgment",
+  "en": "Judgment Spear",
   "width": 20
  },
  {
@@ -2984,7 +2984,7 @@
  {
   "id": "SYSTEM/2/10cce",
   "jp": "弦には白羊毛を使用　　　　射程３",
-  "en": "Strung with white wool    Range 3",
+  "en": "Strung with white wool   Range 3",
   "width": 34
  },
  {
@@ -3008,7 +3008,7 @@
  {
   "id": "SYSTEM/2/10d4e",
   "jp": "金牛の角を象っている　　　射程４",
-  "en": "Golden bull-horn shaped   Range 4",
+  "en": "Golden bull-horn shaped  Range 4",
   "width": 34
  },
  {
@@ -3032,7 +3032,7 @@
  {
   "id": "SYSTEM/2/10dce",
   "jp": "はめこまれた弓　　　　　　射程５",
-  "en": "gems holding magic        Range 5",
+  "en": "gems holding magic       Range 5",
   "width": 34
  },
  {
@@ -3056,7 +3056,7 @@
  {
   "id": "SYSTEM/2/10e4e",
   "jp": "攻撃力が高められている　　射程３",
-  "en": "Attack power is enhanced  Range 3",
+  "en": "Attack power is enhanced Range 3",
   "width": 34
  },
  {
@@ -3074,13 +3074,13 @@
  {
   "id": "SYSTEM/2/10eac",
   "jp": "シルエットが美しい弓",
-  "en": "A bow with a beautiful silhouette",
+  "en": "A bow with a lovely silhouette",
   "width": 34
  },
  {
   "id": "SYSTEM/2/10ece",
   "jp": "冥界へと誘う一矢　　　　　射程４",
-  "en": "A shot to the underworld  Range 4",
+  "en": "A shot to the underworld Range 4",
   "width": 34
  },
  {
@@ -3104,7 +3104,7 @@
  {
   "id": "SYSTEM/2/10f4e",
   "jp": "　　　　　　　　　　　　　射程５",
-  "en": "                          Range 5",
+  "en": "                         Range 5",
   "width": 34
  },
  {
@@ -3128,7 +3128,7 @@
  {
   "id": "SYSTEM/2/10fce",
   "jp": "　　　　　　　　　　　　　射程４",
-  "en": "                          Range 4",
+  "en": "                         Range 4",
   "width": 34
  },
  {
@@ -3152,7 +3152,7 @@
  {
   "id": "SYSTEM/2/1104e",
   "jp": "　　　　　　　　　　　　　射程５",
-  "en": "                          Range 5",
+  "en": "                         Range 5",
   "width": 34
  },
  {
@@ -3176,7 +3176,7 @@
  {
   "id": "SYSTEM/2/110ce",
   "jp": "　　　　　　　　　　　　　射程５",
-  "en": "                          Range 5",
+  "en": "                         Range 5",
   "width": 34
  },
  {
@@ -3200,7 +3200,7 @@
  {
   "id": "SYSTEM/2/1114e",
   "jp": "　　　　　　　　　　　　　射程４",
-  "en": "                          Range 4",
+  "en": "                         Range 4",
   "width": 34
  },
  {
@@ -3224,7 +3224,7 @@
  {
   "id": "SYSTEM/2/111ce",
   "jp": "　　　　　　　　　　　　　射程５",
-  "en": "                          Range 5",
+  "en": "                         Range 5",
   "width": 34
  },
  {
@@ -3248,7 +3248,7 @@
  {
   "id": "SYSTEM/2/1124e",
   "jp": "限りなく絶対零度に近い　　射程５",
-  "en": "Nearly absolute zero      Range 5",
+  "en": "Nearly absolute zero     Range 5",
   "width": 34
  },
  {
@@ -3272,7 +3272,7 @@
  {
   "id": "SYSTEM/2/112ce",
   "jp": "　　　　　　　　　　　　　射程５",
-  "en": "                          Range 5",
+  "en": "                         Range 5",
   "width": 34
  },
  {
@@ -3296,7 +3296,7 @@
  {
   "id": "SYSTEM/2/1134e",
   "jp": "十二の輝石が輝く美しい弓　射程４",
-  "en": "holy gems shine           Range 4",
+  "en": "holy gems shine          Range 4",
   "width": 34
  },
  {
@@ -3320,7 +3320,7 @@
  {
   "id": "SYSTEM/2/113ce",
   "jp": "感じさせない弓　　　　　　射程５",
-  "en": "feel weightless           Range 5",
+  "en": "feel weightless          Range 5",
   "width": 34
  },
  {
@@ -3344,7 +3344,7 @@
  {
   "id": "SYSTEM/2/1144e",
   "jp": "強力な弓　　　　　　　　　射程４",
-  "en": "the stars when shot       Range 4",
+  "en": "the stars when shot      Range 4",
   "width": 34
  },
  {
@@ -3368,7 +3368,7 @@
  {
   "id": "SYSTEM/2/114ce",
   "jp": "　　　　　　　　　　　　　射程４",
-  "en": "                          Range 4",
+  "en": "                         Range 4",
   "width": 34
  },
  {
@@ -3392,7 +3392,7 @@
  {
   "id": "SYSTEM/2/1154e",
   "jp": "　　　　　　　　　　　　　射程４",
-  "en": "                          Range 4",
+  "en": "                         Range 4",
   "width": 34
  },
  {
@@ -3416,7 +3416,7 @@
  {
   "id": "SYSTEM/2/115ce",
   "jp": "　　　　　　　　　　　　　射程４",
-  "en": "                          Range 4",
+  "en": "                         Range 4",
   "width": 34
  },
  {
@@ -3440,7 +3440,7 @@
  {
   "id": "SYSTEM/2/1164e",
   "jp": "蛇紋石で装飾されている　　射程４",
-  "en": "Decorated with serpentine Range 4",
+  "en": "Decorated in serpentine  Range 4",
   "width": 34
  },
  {
@@ -3464,7 +3464,7 @@
  {
   "id": "SYSTEM/2/116ce",
   "jp": "　　　　　　　　　　　　　射程４",
-  "en": "                          Range 4",
+  "en": "                         Range 4",
   "width": 34
  },
  {
@@ -3488,7 +3488,7 @@
  {
   "id": "SYSTEM/2/1174e",
   "jp": "　　　　　　　　　　　　　射程４",
-  "en": "                          Range 4",
+  "en": "                         Range 4",
   "width": 34
  },
  {
@@ -3512,7 +3512,7 @@
  {
   "id": "SYSTEM/2/117ce",
   "jp": "　　　　　　　　　　　　　射程４",
-  "en": "                          Range 4",
+  "en": "                         Range 4",
   "width": 34
  },
  {
@@ -3536,7 +3536,7 @@
  {
   "id": "SYSTEM/2/1184e",
   "jp": "別名「胸当て」銃　　　　　射程４",
-  "en": "Known as the \"chest\" gun  Range 4",
+  "en": "Known as the \"chest\" gun Range 4",
   "width": 34
  },
  {
@@ -3560,7 +3560,7 @@
  {
   "id": "SYSTEM/2/118ce",
   "jp": "精度が高くなっている　　　射程４",
-  "en": "Accuracy is improved      Range 4",
+  "en": "Accuracy is improved     Range 4",
   "width": 34
  },
  {
@@ -3584,7 +3584,7 @@
  {
   "id": "SYSTEM/2/1194e",
   "jp": "音にだまされてはいけない　射程４",
-  "en": "don't trust the sound     Range 4",
+  "en": "don't trust the sound    Range 4",
   "width": 34
  },
  {
@@ -3608,7 +3608,7 @@
  {
   "id": "SYSTEM/2/119ce",
   "jp": "　　　　　　　　　　　　　射程４",
-  "en": "                          Range 4",
+  "en": "                         Range 4",
   "width": 34
  },
  {
@@ -3632,7 +3632,7 @@
  {
   "id": "SYSTEM/2/11a4e",
   "jp": "　　　　　　　　　　　　　射程２",
-  "en": "                          Range 2",
+  "en": "                         Range 2",
   "width": 34
  },
  {
@@ -3656,7 +3656,7 @@
  {
   "id": "SYSTEM/2/11ace",
   "jp": "　　　　　　　　　　　　　射程２",
-  "en": "                          Range 2",
+  "en": "                         Range 2",
   "width": 34
  },
  {
@@ -3674,13 +3674,13 @@
  {
   "id": "SYSTEM/2/11b2c",
   "jp": "艶やかな光沢が美しい鞭",
-  "en": "A whip with a lovely glossy sheen",
+  "en": "Whip with a lovely glossy sheen",
   "width": 34
  },
  {
   "id": "SYSTEM/2/11b4e",
   "jp": "　　　　　　　　　　　　　射程２",
-  "en": "                          Range 2",
+  "en": "                         Range 2",
   "width": 34
  },
  {
@@ -3704,7 +3704,7 @@
  {
   "id": "SYSTEM/2/11bce",
   "jp": "　　　　　　　　　　　　　射程２",
-  "en": "                          Range 2",
+  "en": "                         Range 2",
   "width": 34
  },
  {
@@ -3728,7 +3728,7 @@
  {
   "id": "SYSTEM/2/11c4e",
   "jp": "　　　　　　　　　　　　　射程２",
-  "en": "                          Range 2",
+  "en": "                         Range 2",
   "width": 34
  },
  {
@@ -3752,7 +3752,7 @@
  {
   "id": "SYSTEM/2/11cce",
   "jp": "　　　　　　　　　　　　　射程２",
-  "en": "                          Range 2",
+  "en": "                         Range 2",
   "width": 34
  },
  {
@@ -3776,7 +3776,7 @@
  {
   "id": "SYSTEM/2/11d4e",
   "jp": "　　　　　　　　　　　　　射程２",
-  "en": "                          Range 2",
+  "en": "                         Range 2",
   "width": 34
  },
  {
@@ -3800,7 +3800,7 @@
  {
   "id": "SYSTEM/2/11dce",
   "jp": "　　　　　　　　　　　　　射程３",
-  "en": "                          Range 3",
+  "en": "                         Range 3",
   "width": 34
  },
  {
@@ -3824,7 +3824,7 @@
  {
   "id": "SYSTEM/2/11e4e",
   "jp": "　　　　　　　　　　　　　射程２",
-  "en": "                          Range 2",
+  "en": "                         Range 2",
   "width": 34
  },
  {
@@ -3848,7 +3848,7 @@
  {
   "id": "SYSTEM/2/11ece",
   "jp": "　　　　　　　　　　　　　射程２",
-  "en": "                          Range 2",
+  "en": "                         Range 2",
   "width": 34
  },
  {
@@ -3872,7 +3872,7 @@
  {
   "id": "SYSTEM/2/11f4e",
   "jp": "　　　　　　　　　　　　　射程２",
-  "en": "                          Range 2",
+  "en": "                         Range 2",
   "width": 34
  },
  {
@@ -3896,7 +3896,7 @@
  {
   "id": "SYSTEM/2/11fce",
   "jp": "入っている鞭　　　　　　　射程３",
-  "en": "what seems a goddess      Range 3",
+  "en": "what seems a goddess     Range 3",
   "width": 34
  },
  {
@@ -3920,7 +3920,7 @@
  {
   "id": "SYSTEM/2/1204e",
   "jp": "　　　　　　　　　　　　　射程２",
-  "en": "                          Range 2",
+  "en": "                         Range 2",
   "width": 34
  },
  {
@@ -3944,7 +3944,7 @@
  {
   "id": "SYSTEM/2/120ce",
   "jp": "　　　　　　　　　　　　　射程２",
-  "en": "                          Range 2",
+  "en": "                         Range 2",
   "width": 34
  },
  {
@@ -3968,13 +3968,13 @@
  {
   "id": "SYSTEM/2/1214e",
   "jp": "　　　　　　　　　　　　　射程２",
-  "en": "                          Range 2",
+  "en": "                         Range 2",
   "width": 34
  },
  {
   "id": "SYSTEM/2/12170",
   "jp": "烈気の鞭",
-  "en": "Raging Spirit Whip",
+  "en": "Raging Aura Whip",
   "width": 20
  },
  {
@@ -3992,7 +3992,7 @@
  {
   "id": "SYSTEM/2/121ce",
   "jp": "　　　　　　　　　　　　　射程２",
-  "en": "                          Range 2",
+  "en": "                         Range 2",
   "width": 34
  },
  {
@@ -4016,7 +4016,7 @@
  {
   "id": "SYSTEM/2/1224e",
   "jp": "　　　　　　　　　　　　　射程３",
-  "en": "                          Range 3",
+  "en": "                         Range 3",
   "width": 34
  },
  {
@@ -4076,7 +4076,7 @@
  {
   "id": "SYSTEM/2/123ac",
   "jp": "二つの小さな鉄球を持つフレイル",
-  "en": "A flail with two small iron balls",
+  "en": "Flail with two small iron balls",
   "width": 34
  },
  {
@@ -4232,7 +4232,7 @@
  {
   "id": "SYSTEM/2/12770",
   "jp": "赤羽の杖",
-  "en": "Red Feather Staff",
+  "en": "Red Plume Staff",
   "width": 20
  },
  {
@@ -4298,7 +4298,7 @@
  {
   "id": "SYSTEM/2/1292c",
   "jp": "石化した魔獣の赤い瞳を抱く杖",
-  "en": "Holds a petrified beast's red eye",
+  "en": "Holds a petrified red demon eye",
   "width": 34
  },
  {
@@ -4364,7 +4364,7 @@
  {
   "id": "SYSTEM/2/12aac",
   "jp": "法と秩序の守護者に与えられる杖",
-  "en": "Given to keepers of law and order",
+  "en": "For the keepers of law and order",
   "width": 34
  },
  {
@@ -4460,7 +4460,7 @@
  {
   "id": "SYSTEM/2/12d2c",
   "jp": "黒い光沢が美しいステッキ",
-  "en": "Cane with a beautiful black sheen",
+  "en": "Cane with a lovely black sheen",
   "width": 34
  },
  {
@@ -4526,7 +4526,7 @@
  {
   "id": "SYSTEM/2/12ef0",
   "jp": "哲士のステッキ",
-  "en": "Philosopher's Cane",
+  "en": "Thinker's Cane",
   "width": 20
  },
  {
@@ -4586,7 +4586,7 @@
  {
   "id": "SYSTEM/2/1304e",
   "jp": "魔力を帯びた宝珠を抱くステッキ",
-  "en": "holding an orb charged with magic",
+  "en": "holding an orb steeped in magic",
   "width": 34
  },
  {
@@ -4610,7 +4610,7 @@
  {
   "id": "SYSTEM/2/130ce",
   "jp": "魔力を高める呪文が刻まれている",
-  "en": "Carved with magic-boosting spells",
+  "en": "Bears spells that heighten magic",
   "width": 34
  },
  {
@@ -4676,7 +4676,7 @@
  {
   "id": "SYSTEM/2/1322c",
   "jp": "威力は低いが使いやすいバトン",
-  "en": "Weak, but an easy baton to handle",
+  "en": "Weak, but an easy-to-use baton",
   "width": 34
  },
  {
@@ -4718,7 +4718,7 @@
  {
   "id": "SYSTEM/2/1332c",
   "jp": "花柄の彫刻が施されたバトン",
-  "en": "Baton carved with floral patterns",
+  "en": "A baton with floral carvings",
   "width": 34
  },
  {
@@ -4760,7 +4760,7 @@
  {
   "id": "SYSTEM/2/1342c",
   "jp": "大柄な赤い花の模様が",
-  "en": "A bold pattern of big red flowers",
+  "en": "A bold print of big red flowers",
   "width": 34
  },
  {
@@ -4832,7 +4832,7 @@
  {
   "id": "SYSTEM/2/135ac",
   "jp": "草花をあしらった",
-  "en": "Decorated with flowers and herbs,",
+  "en": "Adorned with flowers and herbs,",
   "width": 34
  },
  {
@@ -4898,7 +4898,7 @@
  {
   "id": "SYSTEM/2/1372c",
   "jp": "リリスがお日様にあてると",
-  "en": "When Lilis holds it up to the sun",
+  "en": "When Lilis holds it to the sun,",
   "width": 34
  },
  {
@@ -5378,7 +5378,7 @@
  {
   "id": "SYSTEM/2/1434e",
   "jp": "独特の光沢が美しい渋い逸品",
-  "en": "Classy piece with a unique luster",
+  "en": "Classy piece of unique luster",
   "width": 34
  },
  {
@@ -5984,7 +5984,7 @@
  {
   "id": "SYSTEM/2/1512e",
   "jp": "３・６・７時に力を得る",
-  "en": "Gains power at 3, 6 and 7 o'clock",
+  "en": "Gains power at 3, 6, 7 o'clock",
   "width": 34
  },
  {
@@ -6074,7 +6074,7 @@
  {
   "id": "SYSTEM/2/153c4",
   "jp": "霊水の妙薬",
-  "en": "Holy Water Elixir",
+  "en": "Holy Water Tonic",
   "width": 18
  },
  {
@@ -6200,7 +6200,7 @@
  {
   "id": "SYSTEM/2/1589c",
   "jp": "対象の破壊されたリズムを治療する",
-  "en": "Restores a target's broken rhythm",
+  "en": "Restores a target's rhythm",
   "width": 34
  },
  {
@@ -6212,7 +6212,7 @@
  {
   "id": "SYSTEM/2/15916",
   "jp": "対象の低下した攻撃力を治療する",
-  "en": "Restores a target's lowered attack",
+  "en": "Restores a target's attack",
   "width": 34
  },
  {
@@ -6224,7 +6224,7 @@
  {
   "id": "SYSTEM/2/15990",
   "jp": "対象の低下した魔力を治療する",
-  "en": "Restores a target's lowered magic",
+  "en": "Restores a target's magic",
   "width": 34
  },
  {
@@ -6422,7 +6422,7 @@
  {
   "id": "SYSTEM/2/16106",
   "jp": "裁きの鉄槌",
-  "en": "Hammer of Judgment",
+  "en": "Judgment Hammer",
   "width": 24
  },
  {
@@ -6476,7 +6476,7 @@
  {
   "id": "SYSTEM/2/1622c",
   "jp": "神威の剱",
-  "en": "Sword of Divine Might",
+  "en": "Divine Sword",
   "width": 24
  },
  {
@@ -6494,7 +6494,7 @@
  {
   "id": "SYSTEM/2/1628e",
   "jp": "拷責の神音",
-  "en": "Divine Tone of Torment",
+  "en": "Toll of Torment",
   "width": 24
  },
  {
@@ -6512,7 +6512,7 @@
  {
   "id": "SYSTEM/2/162f0",
   "jp": "覇道を叫ぶ雷光",
-  "en": "Conqueror's Lightning",
+  "en": "Conqueror's Bolt",
   "width": 24
  },
  {
@@ -6530,7 +6530,7 @@
  {
   "id": "SYSTEM/2/16352",
   "jp": "冥府より来る者",
-  "en": "One Come from Hades",
+  "en": "One from Hades",
   "width": 24
  },
  {
@@ -6548,7 +6548,7 @@
  {
   "id": "SYSTEM/2/163b4",
   "jp": "神をも滅する剱",
-  "en": "God-Slaying Sword",
+  "en": "Godslayer Sword",
   "width": 24
  },
  {
@@ -6566,7 +6566,7 @@
  {
   "id": "SYSTEM/2/16416",
   "jp": "再起する胎動",
-  "en": "Resurgent Quickening",
+  "en": "Quickening Anew",
   "width": 24
  },
  {
@@ -6602,7 +6602,7 @@
  {
   "id": "SYSTEM/2/164da",
   "jp": "凍える錬金術師",
-  "en": "Freezing Alchemist",
+  "en": "Frozen Alchemist",
   "width": 24
  },
  {
@@ -6638,7 +6638,7 @@
  {
   "id": "SYSTEM/2/1659e",
   "jp": "守護の誓い",
-  "en": "Oath of Protection",
+  "en": "Guardian's Oath",
   "width": 24
  },
  {
@@ -6674,7 +6674,7 @@
  {
   "id": "SYSTEM/2/16662",
   "jp": "独善たる使者",
-  "en": "Self-Righteous Envoy",
+  "en": "Dogmatic Envoy",
   "width": 24
  },
  {
@@ -6692,7 +6692,7 @@
  {
   "id": "SYSTEM/2/166c4",
   "jp": "奔放たる選者",
-  "en": "Unbridled Arbiter",
+  "en": "Unbridled Judge",
   "width": 24
  },
  {
@@ -6728,7 +6728,7 @@
  {
   "id": "SYSTEM/2/16788",
   "jp": "裁きの契約",
-  "en": "Covenant of Judgment",
+  "en": "Judgment Pact",
   "width": 24
  },
  {
@@ -6746,7 +6746,7 @@
  {
   "id": "SYSTEM/2/167ea",
   "jp": "終わりの始まり",
-  "en": "Beginning of the End",
+  "en": "The End Begins",
   "width": 24
  },
  {
@@ -6764,7 +6764,7 @@
  {
   "id": "SYSTEM/2/1684c",
   "jp": "募る想いの告白",
-  "en": "Confession of Longing",
+  "en": "Love Confessed",
   "width": 24
  },
  {
@@ -6782,7 +6782,7 @@
  {
   "id": "SYSTEM/2/168ae",
   "jp": "ささやく精霊",
-  "en": "Whispering Spirit",
+  "en": "Murmuring Spirit",
   "width": 24
  },
  {
@@ -6926,7 +6926,7 @@
  {
   "id": "SYSTEM/2/16bbe",
   "jp": "誘う眠り姫",
-  "en": "Luring Sleeping Beauty",
+  "en": "Sleeping Siren",
   "width": 24
  },
  {
@@ -6962,7 +6962,7 @@
  {
   "id": "SYSTEM/2/16c82",
   "jp": "傷負いの剣士",
-  "en": "Wounded Swordsman",
+  "en": "Wounded Duelist",
   "width": 24
  },
  {
@@ -7016,7 +7016,7 @@
  {
   "id": "SYSTEM/2/16da8",
   "jp": "それぞれの立場",
-  "en": "Where Each Stands",
+  "en": "Each One's Stand",
   "width": 24
  },
  {
@@ -7142,7 +7142,7 @@
  {
   "id": "SYSTEM/2/17056",
   "jp": "火精の溜め息",
-  "en": "Fire Sprite's Sigh",
+  "en": "Fire Sprite Sigh",
   "width": 24
  },
  {
@@ -7160,7 +7160,7 @@
  {
   "id": "SYSTEM/2/170b8",
   "jp": "火竜の逆鱗",
-  "en": "Fire Dragon's Wrath",
+  "en": "Fire Dragon Rage",
   "width": 24
  },
  {
@@ -7178,7 +7178,7 @@
  {
   "id": "SYSTEM/2/1711a",
   "jp": "戯れる氷精",
-  "en": "Playful Ice Sprite",
+  "en": "Coy Ice Sprite",
   "width": 24
  },
  {
@@ -7196,7 +7196,7 @@
  {
   "id": "SYSTEM/2/1717c",
   "jp": "凍てつく災禍",
-  "en": "Freezing Calamity",
+  "en": "Frigid Calamity",
   "width": 24
  },
  {
@@ -7214,7 +7214,7 @@
  {
   "id": "SYSTEM/2/171de",
   "jp": "雪原の雷雨",
-  "en": "Snowfield Thunderstorm",
+  "en": "Snowfield Storm",
   "width": 24
  },
  {
@@ -7250,7 +7250,7 @@
  {
   "id": "SYSTEM/2/172a2",
   "jp": "収束する暗黒",
-  "en": "Converging Darkness",
+  "en": "Gathering Dark",
   "width": 24
  },
  {
@@ -7268,7 +7268,7 @@
  {
   "id": "SYSTEM/2/17304",
   "jp": "深淵の極点",
-  "en": "Zenith of the Abyss",
+  "en": "Abyssal Zenith",
   "width": 24
  },
  {
@@ -7304,7 +7304,7 @@
  {
   "id": "SYSTEM/2/173c8",
   "jp": "絶望の光彩",
-  "en": "Luster of Despair",
+  "en": "Despair's Luster",
   "width": 24
  },
  {
@@ -8636,7 +8636,7 @@
  {
   "id": "SYSTEM/2/196d2",
   "jp": "大ナタを断ちふるう影ならぬ暴君",
-  "en": "No shade: Tyrant, cleaver in hand",
+  "en": "No shade: Tyrant with a cleaver",
   "width": 34
  },
  {
@@ -8690,7 +8690,7 @@
  {
   "id": "SYSTEM/2/197ec",
   "jp": "白き翼の少年を守る影ならぬ女神",
-  "en": "No shade: Goddess of a winged boy",
+  "en": "No shade: A winged boy's goddess",
   "width": 34
  },
  {
@@ -8702,7 +8702,7 @@
  {
   "id": "SYSTEM/2/1984a",
   "jp": "異形の翼を継ぐ影ならぬ王",
-  "en": "No shade: King with twisted wings",
+  "en": "No shade: King of twisted wings",
   "width": 34
  },
  {
@@ -8714,7 +8714,7 @@
  {
   "id": "SYSTEM/2/198a8",
   "jp": "悪意を統べる影ならぬ混沌",
-  "en": "No shade: Chaos that rules malice",
+  "en": "No shade: Chaos ruling malice",
   "width": 34
  },
  {
