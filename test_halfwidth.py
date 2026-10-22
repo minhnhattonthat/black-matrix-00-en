@@ -138,6 +138,8 @@ def test_unit_names_are_fixed_after_set_name_and_after_load():
     assert lo <= one < hi
     table = b.find(bytes.fromhex("834a8343") + b"Cain", lo - BASE, hi - BASE)
     assert table > 0 and b[table + 16:table + 20] == bytes.fromhex("83888366".replace("66", "6e")) and b[table + 20:table + 28] == b"Johannes"
+    for old, new in ((b"Zion", b"Zaion "), (b"Bale", b"Beir"), (b"Krei", b"Crace ")):     # 00.9 saves
+        assert b.find(old + new, table, hi - BASE) > 0, old
     assert not _load_delay_hazards(word, list(range(one, one + 0x90, 4)))
 
 
