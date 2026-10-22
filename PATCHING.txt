@@ -32,10 +32,10 @@ HOW TO PATCH
 With Delta Patcher or xdelta UI, once per disc:
 
    Original file : your Disc 1 .bin
-   Patch file    : bm00-en-v00.10-disc1.xdelta
+   Patch file    : bm00-en-v00.11-disc1.xdelta
    Output file   : Black-Matrix 00 (English) (Disc 1).bin
 
-   Then the same for Disc 2 with bm00-en-v00.10-disc2.xdelta, saved as
+   Then the same for Disc 2 with bm00-en-v00.11-disc2.xdelta, saved as
    Black-Matrix 00 (English) (Disc 2).bin
 
    In Delta Patcher, leave "checksum validation" on. If it complains,
@@ -43,8 +43,8 @@ With Delta Patcher or xdelta UI, once per disc:
 
 With xdelta3:
 
-   xdelta3 -d -s "Disc 1.bin" bm00-en-v00.10-disc1.xdelta "Black-Matrix 00 (English) (Disc 1).bin"
-   xdelta3 -d -s "Disc 2.bin" bm00-en-v00.10-disc2.xdelta "Black-Matrix 00 (English) (Disc 2).bin"
+   xdelta3 -d -s "Disc 1.bin" bm00-en-v00.11-disc1.xdelta "Black-Matrix 00 (English) (Disc 1).bin"
+   xdelta3 -d -s "Disc 2.bin" bm00-en-v00.11-disc2.xdelta "Black-Matrix 00 (English) (Disc 2).bin"
 
 The output name is up to you. Open the patched .bin in your emulator
 (each disc is a single data track, so no .cue file is needed; if your

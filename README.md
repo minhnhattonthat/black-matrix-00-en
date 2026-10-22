@@ -9,7 +9,7 @@ for the PlayStation, plus every tool used to make it.
 | Serial | SLPS-03573 (Disc 1), SLPS-03574 (Disc 2) |
 | Developer / publisher | Flight-Plan / NEC Interchannel |
 | Released | 2004, Japan only |
-| Patch version | 00.10 |
+| Patch version | 00.11 |
 
 ## The game
 
@@ -21,7 +21,7 @@ mini-games. The game was never released outside Japan.
 
 ## Download and patch
 
-Get `bm00-en-v00.10.zip` from the [Releases](../../releases) page. It holds one xdelta patch per disc and
+Get `bm00-en-v00.11.zip` from the [Releases](../../releases) page. It holds one xdelta patch per disc and
 `PATCHING.txt`.
 
 **Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
@@ -38,8 +38,8 @@ Apply each patch to its disc with [Delta Patcher](https://github.com/marco-calau
 or `xdelta3`:
 
 ```
-xdelta3 -d -s "Disc 1.bin" bm00-en-v00.10-disc1.xdelta "Black-Matrix 00 (English) (Disc 1).bin"
-xdelta3 -d -s "Disc 2.bin" bm00-en-v00.10-disc2.xdelta "Black-Matrix 00 (English) (Disc 2).bin"
+xdelta3 -d -s "Disc 1.bin" bm00-en-v00.11-disc1.xdelta "Black-Matrix 00 (English) (Disc 1).bin"
+xdelta3 -d -s "Disc 2.bin" bm00-en-v00.11-disc2.xdelta "Black-Matrix 00 (English) (Disc 2).bin"
 ```
 
 Name the output anything you like and open the patched `.bin` in your emulator. Full step-by-step instructions
@@ -48,7 +48,8 @@ are in [PATCHING.txt](PATCHING.txt).
 Notes for playing:
 
 - Start from a cold boot. A save state made with the Japanese game keeps the Japanese program in memory.
-- Memory-card saves from the Japanese game load fine; unit names are turned into English on load.
+- Memory-card saves from the Japanese game load fine; unit names are turned into English on load (and saves
+  from patch 00.9 or earlier get the current spellings).
 
 ## Status
 
@@ -79,7 +80,7 @@ Style choices: faithful rather than localised; honorifics (-san, -sama …) are 
 
 - The patch was tested in DuckStation through ordinary play, not through a complete playthrough of every
   scene. Report anything that spills out of a window or reads wrong.
-- Not yet seen running: the disc-change screen, the Disc 2 movies, and the final stage's title card.
+- Not yet seen running: the Disc 2 movies and the final stage's title card.
 - Movie subtitles were transcribed by ear (speech recognition, then corrected). Lines marked `"check"` in
   `script/MOVIE/` are uncertain.
 - Stage title cards slide in as slices of one line, so the letters overlap for a moment before they settle.
@@ -131,6 +132,11 @@ Close the emulator before building: the image cannot be rewritten while it is op
 | `docs/` | Translator briefs, style reference, and the design notes written along the way |
 | `test_*.py` | Tests (`python check.py` runs them; most need the unpacked discs) |
 | `AGENTS.md` | Instructions for coding agents (`CLAUDE.md` points to it) |
+
+## Thanks
+
+- [n902ix](https://github.com/n902ix) for playing through to Chapter 9, reporting bugs and sending a memory card
+  that made them easy to find and fix.
 
 ## Licence
 
