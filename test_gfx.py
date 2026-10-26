@@ -85,6 +85,19 @@ def test_battle_pictures_keep_every_file_the_same_size():
     assert moved and len(moved) < 1000 and len(old) == len(new)      # cell positions and slide offsets only
 
 
+def test_status_words_are_redrawn_in_their_own_table():
+    import lz
+    sub = dat.unpack((build.ORIG / "BATTLE.DAT").read_bytes())[1]
+    out = labels.popups(sub)
+    o, n = labels._entries(sub)[labels.POPUP_TABLE]
+    assert len(out) == len(sub) and out[:o] == sub[:o] and out[o + n:] == sub[o + n:]
+    old, new = (t[o:o + n] for t in (sub, out))
+    olds, news = ([lz.unpack(t[a:a + s])[0] for a, s in labels._entries(t)] for t in (old, new))
+    assert [len(x) for x in olds] == [len(x) for x in news]
+    assert {i for i, (a, b) in enumerate(zip(olds, news)) if a != b} == set(labels.POPUPS)
+    assert all(olds[i][:24] == news[i][:24] for i in labels.POPUPS)                 # header and size kept
+
+
 if __name__ == "__main__":
     test_sheet_round_trips_through_an_image_and_paste_touches_one_pixel()
     test_redraw_stays_inside_its_rectangle()
@@ -94,4 +107,5 @@ if __name__ == "__main__":
     test_circus_pictures_keep_every_file_the_same_size()
     test_cards_and_banners_keep_their_size()
     test_battle_pictures_keep_every_file_the_same_size()
+    test_status_words_are_redrawn_in_their_own_table()
     print("ok")

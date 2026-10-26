@@ -98,7 +98,7 @@ def patch_system():
     system[2] = tables.insert_fixed(system[2], fixed)
     system[10] = pointers.insert(system[10], _system_json("messages"))
     system[10] = save_title(system[10])
-    system[4] = tables.insert_overlay(system[4], _system_json("overlay"))
+    system[4] = tables.move_overlay(tables.insert_overlay(system[4], _system_json("overlay")))
     menus = _system_json("menus")                  # equip (7), shop (8), level-up (9) overlays; ids are SYSTEM/<sub>/<offset>
     for n in (7, 8, 9):
         system[n] = tables.insert_overlay(system[n], [e for e in menus if e["id"].split("/")[1] == str(n)])
@@ -118,6 +118,7 @@ def patch_system():
         battle[i] = labels.banner(battle[i], text, align)
     ui = labels.BATTLE_UI
     battle[1] = battle[1][:ui] + labels.hud(battle[1][ui:], (set(), set()), labels.BATTLE_LABELS)
+    battle[1] = labels.popups(battle[1])                       # status words over a unit (Dark, Sleep...)
     labels.battle(battle)                                      # headings, stage titles, free-battle place names
     (EXTRACTED / "BATTLE.DAT").write_bytes(dat.pack(battle))
 

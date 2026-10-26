@@ -674,6 +674,76 @@ def banner(blob: bytes, text: str, align: str) -> bytes:
 BATTLE_UI = 0x2C                                   # the battle UI sheet inside BATTLE.DAT sub-file 1
 BATTLE_LABELS = [((0, 193, 40, 206), "THINK")]     # shown while the enemy decides its move
 
+# Status words that pop up over a unit when an ailment or barrier lands (MISS and GUARD are on the UI sheet).
+# BATTLE.DAT sub-file 1 is a table (u32 count, u32 shift 2, count x u16 offset, u16 size in words); its entry 7
+# is another table of packed pictures (lz.py): u32 size in words, 16-byte header, u16 width in words, u16 height,
+# 4-bit pixels, colours 1 (rim) to 8 (white). 1-23 are these words, 80x16 each, in reverse status-list order.
+# Verified: Dark landing (darkness, issue #2) unpacks picture 3 at 0x800ef800 from sub-file 1 + 0x1f1a0.
+POPUP_TABLE = 7
+POPUPS = {
+    1: "Stone", 2: "PP Freeze", 3: "Dark", 4: "Daze", 5: "Ring Seal", 6: "Numb", 7: "Poison", 8: "Sleep",
+    9: "Rhythm Break", 10: "ATK Down", 11: "MAG Down", 12: "ZOC Lost", 13: "Charm", 14: "Move Seal",
+    15: "Atk/Spec Seal", 16: "Item Seal", 17: "Spec Seal", 18: "ZOC Wide", 19: "Phys Barrier",
+    20: "Magic Barrier", 21: "Invincible", 22: "Revive", 23: "Cured",
+}
+
+
+def _entries(table: bytes) -> list[tuple[int, int]]:
+    import struct
+    count, shift = struct.unpack_from("<II", table)
+    return [tuple(v << shift for v in struct.unpack_from("<HH", table, 8 + 4 * i)) for i in range(count)]
+
+
+def popup(packed: bytes, text: str) -> bytes:
+    """A status word redrawn: white letters with a dark rim, centred, like the Japanese."""
+    import struct
+    import lz
+    data, _ = lz.unpack(packed)
+    w, h = struct.unpack_from("<HH", data, 20)
+    w *= 4
+    for name, size in [("arialbd.ttf", 12), ("ARIALNB.TTF", 12), ("ARIALNB.TTF", 11), ("ARIALNB.TTF", 10)]:
+        font = ImageFont.truetype(str(FONTS / name), size)
+        im = Image.new("L", (300, h))
+        ImageDraw.Draw(im).text((2, 12), text, 255, font=font, anchor="ls")
+        tw = im.getbbox()[2] + 2
+        if tw <= w:
+            break
+    else:
+        raise ValueError(f"{text!r} is too long for a status word")
+    left = (w - tw) // 2
+    cov = [[im.getpixel((x - left, y)) if 0 <= x - left < tw else 0 for x in range(w)] for y in range(h)]
+    px = bytearray(w * h // 2)
+    for y in range(h):
+        for x in range(w):
+            if cov[y][x] >= 56:
+                v = 2 + round(cov[y][x] * 6 / 255)
+            elif any(cov[j][i] >= 96 for j in range(max(y - 1, 0), min(y + 2, h)) for i in range(max(x - 1, 0), min(x + 2, w))):
+                v = 1
+            else:
+                continue
+            px[(y * w + x) // 2] |= v << 4 * (x & 1)
+    return lz.pack(data[:24] + px + data[24 + len(px):], packed[:3])
+
+
+def popups(sub: bytes) -> bytes:
+    """BATTLE.DAT sub-file 1 with the status words redrawn; their table is repacked in its old room."""
+    import struct
+    o, n = _entries(sub)[POPUP_TABLE]
+    table = sub[o:o + n]
+    files = [table[a:a + s] for a, s in _entries(table)]
+    for i, text in POPUPS.items():
+        files[i] = popup(files[i], text)
+    files = [f + bytes(-len(f) % 4) for f in files]
+    out = bytearray(struct.pack("<II", len(files), 2))
+    pos = 8 + 4 * len(files)
+    for f in files:
+        out += struct.pack("<HH", pos // 4, len(f) // 4)
+        pos += len(f)
+    out += b"".join(files)
+    if len(out) > n:
+        raise ValueError(f"status words need {len(out)} bytes, their table has {n}")
+    return sub[:o] + bytes(out).ljust(n, b"\0") + sub[o + n:]
+
 
 # ---- speaker name plates (EVENT.DAT sub-files 190-260) ----------------------------------------------
 # Each is a packed file (lz.py) holding a container of two pictures: the bust and an 88x16 name plate.

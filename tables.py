@@ -121,6 +121,23 @@ def insert_overlay(sub4: bytes, entries: list[dict]) -> bytes:
     return bytes(out)
 
 
+# Labels too short for English and skipped by extract_overlay (毒 is one kanji: 3 bytes with its NUL): the text
+# goes in spare zero bytes after another label and the label's one pointer moves there (lbu reads, any alignment).
+# (label offset, pointer offset, new offset, English). Verified: the pointer table is static (same in RAM).
+OVERLAY_BASE = 0x80140000                         # sub-file 4's load address
+OVERLAY_MOVED = [(0x8E8, 0x3FDEC, 0x8B9, "Poison")]   # status window; spare bytes after "MAG Down"
+
+
+def move_overlay(sub4: bytes) -> bytes:
+    out = bytearray(sub4)
+    for old, ptr, new, text in OVERLAY_MOVED:
+        if struct.unpack_from("<I", out, ptr)[0] != OVERLAY_BASE + old or out[new - 1] or any(out[new:new + len(text) + 1]):
+            raise ValueError(f"no room for {text!r} at {new:#x}, or its pointer moved")
+        out[new:new + len(text)] = text.encode("ascii")
+        struct.pack_into("<I", out, ptr, OVERLAY_BASE + new)
+    return bytes(out)
+
+
 def battle_name_list(subs: list[bytes]) -> list[str]:
     """Every distinct unit name used by battle files, in first-seen order.
     Bosses and monsters are not all in SYSTEM table 2, so these get their own translations."""

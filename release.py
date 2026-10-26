@@ -10,7 +10,7 @@ from pathlib import Path
 
 import build
 
-VERSION = "00.11"
+VERSION = "00.12"
 DIST = build.ROOT / "dist"
 DISCS = [(1, build.ROM, build.BUILD / "bm00-en.bin"), (2, build.ROM2, build.BUILD / "bm00-en-disc2.bin")]
 
