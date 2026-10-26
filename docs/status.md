@@ -16,8 +16,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
   barriers...) were still Japanese pictures (BATTLE.DAT sub 1, entry 7; labels.POPUPS). Redrawn in English, using
   the status-window names. Checked in game: Dark landing shows "Dark" (status roll forced with a breakpoint on a
   free-battle-396 state), and a cold boot loads the new table. Other 22 words not seen on screen.
-- **Next:** see the in-game checks below. The status window still shows 毒 for Poison (SYSTEM sub 4 0x8e8: a
-  one-kanji string the overlay extractor skips, 3 bytes of room).
+- **2026-10-26:** the status label 毒 (SYSTEM sub 4 0x8e8, one kanji the overlay extractor skips) is now "Poison":
+  written in spare bytes after "MAG Down" and its pointer (sub 4 0x3fdec) moved (tables.OVERLAY_MOVED). Verified in
+  RAM after a cold boot; the "Poison" popup seen in game. Not seen: a screen drawing the label as text (unit list
+  and Ally/Enemy Check show icons only).
+- **Next:** see the in-game checks below.
 - **Disc-change screen:** works (reported by n902ix in issue #1).
 - **Not yet seen in game:** the Disc 2 movies (008-010, cards 019-022/029-032), the final
   stage title card. Movie lines marked "check" in script/MOVIE are unverified.

@@ -106,6 +106,18 @@ def test_overlay_round_trip_and_in_place_limit():
         assert False, bad
 
 
+def test_moved_labels_land_in_spare_bytes_and_get_repointed():
+    import struct
+    entries = json.loads((ROOT / "script" / "SYSTEM" / "overlay.json").read_text(encoding="utf-8"))
+    sub4 = tables.insert_overlay(SYSTEM[4], entries)
+    out = tables.move_overlay(sub4)
+    for old, ptr, new, text in tables.OVERLAY_MOVED:
+        assert struct.unpack_from("<I", out, ptr)[0] == tables.OVERLAY_BASE + new
+        assert out[new:out.index(b"\0", new)] == text.encode()
+    changed = [i for i in range(len(sub4)) if sub4[i] != out[i]]
+    assert len(changed) <= sum(len(t) + 4 for *_, t in tables.OVERLAY_MOVED)
+
+
 def test_english_fits_the_menu_boxes():
     # measured in game (6-px glyphs): the shop/equip name column holds 16 chars before the count,
     # the description box 32 per line; the byte widths of the fields allow more than the screen does
