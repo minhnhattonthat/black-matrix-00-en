@@ -2,7 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9 (released, bug fixing). Last release: v00.11 (dist/), fixing issue #1 (n902ix: overflow, old names).
+- **Phase:** 9 (released, bug fixing). Last release: v00.12 (dist/), fixing issue #2 (bigbanana23: status words over units,
+  Poison label).
 - **Done:** all text translated on both discs, including picture text and movie subtitles. Repo laid out from
   fan-translation-template (2026-10-23).
 - **2026-10-23:** item/weapon/ring names and description lines overflowed the STATUS, EQUIP and SHOP boxes (user
