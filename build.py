@@ -118,6 +118,7 @@ def patch_system():
         battle[i] = labels.banner(battle[i], text, align)
     ui = labels.BATTLE_UI
     battle[1] = battle[1][:ui] + labels.hud(battle[1][ui:], (set(), set()), labels.BATTLE_LABELS)
+    battle[1] = labels.popups(battle[1])                       # status words over a unit (Dark, Sleep...)
     labels.battle(battle)                                      # headings, stage titles, free-battle place names
     (EXTRACTED / "BATTLE.DAT").write_bytes(dat.pack(battle))
 
