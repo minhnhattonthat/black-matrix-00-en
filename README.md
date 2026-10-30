@@ -51,18 +51,21 @@ Notes for playing:
 - Memory-card saves from the Japanese game load fine; unit names are turned into English on load (and saves
   from patch 00.9 or earlier get the current spellings).
 
-## Status
+## Translation status
 
 Everything with text in it has been translated, on both discs.
 
-| Part | State |
+| Part | Status |
 |---|---|
-| Story dialogue (20,756 lines) | Done |
-| Menus, items, skills, units, system messages | Done |
-| Towns, shops, the Notebook | Done |
-| Picture text: menu titles, save screen, name plates, place cards, battle objectives, stage titles, free-battle screens, circus mini-games | Done |
-| Movies | English subtitles burned into the video |
-| Voices | Japanese, untouched |
+| Story dialogue (20,756 lines) | Translated |
+| Menus, items, skills, units, system messages | Translated |
+| Towns, shops, the Notebook | Translated |
+| Picture text: menu titles, save screen, name plates, place cards, battle objectives, battle status pop-ups, stage titles, free-battle screens, circus mini-games | Translated (a few unused leftovers stay Japanese) |
+| Movies | Translated (English subtitles burned into the video; Disc 2 movies not checked in play) |
+| Voices | Left in Japanese (subtitled, not dubbed) |
+
+Known issues: see [Known issues and things not yet seen in play](#known-issues-and-things-not-yet-seen-in-play)
+below.
 
 The text font was replaced with a half-width one so English fits the original windows.
 
