@@ -33,6 +33,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   playing through the circus ending (scenario 405); 012 and 033 checked as decoded frames of the built stream only, their
   endings not played. Left Japanese: 011's mirrored katakana logo. Place spellings from the free-battle art (D11);
   "Calhing Village" seen in free battle 396, script lines not seen.
+- **2026-11-06:** v00.13 released with the above. Release build, seen in game: instruction pages Flyers, Knife Throw,
+  Tightrope; all 25 free-battle cards (scenarios 380-404: place spellings, "laboratory" subtitle). Still not seen: stage
+  cards 238/240 "Cutta" (not reached by a warp), juggling shouts, spotlight page, the Crace/Glysina lines themselves,
+  endings 012/033.
 - **Next:** see the in-game checks below.
 - **Disc-change screen:** works (reported by n902ix in issue #1).
 - **Not yet seen in game:** the Disc 2 movies (008-010, cards 019-022/029-032), the final
