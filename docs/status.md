@@ -39,7 +39,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   endings 012/033.
 - **Next:** see the in-game checks below.
 - **Disc-change screen:** works (reported by n902ix in issue #1).
-- **Not yet seen in game:** the Disc 2 movies (008-010, cards 019-022/029-032), the final
-  stage title card. Movie lines marked "check" in script/MOVIE are unverified.
+- **Seen by a player only (n902ix, #6, on an earlier version):** the Disc 2 movies (008-010, cards 019-022/029-032), the
+  final stage title card. Movie lines marked "check" in script/MOVIE are unverified.
 - **Open bugs:** see `gh issue list --label bug`.
 - **Waiting on the user:** nothing.

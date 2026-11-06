@@ -61,7 +61,7 @@ Everything with text in it has been translated, on both discs.
 | Menus, items, skills, units, system messages | Translated |
 | Towns, shops, the Notebook | Translated |
 | Picture text: menu titles, save screen, name plates, place cards, battle objectives, battle status pop-ups, stage titles, free-battle screens, circus mini-games | Translated (a few unused leftovers stay Japanese) |
-| Movies | Translated (English subtitles burned into the video; Disc 2 movies not checked in play) |
+| Movies | Translated (English subtitles burned into the video) |
 | Voices | Left in Japanese (subtitled, not dubbed) |
 
 Known issues: see [Known issues and things not yet seen in play](#known-issues-and-things-not-yet-seen-in-play)
@@ -83,7 +83,10 @@ Style choices: faithful rather than localised; honorifics (-san, -sama …) are 
 
 - The patch was tested in DuckStation through ordinary play, not through a complete playthrough of every
   scene. Report anything that spills out of a window or reads wrong.
-- Not yet seen running: the Disc 2 movies and the final stage's title card.
+- Not yet seen running: the two staff rolls other than the circus ending's, the stage cards against Cutta, the
+  juggling shouts and the spotlight act's instruction page.
+- The Disc 2 movies and the final stage's title card were checked by a player
+  ([#6](../../issues/6)), not by us.
 - Movie subtitles were transcribed by ear (speech recognition, then corrected). Lines marked `"check"` in
   `script/MOVIE/` are uncertain.
 - Stage title cards slide in as slices of one line, so the letters overlap for a moment before they settle.
