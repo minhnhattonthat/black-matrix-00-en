@@ -1,8 +1,16 @@
+import json
 import struct
 import dat, script, town
-from build import ORIG
+from build import ORIG, ROOT
 
 TOWN = dat.unpack((ORIG / "TOWN.DAT").read_bytes())
+
+
+def test_circus_shop_names_clear_the_price_column():
+    # measured in game (issue #5): 18 6-px glyphs fit before the SOLD OUT plate / price
+    ui = json.loads((ROOT / "script" / "TOWN" / "town.json").read_text(encoding="utf-8"))
+    over = [e["en"] for e in ui if e["id"].startswith("TOWN/B/30/") and len(e["en"]) > 18]
+    assert not over, over
 
 
 def test_container_round_trip_is_identical_for_every_sub_file():

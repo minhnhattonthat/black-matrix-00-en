@@ -238,7 +238,7 @@ Correction: Luca uses アタシ (script 250) and 捜したわよ (056): Luca is 
 | ぷかぷか様 | Pukapuka-sama | Flight's hat creature |
 | ジョルノ教会 / フィータス教会 | Giorno Church / Fetus Church | |
 | 僕とご主人様 | My Master and Me | serial; ご主人様 changes sex per episode |
-| 達人ノ書～渡／投／球／綱／獣／輝／舞／完～ | Master's Tome ~Flyer/Throw/Ball/Rope/Beast/Shine/Dance/End~ | circus mini-game manuals |
+| 達人ノ書～渡／投／球／綱／獣／輝／舞／完～ | Master's Tome ~Flyer/Throw/Ball/Rope/Beast/Shine/Dance/End~ | circus mini-game manuals; "Tome ~Flyer~" in the shop list (18-char column before the price) |
 | 白馬の王子様 | Prince on a White Horse | literal: the horse is the joke |
 | ヴェローナ古書店 | Verona Used Bookshop | |
 | 蒼い物体 / 蒼いヤツ | the blue thing / the blue guy | mini-game hazard |
