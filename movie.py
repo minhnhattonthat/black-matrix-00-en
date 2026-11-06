@@ -98,28 +98,37 @@ def patch(src: Path, cues: list, dst: Path) -> None:
         return
     with tempfile.TemporaryDirectory() as d:
         d = Path(d)
-        (d / "in.bin").write_bytes(wrap(data))
         (d / "cues.ass").write_text(ass(cues), encoding="utf-8")
-        (d / "f").mkdir()
-        # cwd = temp dir: the subtitles filter then needs no drive-letter escaping, and
-        # jPSXdec resolves the stream and the PNGs relative to it
-        subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "psxstr", "-i", "in.bin",
-                        "-vf", "subtitles=cues.ass", "-start_number", "0", "f/%05d.png"], cwd=d, check=True)
-        xml = ['<?xml version="1.0"?>', '<str-replace version="0.3">']
-        xml += [f'  <replace frame="{n + FRAME_BASE}">f/{n:05d}.png</replace>' for r in ranges for n in r]
-        (d / "replace.xml").write_text("\n".join(xml + ["</str-replace>"]), encoding="utf-8")
-        shutil.copyfile(src, d / "movie.STR")
-        for args in (["-f", "movie.STR", "-x", "movie.idx"],
-                     ["-x", "movie.idx", "-i", "0", "-replaceframes", "replace.xml"]):
-            run = subprocess.run(["java", "-jar", str(JAR), *args], cwd=d, capture_output=True, text=True)
-            if run.returncode:
-                raise RuntimeError(f"{src.name}: jPSXdec failed\n{run.stdout[-2000:]}{run.stderr[-2000:]}")
-        out = (d / "movie.STR").read_bytes()
+        decode(data, d, ["-vf", "subtitles=cues.ass"])
+        dst.write_bytes(replace(src, data, d, [n for r in ranges for n in r]))
+
+
+def decode(data: bytes, d: Path, args: list = []) -> None:
+    """Every frame of the stream to d/f/NNNNN.png (0-based). cwd = d: the subtitles filter needs no drive-letter
+    escaping there, and replace() has jPSXdec resolve the stream and the PNGs relative to it."""
+    (d / "in.bin").write_bytes(wrap(data))
+    (d / "f").mkdir()
+    subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "psxstr", "-i", "in.bin", *args,
+                    "-start_number", "0", "f/%05d.png"], cwd=d, check=True)
+
+
+def replace(src: Path, data: bytes, d: Path, numbers: list) -> bytes:
+    """The stream with the listed frames swapped for d/f/NNNNN.png."""
+    xml = ['<?xml version="1.0"?>', '<str-replace version="0.3">']
+    xml += [f'  <replace frame="{n + FRAME_BASE}">f/{n:05d}.png</replace>' for n in numbers]
+    (d / "replace.xml").write_text("\n".join(xml + ["</str-replace>"]), encoding="utf-8")
+    shutil.copyfile(src, d / "movie.STR")
+    for args in (["-f", "movie.STR", "-x", "movie.idx"],
+                 ["-x", "movie.idx", "-i", "0", "-replaceframes", "replace.xml"]):
+        run = subprocess.run(["java", "-jar", str(JAR), *args], cwd=d, capture_output=True, text=True)
+        if run.returncode:
+            raise RuntimeError(f"{src.name}: jPSXdec failed\n{run.stdout[-2000:]}{run.stderr[-2000:]}")
+    out = (d / "movie.STR").read_bytes()
     if len(out) != len(data):
         raise ValueError(f"{src.name}: size changed {len(data)} -> {len(out)}")
     if out == data:                                # jPSXdec exits 0 when no frame number matched
         raise RuntimeError(f"{src.name}: jPSXdec replaced nothing; the stream would ship without subtitles")
-    dst.write_bytes(out)
+    return out
 
 
 def cache_path(src: Path, cues: list) -> Path:

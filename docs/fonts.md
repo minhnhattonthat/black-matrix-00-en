@@ -11,3 +11,4 @@ per file; a font with no known licence doesn't go into a release.
 | `C:\Windows\Fonts\impact.ttf` | Windows | Microsoft font EULA | as rendered glyphs only | free-battle place names (labels.places) | - |
 | `C:\Windows\Fonts\times.ttf`, `timesbd.ttf`, `timesi.ttf`, `timesbi.ttf` | Windows | Microsoft font EULA | as rendered glyphs only | disc-change screen glow, battle objective banners, stage title cards (labels.py) | - |
 | Arial (ASS style in movie.py, via libass) | Windows | Microsoft font EULA | as burned-in video pixels only | movie subtitles | - |
+| `C:\Windows\Fonts\arial.ttf`, `arialbd.ttf` (credits.py) | Windows | Microsoft font EULA | as burned-in video pixels only | staff rolls | - |

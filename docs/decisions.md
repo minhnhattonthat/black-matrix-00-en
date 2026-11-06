@@ -18,3 +18,5 @@ recorded.
 | D7 | 2026-10-04 | Movies | leave, subtitle | English subtitles burned into the video; voices untouched. |
 | D8 | 2026-10-08 | Release contents | with cue files, patches only | Release zip = xdelta patches + PATCHING.txt, no cue files. |
 | D9 | 2026-10-23 | Repo layout | as is, fan-translation-template | Template docs/config; Python modules and tests stay at the root (sibling repos did the same). |
+| D10 | 2026-11-06 | Staff rolls (issue #6) | translate, leave | "translate all credits roll": all three rolls in the movies (011 circus, 012, 033), redrawn in English. Staff names as printed in 033's own English layer. |
+| D11 | 2026-11-06 | Places that the free-battle art spells differently from the glossary | glossary, art; art for places only, art for character names too | "be faithful, use game's own art as glossary", "Places only": Ramale, Rigol, Hullfolt, Prodeyon, Foetus, Llenium, Calhing. Character names keep the glossary (art's Kutta, john's stay Cutta, Johannes). |

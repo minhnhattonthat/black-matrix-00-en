@@ -18,6 +18,8 @@ for t in sorted(ROOT.glob("test_*.py")):
 # Lint the translated text with tl.check, as if every committed entry were a fresh answer file.
 problems = []
 for js in sorted((ROOT / "script").rglob("*.json")):
+    if js.name == "credits.json":                  # staff rolls: frame data, linted by test_movie
+        continue
     entries = json.loads(js.read_text(encoding="utf-8"))
     src, ans = [], []
     for e in entries:

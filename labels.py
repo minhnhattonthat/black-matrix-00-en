@@ -166,6 +166,8 @@ DEMON = {
     (48, 176): "Mailbox", (64, 0): "Syria",
 }
 PLATE_ROWS, PLATE_H, BAR_W = 96, 16, 72        # names live in the top 96 rows; the underline bar is at (0,0)-(72,16)
+# shortcut: a plate left of the NPC is cut past this frame x; measured on one plate (issue #6), cause not traced
+PLATE_END = 168
 
 
 def _plate(text: str) -> list[list[int]]:
@@ -218,18 +220,26 @@ def nameplates(sheet: bytes, table: bytes) -> tuple[bytes, bytes]:
         moved[u, v] = (shelves[row], row * PLATE_H, len(rows[0]))
         shelves[row] += len(rows[0])
     out = bytearray(table)
-    grown = {}                                                     # rect index -> extra width
+    grown, moved_w = {}, {}                                        # rect index -> extra width, new width
     for i, (u, v, w, h) in enumerate(rects):
         if (u, v) in moved and h == PLATE_H and (v, u, w) in cells:
             out[o3 + 4 + 4 * i:o3 + 8 + 4 * i] = bytes([*moved[u, v], h])
             grown[i] = moved[u, v][2] - w
+            moved_w[i] = moved[u, v][2]
     frames = struct.unpack_from("<I", table, o2)[0]
-    for f in struct.unpack_from(f"<{frames}H", table, o2 + 4):
-        parts = struct.unpack_from("<I", table, o2 + f)[0]
-        for p in range(o2 + f + 4, o2 + f + 4 + 8 * parts, 8):
-            rect, x = table[p + 1], table[p + 2]
-            if rect in grown and x >= 0x80:                        # plate right of the NPC: keep its far edge where
-                out[p + 2] = max(x - grown[rect], 0)               # the Japanese one ended, so it cannot leave the screen
+    spots = [p for f in struct.unpack_from(f"<{frames}H", table, o2 + 4)
+             for p in range(o2 + f + 4, o2 + f + 4 + 8 * struct.unpack_from("<I", table, o2 + f)[0], 8)
+             if table[p + 1] in grown]
+    over = Counter()                                               # rect -> pixels past PLATE_END of a plate left of the NPC
+    for p in spots:
+        if table[p + 2] < 0x80:
+            over[table[p + 1]] = max(over[table[p + 1]], table[p + 2] + moved_w[table[p + 1]] - PLATE_END)
+    for p in spots:
+        rect, x = table[p + 1], table[p + 2]
+        if x >= 0x80:                                              # plate right of the NPC: keep its far edge where
+            out[p + 2] = max(x - grown[rect], 0)                   # the Japanese one ended, so it cannot leave the screen
+        else:
+            out[p + 2] = max(x - over[rect], 0)
     return sheet, bytes(out)
 
 
@@ -330,7 +340,7 @@ PANELS = {
         ((19,), "so press the button shown", "centre"),
         ((20, 21), "mid-screen in time to catch it!!", "centre"),
         ((22,), START, "centre"),
-    ], blocks=[(28, 15, [("Red", -3, "right:47"), ("Blue", 11, "right:47"), ("Pink", 25, "right:47"), ("Green", 39, "right:47")]),
+    ], blocks=[(28, 15, [("Red", -3, 18), ("Blue", 11, 18), ("Pink", 25, 18), ("Green", 39, 18)]),   # lines up with Catchphrase
                (30, 0, [("ball", 0, 4)]),
                (29, 17, [("Catchphrase", 0, 19)]),
                (12, 0, [("mark:", -2, 27), ("press any", 11, "centre"), ("button!", 25, "centre")])]),
@@ -353,7 +363,8 @@ PANELS = {
         (8, 13, [("Left/Right changes the lion's speed", -2, 14), ("Lion jumps; hold for a high jump", 12, 14),
                  ("Slide (only when in a good mood)", 26, 14), (START, 40, 46)]),
         (16, 0, [("Meat restores", 0, "centre")]),
-        (17, 0, [("its mood~", 0, "centre")]),
+        (17, 0, [("its mood~!", 0, "centre")]),
+        (18, 0, []),                                        # the Japanese line's "!" has its own sprite
     ]),
     41: dict(table=22, sheet=8, frames=(3,), title=(4, "Trapeze"), lines=[
         ((5, 6), "You're not ready to perform yet,", "centre"),
@@ -370,10 +381,11 @@ PANELS = {
         ((12,), "and I can't perform!", "centre"),
         ((15,), "Adjust swing speed", "left"),
         ((18,), START, "centre"),
-    ], blocks=[(13, 26, [("Cain jumps", 0, 28)]),
+    ], blocks=[(13, 26, [("Cain jumps", 0, 26)]),
                (21, 0, [("Don't keep", 2, "centre"), ("me waiting~", 15, "centre")])]),
 }
 PANEL_CENTRE = 160
+TITLE_X = 45                                                 # the Japanese centres its titles; English starts them level
 TITLE = dict(fonts=["arialbd.ttf", "ARIALNB.TTF"], outline=1, under=None, drop=False, pick="brightest")
 
 
@@ -451,11 +463,12 @@ def panel(sheet: bytes, table: bytes, spec: dict) -> tuple[bytes, bytes]:
         base = o2 + struct.unpack_from("<H", table, o2 + 4 + 2 * f)[0]
         for p in range(base + 4, base + 4 + 8 * struct.unpack_from("<I", table, base)[0], 8):
             parts.setdefault(table[p + 1], []).append(p)
+    spare = []
     for ids, rows, align in lines:
         start = PANEL_CENTRE - len(rows[0]) // 2 if align == "centre" else table[parts[ids[0]][0] + 2]
         for i in ids:
             if i not in placed:                              # the English needed fewer strips: park the spare one
-                out[o3 + 4 + 4 * i:o3 + 8 + 4 * i] = bytes(rect(0))        # rect 0 is every table's blank
+                spare.append(i)
                 continue
             if not 0 <= start + placed[i][0] <= 255:
                 raise ValueError("instruction page: line starts off screen")
@@ -464,8 +477,19 @@ def panel(sheet: bytes, table: bytes, spec: dict) -> tuple[bytes, bytes]:
     i, text = spec["title"]
     u, v, w, h = rect(i)
     sheet = redraw(sheet, (u, v, u + w, v + h), text, TITLE, "left")
+    title_rect = spec["title"][0]
+    for f in struct.unpack_from(f"<{struct.unpack_from('<I', table, o2)[0]}H", table, o2 + 4):
+        for p in range(o2 + f + 4, o2 + f + 4 + 8 * struct.unpack_from("<I", table, o2 + f)[0], 8):
+            if table[p + 1] == title_rect:
+                out[p + 2] = TITLE_X
     for i, clear_from, texts in spec["blocks"]:
         sheet = _block(sheet, rect(i), clear_from, texts)
+    if spare:                                                # after every write, so the parking spot stays empty
+        w, h = gfx.header(sheet)[1], gfx.height(sheet)
+        u, v = next((x, y) for y in range(0, h - 7, 8) for x in range(0, w - 7, 8)
+                    if not any(gfx.get(sheet, x + a, y + b) for a in range(8) for b in range(8)))
+        for i in spare:
+            out[o3 + 4 + 4 * i:o3 + 8 + 4 * i] = bytes([u, v, 8, 8])
     return sheet, bytes(out)
 
 
@@ -551,11 +575,12 @@ def hud(sheet: bytes, rects: tuple, labels: list, debug: bool = False) -> bytes:
 
 # circus menu (sub-file 34) and equipment shop (35): entry 5 = texture page 0
 CIRCUS = {
-    34: [((168, 0, 216, 16), "TIPS"), ((168, 16, 256, 32), "SHOWS LEFT:"), ((0, 56, 88, 80), "END SHOW"),
+    34: [((168, 0, 216, 16), "TIPS"), ((216, 0, 232, 16), ""), ((168, 16, 256, 32), "SHOWS LEFT:"), ((0, 56, 88, 80), "END SHOW"),   # "" = the 回 after the count
          ((0, 80, 88, 120), "SELECT ACT"), ((64, 160, 120, 192), "PRACTICE"), ((64, 192, 120, 224), "PERFORM")],
     35: [((168, 0, 216, 16), "TIPS"), ((233, 0, 256, 16), "EXIT"), ((168, 16, 256, 56), "BUY GEAR")],
 }
-# shouts in the knife game (sub-file 38, entry 6): rectangle -> English; two-piece shouts read left to right
+# shouts in the juggling game (sub-file 38, entry 6): rectangle -> English; two-piece shouts are two stacked lines.
+# Each rectangle is centred on its bubble, so the text is centred in the rectangle.
 CHEERS = {
     (104, 128, 48, 16): "Let's go!", (96, 144, 56, 16): "Phew...", (24, 160, 56, 16): "Yay!", (80, 160, 48, 16): "On it!",
     (24, 176, 32, 16): "Nice!", (56, 176, 40, 16): "Did it!", (96, 176, 56, 16): "Easy!",
@@ -568,7 +593,7 @@ CHEERS = {
 
 def cheers(sheet: bytes) -> bytes:
     for rect, text in CHEERS.items():
-        sheet = _block(sheet, rect, 0, [(text, 0, 1)], cheer=True)
+        sheet = _block(sheet, rect, 0, [(text, 0, "centre")], cheer=True)
     return sheet
 
 
@@ -594,16 +619,16 @@ def circus(index: int, tree) -> None:
 # ---- place-name cards (EVENT.DAT, one 160x24 picture per sub-file) and battle objective banners -----
 CARDS = {
     10: "Cain's House", 11: "Johannes's Underground Lab", 12: "Outside the Ruins", 13: "Island Church",
-    14: "Altar Room", 15: "Prodevon Church", 16: "City of Verona", 17: "Nekintar Kanel Troupe", 18: "Dahlia Beer",
-    20: "Diribel Church", 21: "Back Alley", 22: "Spectral Catacombs", 23: "Church Prison", 24: "Church of Rigor",
-    25: "Chapel", 26: "Skies over Rigor", 27: "Incest Holding Cell", 28: "Edge of Town",
+    14: "Altar Room", 15: "Prodeyon Church", 16: "City of Verona", 17: "Nekintar Kanel Troupe", 18: "Dahlia Beer",
+    20: "Diribel Church", 21: "Back Alley", 22: "Spectral Catacombs", 23: "Church Prison", 24: "Church of Rigol",
+    25: "Chapel", 26: "Skies over Rigol", 27: "Incest Holding Cell", 28: "Edge of Town",
     30: "Demons' Underground Passage", 31: "Hunting Ground of Lament", 32: "Ramstein Cathedral",
-    33: "Inside the Cathedral", 34: "Leniam Plaza", 35: "Fetus Church", 36: "Inside the Church",
+    33: "Inside the Cathedral", 34: "Llenium Plaza", 35: "Foetus Church", 36: "Inside the Church",
     37: "Abandoned Church Facility", 38: "Former Test Facility", 39: "Tribunal Generals' Trial",
     40: "Mephist's Prison", 41: "Kibotos Island", 42: "God Core's Prison", 43: "Kanel Troupe Stage",
     44: "Underground World", 45: "Elder's Mansion", 46: "Saint Helena Street", 47: "Pasca Temple",
     48: "San Bartelmi Church", 49: "San Bartelmi Underground", 50: "God Core Control Room",
-    51: "God Core Test Facility", 52: "Kalhin Settlement", 53: "Demon Army Facility", 54: "Cypherpunk Facility",
+    51: "God Core Test Facility", 52: "Calhing Settlement", 53: "Demon Army Facility", 54: "Cypherpunk Facility",
     55: "Cryo-Sentence Prison", 56: "Graveyard", 57: "Johannes's Laboratory", 58: "World Tree of Kibotos",
     59: "Atop the World Tree", 60: "Greyhen Chamber", 61: "God Core Tree-Womb Device", 63: "Ruins",
     64: "Site of the Ruins",
@@ -873,6 +898,9 @@ TITLES = {
     234: "Darkness of the Brethren", 235: "Shattered Hope", 236: "Overcome All Pain", 237: "No Use Arguing",
     238: "Defeat Cutta!", 239: "Dana's Trial", 240: "Finish Off Cutta!",
 }
+# Small art subtitles keep the game's English, but spell Cutta with a K ("Kutta incident", "Kutta forever Kutta"):
+# where to put a C over each K. Sub-file 214 has the only capital C in that lettering.
+KUTTA = {238: [(203, 68)], 240: [(185, 68), (93, 164)]}
 _ROWS = ((64, 88), (64, 120))
 _NINTH = (192, 184)
 # The game spaces the cells unevenly (tighter towards the middle; fine for kanji, not for a line cut in
@@ -963,14 +991,16 @@ def title_tables(tables: bytes) -> bytes:
 # Kind 0x111: a 304x256 4-bit sheet of 16x16 tiles; at extra_off u32 columns, u32 rows, then for each screen
 # tile u8 u, u8 v, u8 CLUT row, u8 0x80 | texture page (page 1 = u + 256). The place name is part of the picture.
 PLACES = {
-    252: "Outskirts of Verona", 255: "Ramel Church", 256: "Ruined Church", 257: "Halfort Church",
-    258: "Spectral Catacombs", 259: "Prodevon Church Prison", 260: "Fetus Church",
-    261: "Abandoned Church Test Facility", 263: "Leniam Plaza", 265: "Cypherpunk Facility",
-    267: "Kalhin Village", 269: "Fario Village", 270: "Pasca Temple", 275: "Johannes's Laboratory",
+    252: "Outskirts of Verona", 255: "Ramale Church", 256: "Ruined Church", 257: "Hullfolt Church",
+    258: "Spectral Catacombs", 259: "Prodeyon Church Prison", 260: "Foetus Church",
+    261: "Abandoned Church Test Facility", 263: "Llenium Plaza", 265: "Cypherpunk Facility",
+    267: "Calhing Village", 269: "Fario Village", 270: "Pasca Temple", 275: "Johannes's Laboratory",
     276: "Temple Gate",
 }
 PLACE_ROWS = (93, 138)          # the dark band that holds the name
 PLACE_RIGHT = 304               # the names end here
+# The small art subtitle of sub-file 275 says "john's laboratory": the name goes, "laboratory" moves to where it began.
+LAB_SUBTITLE = dict(rows=(75, 93), keep=(56, 136), shift=47, patch=140)
 
 
 def _rgb(c: int) -> tuple:
@@ -1030,6 +1060,16 @@ def _retile(blob: bytes, im, top: int, bottom: int) -> bytes:
     return bytes(out)
 
 
+def _lab_subtitle(im) -> None:
+    """Rewrite the subtitle in `im`. Every picture has a subtitle here, so no clean copy of the background exists:
+    the grunge further right on the same rows stands in for it."""
+    top, bottom = LAB_SUBTITLE["rows"]
+    x0, x1 = LAB_SUBTITLE["keep"]
+    word = im.crop((x0, top, x1, bottom))
+    im.paste(im.crop((LAB_SUBTITLE["patch"], top, LAB_SUBTITLE["patch"] + x1, bottom)), (0, top))
+    im.paste(word, (x0 - LAB_SUBTITLE["shift"], top))
+
+
 def places(screens: dict) -> dict:
     """{sub-file: picture} -> the same with English place names. The band behind a name is rebuilt from all
     the pictures together: per pixel the median one, which is background wherever the names differ."""
@@ -1053,7 +1093,10 @@ def places(screens: dict) -> dict:
             at = (PLACE_RIGHT, (top + bottom) // 2 + 1)
             draw.text((at[0] + 2, at[1] + 2), text, (40, 40, 40), font=font, anchor="rm", stroke_width=2, stroke_fill=(40, 40, 40))
             draw.text(at, text, (248, 248, 248), font=font, anchor="rm", stroke_width=2, stroke_fill=(8, 8, 8))
-            done[text] = _retile(blob, im, top, bottom)
+            lab = n == 275
+            if lab:
+                _lab_subtitle(im)
+            done[text] = _retile(blob, im, LAB_SUBTITLE["rows"][0] if lab else top, bottom)
         new[n] = done[text]
     return new
 
@@ -1064,10 +1107,14 @@ def battle(subs: list) -> None:
     at = CONDITION_SHEET
     for box, lines in CONDITIONS:
         subs[2] = subs[2][:at] + heading(subs[2][at:], box, lines)
+    crace = town.parse(subs[214])[0][1]
+    c = [[gfx.get(crace, x, y) for x in range(80, 90)] for y in range(164, 179)]    # the C of its "faith and Crace"
     for i, text in TITLES.items():
         children, tail = town.parse(subs[i])
         children[1] = title(children[1], text, _cells(children[3]))
         children[3] = title_tables(children[3])
+        for x, y in KUTTA.get(i, ()):
+            children[1] = gfx.paste(children[1], x, y, c)
         subs[i] = town.rebuild((children, tail))
     free = {i: town.parse(subs[i]) for i in range(min(PLACES), max(PLACES) + 1) if subs[i]}
     for i, picture in places({i: tree[0][2] for i, tree in free.items()}).items():
