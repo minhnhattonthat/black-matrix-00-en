@@ -4,7 +4,7 @@ from pathlib import Path
 
 from PIL import Image
 
-import dat, exe, gfx, halfwidth, labels, movie, pointers, script, tables, town
+import credits, dat, exe, gfx, halfwidth, labels, movie, pointers, script, tables, town
 
 ROOT = Path(__file__).parent
 sys.path.insert(0, str(ROOT / "tools"))
@@ -180,10 +180,14 @@ def patch_movies(orig: Path = ORIG / "MOVIE", out: Path = EXTRACTED / "MOVIE"):
     Cue files are shared by both discs: a stream name means the same movie on either disc."""
     if not orig.is_dir():                          # glob on a missing folder is empty: no subtitles, no error
         raise FileNotFoundError(f"{orig}: no pristine movies; run `python build.py extract`")
+    rolls = credits.spec()
     for src in sorted(orig.glob("*.STR")):
         cue_file = SCRIPT / "MOVIE" / f"{src.stem}.json"
         cues = json.loads(cue_file.read_text(encoding="utf-8")) if cue_file.exists() else []
-        shutil.copyfile(movie.cached(src, cues) if any(c["en"] for c in cues) else src, out / src.name)
+        if src.stem in rolls:                      # the staff rolls: Japanese text redrawn, not subtitled
+            shutil.copyfile(credits.cached(src, rolls[src.stem]), out / src.name)
+        else:
+            shutil.copyfile(movie.cached(src, cues) if any(c["en"] for c in cues) else src, out / src.name)
 
 
 def patch():

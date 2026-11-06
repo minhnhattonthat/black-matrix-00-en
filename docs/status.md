@@ -29,11 +29,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
   Offline only (composed from the sheet and table / rendered picture, not seen running): juggling shouts centred, stage
   cards 238/240 "Cutta", free battle 275 subtitle "laboratory" (name dropped), Crace/Glysina script lines.
   `tools/debug/circus.py` opens every act's page cold. Page 41 (spotlight practice) not reached: the route lands on 42.
+- **2026-11-06:** rest of #6 (not released). Staff rolls in English (D10, `credits.py`, docs/re/movie-notes.md): 011 seen
+  playing through the circus ending (scenario 405); 012 and 033 checked as decoded frames of the built stream only, their
+  endings not played. Left Japanese: 011's mirrored katakana logo. Place spellings from the free-battle art (D11);
+  "Calhing Village" seen in free battle 396, script lines not seen.
 - **Next:** see the in-game checks below.
 - **Disc-change screen:** works (reported by n902ix in issue #1).
 - **Not yet seen in game:** the Disc 2 movies (008-010, cards 019-022/029-032), the final
   stage title card. Movie lines marked "check" in script/MOVIE are unverified.
 - **Open bugs:** see `gh issue list --label bug`.
-- **Waiting on the user:** the circus ending's staff roll (scenario 405, EVENT pictures) is still Japanese: translate or
-  leave? (asked in #6). Free-battle art subtitles spell places unlike the glossary (Ramale/Ramel, Hullfolt/Halfort,
-  Prodeyon/Prodevon, calhing/Kalhin, Llenium/Leniam, Foetus/Fetus): left as the game's art.
+- **Waiting on the user:** nothing.

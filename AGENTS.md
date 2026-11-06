@@ -19,7 +19,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 
 ## Paths
 - Original discs: `rom/Black-Matrix 00 (Japan) (Disc 1|2).bin` (gitignored; SHA-1 in `rom.sha1`, checked by `tools/check_rom.py`). Tools (gitignored, third-party): tools/pcsx-redux, tools/mkpsxiso-2.30-win64, armips, jpsxdec (Java 8); ffmpeg + xdelta3 on PATH. Savestates: `work/states/` (DuckStation; zstd, RAM at +0x1a62, VRAM at +0x201ddb of the unpacked state).
-- Text: `script/{SCENARIO,SYSTEM,TOWN,EXE,MOVIE}/*.json` (jp beside en); redrawn picture text in script/GFX/*.png. Font/asm hacks: asm/ (halfwidth.asm, savetitle.asm).
+- Text: `script/{SCENARIO,SYSTEM,TOWN,EXE,MOVIE}/*.json` (jp beside en); redrawn picture text in script/GFX/*.png. Staff rolls: `script/MOVIE/credits.json` drawn by credits.py (`python -X utf8 credits.py BMM_011` renders frames to work/qa/credits/en/). Font/asm hacks: asm/ (halfwidth.asm, savetitle.asm).
 - Glossary: `glossary.md`; voices: docs/style-reference.md; translator brief: docs/translator-brief*.md. RE notes index: `docs/re/README.md`. Fonts and their licences: `docs/fonts.md`. Design specs and plans: docs/superpowers/.
 
 ## Rulings

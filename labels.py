@@ -619,16 +619,16 @@ def circus(index: int, tree) -> None:
 # ---- place-name cards (EVENT.DAT, one 160x24 picture per sub-file) and battle objective banners -----
 CARDS = {
     10: "Cain's House", 11: "Johannes's Underground Lab", 12: "Outside the Ruins", 13: "Island Church",
-    14: "Altar Room", 15: "Prodevon Church", 16: "City of Verona", 17: "Nekintar Kanel Troupe", 18: "Dahlia Beer",
-    20: "Diribel Church", 21: "Back Alley", 22: "Spectral Catacombs", 23: "Church Prison", 24: "Church of Rigor",
-    25: "Chapel", 26: "Skies over Rigor", 27: "Incest Holding Cell", 28: "Edge of Town",
+    14: "Altar Room", 15: "Prodeyon Church", 16: "City of Verona", 17: "Nekintar Kanel Troupe", 18: "Dahlia Beer",
+    20: "Diribel Church", 21: "Back Alley", 22: "Spectral Catacombs", 23: "Church Prison", 24: "Church of Rigol",
+    25: "Chapel", 26: "Skies over Rigol", 27: "Incest Holding Cell", 28: "Edge of Town",
     30: "Demons' Underground Passage", 31: "Hunting Ground of Lament", 32: "Ramstein Cathedral",
-    33: "Inside the Cathedral", 34: "Leniam Plaza", 35: "Fetus Church", 36: "Inside the Church",
+    33: "Inside the Cathedral", 34: "Llenium Plaza", 35: "Foetus Church", 36: "Inside the Church",
     37: "Abandoned Church Facility", 38: "Former Test Facility", 39: "Tribunal Generals' Trial",
     40: "Mephist's Prison", 41: "Kibotos Island", 42: "God Core's Prison", 43: "Kanel Troupe Stage",
     44: "Underground World", 45: "Elder's Mansion", 46: "Saint Helena Street", 47: "Pasca Temple",
     48: "San Bartelmi Church", 49: "San Bartelmi Underground", 50: "God Core Control Room",
-    51: "God Core Test Facility", 52: "Kalhin Settlement", 53: "Demon Army Facility", 54: "Cypherpunk Facility",
+    51: "God Core Test Facility", 52: "Calhing Settlement", 53: "Demon Army Facility", 54: "Cypherpunk Facility",
     55: "Cryo-Sentence Prison", 56: "Graveyard", 57: "Johannes's Laboratory", 58: "World Tree of Kibotos",
     59: "Atop the World Tree", 60: "Greyhen Chamber", 61: "God Core Tree-Womb Device", 63: "Ruins",
     64: "Site of the Ruins",
@@ -991,10 +991,10 @@ def title_tables(tables: bytes) -> bytes:
 # Kind 0x111: a 304x256 4-bit sheet of 16x16 tiles; at extra_off u32 columns, u32 rows, then for each screen
 # tile u8 u, u8 v, u8 CLUT row, u8 0x80 | texture page (page 1 = u + 256). The place name is part of the picture.
 PLACES = {
-    252: "Outskirts of Verona", 255: "Ramel Church", 256: "Ruined Church", 257: "Halfort Church",
-    258: "Spectral Catacombs", 259: "Prodevon Church Prison", 260: "Fetus Church",
-    261: "Abandoned Church Test Facility", 263: "Leniam Plaza", 265: "Cypherpunk Facility",
-    267: "Kalhin Village", 269: "Fario Village", 270: "Pasca Temple", 275: "Johannes's Laboratory",
+    252: "Outskirts of Verona", 255: "Ramale Church", 256: "Ruined Church", 257: "Hullfolt Church",
+    258: "Spectral Catacombs", 259: "Prodeyon Church Prison", 260: "Foetus Church",
+    261: "Abandoned Church Test Facility", 263: "Llenium Plaza", 265: "Cypherpunk Facility",
+    267: "Calhing Village", 269: "Fario Village", 270: "Pasca Temple", 275: "Johannes's Laboratory",
     276: "Temple Gate",
 }
 PLACE_ROWS = (93, 138)          # the dark band that holds the name

@@ -1,3 +1,4 @@
+import credits
 import movie
 
 CUES = [{"id": "MOVIE/001/00", "start": 1.0, "end": 2.5, "jp": "a", "en": "Hello there."},
@@ -69,6 +70,24 @@ def test_cache_key_follows_cues():
     c2 = [{"id": "x", "start": 2.0, "end": 3.0, "jp": "", "en": "Two"}]
     assert movie.cache_path(SRC, c1) != movie.cache_path(SRC, c2)
     assert movie.cache_path(SRC, c1) == movie.cache_path(SRC, list(c1))
+
+
+def test_staff_rolls_are_ascii_and_fit():
+    for name, stream in credits.spec().items():
+        assert stream["pages"], name
+        for pi, p in enumerate(stream["pages"]):
+            assert p["rows"], (name, pi)
+            frames = [f for f, _ in p["track"]]
+            assert frames == sorted(set(frames)) and len(frames) >= 2, (name, pi)   # offset() divides by the gap
+            left, right = 0, 320
+            if "panels" in stream:
+                left, right = (stream["panels"][:2] if p["rows"][0]["align"] == "l" else stream["panels"][2:])
+            for r in p["rows"]:
+                assert r["en"] and all(32 <= ord(c) < 127 for c in r["en"]), (name, pi, r["en"])
+                w = credits.width(r, stream["size"])
+                x0, _, x1, _ = r["box"]
+                edge = {"l": (x0, x0 + w), "r": (x1 - w, x1), "c": ((x0 + x1 - w) // 2, (x0 + x1 + w) // 2)}[r["align"]]
+                assert left <= edge[0] and edge[1] <= right, (name, pi, r["en"], edge)
 
 
 def test_phrases_cut_at_pauses():

@@ -50,5 +50,21 @@ byte-identical across discs).
 |--------|--------|-----------|
 | BMM_008 (36 s) | Cain | 4 cues |
 | BMM_009 / 010 (47 s) | two variants of the same scene (rule / destroy) | 5 / 3 cues; 010 may have an unheard line near 30 s |
-| BMM_012, 033, 034 | none | none |
+| BMM_012, 033, 034 | none | staff rolls (below); 034 is scenery only |
 | BMM_019..022 / 029..032 | chapter 7, 8, 9 and final chapter cards | title cue |
+
+## Staff rolls
+
+`credits.py` + `script/MOVIE/credits.json`: 011 (circus ending, both discs, seen playing), 012 and 033 (Disc 2). Each row
+of Japanese is erased frame by frame (bright grey pixels of its box filled from their neighbours) and the English drawn
+on the same scroll track, as bright as the Japanese was on that frame. 012 also wipes its text panel whole: the rows
+slide in with vertical smears there.
+
+- Spellings: 033 carries a dim English roll behind the white one, moving at 2.5 px/frame. Stacked at that speed (10th
+  percentile per pixel) it reads clearly, except a few first names under the white columns. Taken as printed: SINYA,
+  SYOUHEI, SYUJI, SINJI, MAITO, YUU. Evened out: WATANBE to WATANABE, SHINITIRO to SHINICHIRO, both once against the same
+  person spelled right elsewhere. KAKEYUKI ODA is read as TAKEYUKI (武之): uncertain. Cast names follow glossary.md.
+- `tools/debug/credits_fit.py STREAM` measured the tracks and rows (needs the decoded frames in work/qa/credits/NNN).
+  Its text is not kept anywhere else: to change a line edit credits.json.
+- Not translated: 011's mirrored katakana logo interludes (ダブルオー ブラックマトリクス); 011's English PERFORMED BY stays.
+- 012/033 play on endings not reached by warp so far: checked as rendered frames only.

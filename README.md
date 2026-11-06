@@ -90,9 +90,11 @@ Style choices: faithful rather than localised; honorifics (-san, -sama …) are 
 - A few Notebook articles are worded tightly: the game keeps town text in a fixed-size buffer.
 - A few unused picture leftovers stay Japanese (spare circus HUD pieces, a placeholder title in the
   "BATTLE nn" files).
-- The small English subtitles on stage cards and free-battle screens are the game's original art. Only character
-  names were changed (Kutta to Cutta; "john's laboratory" to "laboratory"), so some place spellings differ.
-- The staff roll after the circus ending is still Japanese.
+- The small English subtitles on stage cards and free-battle screens are the game's original art; the translation
+  takes its place spellings from them. Only character names were changed there (Kutta to Cutta; "john's laboratory"
+  to "laboratory").
+- The staff rolls are redrawn in English, with the spellings of the English roll behind the last one. A few first
+  names are hard to read in it (a dim, blurred layer). The mirrored katakana logo inside the circus roll stays.
 
 ## Building from source
 

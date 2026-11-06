@@ -65,7 +65,7 @@ Official spellings from the Double O official site, via namu.wiki (Characters fr
 | ペインリング | Pain Ring | |
 | ペインキラー | Painkiller | the Pain Ring's ultimate power |
 | 渇き | the Thirst | black-wing illness |
-| 教団 / プロデヴォン教団 | the Church / the Prodevon Church | |
+| 教団 / プロデヴォン教団 | the Church / the Prodeyon Church | spelling from the free-battle art |
 | 僧兵 | monk soldier | |
 | 神官兵 / 見習い神官兵 | priest soldier / novice priest soldier | |
 | 天使兵 / 高位天使兵 | angel soldier / high angel soldier | |
@@ -82,7 +82,7 @@ Official spellings from the Double O official site, via namu.wiki (Characters fr
 | ヴェローナ | Verona | city |
 | サンバルテルミ | San Bartelmi ? | great cathedral city |
 | ラムシュタイン大聖堂 | Ramstein Cathedral | |
-| ラメル教会 / リゴルの教会 / ハルフォルト教会 | Ramel Church / Rigor Church / Halfort Church | |
+| ラメル教会 / リゴルの教会 / ハルフォルト教会 | Ramale Church / Rigol Church / Hullfolt Church | spellings from the free-battle art |
 | グーテンベルグ | Gutenberg | handout in Verona |
 | ペレンデール | Perendale | Beir's family name |
 | グレイヘン | Greyhen ? | |
@@ -170,7 +170,7 @@ Glysina presents female but self-identifies as a man (195): pronoun-free.
 | 熾天使 | Seraph | Beir's rank |
 | 異端審査官 | Inquisitor | |
 | 両性体 | dual-sexed | |
-| レニアム坂広場 | Leniam Plaza | |
+| レニアム坂広場 | Llenium Plaza | spelling from the free-battle art |
 | 研究所 | the laboratory | |
 | 上級天使 | high-ranking angel | |
 | 幹部候補 | officer candidate | |
@@ -190,7 +190,7 @@ Glysina presents female but self-identifies as a man (195): pronoun-free.
 
 Correction: Luca uses アタシ (script 250) and 捜したわよ (056): Luca is a woman. The gender list at the top is wrong on this point; check earlier scripts for "he/him" referring to Luca.
 | フォーメーションＡ/Ｂ | Formation A / B | |
-| カルヒンの村 | Kalhin Village | demon homeland |
+| カルヒンの村 | Calhing Village | demon homeland; spelling from the free-battle art |
 | フィリオ / ゲルダ | Filio / Gelda | villagers |
 | ルビエル・ビッグホーン | Rubiel Bighorn | Angel of Law |
 | ＜永久凍結＞刑 | Eternal Freeze | sentence |
@@ -236,7 +236,7 @@ Correction: Luca uses アタシ (script 250) and 捜したわよ (056): Luca is 
 | Japanese | English | notes |
 |---|---|---|
 | ぷかぷか様 | Pukapuka-sama | Flight's hat creature |
-| ジョルノ教会 / フィータス教会 | Giorno Church / Fetus Church | |
+| ジョルノ教会 / フィータス教会 | Giorno Church / Foetus Church | spelling from the free-battle art |
 | 僕とご主人様 | My Master and Me | serial; ご主人様 changes sex per episode |
 | 達人ノ書～渡／投／球／綱／獣／輝／舞／完～ | Master's Tome ~Flyer/Throw/Ball/Rope/Beast/Shine/Dance/End~ | circus mini-game manuals; "Tome ~Flyer~" in the shop list (18-char column before the price) |
 | 白馬の王子様 | Prince on a White Horse | literal: the horse is the joke |
