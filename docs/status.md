@@ -2,8 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9 (released, bug fixing). Last release: v00.13 (dist/), fixing issues #4, #5 (bigbanana23: circus text) and #6
-  (n902ix: old names, cut plate, card subtitles, staff rolls).
+- **Phase:** 9 (released, bug fixing). Last release: v00.14 (dist/), fixing issue #7 (n902ix: circus ending staff roll
+  smeared its pictures).
 - **Done:** all text translated on both discs, including picture text and movie subtitles. Repo laid out from
   fan-translation-template (2026-10-23).
 - **2026-10-23:** item/weapon/ring names and description lines overflowed the STATUS, EQUIP and SHOP boxes (user
