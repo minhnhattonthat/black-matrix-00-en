@@ -37,6 +37,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   Tightrope; all 25 free-battle cards (scenarios 380-404: place spellings, "laboratory" subtitle). Still not seen: stage
   cards 238/240 "Cutta" (not reached by a warp), juggling shouts, spotlight page, the Crace/Glysina lines themselves,
   endings 012/033.
+- **2026-11-08:** issue #7 (n902ix): circus ending staff roll (011) smeared the pictures on page zoom/fade frames:
+  `credits.wipe` filled "strokes" inside the picture up to 70 px past the text, on every page. Now only on pages with
+  an `over` row, and only to that row's end. Seen in game (warp 405, `--mash-key circle`): GRAPHIC page picture (the
+  reporter's frame) and the circus-stage page change clean. 012/033 untouched (no `intro`).
 - **Next:** see the in-game checks below.
 - **Disc-change screen:** works (reported by n902ix in issue #1).
 - **Seen by a player only (n902ix, #6, on an earlier version):** the Disc 2 movies (008-010, cards 019-022/029-032), the

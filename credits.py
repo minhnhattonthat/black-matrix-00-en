@@ -69,9 +69,10 @@ def fill(rgb: np.ndarray, mask: np.ndarray) -> None:
         rgb[mask] = rgb[idx[0][mask], idx[1][mask]]
 
 
-def wipe(rgb: np.ndarray, right: int) -> None:
+def wipe(rgb: np.ndarray, right: int, over: int) -> None:
     """A page zooming in or fading, its text anywhere left of `right`: grey outside the picture goes black; over the
-    picture (bounding box of the coloured pixels) only thin bright strokes go, or the picture would go with them."""
+    picture (bounding box of the coloured pixels) only thin bright strokes go, and only left of `over` (right end of
+    the rows crossing it, 0 if none): wiping to `right` there smeared the art (#7)."""
     lum = rgb.max(2).astype(int)
     sat = lum - rgb.min(2)
     cols, rows = np.nonzero((sat > 12).sum(0) > 6)[0], np.nonzero((sat > 12).sum(1) > 6)[0]
@@ -81,6 +82,7 @@ def wipe(rgb: np.ndarray, right: int) -> None:
     area = np.zeros(lum.shape, bool)
     area[:, :right] = True
     rgb[area & ~inside & (sat < 48)] = 0
+    area[:, over:] = False
     fill(rgb, area & inside & (sat < 48) & (lum - ndimage.grey_opening(lum, size=5) > 40))
 
 
@@ -192,7 +194,8 @@ def render(stream: dict, fdir: Path) -> list:
         if "intro" in stream:
             for pi, p in live:
                 if f <= p["frames"][0] or f >= p["frames"][1]:
-                    wipe(rgb, max(r["box"][2] for r in p["rows"]) + stream["intro"])
+                    wipe(rgb, max(r["box"][2] for r in p["rows"]) + stream["intro"],
+                         max([r["box"][2] + 4 for r in p["rows"] if r.get("over")], default=0))
         erase(rgb, boxes)
         for pi, p in live:
             off = offset(p, f)
